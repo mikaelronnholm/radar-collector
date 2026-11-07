@@ -1,28 +1,54 @@
 {
- "generated": "2026-11-07T22:54+00:00",
- "count": 1,
+ "generated": "2026-11-07T22:57+00:00",
+ "count": 2,
  "items": [
   {
-   "title": "Shield to acquire radar maker Echodyne in a deal valued at up to $5.3 billion - Defence Industry Europe",
+   "title": "Tariffs, Free Trade, Export Controls, H20 & Rare Earth Ban | BG2 w/ Bill Gurley & Brad Gerstner｜BG2Pod - finance.biggo.com",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcXkyN0NrTURDaWZFVGZRSWY0U3BnajJSbnhOMWVLeWd1aHVRSGVyMjJKVWV0ejRBN1NkZnFzcTl2X1otYW1Eb1hjSE10Z2JaRE5GbE1ibElGM1JCWHpob18yb0dlYlpfQ0NJRHUyVGFBcE81cmFtYzZHSVZOdEZHNnhlSlc3Wm9GTGtHY3BTQmVxcHhjTG9YdDhpUURKVld5T2UwbDZCbUQ?oc=5",
-   "date": "2026-11-05",
-   "source": "Defence Industry Europe",
-   "id": "d2eb1a0d37de79aa",
-   "feed": "Google News: counter-drone OR \"drone defence\" Europe",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EZGVDc1ptUm9YUC11dk1KRnhvWV9DZVM4dlNBVzlPelY3Rm9tLWVwWk5zQnVWUWJVa0hMYWhqM1laREpVbDFKdURlVFNPQnFCUU9QRVdtMXR5ZGhQSDZz?oc=5",
+   "date": "2026-11-06",
+   "source": "finance.biggo.com",
+   "id": "95c2d674178c1055",
+   "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
    "kind": "news",
    "domain_hint": "",
    "collected": "2026-11-07",
    "score": 5,
    "hits": {
     "event": [
-     "to acquire"
+     "export control",
+     "tariff",
+     "ban"
     ],
     "tech": [
-     "radar"
+     "rare earth"
     ],
     "industry": [
-     "defence"
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "European Banks Move Past Strategy, Now Picking Stablecoin Infrastructure Partners - CoinMarketCap",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYnRDZlRMTzlJN19xaDk4LXk2OFZWd2hBWHd4V2M5NVJiSUFBd1BwMHJVTTdwRk9BWndEUmxZMXJneXU5a0RPMkJ0bVBmMnVXZ2ZvTC13Y0I4bUJ1S19QWE1mT2pwaF9XYXBabGRzQ0xsRUZxV0gwWV9lZHdvb0pXYUtYU3drYzdQZDR0UmdRczBTQ2FwZHk1ci1GTzJFbThkZkNEYlkzRFZiQUh2NkZ5TFEwaWtZR2dkZVF2TDh1OA?oc=5",
+   "date": "2026-11-05",
+   "source": "CoinMarketCap",
+   "id": "5ba0ee6efb588dad",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-07",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "bank"
     ]
    }
   }

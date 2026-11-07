@@ -1,0 +1,23 @@
+{
+  "_note": "Lowercase phrases. A hit adds the weight once per group. Edit freely; the daily run picks up changes.",
+  "event": {
+    "weight": 2,
+    "terms": ["raises", "raised", "funding round", "series a", "series b", "series c", "seed round", "pre-seed", "acquires", "acquisition", "to acquire", "merger", "ipo", "partnership", "partners with", "launches", "unveils", "deploys", "deployment", "pilot", "contract", "order", "selects", "awarded", "framework agreement", "regulation", "directive", "standard", "export control", "sanction", "tariff", "ban", "entity list", "recall", "bankrupt", "insolvency", "lays off", "cancels", "delays", "postpones", "breach", "cyberattack", "ransomware", "outage", "factory", "gigafactory", "plant", "breakthrough", "researchers", "prototype", "demonstrat", "first ever", "world's first"]
+  },
+  "tech": {
+    "weight": 2,
+    "terms": ["artificial intelligence", "generative ai", "ai agent", "agentic", "foundation model", "large language model", "llm", "machine learning", "computer vision", "robot", "humanoid", "autonomous", "self-driving", "robotaxi", "lidar", "radar", "sensor", "quantum", "neuromorphic", "photonic", "semiconductor", "chip", "gpu", "data center", "datacenter", "5g", "6g", "satellite", "direct-to-device", "v2x", "cybersecurity", "post-quantum", "battery", "solid-state", "sodium-ion", "charging", "megawatt charging", "hydrogen", "fuel cell", "electrolyser", "fusion", "small modular reactor", "smr", "grid", "energy storage", "heat pump", "district heating", "e-axle", "electric truck", "electric bus", "rare earth", "critical mineral", "lithium", "graphite", "recycling", "green steel", "additive manufacturing", "3d printing", "digital twin", "plc", "industrial ai", "drone", "counter-drone", "uav", "gnss", "gps jamming", "spoofing", "launch vehicle", "earth observation", "smart glasses", "mixed reality", "augmented reality", "digital euro", "stablecoin", "tokenis", "tokeniz", "medical device", "diagnostic", "drug discovery", "biomanufacturing", "construction robot", "smart building"]
+  },
+  "industry": {
+    "weight": 1,
+    "terms": ["truck", "bus", "fleet", "logistics", "freight", "vehicle", "automotive", "mining", "construction equipment", "port", "rail", "shipping", "factory", "manufactur", "utility", "utilities", "power grid", "transmission", "distribution grid", "real estate", "building", "construction", "defence", "defense", "nato", "military", "space agency", "esa", "municipal", "government", "public sector", "hospital", "healthcare", "pharma", "bank", "insurer", "insurance", "payments", "retail", "warehouse", "e-commerce"]
+  },
+  "geo": {
+    "weight": 1,
+    "terms": ["sweden", "swedish", "norway", "norwegian", "finland", "finnish", "denmark", "danish", "iceland", "nordic", "estonia", "latvia", "lithuania", "european union", "eu ", "european commission", "germany", "france", "netherlands", "uk ", "china", "japan", "korea", "india", "taiwan"]
+  },
+  "company_weight": 3,
+  "min_score": 5,
+  "max_top": 200,
+  "keep_days": 60
+}

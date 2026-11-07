@@ -1,5 +1,5 @@
 {
- "run": "2026-11-07T23:00+00:00",
+ "run": "2026-11-07T23:03+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
@@ -165,5 +165,5 @@
  "ok": 20,
  "failed": 0,
  "new_items": 863,
- "kept": 300
+ "kept": 150
 }

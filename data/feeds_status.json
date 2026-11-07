@@ -1,5 +1,5 @@
 {
- "run": "2026-11-07T23:00+00:00",
+ "run": "2026-11-07T23:03+00:00",
  "feeds": [
   {
    "feed": "Federal Register – export controls",
@@ -269,7 +269,7 @@
    "feed": "Google News: \"export controls\" OR sanctions semiconductors",
    "url": "https://news.google.com/rss/search?q=%22export+controls%22+OR+sanctions+semiconductors+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 18,
+   "items": 20,
    "new": 0,
    "error": null
   },
@@ -285,7 +285,7 @@
    "feed": "Google News: electric truck OR \"megawatt charging\"",
    "url": "https://news.google.com/rss/search?q=electric+truck+OR+%22megawatt+charging%22+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 66,
+   "items": 65,
    "new": 0,
    "error": null
   },
@@ -317,7 +317,7 @@
    "feed": "Google News: Nordic startup raises defence OR deeptech",
    "url": "https://news.google.com/rss/search?q=Nordic+startup+raises+defence+OR+deeptech+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 3,
+   "items": 4,
    "new": 0,
    "error": null
   },
@@ -341,7 +341,7 @@
    "feed": "Google News: \"digital euro\" OR stablecoin regulation",
    "url": "https://news.google.com/rss/search?q=%22digital+euro%22+OR+stablecoin+regulation+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 57,
+   "items": 56,
    "new": 0,
    "error": null
   },
@@ -358,7 +358,7 @@
    "url": "https://news.google.com/rss/search?q=factory+investment+OR+gigafactory+Europe+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 19,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -388,6 +388,6 @@
  ],
  "ok": 48,
  "failed": 0,
- "new_items": 1,
+ "new_items": 0,
  "top_items": 0
 }

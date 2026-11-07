@@ -1,12 +1,12 @@
 {
- "run": "2026-11-07T22:57+00:00",
+ "run": "2026-11-07T23:00+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
    "type": "rss",
    "ok": true,
    "items": 80,
-   "new": 0,
+   "new": 80,
    "error": null
   },
   {
@@ -14,7 +14,7 @@
    "type": "rss",
    "ok": true,
    "items": 80,
-   "new": 0,
+   "new": 73,
    "error": null
   },
   {
@@ -22,7 +22,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 0,
+   "new": 58,
    "error": null
   },
   {
@@ -30,7 +30,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 0,
+   "new": 49,
    "error": null
   },
   {
@@ -38,7 +38,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 0,
+   "new": 59,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 0,
+   "new": 59,
    "error": null
   },
   {
@@ -54,7 +54,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 0,
+   "new": 60,
    "error": null
   },
   {
@@ -62,7 +62,7 @@
    "type": "rss",
    "ok": true,
    "items": 50,
-   "new": 0,
+   "new": 48,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 11,
+   "new": 50,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 20,
+   "new": 47,
    "error": null
   },
   {
@@ -86,7 +86,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 6,
+   "new": 43,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 17,
+   "new": 46,
    "error": null
   },
   {
@@ -102,7 +102,7 @@
    "type": "openalex",
    "ok": true,
    "items": 19,
-   "new": 15,
+   "new": 18,
    "error": null
   },
   {
@@ -110,16 +110,16 @@
    "type": "pubmed",
    "ok": true,
    "items": 40,
-   "new": 0,
+   "new": 40,
    "error": null
   },
   {
    "source": "PubMed – surgical robotics and devices",
    "type": "pubmed",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 40,
+   "new": 40,
+   "error": null
   },
   {
    "source": "bioRxiv – bioengineering and synthetic biology",
@@ -134,7 +134,7 @@
    "type": "rxiv",
    "ok": true,
    "items": 3,
-   "new": 0,
+   "new": 3,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 0,
+   "new": 60,
    "error": null
   },
   {
@@ -150,7 +150,7 @@
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 0,
+   "new": 30,
    "error": null
   },
   {
@@ -162,8 +162,8 @@
    "error": null
   }
  ],
- "ok": 19,
- "failed": 1,
- "new_items": 69,
+ "ok": 20,
+ "failed": 0,
+ "new_items": 863,
  "kept": 300
 }

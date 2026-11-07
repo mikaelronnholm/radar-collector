@@ -1,56 +1,5 @@
 {
- "generated": "2026-11-07T22:57+00:00",
- "count": 2,
- "items": [
-  {
-   "title": "Tariffs, Free Trade, Export Controls, H20 & Rare Earth Ban | BG2 w/ Bill Gurley & Brad Gerstner｜BG2Pod - finance.biggo.com",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EZGVDc1ptUm9YUC11dk1KRnhvWV9DZVM4dlNBVzlPelY3Rm9tLWVwWk5zQnVWUWJVa0hMYWhqM1laREpVbDFKdURlVFNPQnFCUU9QRVdtMXR5ZGhQSDZz?oc=5",
-   "date": "2026-11-06",
-   "source": "finance.biggo.com",
-   "id": "95c2d674178c1055",
-   "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "export control",
-     "tariff",
-     "ban"
-    ],
-    "tech": [
-     "rare earth"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "European Banks Move Past Strategy, Now Picking Stablecoin Infrastructure Partners - CoinMarketCap",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYnRDZlRMTzlJN19xaDk4LXk2OFZWd2hBWHd4V2M5NVJiSUFBd1BwMHJVTTdwRk9BWndEUmxZMXJneXU5a0RPMkJ0bVBmMnVXZ2ZvTC13Y0I4bUJ1S19QWE1mT2pwaF9XYXBabGRzQ0xsRUZxV0gwWV9lZHdvb0pXYUtYU3drYzdQZDR0UmdRczBTQ2FwZHk1ci1GTzJFbThkZkNEYlkzRFZiQUh2NkZ5TFEwaWtZR2dkZVF2TDh1OA?oc=5",
-   "date": "2026-11-05",
-   "source": "CoinMarketCap",
-   "id": "5ba0ee6efb588dad",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "bank"
-    ]
-   }
-  }
- ]
+ "generated": "2026-11-07T23:00+00:00",
+ "count": 0,
+ "items": []
 }

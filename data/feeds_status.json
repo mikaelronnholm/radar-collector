@@ -1,5 +1,5 @@
 {
- "run": "2026-11-07T22:57+00:00",
+ "run": "2026-11-07T23:00+00:00",
  "feeds": [
   {
    "feed": "Federal Register – export controls",
@@ -158,7 +158,7 @@
    "url": "https://www.utilitydive.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "new": 2,
+   "new": 0,
    "error": null
   },
   {
@@ -277,8 +277,8 @@
    "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
    "url": "https://news.google.com/rss/search?q=%22rare+earth%22+OR+%22critical+minerals%22+export+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 18,
-   "new": 2,
+   "items": 17,
+   "new": 0,
    "error": null
   },
   {
@@ -286,7 +286,7 @@
    "url": "https://news.google.com/rss/search?q=electric+truck+OR+%22megawatt+charging%22+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 66,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -342,7 +342,7 @@
    "url": "https://news.google.com/rss/search?q=%22digital+euro%22+OR+stablecoin+regulation+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 57,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -358,14 +358,14 @@
    "url": "https://news.google.com/rss/search?q=factory+investment+OR+gigafactory+Europe+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 19,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
    "feed": "Google News: bankruptcy OR insolvency battery OR EV OR robotics",
    "url": "https://news.google.com/rss/search?q=bankruptcy+OR+insolvency+battery+OR+EV+OR+robotics+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 11,
+   "items": 12,
    "new": 0,
    "error": null
   },
@@ -382,12 +382,12 @@
    "url": "https://news.google.com/rss/search?q=launch+OR+satellite+Esrange+OR+And%C3%B8ya+OR+SaxaVord+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 8,
-   "new": 1,
+   "new": 0,
    "error": null
   }
  ],
  "ok": 48,
  "failed": 0,
- "new_items": 7,
- "top_items": 2
+ "new_items": 1,
+ "top_items": 0
 }

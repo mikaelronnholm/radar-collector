@@ -88,7 +88,8 @@ HANDLERS = {"openalex": openalex, "pubmed": pubmed, "rxiv": rxiv, "rss": feed}
 
 
 def score(it, kw, companies):
-    s, hits = C.score(it, kw, companies)
+    short = dict(it, summary=it["summary"][:200])
+    s, hits = C.score(short, kw, companies)
     hay = (it["title"] + " " + it["summary"]).lower()
     novelty = [t for t in kw.get("research_novelty", []) if t in hay]
     if novelty:
@@ -142,7 +143,13 @@ def main():
     keep = [x for x in prev if x.get("collected", "") >= since] + [x for x in new if x["score"] >= cfg.get("min_score", 3)]
     keep.sort(key=lambda x: x["date"], reverse=True)
     keep.sort(key=lambda x: -x["score"])
-    keep = keep[: cfg.get("max_items", 300)]
+    cap, per, capped = cfg.get("max_per_source", 25), {}, []
+    for x in keep:
+        k = x["feed"]
+        if per.get(k, 0) < cap:
+            per[k] = per.get(k, 0) + 1
+            capped.append(x)
+    keep = capped[: cfg.get("max_items", 300)]
     C.save("research.json", {"generated": NOW.isoformat(timespec="minutes"), "count": len(keep), "items": keep})
     C.save("research_status.json", {"run": NOW.isoformat(timespec="minutes"), "sources": status,
                                     "ok": sum(1 for s in status if s["ok"]), "failed": sum(1 for s in status if not s["ok"]),

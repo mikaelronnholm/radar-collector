@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "17 4 * * *"   # every day 04:17 UTC (05:17 Stockholm in winter)
   workflow_dispatch: {}      # lets you start it by hand from the Actions tab
+  push:                      # runs when the script or the configuration changes
+    branches: [main]
+    paths: ["collect.py", "config/**", ".github/workflows/**"]
 
 permissions:
   contents: write
@@ -25,4 +28,5 @@ jobs:
           git config user.email "radar-collector@users.noreply.github.com"
           git add data
           git commit -m "Daily collection $(date -u +%F)" || echo "No changes"
+          git pull --rebase -q || true
           git push

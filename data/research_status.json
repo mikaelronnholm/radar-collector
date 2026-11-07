@@ -1,0 +1,177 @@
+{
+ "run": "2026-11-07T22:54+00:00",
+ "sources": [
+  {
+   "source": "arXiv Robotics",
+   "type": "rss",
+   "ok": true,
+   "items": 80,
+   "new": 80,
+   "error": null
+  },
+  {
+   "source": "arXiv AI",
+   "type": "rss",
+   "ok": true,
+   "items": 80,
+   "new": 73,
+   "error": null
+  },
+  {
+   "source": "arXiv Computer Vision",
+   "type": "rss",
+   "ok": true,
+   "items": 60,
+   "new": 58,
+   "error": null
+  },
+  {
+   "source": "arXiv Systems & Control",
+   "type": "rss",
+   "ok": true,
+   "items": 60,
+   "new": 49,
+   "error": null
+  },
+  {
+   "source": "arXiv Signal Processing (radar, 6G)",
+   "type": "rss",
+   "ok": true,
+   "items": 60,
+   "new": 59,
+   "error": null
+  },
+  {
+   "source": "arXiv Quantum hardware",
+   "type": "rss",
+   "ok": true,
+   "items": 60,
+   "new": 59,
+   "error": null
+  },
+  {
+   "source": "arXiv Materials (batteries, magnets, catalysts)",
+   "type": "rss",
+   "ok": true,
+   "items": 60,
+   "new": 60,
+   "error": null
+  },
+  {
+   "source": "arXiv Applied Physics",
+   "type": "rss",
+   "ok": true,
+   "items": 50,
+   "new": 48,
+   "error": null
+  },
+  {
+   "source": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "type": "openalex",
+   "ok": true,
+   "items": 50,
+   "new": 50,
+   "error": null
+  },
+  {
+   "source": "OpenAlex Nordic – AI, robotics, autonomy",
+   "type": "openalex",
+   "ok": true,
+   "items": 50,
+   "new": 46,
+   "error": null
+  },
+  {
+   "source": "OpenAlex Nordic – materials and manufacturing",
+   "type": "openalex",
+   "ok": true,
+   "items": 50,
+   "new": 45,
+   "error": null
+  },
+  {
+   "source": "OpenAlex Nordic – sensing, connectivity, space",
+   "type": "openalex",
+   "ok": true,
+   "items": 50,
+   "new": 48,
+   "error": null
+  },
+  {
+   "source": "OpenAlex Nordic – health technology",
+   "type": "openalex",
+   "ok": true,
+   "items": 50,
+   "new": 44,
+   "error": null
+  },
+  {
+   "source": "PubMed – AI diagnostics and imaging",
+   "type": "pubmed",
+   "ok": true,
+   "items": 40,
+   "new": 40,
+   "error": null
+  },
+  {
+   "source": "PubMed – surgical robotics and devices",
+   "type": "pubmed",
+   "ok": true,
+   "items": 40,
+   "new": 40,
+   "error": null
+  },
+  {
+   "source": "bioRxiv – bioengineering and synthetic biology",
+   "type": "rxiv",
+   "ok": true,
+   "items": 0,
+   "new": 0,
+   "error": null
+  },
+  {
+   "source": "medRxiv – health informatics",
+   "type": "rxiv",
+   "ok": true,
+   "items": 3,
+   "new": 3,
+   "error": null
+  },
+  {
+   "source": "EurekAlert – technology and engineering",
+   "type": "rss",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "source": "ScienceDaily Technology",
+   "type": "rss",
+   "ok": true,
+   "items": 60,
+   "new": 60,
+   "error": null
+  },
+  {
+   "source": "Phys.org Technology",
+   "type": "rss",
+   "ok": true,
+   "items": 30,
+   "new": 30,
+   "error": null
+  },
+  {
+   "source": "Tech Xplore",
+   "type": "rss",
+   "ok": true,
+   "items": 30,
+   "new": 0,
+   "error": null
+  }
+ ],
+ "ok": 20,
+ "failed": 1,
+ "new_items": 892,
+ "kept": 300
+}

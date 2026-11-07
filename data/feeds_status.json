@@ -1,38 +1,6 @@
 {
- "run": "2026-11-07T22:44+00:00",
+ "run": "2026-11-07T22:54+00:00",
  "feeds": [
-  {
-   "feed": "arXiv Robotics",
-   "url": "https://export.arxiv.org/api/query?search_query=cat:cs.RO&sortBy=submittedDate&sortOrder=descending&max_results=60",
-   "ok": true,
-   "items": 60,
-   "new": 0,
-   "error": null
-  },
-  {
-   "feed": "arXiv AI",
-   "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=60",
-   "ok": true,
-   "items": 60,
-   "new": 0,
-   "error": null
-  },
-  {
-   "feed": "arXiv Quantum",
-   "url": "https://export.arxiv.org/api/query?search_query=cat:quant-ph+AND+abs:hardware&sortBy=submittedDate&sortOrder=descending&max_results=40",
-   "ok": true,
-   "items": 40,
-   "new": 0,
-   "error": null
-  },
-  {
-   "feed": "arXiv Batteries",
-   "url": "https://export.arxiv.org/api/query?search_query=abs:battery+AND+cat:cond-mat.mtrl-sci&sortBy=submittedDate&sortOrder=descending&max_results=40",
-   "ok": true,
-   "items": 40,
-   "new": 0,
-   "error": null
-  },
   {
    "feed": "Federal Register – export controls",
    "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22export+administration+regulations%22",
@@ -298,19 +266,11 @@
    "error": null
   },
   {
-   "feed": "ScienceDaily Technology",
-   "url": "https://www.sciencedaily.com/rss/top/technology.xml",
-   "ok": true,
-   "items": 60,
-   "new": 0,
-   "error": null
-  },
-  {
    "feed": "Google News: \"export controls\" OR sanctions semiconductors",
    "url": "https://news.google.com/rss/search?q=%22export+controls%22+OR+sanctions+semiconductors+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 19,
-   "new": 0,
+   "items": 20,
+   "new": 1,
    "error": null
   },
   {
@@ -357,7 +317,7 @@
    "feed": "Google News: Nordic startup raises defence OR deeptech",
    "url": "https://news.google.com/rss/search?q=Nordic+startup+raises+defence+OR+deeptech+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 4,
+   "items": 3,
    "new": 0,
    "error": null
   },
@@ -398,7 +358,7 @@
    "url": "https://news.google.com/rss/search?q=factory+investment+OR+gigafactory+Europe+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 19,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -426,7 +386,7 @@
    "error": null
   }
  ],
- "ok": 53,
+ "ok": 48,
  "failed": 0,
  "new_items": 2,
  "top_items": 1

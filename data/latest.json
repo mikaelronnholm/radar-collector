@@ -1,49 +1,46 @@
 [
  {
-  "title": "EU grants Finland €32 million for Border Guard counter-drone systems - Nordic Defence Sector",
+  "title": "Shield to acquire radar maker Echodyne in a deal valued at up to $5.3 billion - Defence Industry Europe",
   "summary": "",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNDJkT29ncVZmY3k4U1ppVFdVbGJPOHBNRWRxWTJ2Ynl2a005UjRyelVad3NOUVVhY2ZnN0s3dTk3eFB2TnR5WGNIQWxNcnRSSWZOWjg0eU9qYjZrVFJ6Yl91c1BRRC1lWkNLSUJfZDFsSTg3U2E3VE5PWk9hN2doVUdDZGgxUlJUcC1keE9qcUgwZUNNOXpuQzdRcmNkeVpXOUtGbVMwMXUzQmlZTjZB?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcXkyN0NrTURDaWZFVGZRSWY0U3BnajJSbnhOMWVLeWd1aHVRSGVyMjJKVWV0ejRBN1NkZnFzcTl2X1otYW1Eb1hjSE10Z2JaRE5GbE1ibElGM1JCWHpob18yb0dlYlpfQ0NJRHUyVGFBcE81cmFtYzZHSVZOdEZHNnhlSlc3Wm9GTGtHY3BTQmVxcHhjTG9YdDhpUURKVld5T2UwbDZCbUQ?oc=5",
   "date": "2026-11-05",
-  "source": "Nordic Defence Sector",
-  "id": "07a57a3d12bd4b0b",
+  "source": "Defence Industry Europe",
+  "id": "d2eb1a0d37de79aa",
   "feed": "Google News: counter-drone OR \"drone defence\" Europe",
   "kind": "news",
   "domain_hint": "",
   "collected": "2026-11-07",
-  "score": 6,
+  "score": 5,
   "hits": {
    "event": [
-    "order"
+    "to acquire"
    ],
    "tech": [
-    "drone",
-    "counter-drone"
+    "radar"
    ],
    "industry": [
     "defence"
-   ],
-   "geo": [
-    "finland",
-    "nordic",
-    "eu "
    ]
   }
  },
  {
-  "title": "Sanofi to invest in a leading-edge production site in Singapore; continues to strengthen its vaccines manufacturing capacities - Singapore Economic Development Board (EDB)",
+  "title": "China’s YMTC boosts domestic tool sourcing for new NAND fab amid IPO delay - Chosunbiz",
   "summary": "",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdzEzR185SE9iX1hmUmVvSHlJeV9QOXVrb2lRSEtJMi1yRTBndUhLN1R5dkhfQUFPZElaZnpZczlsQWZQN1MtYy05bVp6bjJ3aWxscFZRdVRIejYzQ3l1TW1pYXRFNTFJNnZPNHZUYXlJWmN3cFN1QlQwQVlITTJNeGRlTlhwYzVNR01lTkh5WlZGN1N6ZVgxejZQVWhFVXh2YlZQRFdsRQ?oc=5",
-  "date": "2026-11-05",
-  "source": "Singapore Economic Development Board (EDB)",
-  "id": "510642de8d7f1d03",
-  "feed": "Google News: factory investment OR gigafactory Europe",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sbzhobWd0Z1RpaGRmVFRCYWw5UDBLbnJCa2dTU3p6MmZWc3J0azUtc0U1V2RSLTZUQTZKTkFYSjZ5VDdvUFNybFJBX2Y3aURLNXBKSGZCVWMyTzltNVlxVnBGTmNIeXRtZ296U3Z5T1V6TWVadWxZLS1B0gGOAUFVX3lxTFBsb2R1ODF1ZVFlUU1pMGZwTDFiRVVhYzZ5amcxUnZ5Tzd3a1lOUVZtTzNtWHdiLUJmUGZ6YmE1aGQ2YVlQUUNHUFFoZk1jZmFBY2h1aExEeEdlVDREMmVIc1hvOHZqOEFnZElubzllOFFuSVpDOTdoTndyak1NUTZzb1BpT1hJa1dlM2NxcHc?oc=5",
+  "date": "2026-11-06",
+  "source": "Chosunbiz",
+  "id": "4c02e6fa07950a85",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
   "kind": "news",
   "domain_hint": "",
   "collected": "2026-11-07",
-  "score": 1,
+  "score": 3,
   "hits": {
-   "industry": [
-    "manufactur"
+   "event": [
+    "ipo"
+   ],
+   "geo": [
+    "china"
    ]
   }
  }

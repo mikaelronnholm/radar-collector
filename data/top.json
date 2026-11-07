@@ -1,34 +1,28 @@
 {
- "generated": "2026-11-07T22:44+00:00",
+ "generated": "2026-11-07T22:54+00:00",
  "count": 1,
  "items": [
   {
-   "title": "EU grants Finland €32 million for Border Guard counter-drone systems - Nordic Defence Sector",
+   "title": "Shield to acquire radar maker Echodyne in a deal valued at up to $5.3 billion - Defence Industry Europe",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNDJkT29ncVZmY3k4U1ppVFdVbGJPOHBNRWRxWTJ2Ynl2a005UjRyelVad3NOUVVhY2ZnN0s3dTk3eFB2TnR5WGNIQWxNcnRSSWZOWjg0eU9qYjZrVFJ6Yl91c1BRRC1lWkNLSUJfZDFsSTg3U2E3VE5PWk9hN2doVUdDZGgxUlJUcC1keE9qcUgwZUNNOXpuQzdRcmNkeVpXOUtGbVMwMXUzQmlZTjZB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcXkyN0NrTURDaWZFVGZRSWY0U3BnajJSbnhOMWVLeWd1aHVRSGVyMjJKVWV0ejRBN1NkZnFzcTl2X1otYW1Eb1hjSE10Z2JaRE5GbE1ibElGM1JCWHpob18yb0dlYlpfQ0NJRHUyVGFBcE81cmFtYzZHSVZOdEZHNnhlSlc3Wm9GTGtHY3BTQmVxcHhjTG9YdDhpUURKVld5T2UwbDZCbUQ?oc=5",
    "date": "2026-11-05",
-   "source": "Nordic Defence Sector",
-   "id": "07a57a3d12bd4b0b",
+   "source": "Defence Industry Europe",
+   "id": "d2eb1a0d37de79aa",
    "feed": "Google News: counter-drone OR \"drone defence\" Europe",
    "kind": "news",
    "domain_hint": "",
    "collected": "2026-11-07",
-   "score": 6,
+   "score": 5,
    "hits": {
     "event": [
-     "order"
+     "to acquire"
     ],
     "tech": [
-     "drone",
-     "counter-drone"
+     "radar"
     ],
     "industry": [
      "defence"
-    ],
-    "geo": [
-     "finland",
-     "nordic",
-     "eu "
     ]
    }
   }

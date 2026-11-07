@@ -24,7 +24,7 @@ def get_json(url):
 
 
 def openalex(src, since):
-    flt = [f"from_publication_date:{since}", "title_and_abstract.search:" + src["search"]]
+    flt = [f"from_publication_date:{since}", "type:article|preprint", "title_and_abstract.search:" + src["search"]]
     if src.get("countries"):
         flt.append("authorships.institutions.country_code:" + "|".join(src["countries"]))
     url = "https://api.openalex.org/works?" + urllib.parse.urlencode({
@@ -94,6 +94,9 @@ def score(it, kw, companies):
     if novelty:
         s += 1
         hits["novelty"] = novelty[:4]
+    if any(t in hay for t in kw.get("research_penalty", [])):
+        s -= 3
+        hits["penalty"] = True
     if it.get("institutions") and any(c in " ".join(it["institutions"]) for c in kw.get("nordic_institutions", [])):
         s += 1
     return s, hits
@@ -108,6 +111,7 @@ def main():
         companies = json.load(f)
     kw["research_novelty"] = cfg.get("novelty_terms", [])
     kw["nordic_institutions"] = cfg.get("nordic_institutions", [])
+    kw["research_penalty"] = cfg.get("penalty_terms", [])
     window = cfg.get("window_days", 14)
     since = (NOW - dt.timedelta(days=window)).date().isoformat()
     seen = C.load("research_seen.json", {})

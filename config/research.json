@@ -1,31 +1,227 @@
 {
-  "_note": "Research lane. type: rss (RSS/Atom incl. arXiv API), openalex, pubmed, rxiv (bioRxiv/medRxiv). Sources that fail are listed in data/research_status.json.",
-  "window_days": 14,
-  "min_score": 3,
-  "max_items": 300,
-  "novelty_terms": ["demonstrat", "prototype", "first", "record", "breakthrough", "novel", "outperform", "state-of-the-art", "scalable", "low-cost", "efficiency", "field trial", "in vivo", "pilot"],
-  "nordic_institutions": ["KTH", "Chalmers", "Lund", "Uppsala", "Linköping", "Stockholm University", "Karolinska", "Luleå", "Umeå", "RISE", "DTU", "Aarhus", "Copenhagen", "Aalborg", "Aalto", "Helsinki", "Tampere", "Oulu", "VTT", "NTNU", "SINTEF", "Oslo", "Bergen", "Iceland"],
-  "sources": [
-    {"name": "arXiv Robotics", "type": "rss", "url": "https://export.arxiv.org/api/query?search_query=cat:cs.RO&sortBy=submittedDate&sortOrder=descending&max_results=80", "domain": "AI"},
-    {"name": "arXiv AI", "type": "rss", "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=80", "domain": "AI"},
-    {"name": "arXiv Computer Vision", "type": "rss", "url": "https://export.arxiv.org/api/query?search_query=cat:cs.CV+AND+(abs:autonomous+OR+abs:industrial+OR+abs:medical)&sortBy=submittedDate&sortOrder=descending&max_results=60", "domain": "AI"},
-    {"name": "arXiv Systems & Control", "type": "rss", "url": "https://export.arxiv.org/api/query?search_query=cat:eess.SY&sortBy=submittedDate&sortOrder=descending&max_results=60", "domain": "Energy"},
-    {"name": "arXiv Signal Processing (radar, 6G)", "type": "rss", "url": "https://export.arxiv.org/api/query?search_query=cat:eess.SP+AND+(abs:radar+OR+abs:6G+OR+abs:ISAC+OR+abs:GNSS)&sortBy=submittedDate&sortOrder=descending&max_results=60", "domain": "Connectivity"},
-    {"name": "arXiv Quantum hardware", "type": "rss", "url": "https://export.arxiv.org/api/query?search_query=cat:quant-ph+AND+(abs:qubit+OR+abs:sensor+OR+abs:navigation)&sortBy=submittedDate&sortOrder=descending&max_results=60", "domain": "Compute"},
-    {"name": "arXiv Materials (batteries, magnets, catalysts)", "type": "rss", "url": "https://export.arxiv.org/api/query?search_query=cat:cond-mat.mtrl-sci+AND+(abs:battery+OR+abs:electrolyte+OR+abs:magnet+OR+abs:catalyst+OR+abs:hydrogen)&sortBy=submittedDate&sortOrder=descending&max_results=60", "domain": "Materials"},
-    {"name": "arXiv Applied Physics", "type": "rss", "url": "https://export.arxiv.org/api/query?search_query=cat:physics.app-ph&sortBy=submittedDate&sortOrder=descending&max_results=50", "domain": "Sensing"},
-    {"name": "OpenAlex Nordic – batteries, hydrogen, grid", "type": "openalex", "search": "battery OR electrolyser OR hydrogen OR \"power grid\" OR \"district heating\" OR \"energy storage\"", "countries": ["SE", "NO", "FI", "DK", "IS"], "domain": "Energy"},
-    {"name": "OpenAlex Nordic – AI, robotics, autonomy", "type": "openalex", "search": "robot OR autonomous OR \"machine learning\" OR \"computer vision\" OR \"digital twin\"", "countries": ["SE", "NO", "FI", "DK", "IS"], "domain": "AI"},
-    {"name": "OpenAlex Nordic – materials and manufacturing", "type": "openalex", "search": "\"green steel\" OR \"additive manufacturing\" OR recycling OR \"rare earth\" OR magnet OR composite", "countries": ["SE", "NO", "FI", "DK", "IS"], "domain": "Materials"},
-    {"name": "OpenAlex Nordic – sensing, connectivity, space", "type": "openalex", "search": "lidar OR radar OR 6G OR satellite OR GNSS OR \"quantum sensing\"", "countries": ["SE", "NO", "FI", "DK", "IS"], "domain": "Sensing"},
-    {"name": "OpenAlex Nordic – health technology", "type": "openalex", "search": "\"medical imaging\" OR diagnostic OR wearable OR \"surgical robot\" OR telemedicine", "countries": ["SE", "NO", "FI", "DK", "IS"], "domain": "Life Sciences & Medtech"},
-    {"name": "PubMed – AI diagnostics and imaging", "type": "pubmed", "term": "(\"artificial intelligence\"[tiab] OR \"deep learning\"[tiab]) AND (diagnos*[tiab] OR imaging[tiab]) AND (validation[tiab] OR trial[tiab])", "domain": "Life Sciences & Medtech"},
-    {"name": "PubMed – surgical robotics and devices", "type": "pubmed", "term": "(\"surgical robot*\"[tiab] OR \"wearable sensor*\"[tiab] OR \"remote monitoring\"[tiab])", "domain": "Life Sciences & Medtech"},
-    {"name": "bioRxiv – bioengineering and synthetic biology", "type": "rxiv", "server": "biorxiv", "categories": ["bioengineering", "synthetic biology", "bioinformatics"], "max_scan": 800, "domain": "Life Sciences & Medtech"},
-    {"name": "medRxiv – health informatics", "type": "rxiv", "server": "medrxiv", "categories": ["health informatics", "radiology and imaging"], "max_scan": 800, "domain": "Life Sciences & Medtech"},
-    {"name": "EurekAlert – technology and engineering", "type": "rss", "url": "https://www.eurekalert.org/rss/technology_engineering.xml", "domain": ""},
-    {"name": "ScienceDaily Technology", "type": "rss", "url": "https://www.sciencedaily.com/rss/top/technology.xml", "domain": ""},
-    {"name": "Phys.org Technology", "type": "rss", "url": "https://phys.org/rss-feed/technology-news/", "domain": ""},
-    {"name": "Tech Xplore", "type": "rss", "url": "https://techxplore.com/rss-feed/", "domain": ""}
-  ]
+ "_note": "Research lane. type: rss (RSS/Atom incl. arXiv API), openalex, pubmed, rxiv (bioRxiv/medRxiv). Sources that fail are listed in data/research_status.json.",
+ "window_days": 14,
+ "min_score": 3,
+ "max_items": 300,
+ "novelty_terms": [
+  "demonstrat",
+  "prototype",
+  "first",
+  "record",
+  "breakthrough",
+  "novel",
+  "outperform",
+  "state-of-the-art",
+  "scalable",
+  "low-cost",
+  "efficiency",
+  "field trial",
+  "in vivo",
+  "pilot"
+ ],
+ "nordic_institutions": [
+  "KTH",
+  "Chalmers",
+  "Lund",
+  "Uppsala",
+  "Linköping",
+  "Stockholm University",
+  "Karolinska",
+  "Luleå",
+  "Umeå",
+  "RISE",
+  "DTU",
+  "Aarhus",
+  "Copenhagen",
+  "Aalborg",
+  "Aalto",
+  "Helsinki",
+  "Tampere",
+  "Oulu",
+  "VTT",
+  "NTNU",
+  "SINTEF",
+  "Oslo",
+  "Bergen",
+  "Iceland"
+ ],
+ "sources": [
+  {
+   "name": "arXiv Robotics",
+   "type": "rss",
+   "url": "https://export.arxiv.org/api/query?search_query=cat:cs.RO&sortBy=submittedDate&sortOrder=descending&max_results=80",
+   "domain": "AI"
+  },
+  {
+   "name": "arXiv AI",
+   "type": "rss",
+   "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=80",
+   "domain": "AI"
+  },
+  {
+   "name": "arXiv Computer Vision",
+   "type": "rss",
+   "url": "https://export.arxiv.org/api/query?search_query=cat:cs.CV+AND+(abs:autonomous+OR+abs:industrial+OR+abs:medical)&sortBy=submittedDate&sortOrder=descending&max_results=60",
+   "domain": "AI"
+  },
+  {
+   "name": "arXiv Systems & Control",
+   "type": "rss",
+   "url": "https://export.arxiv.org/api/query?search_query=cat:eess.SY&sortBy=submittedDate&sortOrder=descending&max_results=60",
+   "domain": "Energy"
+  },
+  {
+   "name": "arXiv Signal Processing (radar, 6G)",
+   "type": "rss",
+   "url": "https://export.arxiv.org/api/query?search_query=cat:eess.SP+AND+(abs:radar+OR+abs:6G+OR+abs:ISAC+OR+abs:GNSS)&sortBy=submittedDate&sortOrder=descending&max_results=60",
+   "domain": "Connectivity"
+  },
+  {
+   "name": "arXiv Quantum hardware",
+   "type": "rss",
+   "url": "https://export.arxiv.org/api/query?search_query=cat:quant-ph+AND+(abs:qubit+OR+abs:sensor+OR+abs:navigation)&sortBy=submittedDate&sortOrder=descending&max_results=60",
+   "domain": "Compute"
+  },
+  {
+   "name": "arXiv Materials (batteries, magnets, catalysts)",
+   "type": "rss",
+   "url": "https://export.arxiv.org/api/query?search_query=cat:cond-mat.mtrl-sci+AND+(abs:battery+OR+abs:electrolyte+OR+abs:magnet+OR+abs:catalyst+OR+abs:hydrogen)&sortBy=submittedDate&sortOrder=descending&max_results=60",
+   "domain": "Materials"
+  },
+  {
+   "name": "arXiv Applied Physics",
+   "type": "rss",
+   "url": "https://export.arxiv.org/api/query?search_query=cat:physics.app-ph&sortBy=submittedDate&sortOrder=descending&max_results=50",
+   "domain": "Sensing"
+  },
+  {
+   "name": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "type": "openalex",
+   "search": "battery OR electrolyser OR hydrogen OR \"power grid\" OR \"district heating\" OR \"energy storage\"",
+   "countries": [
+    "SE",
+    "NO",
+    "FI",
+    "DK",
+    "IS"
+   ],
+   "domain": "Energy"
+  },
+  {
+   "name": "OpenAlex Nordic – AI, robotics, autonomy",
+   "type": "openalex",
+   "search": "robot OR autonomous OR \"machine learning\" OR \"computer vision\" OR \"digital twin\"",
+   "countries": [
+    "SE",
+    "NO",
+    "FI",
+    "DK",
+    "IS"
+   ],
+   "domain": "AI"
+  },
+  {
+   "name": "OpenAlex Nordic – materials and manufacturing",
+   "type": "openalex",
+   "search": "\"green steel\" OR \"additive manufacturing\" OR recycling OR \"rare earth\" OR magnet OR composite",
+   "countries": [
+    "SE",
+    "NO",
+    "FI",
+    "DK",
+    "IS"
+   ],
+   "domain": "Materials"
+  },
+  {
+   "name": "OpenAlex Nordic – sensing, connectivity, space",
+   "type": "openalex",
+   "search": "lidar OR radar OR 6G OR satellite OR GNSS OR \"quantum sensing\"",
+   "countries": [
+    "SE",
+    "NO",
+    "FI",
+    "DK",
+    "IS"
+   ],
+   "domain": "Sensing"
+  },
+  {
+   "name": "OpenAlex Nordic – health technology",
+   "type": "openalex",
+   "search": "\"surgical robot\" OR \"wearable sensor\" OR \"medical device\" OR \"remote patient monitoring\" OR \"AI-based diagnosis\" OR \"deep learning\" radiology",
+   "countries": [
+    "SE",
+    "NO",
+    "FI",
+    "DK",
+    "IS"
+   ],
+   "domain": "Life Sciences & Medtech"
+  },
+  {
+   "name": "PubMed – AI diagnostics and imaging",
+   "type": "pubmed",
+   "term": "(\"artificial intelligence\"[tiab] OR \"deep learning\"[tiab]) AND (diagnos*[tiab] OR imaging[tiab]) AND (validation[tiab] OR trial[tiab])",
+   "domain": "Life Sciences & Medtech"
+  },
+  {
+   "name": "PubMed – surgical robotics and devices",
+   "type": "pubmed",
+   "term": "(\"surgical robot*\"[tiab] OR \"wearable sensor*\"[tiab] OR \"remote monitoring\"[tiab])",
+   "domain": "Life Sciences & Medtech"
+  },
+  {
+   "name": "bioRxiv – bioengineering and synthetic biology",
+   "type": "rxiv",
+   "server": "biorxiv",
+   "categories": [
+    "bioengineering",
+    "synthetic biology",
+    "bioinformatics"
+   ],
+   "max_scan": 800,
+   "domain": "Life Sciences & Medtech"
+  },
+  {
+   "name": "medRxiv – health informatics",
+   "type": "rxiv",
+   "server": "medrxiv",
+   "categories": [
+    "health informatics",
+    "radiology and imaging"
+   ],
+   "max_scan": 800,
+   "domain": "Life Sciences & Medtech"
+  },
+  {
+   "name": "ScienceDaily Technology",
+   "type": "rss",
+   "url": "https://www.sciencedaily.com/rss/top/technology.xml",
+   "domain": ""
+  },
+  {
+   "name": "Phys.org Technology",
+   "type": "rss",
+   "url": "https://phys.org/rss-feed/technology-news/",
+   "domain": ""
+  },
+  {
+   "name": "Tech Xplore",
+   "type": "rss",
+   "url": "https://techxplore.com/rss-feed/",
+   "domain": ""
+  }
+ ],
+ "penalty_terms": [
+  "systematic review",
+  "scoping review",
+  "dataset for",
+  "data from:",
+  "study protocol",
+  "erratum",
+  "correction to",
+  "conference proceedings",
+  "book review"
+ ]
 }

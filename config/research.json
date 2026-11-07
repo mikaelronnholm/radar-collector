@@ -1,5 +1,5 @@
 {
- "_note": "Research lane. type: rss (RSS/Atom incl. arXiv API), openalex, pubmed, rxiv (bioRxiv/medRxiv). Sources that fail are listed in data/research_status.json.",
+ "_note": "Research lane. type: rss (RSS/Atom incl. arXiv API), openalex, pubmed, rxiv (bioRxiv/medRxiv). Sources that fail are listed in data/research_status.json. Reset 8 Nov 2026.",
  "window_days": 14,
  "min_score": 3,
  "max_items": 300,

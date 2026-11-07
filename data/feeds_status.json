@@ -1,12 +1,12 @@
 {
- "run": "2026-11-07T22:41+00:00",
+ "run": "2026-11-07T22:44+00:00",
  "feeds": [
   {
    "feed": "arXiv Robotics",
    "url": "https://export.arxiv.org/api/query?search_query=cat:cs.RO&sortBy=submittedDate&sortOrder=descending&max_results=60",
    "ok": true,
    "items": 60,
-   "new": 60,
+   "new": 0,
    "error": null
   },
   {
@@ -14,7 +14,7 @@
    "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=60",
    "ok": true,
    "items": 60,
-   "new": 55,
+   "new": 0,
    "error": null
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://export.arxiv.org/api/query?search_query=cat:quant-ph+AND+abs:hardware&sortBy=submittedDate&sortOrder=descending&max_results=40",
    "ok": true,
    "items": 40,
-   "new": 40,
+   "new": 0,
    "error": null
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://export.arxiv.org/api/query?search_query=abs:battery+AND+cat:cond-mat.mtrl-sci&sortBy=submittedDate&sortOrder=descending&max_results=40",
    "ok": true,
    "items": 40,
-   "new": 4,
+   "new": 0,
    "error": null
   },
   {
@@ -38,7 +38,7 @@
    "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22export+administration+regulations%22",
    "ok": true,
    "items": 3,
-   "new": 3,
+   "new": 0,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
    "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=tariff+section+232",
    "ok": true,
    "items": 9,
-   "new": 4,
+   "new": 0,
    "error": null
   },
   {
@@ -54,7 +54,7 @@
    "url": "https://www.euractiv.com/feed/",
    "ok": true,
    "items": 100,
-   "new": 100,
+   "new": 0,
    "error": null
   },
   {
@@ -62,7 +62,7 @@
    "url": "https://techcrunch.com/feed/",
    "ok": true,
    "items": 20,
-   "new": 20,
+   "new": 0,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
    "url": "https://sifted.eu/feed",
    "ok": true,
    "items": 24,
-   "new": 24,
+   "new": 0,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "url": "https://spectrum.ieee.org/feeds/feed.rss",
    "ok": true,
    "items": 30,
-   "new": 16,
+   "new": 0,
    "error": null
   },
   {
@@ -86,7 +86,7 @@
    "url": "https://www.therobotreport.com/feed/",
    "ok": true,
    "items": 15,
-   "new": 15,
+   "new": 0,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
    "url": "https://thequantuminsider.com/feed/",
    "ok": true,
    "items": 10,
-   "new": 10,
+   "new": 0,
    "error": null
   },
   {
@@ -102,7 +102,7 @@
    "url": "https://www.eetimes.com/feed/",
    "ok": true,
    "items": 10,
-   "new": 10,
+   "new": 0,
    "error": null
   },
   {
@@ -110,7 +110,7 @@
    "url": "https://www.eenewseurope.com/en/feed/",
    "ok": true,
    "items": 10,
-   "new": 10,
+   "new": 0,
    "error": null
   },
   {
@@ -118,7 +118,7 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "ok": true,
    "items": 20,
-   "new": 20,
+   "new": 0,
    "error": null
   },
   {
@@ -126,7 +126,7 @@
    "url": "https://www.lightreading.com/rss.xml",
    "ok": true,
    "items": 50,
-   "new": 50,
+   "new": 0,
    "error": null
   },
   {
@@ -134,7 +134,7 @@
    "url": "https://www.securityweek.com/feed/",
    "ok": true,
    "items": 10,
-   "new": 10,
+   "new": 0,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "url": "https://therecord.media/feed",
    "ok": true,
    "items": 5,
-   "new": 5,
+   "new": 0,
    "error": null
   },
   {
@@ -150,7 +150,7 @@
    "url": "https://www.darkreading.com/rss.xml",
    "ok": true,
    "items": 50,
-   "new": 49,
+   "new": 0,
    "error": null
   },
   {
@@ -158,7 +158,7 @@
    "url": "https://www.electrive.com/feed/",
    "ok": true,
    "items": 30,
-   "new": 30,
+   "new": 0,
    "error": null
   },
   {
@@ -166,7 +166,7 @@
    "url": "https://electrek.co/feed/",
    "ok": true,
    "items": 150,
-   "new": 150,
+   "new": 0,
    "error": null
   },
   {
@@ -174,7 +174,7 @@
    "url": "https://cnevpost.com/feed/",
    "ok": true,
    "items": 50,
-   "new": 50,
+   "new": 0,
    "error": null
   },
   {
@@ -182,7 +182,7 @@
    "url": "https://www.energy-storage.news/feed/",
    "ok": true,
    "items": 300,
-   "new": 64,
+   "new": 0,
    "error": null
   },
   {
@@ -190,23 +190,15 @@
    "url": "https://www.utilitydive.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "new": 10,
-   "error": null
-  },
-  {
-   "feed": "Hydrogen Insight",
-   "url": "https://www.hydrogeninsight.com/rss",
-   "ok": false,
-   "items": 0,
    "new": 0,
-   "error": "HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "feed": "Automotive World",
    "url": "https://www.automotiveworld.com/feed/",
    "ok": true,
    "items": 20,
-   "new": 20,
+   "new": 0,
    "error": null
   },
   {
@@ -214,7 +206,7 @@
    "url": "https://www.freightwaves.com/news/feed",
    "ok": true,
    "items": 56,
-   "new": 50,
+   "new": 0,
    "error": null
   },
   {
@@ -222,7 +214,7 @@
    "url": "https://www.mining-technology.com/feed/",
    "ok": true,
    "items": 10,
-   "new": 10,
+   "new": 0,
    "error": null
   },
   {
@@ -230,7 +222,7 @@
    "url": "https://www.supplychaindive.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "new": 10,
+   "new": 0,
    "error": null
   },
   {
@@ -238,7 +230,7 @@
    "url": "https://www.constructiondive.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "new": 10,
+   "new": 0,
    "error": null
   },
   {
@@ -246,7 +238,7 @@
    "url": "https://www.retaildive.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "new": 10,
+   "new": 0,
    "error": null
   },
   {
@@ -254,7 +246,7 @@
    "url": "https://breakingdefense.com/feed/",
    "ok": true,
    "items": 15,
-   "new": 15,
+   "new": 0,
    "error": null
   },
   {
@@ -262,7 +254,7 @@
    "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml",
    "ok": true,
    "items": 10,
-   "new": 10,
+   "new": 0,
    "error": null
   },
   {
@@ -270,7 +262,7 @@
    "url": "https://spacenews.com/feed/",
    "ok": true,
    "items": 13,
-   "new": 13,
+   "new": 0,
    "error": null
   },
   {
@@ -278,23 +270,15 @@
    "url": "https://europeanspaceflight.com/feed/",
    "ok": true,
    "items": 10,
-   "new": 10,
-   "error": null
-  },
-  {
-   "feed": "GovTech",
-   "url": "https://www.govtech.com/rss",
-   "ok": false,
-   "items": 0,
    "new": 0,
-   "error": "not well-formed (invalid token): line 411, column 329"
+   "error": null
   },
   {
    "feed": "Finextra",
    "url": "https://www.finextra.com/rss/headlines.aspx",
    "ok": true,
    "items": 52,
-   "new": 52,
+   "new": 0,
    "error": null
   },
   {
@@ -302,7 +286,7 @@
    "url": "https://www.fiercebiotech.com/rss/xml",
    "ok": true,
    "items": 25,
-   "new": 25,
+   "new": 0,
    "error": null
   },
   {
@@ -310,31 +294,15 @@
    "url": "https://www.medtechdive.com/feeds/news/",
    "ok": true,
    "items": 10,
-   "new": 10,
+   "new": 0,
    "error": null
-  },
-  {
-   "feed": "Ny Teknik",
-   "url": "https://www.nyteknik.se/rss",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "HTTP Error 404: Not Found"
-  },
-  {
-   "feed": "Mynewsdesk Sverige",
-   "url": "https://www.mynewsdesk.com/se/rss/source/latest",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "HTTP Error 404: Not Found"
   },
   {
    "feed": "ScienceDaily Technology",
    "url": "https://www.sciencedaily.com/rss/top/technology.xml",
    "ok": true,
    "items": 60,
-   "new": 48,
+   "new": 0,
    "error": null
   },
   {
@@ -342,7 +310,7 @@
    "url": "https://news.google.com/rss/search?q=%22export+controls%22+OR+sanctions+semiconductors+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 19,
-   "new": 19,
+   "new": 0,
    "error": null
   },
   {
@@ -350,7 +318,7 @@
    "url": "https://news.google.com/rss/search?q=%22rare+earth%22+OR+%22critical+minerals%22+export+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 17,
-   "new": 17,
+   "new": 0,
    "error": null
   },
   {
@@ -358,7 +326,7 @@
    "url": "https://news.google.com/rss/search?q=electric+truck+OR+%22megawatt+charging%22+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 65,
-   "new": 65,
+   "new": 0,
    "error": null
   },
   {
@@ -366,7 +334,7 @@
    "url": "https://news.google.com/rss/search?q=autonomous+trucking+OR+robotaxi+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 25,
-   "new": 23,
+   "new": 0,
    "error": null
   },
   {
@@ -374,7 +342,7 @@
    "url": "https://news.google.com/rss/search?q=humanoid+robot+factory+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 20,
-   "new": 20,
+   "new": 0,
    "error": null
   },
   {
@@ -382,7 +350,7 @@
    "url": "https://news.google.com/rss/search?q=counter-drone+OR+%22drone+defence%22+Europe+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 25,
-   "new": 25,
+   "new": 1,
    "error": null
   },
   {
@@ -390,7 +358,7 @@
    "url": "https://news.google.com/rss/search?q=Nordic+startup+raises+defence+OR+deeptech+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 4,
-   "new": 4,
+   "new": 0,
    "error": null
   },
   {
@@ -398,7 +366,7 @@
    "url": "https://news.google.com/rss/search?q=%22solid-state+battery%22+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 20,
-   "new": 19,
+   "new": 0,
    "error": null
   },
   {
@@ -406,7 +374,7 @@
    "url": "https://news.google.com/rss/search?q=%22district+heating%22+OR+%22grid+operator%22+technology+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 17,
-   "new": 17,
+   "new": 0,
    "error": null
   },
   {
@@ -414,7 +382,7 @@
    "url": "https://news.google.com/rss/search?q=%22digital+euro%22+OR+stablecoin+regulation+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 56,
-   "new": 56,
+   "new": 0,
    "error": null
   },
   {
@@ -422,7 +390,7 @@
    "url": "https://news.google.com/rss/search?q=%22connected+vehicle%22+rule+OR+ban+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 8,
-   "new": 8,
+   "new": 0,
    "error": null
   },
   {
@@ -430,7 +398,7 @@
    "url": "https://news.google.com/rss/search?q=factory+investment+OR+gigafactory+Europe+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 19,
-   "new": 19,
+   "new": 1,
    "error": null
   },
   {
@@ -438,7 +406,7 @@
    "url": "https://news.google.com/rss/search?q=bankruptcy+OR+insolvency+battery+OR+EV+OR+robotics+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 12,
-   "new": 12,
+   "new": 0,
    "error": null
   },
   {
@@ -446,7 +414,7 @@
    "url": "https://news.google.com/rss/search?q=%22AI+Act%22+OR+%22Cyber+Resilience+Act%22+OR+NIS2+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 27,
-   "new": 27,
+   "new": 0,
    "error": null
   },
   {
@@ -454,12 +422,12 @@
    "url": "https://news.google.com/rss/search?q=launch+OR+satellite+Esrange+OR+And%C3%B8ya+OR+SaxaVord+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 8,
-   "new": 8,
+   "new": 0,
    "error": null
   }
  ],
  "ok": 53,
- "failed": 4,
- "new_items": 1441,
- "top_items": 166
+ "failed": 0,
+ "new_items": 2,
+ "top_items": 1
 }

@@ -10,3 +10,6 @@ Samlar varje morgon in nyheter från fasta källor (RSS/Atom, arXiv, Federal Reg
 - `data/feeds_status.json` – vilka källor som fungerade i senaste körningen.
 
 Körs automatiskt varje dag (fliken Actions). Starta manuellt: Actions → Collect radar news → Run workflow.
+
+## Forskningsspår
+`research.py` läser `config/research.json` (arXiv, OpenAlex med nordiska lärosäten, PubMed, bioRxiv/medRxiv, EurekAlert m.fl.) och skriver `data/research.json` (senaste 14 dagarna, poäng ≥3) och `data/research_status.json`.

@@ -2,30 +2,6 @@
  "_note": "type rss = RSS or Atom feed. Add or remove freely. Feeds that fail are listed in data/feeds_status.json after each run.",
  "feeds": [
   {
-   "name": "arXiv Robotics",
-   "url": "https://export.arxiv.org/api/query?search_query=cat:cs.RO&sortBy=submittedDate&sortOrder=descending&max_results=60",
-   "domain": "AI",
-   "kind": "research"
-  },
-  {
-   "name": "arXiv AI",
-   "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=60",
-   "domain": "AI",
-   "kind": "research"
-  },
-  {
-   "name": "arXiv Quantum",
-   "url": "https://export.arxiv.org/api/query?search_query=cat:quant-ph+AND+abs:hardware&sortBy=submittedDate&sortOrder=descending&max_results=40",
-   "domain": "Compute",
-   "kind": "research"
-  },
-  {
-   "name": "arXiv Batteries",
-   "url": "https://export.arxiv.org/api/query?search_query=abs:battery+AND+cat:cond-mat.mtrl-sci&sortBy=submittedDate&sortOrder=descending&max_results=40",
-   "domain": "Energy",
-   "kind": "research"
-  },
-  {
    "name": "Federal Register – export controls",
    "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=%22export+administration+regulations%22",
    "domain": "Cybersecurity",
@@ -222,12 +198,6 @@
    "url": "https://www.medtechdive.com/feeds/news/",
    "domain": "Life Sciences & Medtech",
    "kind": "news"
-  },
-  {
-   "name": "ScienceDaily Technology",
-   "url": "https://www.sciencedaily.com/rss/top/technology.xml",
-   "domain": "",
-   "kind": "research"
   }
  ],
  "google_news_queries": [

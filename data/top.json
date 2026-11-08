@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T21:58+00:00",
+ "generated": "2026-11-08T22:06+00:00",
  "count": 200,
  "items": [
   {
@@ -841,6 +841,31 @@
     ],
     "geo": [
      "china"
+    ]
+   }
+  },
+  {
+   "title": "Tesla sets a date for the end of Cybertruck production in Texas: Musk prioritizes the Cybercab robotaxi - Demócrata",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN2hLZWxnRVRwOGw4TEw0QmZsMVFMR1lMWEZFX1BCeW0wOTR2d0RhMDNoaFRSUU53ZkhWQU9UbFk1NlVWSV9PdWVxQlotN2F3YkdvQWV6Qlh0RTV4MFVneHJpLWNGUXJGNVlkS2l0RWdxSnp5SDMyWk5HM1FMSWNMWDhqRkNsN2kzTXdHSHRRWFBqQVlGZVhCMzN1bWN5THJYNG9RWk1HUS1qRjAxa2dsSzR6bnk5X3VUdE5abkIySTBCblpKYm1iMklVekF3RFJpMXJMU1VFQk1pQdIB2gFBVV95cUxQN2hLZWxnRVRwOGw4TEw0QmZsMVFMR1lMWEZFX1BCeW0wOTR2d0RhMDNoaFRSUU53ZkhWQU9UbFk1NlVWSV9PdWVxQlotN2F3YkdvQWV6Qlh0RTV4MFVneHJpLWNGUXJGNVlkS2l0RWdxSnp5SDMyWk5HM1FMSWNMWDhqRkNsN2kzTXdHSHRRWFBqQVlGZVhCMzN1bWN5THJYNG9RWk1HUS1qRjAxa2dsSzR6bnk5X3VUdE5abkIySTBCblpKYm1iMklVekF3RFJpMXJMU1VFQk1pQQ?oc=5",
+   "date": "2026-11-08",
+   "source": "Demócrata",
+   "id": "7b62de29ee2baf5d",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "industry": [
+     "truck"
+    ],
+    "companies": [
+     "Tesla"
     ]
    }
   },
@@ -4812,31 +4837,6 @@
     "companies": [
      "Tesla",
      "Waymo"
-    ]
-   }
-  },
-  {
-   "title": "India’s Delectrik Systems awarded 120MWh long-duration vanadium flow battery contract in Gujarat",
-   "summary": "",
-   "url": "https://www.energy-storage.news/indias-delectrik-systems-awarded-120mwh-long-duration-vanadium-flow-battery-contract-in-gujarat/",
-   "date": "2026-10-27",
-   "source": "",
-   "id": "a45bfcd33696d525",
-   "feed": "Energy-Storage.news",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "contract",
-     "awarded"
-    ],
-    "tech": [
-     "battery"
-    ],
-    "geo": [
-     "india"
     ]
    }
   }

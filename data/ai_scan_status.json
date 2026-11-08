@@ -1,101 +1,113 @@
 {
- "run": "2026-11-08T21:58+00:00",
+ "run": "2026-11-08T22:06+00:00",
  "calls": [
   {
    "provider": "gemini",
    "group": "AI and robotics",
+   "model": "gemini-3.8-flash",
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor y"
   },
   {
    "provider": "gemini",
    "group": "Compute, chips and connectivity",
+   "model": "gemini-3.8-flash",
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor y"
   },
   {
    "provider": "gemini",
    "group": "Energy, batteries and powertrain",
+   "model": "gemini-3.8-flash",
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor y"
   },
   {
    "provider": "gemini",
    "group": "Materials, manufacturing and supply chains",
+   "model": "gemini-3.8-flash",
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor y"
   },
   {
    "provider": "gemini",
    "group": "Defence, space and sensing",
+   "model": "gemini-3.8-flash",
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor y"
   },
   {
    "provider": "gemini",
    "group": "Health, finance and the built environment",
+   "model": "gemini-3.8-flash",
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP 429: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor y"
   },
   {
    "provider": "openai",
    "group": "AI and robotics",
+   "model": "gpt-5-mini",
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 401: Unauthorized"
+   "error": "HTTP 401: Incorrect API key provided: OPENAI_A**_KEY. You can find your API key at https://platform.openai.com/account/api-keys."
   },
   {
    "provider": "openai",
    "group": "Compute, chips and connectivity",
+   "model": "gpt-5-mini",
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 401: Unauthorized"
+   "error": "HTTP 401: Incorrect API key provided: OPENAI_A**_KEY. You can find your API key at https://platform.openai.com/account/api-keys."
   },
   {
    "provider": "openai",
    "group": "Energy, batteries and powertrain",
+   "model": "gpt-5-mini",
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 401: Unauthorized"
+   "error": "HTTP 401: Incorrect API key provided: OPENAI_A**_KEY. You can find your API key at https://platform.openai.com/account/api-keys."
   },
   {
    "provider": "openai",
    "group": "Materials, manufacturing and supply chains",
+   "model": "gpt-5-mini",
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 401: Unauthorized"
+   "error": "HTTP 401: Incorrect API key provided: OPENAI_A**_KEY. You can find your API key at https://platform.openai.com/account/api-keys."
   },
   {
    "provider": "openai",
    "group": "Defence, space and sensing",
+   "model": "gpt-5-mini",
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 401: Unauthorized"
+   "error": "HTTP 401: Incorrect API key provided: OPENAI_A**_KEY. You can find your API key at https://platform.openai.com/account/api-keys."
   },
   {
    "provider": "openai",
    "group": "Health, finance and the built environment",
+   "model": "gpt-5-mini",
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 401: Unauthorized"
+   "error": "HTTP 401: Incorrect API key provided: OPENAI_A**_KEY. You can find your API key at https://platform.openai.com/account/api-keys."
   }
  ],
  "ok": 0,

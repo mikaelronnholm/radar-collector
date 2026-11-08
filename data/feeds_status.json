@@ -1,5 +1,5 @@
 {
- "run": "2026-11-08T04:57+00:00",
+ "run": "2026-11-08T09:33+00:00",
  "feeds": [
   {
    "feed": "Federal Register – export controls",
@@ -13,7 +13,7 @@
    "feed": "Federal Register – tariffs",
    "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=tariff+section+232",
    "ok": true,
-   "items": 9,
+   "items": 8,
    "new": 0,
    "error": null
   },
@@ -22,7 +22,7 @@
    "url": "https://www.euractiv.com/feed/",
    "ok": true,
    "items": 100,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "url": "https://cnevpost.com/feed/",
    "ok": true,
    "items": 50,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
@@ -174,7 +174,7 @@
    "url": "https://www.freightwaves.com/news/feed",
    "ok": true,
    "items": 56,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -269,15 +269,15 @@
    "feed": "Google News: \"export controls\" OR sanctions semiconductors",
    "url": "https://news.google.com/rss/search?q=%22export+controls%22+OR+sanctions+semiconductors+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 18,
-   "new": 4,
+   "items": 19,
+   "new": 2,
    "error": null
   },
   {
    "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
    "url": "https://news.google.com/rss/search?q=%22rare+earth%22+OR+%22critical+minerals%22+export+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "new": 2,
    "error": null
   },
@@ -285,8 +285,8 @@
    "feed": "Google News: electric truck OR \"megawatt charging\"",
    "url": "https://news.google.com/rss/search?q=electric+truck+OR+%22megawatt+charging%22+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 69,
-   "new": 11,
+   "items": 71,
+   "new": 6,
    "error": null
   },
   {
@@ -301,7 +301,7 @@
    "feed": "Google News: humanoid robot factory",
    "url": "https://news.google.com/rss/search?q=humanoid+robot+factory+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "new": 2,
    "error": null
   },
@@ -309,7 +309,7 @@
    "feed": "Google News: counter-drone OR \"drone defence\" Europe",
    "url": "https://news.google.com/rss/search?q=counter-drone+OR+%22drone+defence%22+Europe+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 25,
+   "items": 24,
    "new": 1,
    "error": null
   },
@@ -325,8 +325,8 @@
    "feed": "Google News: \"solid-state battery\"",
    "url": "https://news.google.com/rss/search?q=%22solid-state+battery%22+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 22,
-   "new": 3,
+   "items": 20,
+   "new": 0,
    "error": null
   },
   {
@@ -334,39 +334,39 @@
    "url": "https://news.google.com/rss/search?q=%22district+heating%22+OR+%22grid+operator%22+technology+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 18,
-   "new": 1,
+   "new": 2,
    "error": null
   },
   {
    "feed": "Google News: \"digital euro\" OR stablecoin regulation",
    "url": "https://news.google.com/rss/search?q=%22digital+euro%22+OR+stablecoin+regulation+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 51,
-   "new": 5,
+   "items": 50,
+   "new": 2,
    "error": null
   },
   {
    "feed": "Google News: \"connected vehicle\" rule OR ban",
    "url": "https://news.google.com/rss/search?q=%22connected+vehicle%22+rule+OR+ban+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 7,
-   "new": 1,
+   "items": 6,
+   "new": 2,
    "error": null
   },
   {
    "feed": "Google News: factory investment OR gigafactory Europe",
    "url": "https://news.google.com/rss/search?q=factory+investment+OR+gigafactory+Europe+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 23,
-   "new": 7,
+   "items": 20,
+   "new": 5,
    "error": null
   },
   {
    "feed": "Google News: bankruptcy OR insolvency battery OR EV OR robotics",
    "url": "https://news.google.com/rss/search?q=bankruptcy+OR+insolvency+battery+OR+EV+OR+robotics+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 10,
-   "new": 0,
+   "items": 9,
+   "new": 1,
    "error": null
   },
   {
@@ -374,7 +374,7 @@
    "url": "https://news.google.com/rss/search?q=%22AI+Act%22+OR+%22Cyber+Resilience+Act%22+OR+NIS2+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 27,
-   "new": 8,
+   "new": 3,
    "error": null
   },
   {
@@ -382,12 +382,12 @@
    "url": "https://news.google.com/rss/search?q=launch+OR+satellite+Esrange+OR+And%C3%B8ya+OR+SaxaVord+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 7,
-   "new": 1,
+   "new": 0,
    "error": null
   }
  ],
  "ok": 48,
  "failed": 0,
- "new_items": 49,
- "top_items": 11
+ "new_items": 32,
+ "top_items": 184
 }

@@ -1,5 +1,5 @@
 {
- "run": "2026-11-08T04:57+00:00",
+ "run": "2026-11-08T09:33+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
@@ -110,7 +110,7 @@
    "type": "pubmed",
    "ok": true,
    "items": 40,
-   "new": 0,
+   "new": 2,
    "error": null
   },
   {
@@ -126,7 +126,7 @@
    "type": "rxiv",
    "ok": true,
    "items": 3,
-   "new": 3,
+   "new": 0,
    "error": null
   },
   {
@@ -134,7 +134,7 @@
    "type": "rxiv",
    "ok": true,
    "items": 3,
-   "new": 3,
+   "new": 0,
    "error": null
   },
   {
@@ -164,6 +164,6 @@
  ],
  "ok": 20,
  "failed": 0,
- "new_items": 6,
+ "new_items": 2,
  "kept": 152
 }

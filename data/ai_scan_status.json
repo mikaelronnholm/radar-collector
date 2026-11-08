@@ -1,0 +1,104 @@
+{
+ "run": "2026-11-08T21:58+00:00",
+ "calls": [
+  {
+   "provider": "gemini",
+   "group": "AI and robotics",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "provider": "gemini",
+   "group": "Compute, chips and connectivity",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "provider": "gemini",
+   "group": "Energy, batteries and powertrain",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "provider": "gemini",
+   "group": "Materials, manufacturing and supply chains",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "provider": "gemini",
+   "group": "Defence, space and sensing",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "provider": "gemini",
+   "group": "Health, finance and the built environment",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "provider": "openai",
+   "group": "AI and robotics",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+   "provider": "openai",
+   "group": "Compute, chips and connectivity",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+   "provider": "openai",
+   "group": "Energy, batteries and powertrain",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+   "provider": "openai",
+   "group": "Materials, manufacturing and supply chains",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+   "provider": "openai",
+   "group": "Defence, space and sensing",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+   "provider": "openai",
+   "group": "Health, finance and the built environment",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 401: Unauthorized"
+  }
+ ],
+ "ok": 0,
+ "failed": 12,
+ "new_items": 0
+}

@@ -1,5 +1,5 @@
 {
- "run": "2026-11-08T09:33+00:00",
+ "run": "2026-11-08T21:58+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
@@ -70,7 +70,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 0,
+   "new": 6,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 0,
+   "new": 6,
    "error": null
   },
   {
@@ -86,7 +86,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 0,
+   "new": 6,
    "error": null
   },
   {
@@ -101,8 +101,8 @@
    "source": "OpenAlex Nordic – health technology",
    "type": "openalex",
    "ok": true,
-   "items": 18,
-   "new": 0,
+   "items": 19,
+   "new": 2,
    "error": null
   },
   {
@@ -110,7 +110,7 @@
    "type": "pubmed",
    "ok": true,
    "items": 40,
-   "new": 2,
+   "new": 0,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 0,
+   "new": 4,
    "error": null
   },
   {
@@ -150,7 +150,7 @@
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 0,
+   "new": 4,
    "error": null
   },
   {
@@ -164,6 +164,6 @@
  ],
  "ok": 20,
  "failed": 0,
- "new_items": 2,
- "kept": 152
+ "new_items": 28,
+ "kept": 158
 }

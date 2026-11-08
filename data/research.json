@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-08T09:33+00:00",
- "count": 152,
+ "generated": "2026-11-08T21:58+00:00",
+ "count": 158,
  "items": [
   {
    "title": "Canadian Spine SocietyLongitudinal changes in comprehensive radiographic parameters following short-segment surgery (1–2 levels) for degenerative lumbar spondylolisthesisMeasuring spinopelvic parameters in patients with 6 lumbar vertebrae: a matched comparison of asymptomatic volunteersSupervised and unsupervised machine learning reveals distinct clinical phenotypes across degenerative lumbar conditions: sex-specific clustering for personalized surgical careDoes disc degeneration matter? Outcomes of decompression-alone surgery in low-grade spondylolisthesisIntervertebral disc degeneration in humans: altered peripheral immune cell profile in patients and inflammation-mediated matrix metalloproteinase upregulation in human disc cellsDomino toppling: when the disruption of one disc negatively impacts its neighbour. An investigation into the mechanism of adjacent segment diseaseMultimodal analgesia after surgery for thoracolumbar spinal stenosisLumbar foraminal morphology can affect outcomes of indirect decompression: a novel classificationPredictors of intraoperative vascular complications during anterior lumbar spinal exposure: a retrospective analysisHigher rates of fusion with porous titanium than with polyetheretherketone (PEEK) lumbar interbody cages: a retrospective cohort studyCan measuring preoperative postvoid urine residual values influence care in patients undergoing elective spine surgery?To respond or not to respond: the many faces of recovery after lumbar spine surgeryPostoperative outcomes in primary versus revision lumbar decompressive surgery: a propensity-matched analysisWhat are the barriers and enablers influencing physical activity among patients awaiting spine surgery? A qualitative study guided by the Theoretical Domains FrameworkEffects of childbearing on spinopelvic alignmentClinical and radiological outcomes of biportal endoscopic lumbar interbody fusion using oblique lateral interbody fusion-type cage: preliminary results and learning curve analysisArtificial intelligence for spine surgery education: a comparative analysis of ChatGPT and DeepSeek performanceSpineNavigator: a surgeon-trained large language model to enhance communication and patient education in spine surgeryDoes comorbidity count, ASA score, or Quan-modified Charlson Comorbidity Index score better predict morbidity after elective spinal surgery?Factors associated with perioperative adverse events in patients with degenerative lumbar spondylolisthesisImplementation of an awake spine surgery program in Canada: lessons learned from the surgeon’s perspectiveLongitudinal finite mixture models for mining complex prognostic phenotypes of degenerative cervical myelopathyEnvironmental impacts of a cervical laminectomy and fusion procedure from first consultation to patient recovery: insights from a life cycle assessmentReframing mild degenerative cervical myelopathy: insights from a latent profile analysisPredictive algorithm for treatment recommendation between operative and nonoperative management in mild degenerative cervical myelopathyMachine learning classification of patients with degenerative cervical myelopathy into clinically relevant clusters and development of an adoptable clinical algorithmReassessing the minimal clinically important differences of patient-reported outcomes in cervical myelopathy: a patient-centred approach from the Canadian Spine Outcomes and Research NetworkCurrent practices in return-to-play recommendations for recreational athletes following cervical spine surgeries: a preliminary global surveyCage subsidence and fusion in ACDF, a comparison between autograft, allograft, and synthetic cagesQuantifying cervical cord deformation with automated MRI: validation and clinical correlates in degenerative cervical myelopathyThe impact of estrogen replacement therapy on revision rates and outcomes after anterior cervical discectomy and fusion: a propensity-matched cohort studyImaging biomarkers derived using artificial intelligence pipeline–enhanced prognostication of patients undergoing surgery for nontraumatic spinal cord injury due to degenerative cervical myelopathyWhat patients expect and what they experience: symptom-specific expectation fulfillment and functional recovery in degenerative cervical myelopathy. A retrospective analysis of prospectively collected data from the multicentre Canadian Surgical Spine RegistryBiomechanical comparison of 7 occipital–cervical fixation constructs using finite element analysisOutpatient anterior cervical decompression and fusion: a survey of Canadian surgeonsNational trends in surgical approach for degenerative cervical myelopathy and associated inpatient costsVariability of mechanism of mechanical complications between low-thoracic to pelvis and lumbar to pelvis fusions accurately predicted by musculoskeletal analysisOutcomes of circumferential minimally invasive technique versus open technique in adult spinal deformity surgery patients over 80 years of age: a",
@@ -1485,6 +1485,35 @@
    }
   },
   {
+   "title": "Interface engineering of crystalline–amorphous hollow c-Co₃S₄/a-CoxP nanocages for all-pH hydrogen evolution",
+   "summary": "Exploring highly active and stable non-noble-metal electrocatalysts is critical for the widespread adoption of hydrogen energy technologies. In this work, we report the synthesis of hollow crystalline–amorphous nanocages composed of crystalline cobalt sulfide (c-Co 3 S 4 ) and amorphous cobalt phosphide (a-Co x P), derived from ZIF-67, through precise morphology and structural modulation. These c-Co 3 S 4 /a-Co x P nanocages feature abundant electrocatalytically active sites and exhibit excellent hydrogen evolution reaction (HER) activity across the full pH range. The optimized nanocages achie",
+   "url": "https://doi.org/10.1016/j.cej.2026.183855",
+   "date": "2026-11-03",
+   "source": "Chemical Engineering Journal",
+   "institutions": [
+    "Institució Catalana de Recerca i Estudis Avançats",
+    "Institut Català de Nanociència i Nanotecnologia",
+    "Institut de Recerca en Energia de Catalunya",
+    "Pennsylvania State University",
+    "University of Helsinki",
+    "Wuhan Institute of Technology"
+   ],
+   "id": "eab7ca1471c5c170",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "hydrogen"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
    "title": "Cobalt Doping Enables High-Performance MoSe2 and WSe2 Anodes for Lithium-Ion Batteries",
    "summary": "Cobalt doping provides an effective strategy for tailoring the electronic structure and lithium-storage properties of transition metal dichalcogenides. In this work, Co-doped MoSe2 and WSe2 were synthesized through a scalable hydrothermal approach and systematically investigated as anode materials for lithium-ion batteries. Co incorporation enhances the electrochemical performance of both materials, with a substantially stronger improvement observed for WSe2, particularly under high-rate conditions. In contrast, Co-MoSe2 exhibits an unusual capacity evolution during prolonged cycling, characte",
    "url": "https://doi.org/10.5281/zenodo.23885919",
@@ -1709,6 +1738,33 @@
    }
   },
   {
+   "title": "Low-temperature district heating readiness of 2443 multi-family buildings: A network-wide evaluation",
+   "summary": "The transition to low-temperature district heating (LTDH) is a critical component in the decarbonisation of the heating sector through the integration of renewable energy sources. However, the thermal readiness of the existing building stock is perceived as the primary bottleneck in urban cities such as Greater Copenhagen. The purpose of the current study was to evaluate the LTDH readiness of 2,441 multi-family buildings in Greater Copenhagen by integrating hourly smart meter data with Energy Performance Certificate records. This research established a quantitative framework for network-wide e",
+   "url": "https://doi.org/10.1016/j.enbuild.2026.118497",
+   "date": "2026-11-01",
+   "source": "Energy and Buildings",
+   "institutions": [
+    "Technical University of Denmark"
+   ],
+   "id": "72ca53e924e345ee",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "district heating"
+    ],
+    "industry": [
+     "building"
+    ],
+    "novelty": [
+     "record"
+    ]
+   }
+  },
+  {
    "title": "177Lu-PSMA Therapy in Recurrent High-Grade Glioma",
    "summary": "PURPOSE: Patients with recurrent high-grade glioma have poor prognosis and limited treatment options. This pilot study evaluated the feasibility and potential clinical benefit of 177 Lu-PSMA therapy in this patient population. PATIENTS AND METHODS: Eligible patients were selected for treatment based on positive 68 Ga-PSMA-PET findings. 177 Lu-PSMA (7.4 GBq/200 mCi) was administered at 6-8-week intervals and continued as long as well-tolerated. The safety, tolerability, and efficacy of 177 Lu-PSMA were assessed in each treatment cycle using PET/MRI, SPECT/CT, blood tests, neurological tests, an",
    "url": "https://doi.org/10.1097/rlu.0000000000006692",
@@ -1894,6 +1950,105 @@
    }
   },
   {
+   "title": "Beyond Superlattice Order: Full‐Composition Li Stoichiometry Screening Identifies Interfacial Spinel Passivation as the Decisive Factor for Durable Cobalt‐Free Li‐Rich Cathodes",
+   "summary": "ABSTRACT Cobalt‐free Li‐rich layered oxides (LRMs) hold great promise for next‐generation high‐energy batteries, yet their practical deployment is severely hindered by irreversible oxygen redox and progressive interfacial degradation. Here, a full‐range Li stoichiometry screening across Li 1+0.65 x Ni 0.35 Mn 0.65 O 2+0.65 x (0 ≤ x ≤ 1) was conducted to decouple bulk superlattice evolution from surface chemistry. A structural crossover at x ≈ 0.5 with minimized Li 2 MnO 3 long‐range ordering is identified, yet optimal electrochemistry unexpectedly emerges at x = 0.375, governed by a triple syn",
+   "url": "https://doi.org/10.1002/adfm.79560",
+   "date": "2026-11-07",
+   "source": "Advanced Functional Materials",
+   "institutions": [
+    "Chengdu University of Technology",
+    "Karlsruhe Institute of Technology",
+    "Southwest Jiaotong University",
+    "University of Eastern Finland",
+    "Uppsala University"
+   ],
+   "id": "127a02e6f6ed9a38",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-08",
+   "score": 4,
+   "hits": {
+    "event": [
+     "deployment",
+     "order"
+    ]
+   }
+  },
+  {
+   "title": "Rehearsing socio-technical mobility futures: Urban living labs, embodied learning, and situated urban experiments",
+   "summary": "Mobility transitions require more than techno-managerial processes and solutions. Urban living labs (ULLs) have been explored as potential arenas for addressing this challenge. In ULL-driven processes, citizens and societal actors engage in collaborative experiments in which they articulate diverse perspectives, issues are collectively formed and discussed, and ideas are tested in real-world settings. However, the existing ULL literature highlights critical challenges, particularly regarding issue definition and value creation. This paper argues that ULLs can be understood as contested socio-m",
+   "url": "https://doi.org/10.1016/j.jtrangeo.2026.104877",
+   "date": "2026-11-07",
+   "source": "Journal of Transport Geography",
+   "institutions": [
+    "Aalborg University",
+    "Aarhus Municipality"
+   ],
+   "id": "c7a748248e05f08f",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-08",
+   "score": 4,
+   "hits": {
+    "event": [
+     "ban"
+    ]
+   }
+  },
+  {
+   "title": "Dissecting the Shared Genetic Architecture Between Major Psychiatric Disorders and Metabolic Syndrome",
+   "summary": "Metabolic syndrome (MetS) and psychiatric disorders frequently co-occur, suggesting shared biological and genetic mechanisms. However, the genetic architecture underlying this comorbidity remains poorly understood. We performed a large-scale genome-wide investigation to explore the shared genetic architecture between MetS and ten major psychiatric disorders, including attention deficit hyperactivity disorder (ADHD), alcohol dependence (ALC), anorexia nervosa (ANO), anxiety disorder (ANX), autism spectrum disorder (ASD), bipolar disorder (BD), major depressive disorder (MDD), obsessive-compulsi",
+   "url": "https://doi.org/10.1186/s40246-026-01071-1",
+   "date": "2026-11-07",
+   "source": "Human Genomics",
+   "institutions": [
+    "Affiliated Hangzhou First People's Hospital, Westlake University, School of Medicine",
+    "Karolinska Institutet",
+    "Westlake University",
+    "Zhejiang Chinese Medical University",
+    "Zhejiang University"
+   ],
+   "id": "0fe1797ac22de11c",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-08",
+   "score": 4,
+   "hits": {
+    "event": [
+     "order"
+    ]
+   }
+  },
+  {
+   "title": "Pelacarsen and Cardiovascular Outcomes in Patients with High Lipoprotein(a)",
+   "summary": "BackgroundPelacarsen, an antisense oligonucleotide, reduces serum levels of lipoprotein(a). However, the effect of pelacarsen on cardiovascular outcomes remains uncertain. MethodsWe conducted an international, randomized, placebo-controlled trial involving patients with preexisting cardiovascular disease and a lipoprotein(a) level of at least 70 mg per deciliter. Patients were randomly assigned in a 1:1 ratio to receive subcutaneous pelacarsen (80 mg) administered monthly or matching placebo. The primary end point was a major adverse cardiovascular event, defined as a composite of death from c",
+   "url": "https://doi.org/10.1056/nejmoa2610159",
+   "date": "2026-11-07",
+   "source": "New England Journal of Medicine",
+   "institutions": [
+    "Center of Medical Innovation and Translational Research, The University of Osaka",
+    "Charité – Universitätsmedizin Berlin",
+    "Cleveland Clinic",
+    "Copenhagen University Hospital",
+    "Deutsches Herzzentrum der Charité",
+    "Gentofte Hospital"
+   ],
+   "id": "33b3e70f5bb8d8e2",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-08",
+   "score": 4,
+   "hits": {
+    "event": [
+     "ipo"
+    ]
+   }
+  },
+  {
    "title": "Protonation-state-dependent charge transfer to solvent in aqueous L-cysteine probed by resonant Auger–Meitner spectroscopy",
    "summary": "Charge-transfer-to-solvent (CTTS) couples electronic, nuclear, and solvent dynamics on femtosecond timescales. In biologically relevant L-cysteine, resolving how protonation and local hydrogen bonding influence CTTS upon resonant excitation remains challenging. Sulfur KLL resonant Auger–Meitner spectroscopy qualitatively resolves different final states separated in kinetic energy. These include localized excited states, delocalized CTTS states, and the charge-transfer continuum, enabling direct identification of different decay channels in L-cysteine. At pH 12, the dianion exhibits a pronounce",
    "url": "https://doi.org/10.26434/chemrxiv.15011782/v1",
@@ -2075,6 +2230,77 @@
     ],
     "industry": [
      "manufactur"
+    ]
+   }
+  },
+  {
+   "title": "A comprehensive review of grid-forming converters in modern power systems",
+   "summary": "",
+   "url": "https://doi.org/10.1016/j.rser.2026.117676",
+   "date": "2026-11-06",
+   "source": "Renewable and Sustainable Energy Reviews",
+   "institutions": [
+    "Aalborg University",
+    "Newcastle University",
+    "Shandong University"
+   ],
+   "id": "8ef9db18dd96c0b5",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-08",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "grid"
+    ]
+   }
+  },
+  {
+   "title": "Site layout and waste management system design for on-site construction waste sorting: Danish practitioners' insights into challenges, mitigation practices, and future approaches",
+   "summary": "The unprecedented rate of construction waste and its improper handling pose environmental risks and contribute to project cost overruns. Together with stricter regulatory requirements, tighter certification boundaries, and comprehensive Life Cycle Assessment (LCA), this highlights the importance of on-site construction waste sorting (CWS) and systematic documentation. This study investigates challenges, mitigation practices, and future approaches related to CWS focusing on site layout and waste management system design from practitioners’ perspectives under new Danish regulations. A workshop w",
+   "url": "https://doi.org/10.1016/j.clet.2026.101350",
+   "date": "2026-11-06",
+   "source": "Cleaner Engineering and Technology",
+   "institutions": [
+    "Aalborg University"
+   ],
+   "id": "02a1fbc98e1facf2",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-08",
+   "score": 4,
+   "hits": {
+    "industry": [
+     "construction"
+    ],
+    "geo": [
+     "danish"
+    ]
+   }
+  },
+  {
+   "title": "Institution-specific CT protocol assignment from referral text: A comparison of prompt-engineered and fine-tuned transformer-based language models",
+   "summary": "Purpose Radiological vetting involves reviewing imaging referrals to confirm their appropriateness and assign an acquisition protocol. Growing workforce shortages have turned this vital step into a resource-intensive bottleneck. While Large Language Models (LLMs) have shown promise in applying generic appropriateness criteria, their ability to adapt to institution-specific protocols remains unexplored. This study evaluates a generative LLM (GPT-4o-mini) and a medically pretrained RoBERTa model on institution-specific CT protocol assignment from referral text based on local clinical guidelines ",
+   "url": "https://doi.org/10.1016/j.ejrai.2026.100136",
+   "date": "2026-11-06",
+   "source": "European Journal of Radiology Artificial Intelligence",
+   "institutions": [
+    "Bispebjerg Hospital",
+    "Copenhagen University Hospital",
+    "Frederiksberg Hospital",
+    "Gentofte Hospital"
+   ],
+   "id": "470729e7bbdaaa79",
+   "feed": "OpenAlex Nordic – health technology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-08",
+   "score": 4,
+   "hits": {
+    "event": [
+     "acquisition"
     ]
    }
   },
@@ -2732,54 +2958,6 @@
    }
   },
   {
-   "title": "Phenolate-Mediated Structural Evolution of Lignin toward Hard Carbon Anodes for Sodium-Ion Batteries",
-   "summary": "Abstract Hard carbon (HC) anodes are typically described in terms of their final structure. However, this structure is influenced by multiple competing factors, and precursor-level chemical interactions can play an important role in directing its eventual evolution. Here, metal coordination is used to direct lignin precursor organization and control the evolution of lignin-derived HCs. Magnesium gluconate (MgGlu2) introduced into alkaline lignin promotes selective Mg2+ coordination with oxygen-containing functional groups, enabling reorganization of the lignin network prior to carbonization. D",
-   "url": "https://doi.org/10.1021/acsomega.6c06946",
-   "date": "2026-11-04",
-   "source": "ACS Omega",
-   "institutions": [
-    "Aalto University",
-    "Paul Scherrer Institute",
-    "Åbo Akademi University"
-   ],
-   "id": "02154ad63700e59c",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "sodium-ion"
-    ]
-   }
-  },
-  {
-   "title": "Life cycle assessment of an Icelandic higher education institution: the case study of the University of Iceland",
-   "summary": "This study applies recently published life cycle assessment (LCA) guidelines for higher education institutions (HEIs) to the Icelandic context and presents the first LCA of the University of Iceland (UI), based on data from the 2024 reference year. The assessment used the Environmental Footprint 3.1 method in Sphera LCA for Experts software to calculate environmental impacts across 16 categories. For the first time in this HEI LCA framework, the use of artificial intelligence (AI) tools such as ChatGPT was also assessed. Sensitivity and scenario analyses were applied to reflect island-specific",
-   "url": "https://doi.org/10.3389/frsus.2026.1983834",
-   "date": "2026-11-04",
-   "source": "Frontiers in Sustainability",
-   "institutions": [
-    "Leibniz University Hannover",
-    "University of Iceland"
-   ],
-   "id": "af6d1b97d741b407",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "geo": [
-     "iceland"
-    ],
-    "novelty": [
-     "first"
-    ]
-   }
-  },
-  {
    "title": "Multi-modal cardiac analysis: Distinguishing cardiac sarcoidosis from arrhythmogenic right ventricular cardiomyopathy through radiomics and ECG features",
    "summary": "Differentiation between cardiac sarcoidosis (CS) and arrhythmogenic right ventricular cardiomyopathy (ARVC) presents a significant diagnostic challenge due to overlapping clinical presentations. This study aims to develop a machine learning model integrating radiomic and electrocardiogram (ECG)-based features to distinguish between these conditions. The study included 41 CS and 16 ARVC patients. Three machine learning models were developed using cardiac magnetic resonance radiomic features, ECG-based features, and their integration. Data underwent a 5-fold nested cross-validation for feature s",
    "url": "https://doi.org/10.1016/j.bspc.2026.111736",
@@ -3005,55 +3183,6 @@
    }
   },
   {
-   "title": "Energy Governance and Industrial Excess Heat in Greenhouse Operations: A Case Study of Hofors, Sweden",
-   "summary": "Energy-intensive greenhouse cultivation in cold climates depends on affordable heat, suitable infrastructure, and coordination among energy utilities, industries, greenhouse operators, and municipal actors. This study investigates how local energy governance influences greenhouse operations in Hofors, Sweden, where the district heating system is partly municipally owned and supplied with recovered heat from industrial processes. A longitudinal qualitative case study approach was applied, combining field observations, stakeholder dialogues, technical information, and publicly available document",
-   "url": "https://doi.org/10.3390/su182111181",
-   "date": "2026-11-03",
-   "source": "Sustainability",
-   "institutions": [
-    "Linköping University",
-    "University of Gävle",
-    "University of Zagreb"
-   ],
-   "id": "bc9020ceca01a467",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "industry": [
-     "utilities",
-     "municipal"
-    ],
-    "geo": [
-     "sweden"
-    ]
-   }
-  },
-  {
-   "title": "Comparative analysis of SOC estimation methods for lithium-ion batteries in industrial electric forklift applications: experimental and simulation-based study",
-   "summary": "Abstract Accurate state-of-charge (SOC) estimation is essential for the safe, efficient, and reliable operation of lithium-ion batteries in industrial electric forklifts. Although numerous SOC estimation methods have been investigated for electric vehicle (EV) applications, their comparative performance under realistic forklift duty cycles remains insufficiently studied. Industrial electric forklifts are characterized by repetitive start-stop operation, abrupt load variations associated with acceleration and lifting, regenerative braking, and limited rest periods, which pose significant challe",
-   "url": "https://doi.org/10.1038/s41598-026-75688-6",
-   "date": "2026-11-03",
-   "source": "Scientific Reports",
-   "institutions": [
-    "Aalborg University",
-    "Manisa Celal Bayar University"
-   ],
-   "id": "948ccd1def90282f",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "lithium"
-    ]
-   }
-  },
-  {
    "title": "U-DEM: High spatiotemporal resolution surface elevations of the Canadian Arctic",
    "summary": "Abstract. High-resolution glacier elevation observations are essential for resolving rapid changes in glacier geometry, but existing satellite datasets face a trade-off between spatial and temporal resolution. Here, we present U-DEM, a machine-learned glacier elevation time series that combines complementary satellite datasets to provide surface elevations at 100 m spatial and 3-month temporal resolution. We apply the approach to glaciers and ice caps of the Canadian Arctic from 2014 to 2024. High-resolution glacier elevation patterns are learned from ArcticDEM strips and reconstructed through",
    "url": "https://doi.org/10.5194/egusphere-2026-5963",
@@ -3189,6 +3318,56 @@
    }
   },
   {
+   "title": "How social insurance premium reform affects business investment: Causal identification via machine learning counterfactual prediction",
+   "summary": "How the social insurance premium collection policy affects corporate investment decisions is a key issue in evaluating institutional transaction costs. This paper constructs a partial equilibrium economic model to analyze how reforms to the collection and management of social insurance premiums affect corporate investment decisions. It innovatively combines the difference-in-differences (DID) model with the causal forest algorithm in machine learning to systematically evaluate the policy effects of implementing the Social Insurance Law. The study found that: (1) The implementation of the Socia",
+   "url": "https://doi.org/10.1016/j.iref.2026.105984",
+   "date": "2026-11-03",
+   "source": "International Review of Economics & Finance",
+   "institutions": [
+    "Guizhou University of Finance and Economics",
+    "Hunan University of Technology and Business",
+    "University of South-Eastern Norway"
+   ],
+   "id": "6f98470f6e80ddd8",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-08",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "machine learning"
+    ],
+    "industry": [
+     "bus",
+     "insurance"
+    ]
+   }
+  },
+  {
+   "title": "Low-temperature and partial closed-loop chemical recycling of glass fibre-reinforced recyclamine epoxy composites with fabric-scale recovery",
+   "summary": "This study presents a low-temperature chemical recycling process for glass fibre-reinforced recyclamine epoxy composites, in which the epoxy matrix was solubilised, allowing the reinforcement materials to be retrieved and recovered at full fabric scale. The recycled glass fabrics largely retained their fabric architecture, and following washing with deionized water, the texture of the recycled glass fabrics closely resembles that of the virgin glass fabrics. Fourier transform infrared spectroscopy (FTIR) indicated broadly similar detectable near-surface functional groups, while epoxy-droplet t",
+   "url": "https://doi.org/10.1016/j.compositesa.2026.110422",
+   "date": "2026-11-03",
+   "source": "Composites Part A Applied Science and Manufacturing",
+   "institutions": [
+    "Aalborg University",
+    "Siemens Energy",
+    "Siemens Gamesa Renewable Energy (Spain)"
+   ],
+   "id": "9de6c278773eda8a",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-08",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "recycling"
+    ]
+   }
+  },
+  {
    "title": "Collective dipole effects amplify field-driven ion transport in amorphous Li$_3$PO$_4$",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.02617v1",
@@ -3246,35 +3425,6 @@
    "hits": {
     "tech": [
      "diagnostic"
-    ]
-   }
-  },
-  {
-   "title": "Anion Engineering Enables Concurrent Optimization of Phonon and Carrier Transport in AMg$_2$X$_2$ Zintl Thermoelectrics",
-   "summary": "The simultaneous suppression of lattice heat transport and enhancement of carrier transport is central to the development of high-performance thermoelectric materials. Here, we investigate the microscopic mechanisms governing phonon and carrier transport in CaAl$_2$Si$_2$-type AMg$_2$X$_2$ (A = Ca, Sr, Ba; X = P, As, Sb, Bi) Zintl compounds using first-principles calculations, machine-learning interatomic potentials, and Boltzmann transport theory. As X changes from P to Bi, the widening phonon band gap restricts three-phonon scattering channels and increases the relative importance of four-ph",
-   "url": "https://arxiv.org/abs/2611.02961",
-   "date": "2026-11-02",
-   "source": "arXiv (Cornell University)",
-   "institutions": [
-    "Instituto de Nanociencia y Materiales de Aragón",
-    "Jilin University",
-    "Linköping University",
-    "Material Physics Center",
-    "Ningbo University",
-    "Northwestern Polytechnical University"
-   ],
-   "id": "5bb20ab3b08d15be",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "industry": [
-     "port"
-    ],
-    "novelty": [
-     "first"
     ]
    }
   },

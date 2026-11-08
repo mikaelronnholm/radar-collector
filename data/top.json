@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-08T09:33+00:00",
- "count": 184,
+ "generated": "2026-11-08T21:58+00:00",
+ "count": 200,
  "items": [
   {
    "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
@@ -818,6 +818,33 @@
    }
   },
   {
+   "title": "China Rare Earth Export Controls November 10 Deadline Explained - Rare Earth Exchanges",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHJzUzdETGVjU09MeTMxWXI4c0RSaTlwc0ZfNHN3QUh2elBJd0d5dXZqQ21yczhiOFVxMUJiM0kySGlVNVdiejFWeGJGUGswZjNpdGZ1c1IzR0lfUmx4cHVTT2xlX0JiMmpISzk0My1Tbm4wRmZqNXNiS1NDNXA3V1lrMk5qMzRQeEl0SHFR?oc=5",
+   "date": "2026-11-08",
+   "source": "Rare Earth Exchanges",
+   "id": "d4ad67a905bf8057",
+   "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control"
+    ],
+    "tech": [
+     "rare earth"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
    "title": "China Wants Mass-Produced Solid-State Batteries By 2030. CATL Knows That's Hard - InsideEVs",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lMHdSSlB5c2FveWEyOVpRWkdLcE53TkMybEtsSDNVVWhpVzhETTkzWEgzYjB3a05BZXk1S09MbGcyRmhYdThQNUxiRGJvclV0X1BUWnBnRlgtclFNajFLNmxvY1puS2I0ejJrOVpFTDdCcGFFdlE?oc=5",
@@ -862,6 +889,30 @@
     ],
     "companies": [
      "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "CATL is exploring an air-breathing battery. Could it give EVs 2,000 km of range? - CarNewsChina.com",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkppZ3NsVTBpa3NaX1VIN2d5N2wyZnd5S043SVhwV3Bjck12TjdUVTRkVEVram5SUjlYaXNDTlVDdDdLSXpqU2s0X0oxRlZ3SUUxcE05cEpndVNIbktOMWFuXzVZMFFvdFRNSmItSHdCdXZTRm1TQWxZd05BOFZUMHBneHZZTjd4ZzJxVXR2eG9rSlkzRWo5U1VaWDgxZllpNlRlVVVUYllaZFBSVzhvbEU4bTc?oc=5",
+   "date": "2026-11-07",
+   "source": "CarNewsChina.com",
+   "id": "949a7ce5c5901e9c",
+   "feed": "Google News: \"solid-state battery\"",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "battery"
+    ],
+    "geo": [
+     "china"
+    ],
+    "companies": [
+     "CATL"
     ]
    }
   },
@@ -940,6 +991,111 @@
     ],
     "companies": [
      "Hyundai Motor Group"
+    ]
+   }
+  },
+  {
+   "title": "NATO launches counter-drone marketplace to accelerate Allied procurement - INSIGHT EU MONITORING",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdWhJS1p3Yjlqc0owcjNPampLcXE4eWZ2THNPa21LZmhLZk0xWVlzT2kxa2tzT090V3Q1RVdvdUxNMTE3Q1RLM0xlZ1B5dlNzYmxyc05CUVl3RmxVdXo3dVFfRFJNMFp6YWRfeDRULTEwOTc4VFlyV1pQaWFsNzFxUGY4V1lkSE5kbkcyYkx2MkJIR3pJNklhS0dmQUxjNjFnS1RWemJvckhUb0pBZDhzV21zZ1JpUXpSaEw1Z1JaQ25IX0JFcnFGZ3dXSGJhZC1lN0lYejhiVQ?oc=5",
+   "date": "2026-11-06",
+   "source": "INSIGHT EU MONITORING",
+   "id": "ae09382b281329e0",
+   "feed": "Google News: counter-drone OR \"drone defence\" Europe",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 6,
+   "hits": {
+    "event": [
+     "launches"
+    ],
+    "tech": [
+     "drone",
+     "counter-drone"
+    ],
+    "industry": [
+     "nato"
+    ],
+    "geo": [
+     "eu "
+    ]
+   }
+  },
+  {
+   "title": "French startup Alta Ares beats defence giants to win 6 NATO counter-drone lots - Dealroom",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWW5BaHlWZUZDZEwyYVMzNFRwSHFUUTBmRWtsQU5jVmF1X0dvbktiQV9rVnFZd0ltWlI0bkljdy1CRXA5eGFoNlA2bHVlcHlvenVSSWRzem1iSVdmajBTMEZtT29OdnV1RWVfQjdheEtsS2xNc1dlZVktSDNiVXh4OWU5dThYOWg1VkZQcHZ5QjNmR0hIcVpyUU1jYTBWazZNVTh1NURXak1lWHJnclVHTnJ3?oc=5",
+   "date": "2026-11-06",
+   "source": "Dealroom",
+   "id": "1c2850c203e18f09",
+   "feed": "Google News: counter-drone OR \"drone defence\" Europe",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "drone",
+     "counter-drone"
+    ],
+    "industry": [
+     "defence",
+     "nato"
+    ],
+    "companies": [
+     "Alta Ares"
+    ]
+   }
+  },
+  {
+   "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI - The Guardian",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOckp5MHVCMWRzVEZIQlVUZjc5QjVOZEpHNHBPY0VCbGtocXRtMXJXcDJyRTBSYVI5OVJ0eWM2LVFha0FsOGJSVV9PdHNmR252NU5NYTRmQWE0eE5yVHdnaDJXVDVvZDhmdExmMnVUalNTeVpURXIxZ2tpdVd6SXNfamN5djF2Q3JhclJReUFSLXlsWXFIbUhCSGFNM2hONzhxYXRSakxQeFlySGZYYnN1OFFDMDJRS3czVUpqZlRIN0w4S2JxTC1mRU9hZw?oc=5",
+   "date": "2026-11-06",
+   "source": "The Guardian",
+   "id": "6e21717aa536bc33",
+   "feed": "Google News: factory investment OR gigafactory Europe",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "truck"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "EU Grid Investment to Rise Toward 2030, ACER Says - Global Banking & Finance Review",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWDRlYkVzSDV3YV9lcE9XVkFfRlpRWVdBVm9PazFTR0NpVmF6T19kUng5d3FSQ2Y3VFZJZnZmQ0JPSUlXUkp6bmRlY1hIMGJqNktnZW9RN0ZidGJUdEdXNkUwMFE5ZURMZ0pPaUV5TGw2X0pBTHJOc0pCNnI1VFVTbEJ4OWFaV3pzZUlXcEg5WGVwUQ?oc=5",
+   "date": "2026-11-06",
+   "source": "Global Banking & Finance Review",
+   "id": "223f708c48098924",
+   "feed": "Google News: factory investment OR gigafactory Europe",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 6,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "grid"
+    ],
+    "industry": [
+     "bank"
+    ],
+    "geo": [
+     "eu "
     ]
    }
   },
@@ -1797,6 +1953,78 @@
    }
   },
   {
+   "title": "Sanctions, AI Boom Cut Global Semiconductor Sales to China - 조선일보",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZV9WQU1SQVNZNUJzRHVWNWZmT3pTY0Jfdy1PM0xKLTRWVkYtaVQ0SEkzN2FfaFJRZUpzM1lFd0RTZFp5TUl2U0pDRTR3TFpyNnMtOUpaZEFDczNoanRPSDU5dlEwdVROSFhzYjBZLXU2SmVvb0Y5cFFtRm9TaVRHMTBNcFNJSjRu?oc=5",
+   "date": "2026-11-08",
+   "source": "조선일보",
+   "id": "89914b58b348ec73",
+   "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "event": [
+     "sanction"
+    ],
+    "tech": [
+     "semiconductor"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "Nvidia Seeks Role in Korea's Robotaxi Pilot Program - Seoul Economic Daily",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWDBfTUJ1NTBnT1VrOS1qaFdxQnVjNm0ybm4yVWR6UG1qMF9FTDNiazlVNmU2c3B1cUlpb19nRmZRUVJxX3Fqa0RiNEVHaUllMkdGR1BLRmxKUDhPYW55NVdUV2ZibmstR1k5bWV5ckxMUkw3SmE1R0RjR29lOXBSRTRvelloUExHRENFdlVXSUN0RkhWd1JMVmt0dTFnb19kVlFN?oc=5",
+   "date": "2026-11-08",
+   "source": "Seoul Economic Daily",
+   "id": "afd439e34039c779",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "event": [
+     "pilot"
+    ],
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "geo": [
+     "korea"
+    ]
+   }
+  },
+  {
+   "title": "Agility Robotics Debuts on Nasdaq as Humanoid Robot Race Intensifies - Demokratis.co.id",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53bGZYYzBxX1hGS010RUlfUEV1UE9xRHE0TzJHUmNPa21ZbEt6VlBzRWtJZWxZQmxQNmJ0VUp2aFJoc21XWmNNT3hHVE9iczktaEg1RTNKdEJvak0ybHlRMDd5VEs1ell3?oc=5",
+   "date": "2026-11-08",
+   "source": "Demokratis.co.id",
+   "id": "d296e3954104b94b",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot",
+     "humanoid"
+    ],
+    "companies": [
+     "Agility Robotics",
+     "Humanoid"
+    ]
+   }
+  },
+  {
    "title": "Uber's 2,000-Robotaxi Target Rests on Partners Years Behind Waymo, Analysts Say - BigGo Finance",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yb2JQaThOUUZ0bnE2b3FVcGZrMWYzYV9wVTZiOElnUmJEM0lCeXVWTXd4aUxCYTVMblM3ZC1rb3IxNnFVTzZYT1llV0JLUnc1Nk9IWmxKUzJDNVU?oc=5",
@@ -1816,6 +2044,122 @@
     "companies": [
      "Uber",
      "Waymo"
+    ]
+   }
+  },
+  {
+   "title": "Every Humanoid Robot Needs Rare-Earth Magnets. Here's the American Stock Positioned to Sell Them -- and It's Down 62%. - AOL.com",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT01LbGxvajI1VUI0X3dXVS1sZHZLODZDUVZaUFV0TmhHR0FaUGJhd0x1VFprbEZWQmw5Ymt1WWdycjZIcEpvU3pPeVBIbGRsNGhkdnJnOGFCMGU5eFJTaG9SdERUX2NIOWlxT1VLQ3ZWeXhSWGNWZTVIU2djMkZ6VA?oc=5",
+   "date": "2026-11-07",
+   "source": "AOL.com",
+   "id": "f39a49e02dca980a",
+   "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot",
+     "humanoid"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "Waymo Just Blew Up Uber’s Robotaxi Growth Story - YouTube",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HVl9qR3hIeWhCNDNpYk9NV3RETFAtNS1UQjQyVmFaVVp0N0xoTG0ybThIcVFmZUkyRURld2FqejdHUDFGX1NQenN0ck5RMmZ6LVFUSVdJMzd4VnJL?oc=5",
+   "date": "2026-11-07",
+   "source": "YouTube",
+   "id": "1311ec97f12fca50",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "companies": [
+     "Uber",
+     "Waymo"
+    ]
+   }
+  },
+  {
+   "title": "Waymo Toyota: 1 Bold Robotaxi Deal With a Winning Partner - Global Brands Magazine",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41aHY0RTc5TmVSOUNJemdKdVpGZzV1b0h1NTN1QjVEbXJUVktYbDlsOEtmdHN4M2pIWHVWU0xkbEN4TEd4dVRtbV9RODV1Yzd0M0M0SVJFSllKZjZGd2JxYXgzWE1VREJlMjhB?oc=5",
+   "date": "2026-11-07",
+   "source": "Global Brands Magazine",
+   "id": "a7380ac0d8f32c35",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "companies": [
+     "Waymo"
+    ]
+   }
+  },
+  {
+   "title": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots. - The Globe and Mail",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNV3FrX1JWTUZOaWxtQzNKNWlWYXUzdFNfaE83WklBRUk3aFBVUktYbmRNV0RrYUJycGhIcm9mNUNIVFhIa3VPQWFWOS00YmNfS2t5THFIOE5EbjB1bFlFR09wdjFIcHFJYlZCU1NDNC02OFlzZmtYcW02ck9qcFF4VGdWMmtXdXRqZ3EzYTBwcENqWXRiLTFBR1JVRE1ZVkc4amxQalRHbkdDbXA3ekRfY0tzMks1RzNfRjY3WWJTMGdRNlFlWVBSbUF6WGVwdml3ZVRwWjE5WE04RXVnazN0U3hhQ3lPd1o1RXZtVnAtQnk2cXpTeHBPdXFHUmcwYzFKVXIzSHJNZ2dOcGtJdFFTY0VFMk1MZTl1VDA1cDdjVHR3MS1ybG4tSzdNNUFPSzdhM3l3aHJBWVVraWpYbTdqaW1TUGhWQQ?oc=5",
+   "date": "2026-11-07",
+   "source": "The Globe and Mail",
+   "id": "e08a5b2cb0dac51b",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "event": [
+     "factory"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "truck",
+     "factory"
+    ]
+   }
+  },
+  {
+   "title": "Tesla to Wind Down Cybertruck Production as Cybercab Takes Priority - fish4news.co.uk",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYmVGeTdDaDlvOU5zNkxzOTBGMElNZTc2MXRySDloZUNjY3VJMlBVSEd4Q3UzaUR5VXpNVGZfaGVWYWgzTnQyUWh3SWJQNEhIcXBISUlvdWVGdzhyMHFxZkhudmxVdTk0eDZDNUU1TVRqUDFVVW9CWi1vR3dWY1QtRjd3?oc=5",
+   "date": "2026-11-07",
+   "source": "fish4news.co.uk",
+   "id": "17b958f8d0f14f31",
+   "feed": "Google News: factory investment OR gigafactory Europe",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "industry": [
+     "truck"
+    ],
+    "geo": [
+     "uk "
+    ],
+    "companies": [
+     "Tesla"
     ]
    }
   },
@@ -2004,6 +2348,142 @@
     "industry": [
      "port",
      "payments"
+    ]
+   }
+  },
+  {
+   "title": "Ucore Rare Metals (TSXV:UCU) Drops 13.94%: Rare Earth Policy Uncertainty and Build-Out Risks Weigh on Sentiment - kalkine.ca",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNjdsLWw3RmIyY2pScXZoZkFVdWRmaS1FR1U1TU5TeHU2bk5VX29ya3QzVmpJam9Yd3hHQUNJVFRVcVNPWTBfblZZM0UyNXhyZnd4VnJWTUtsazhpOXZEdnZ5NTZ2enM3UVF3WXkyM0ZSbmdLX1RXREM4aVV3a05wbldWVlZxQkRCRFJxM1o0WHRZbjdyYnZhN2xLWXJuWGdmbHRiX3RGVW9TM3RPWUlqRTBMbWlYVkk5Q1AwX2wxcVpSZUVlYy1tWk5wdVpQSjQ3U2c?oc=5",
+   "date": "2026-11-06",
+   "source": "kalkine.ca",
+   "id": "82c255f03378b6a4",
+   "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "rare earth"
+    ],
+    "companies": [
+     "Ucore Rare Metals"
+    ]
+   }
+  },
+  {
+   "title": "Harbinger Raises $240 Million to Expand Industrial Electrification - Ventureburn",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObU80Tjl4NGRBalVhaVZqdDZPNjhaZi1pelFuTUJ2VjVrUVlOeVNsOXBkS20zZ2ladWNJd18waS0zRUY3MGRmcGlEcXp2RjdFWkQ2V2xSc3RaWjVPeXZoRTNrNWZ0VGZRZ2FGY3FjeVNQanI3Um5fV1dtTzR0bTBWUkUtdG5GNXfSAYcBQVVfeXFMTm1PNE45eDRkQWpVYWlWanQ2TzY4WmYtaXpRbk1CdlY1a1FZTnlTbDlwZEttM2dpWnVjSXdfMGktM0VGNzBkZnBpRHF6dkY3RVpENldsUnN0Wlo1T3l2aEUzazVmdFRmUWdhRmNxY3lTUGpyN1JuX1dXbU80dG0wVlJFLXRuRjV3?oc=5",
+   "date": "2026-11-06",
+   "source": "Ventureburn",
+   "id": "4700c7d86bde5741",
+   "feed": "Google News: electric truck OR \"megawatt charging\"",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "event": [
+     "raises"
+    ],
+    "companies": [
+     "Harbinger"
+    ]
+   }
+  },
+  {
+   "title": "Tesla Cybertruck production to end in 2027 due to poor sales - Autocar India",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYlNyRkxFNENXVHJ1ZG1IaF9JN0Z4Y1BEbFk0dDloNDZGdkNlVkItbUhZMC1LTFdId2FJUjFuTk03TFRWS1Bna3pSYjhhRkV0bE1JOVNna2lBWlZ4Nl9obG9adVhzVE1jeXNxNTQzZDBoVkkyWVJ5N2VjWXJHV2gyV0hKcWtiSVZ3RzZqSUdYdEV4OHQyaXfSAZYBQVVfeXFMUGJTckZMRTRDV1RydWRtSGhfSTdGeGNQRGxZNHQ5aDQ2RnZDZVZCLW1IWTAtS0xXSHdhSVIxbk5NN0xUVktQZ2t6UmI4YUZFdGxNSTlTZ2tpQVpWeDZfaGxvWnVYc1RNY3lzcTU0M2QwaFZJMllSeTdlY1lyR1doMldISnFrYklWd0c2aklHWHRFeDh0Mml3?oc=5",
+   "date": "2026-11-06",
+   "source": "Autocar India",
+   "id": "181006e524a8db38",
+   "feed": "Google News: electric truck OR \"megawatt charging\"",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "industry": [
+     "truck"
+    ],
+    "geo": [
+     "india"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Snow, ice and no driver? Waymo's robotaxis face the ultimate winter test - FOX Weather",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnJrNWZrQlJETy1CenRuRmlqa1hCb2xlb2drZWRvekg4MnA3WGU4Z0ctbUxMUHlfTWNrM0dNNzUzUk1sR0k3b01qOXVjUVpKN2t1NzdKbTdVUnVLNzY1MFc1LUE2clNBR3pLRTdJbWo1UDFXbmY5S3VDMVItOTRLdDk1WXQ5SXFEdTlvemYwcWplVUpLd3RaRzFiV193Rl9U0gGmAUFVX3lxTE1lTnU1cjJxd1cwbG51MFdyYXpHRWpQTGlDOW9mU043SzYtcEVablNSU0t0RkFMekc2cFZrM3NXaUxMbndDaUM5V2pJdlFwRFVXYzgweHdkN3JfamctOGo4WXY1R0M1aHc4TnNCNFdncTV0V1BjR1NNNFVJRjZuN2V0LXBUd3NjNTYwWEdoZ0hndkZubFFzVmRJRzBiVDFUUjBTbW82d0E?oc=5",
+   "date": "2026-11-06",
+   "source": "FOX Weather",
+   "id": "97131de669dc1e21",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "companies": [
+     "Waymo"
+    ]
+   }
+  },
+  {
+   "title": "Humble Robotics Raises $51M in Series A Funding to Develop Autonomous Electric Freight Vehicles - AI Insider",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0xvM3lGenExV3ZoTnM0THFrc3hfLVl5bGtaSWFUb1k0ZDRCUmJfNmVwMTd0QVlIMFFjemktU1FNVUhIS29lNWR3SXdkM1RkY1FBVTZZX1NjZ253Y0lfalNNZ0VSVnVBdUNCVC1tVE9CTHpNdDN5VHdsMEo3WWZORVRtcE81dTRrTVFCV05UQV95SzNpaE1mVENsQ29jV1BIbGN0bHVYQzFoendEcTdCY1p3SF9weEhSZUdsa1A2cmJiNVZJQnJSZFZFcVM?oc=5",
+   "date": "2026-11-06",
+   "source": "AI Insider",
+   "id": "1fc14cb1cccc7673",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "event": [
+     "raises",
+     "series a"
+    ],
+    "tech": [
+     "robot",
+     "autonomous"
+    ],
+    "industry": [
+     "freight",
+     "vehicle"
+    ]
+   }
+  },
+  {
+   "title": "Elon Musk Says Tesla Will Probably Rent Its Optimus Robots - Drive Tesla Canada",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aNng2TURvZ0FQMnowcXlGNWN2cTBzVnQ4YmhfYlEycWJ2Z2d4QkFMSWdpYnB4dEI0WU84R01jVHFoSWhnZFd2ZEVCeGZ1cVdfWl9zdzVGSzdjek9ZdWN6blpPZndleHRaaU1KZlRhSW5oUEV4YVZuMDhR?oc=5",
+   "date": "2026-11-06",
+   "source": "Drive Tesla Canada",
+   "id": "0bab1508bea5744f",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot"
+    ],
+    "companies": [
+     "Tesla"
     ]
    }
   },
@@ -4357,91 +4837,6 @@
     ],
     "geo": [
      "india"
-    ]
-   }
-  },
-  {
-   "title": "Ukrainian startup, GomSpace test satellite for future communications network",
-   "summary": "",
-   "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
-   "date": "2026-10-27",
-   "source": "9?ds=true&seed=1794087537",
-   "id": "e3a4a44fc308828e",
-   "feed": "SpaceNews",
-   "kind": "news",
-   "domain_hint": "Space",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "satellite"
-    ],
-    "companies": [
-     "GomSpace"
-    ]
-   }
-  },
-  {
-   "title": "Tesla makes another joke of its Robotaxi geofence expansion",
-   "summary": "",
-   "url": "https://electrek.co/2026/10/26/tesla-robotaxi-houston-geofence-expansion-shape/",
-   "date": "2026-10-26",
-   "source": "",
-   "id": "5a8998ef03a601e4",
-   "feed": "Electrek",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot",
-     "robotaxi"
-    ],
-    "companies": [
-     "Tesla"
-    ]
-   }
-  },
-  {
-   "title": "Tesla turns to car rental platform Turo for Full Self-Driving test drives",
-   "summary": "",
-   "url": "https://electrek.co/2026/10/26/tesla-turo-full-self-driving-test-drives/",
-   "date": "2026-10-26",
-   "source": "",
-   "id": "0bd8de90e5b9a263",
-   "feed": "Electrek",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "self-driving"
-    ],
-    "companies": [
-     "Tesla"
-    ]
-   }
-  },
-  {
-   "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
-   "summary": "",
-   "url": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/",
-   "date": "2026-10-25",
-   "source": "",
-   "id": "fcc62ea2b0161760",
-   "feed": "Electrek",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "autonomous"
-    ],
-    "companies": [
-     "XCMG"
     ]
    }
   }

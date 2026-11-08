@@ -1,5 +1,5 @@
 {
- "run": "2026-11-08T22:06+00:00",
+ "run": "2026-11-08T22:13+00:00",
  "feeds": [
   {
    "feed": "Federal Register – export controls",
@@ -30,7 +30,7 @@
    "url": "https://techcrunch.com/feed/",
    "ok": true,
    "items": 20,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -278,15 +278,15 @@
    "url": "https://news.google.com/rss/search?q=%22rare+earth%22+OR+%22critical+minerals%22+export+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 27,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
    "feed": "Google News: electric truck OR \"megawatt charging\"",
    "url": "https://news.google.com/rss/search?q=electric+truck+OR+%22megawatt+charging%22+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 58,
-   "new": 0,
+   "items": 60,
+   "new": 1,
    "error": null
   },
   {
@@ -294,7 +294,7 @@
    "url": "https://news.google.com/rss/search?q=autonomous+trucking+OR+robotaxi+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 27,
-   "new": 3,
+   "new": 0,
    "error": null
   },
   {
@@ -334,7 +334,7 @@
    "url": "https://news.google.com/rss/search?q=%22district+heating%22+OR+%22grid+operator%22+technology+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 18,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
@@ -357,8 +357,8 @@
    "feed": "Google News: factory investment OR gigafactory Europe",
    "url": "https://news.google.com/rss/search?q=factory+investment+OR+gigafactory+Europe+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "items": 32,
-   "new": 1,
+   "items": 31,
+   "new": 0,
    "error": null
   },
   {
@@ -366,7 +366,7 @@
    "url": "https://news.google.com/rss/search?q=bankruptcy+OR+insolvency+battery+OR+EV+OR+robotics+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 8,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -374,7 +374,7 @@
    "url": "https://news.google.com/rss/search?q=%22AI+Act%22+OR+%22Cyber+Resilience+Act%22+OR+NIS2+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
    "items": 17,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -388,6 +388,6 @@
  ],
  "ok": 48,
  "failed": 0,
- "new_items": 8,
+ "new_items": 2,
  "top_items": 200
 }

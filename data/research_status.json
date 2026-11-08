@@ -1,5 +1,5 @@
 {
- "run": "2026-11-08T22:06+00:00",
+ "run": "2026-11-08T22:13+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
@@ -116,10 +116,10 @@
   {
    "source": "PubMed – surgical robotics and devices",
    "type": "pubmed",
-   "ok": false,
-   "items": 0,
+   "ok": true,
+   "items": 40,
    "new": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "error": null
   },
   {
    "source": "bioRxiv – bioengineering and synthetic biology",
@@ -162,8 +162,8 @@
    "error": null
   }
  ],
- "ok": 19,
- "failed": 1,
+ "ok": 20,
+ "failed": 0,
  "new_items": 0,
  "kept": 158
 }

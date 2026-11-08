@@ -1,10 +1,10 @@
 {
- "run": "2026-11-08T22:06+00:00",
+ "run": "2026-11-08T22:14+00:00",
  "calls": [
   {
    "provider": "gemini",
    "group": "AI and robotics",
-   "model": "gemini-3.8-flash",
+   "model": "gemini-omni-1.2-flash",
    "ok": false,
    "items": 0,
    "new": 0,
@@ -13,7 +13,7 @@
   {
    "provider": "gemini",
    "group": "Compute, chips and connectivity",
-   "model": "gemini-3.8-flash",
+   "model": "gemini-omni-1.2-flash",
    "ok": false,
    "items": 0,
    "new": 0,
@@ -22,7 +22,7 @@
   {
    "provider": "gemini",
    "group": "Energy, batteries and powertrain",
-   "model": "gemini-3.8-flash",
+   "model": "gemini-omni-1.2-flash",
    "ok": false,
    "items": 0,
    "new": 0,
@@ -31,7 +31,7 @@
   {
    "provider": "gemini",
    "group": "Materials, manufacturing and supply chains",
-   "model": "gemini-3.8-flash",
+   "model": "gemini-omni-1.2-flash",
    "ok": false,
    "items": 0,
    "new": 0,
@@ -40,7 +40,7 @@
   {
    "provider": "gemini",
    "group": "Defence, space and sensing",
-   "model": "gemini-3.8-flash",
+   "model": "gemini-omni-1.2-flash",
    "ok": false,
    "items": 0,
    "new": 0,
@@ -49,7 +49,7 @@
   {
    "provider": "gemini",
    "group": "Health, finance and the built environment",
-   "model": "gemini-3.8-flash",
+   "model": "gemini-omni-1.2-flash",
    "ok": false,
    "items": 0,
    "new": 0,

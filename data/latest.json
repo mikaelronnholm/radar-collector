@@ -5121,6 +5121,30 @@
   }
  },
  {
+  "title": "Low Wind Triggers UK Power Grid Margin Warning for Monday - Bloomberg",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOU9BRU9IT05oQkVwcDFrRkcwMkhZbFJtUnVmd2JlUU1hMEhselhDZGtzM3RjUk0tSTlEbkliemtHQ0tWbzVnLVg4cS04RnlfNUhyZmpudEEzZVNpeF9zY3N0ZmdvTTMtY3VKQThiR2xLSHNRZzA4ZW1PNHQ5a3lfQzRyWTUyZjVmcGVhTFpybXlQVlViYndsOTdjaWQ1Skt1aERBUTZya3ZGdXdy?oc=5",
+  "date": "2026-11-08",
+  "source": "Bloomberg",
+  "id": "abf70d4d316440d0",
+  "feed": "Google News: \"district heating\" OR \"grid operator\" technology",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-08",
+  "score": 4,
+  "hits": {
+   "tech": [
+    "grid"
+   ],
+   "industry": [
+    "power grid"
+   ],
+   "geo": [
+    "uk "
+   ]
+  }
+ },
+ {
   "title": "Ondas Holdings Balances Two Takeovers and a Counter-Drone Order Book Against a November Reckoning - ad-hoc-news.de",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcG5BR3RrTkFjb0k2RzdrTlVGdHFGOENCbWhOdThpME5CMFo1dzh1U183LVZpRnNYb2luNWpuVkpMck5icXowbDdZanUzdFhNVldEd1BpYmJBbGtFMUxOQWVOZWduZXhfM2VjcFVLNkJRZkhlNl93aHlfS2hjVjE4UE16ZklYZ1lEXzBBWlRqTVRoaGg4WmMtMmtuU0F2RGY2a0Y4U20wM3QtX0FOM1p2SE1uVTBiRnJfa2NYWEM1RmN6Y1ZWS19LdzJPT2VJMExpcHpUeW5sSXNkLWlDVHJfd3NfaUFYRzB0c3AzZXVDOUtXZjE0Q1RVRDhsQ3hlZw?oc=5",
@@ -8041,6 +8065,27 @@
    ],
    "industry": [
     "port"
+   ]
+  }
+ },
+ {
+  "title": "A Defunct EV Startup’s Assets Are Up For Grabs, Including 20 Electric Trucks - InsideEVs",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UZDVuT2ZKUi1rTHpNcEx1NGlEaFRQOExPZkxMNDFKQUJwOFdzTHRsbnRFR0pFeGRaaWtRV0JKNHR3TUVvVllIclFIemdNbnVNdVR3X2NScW9OYjZtdlg0UE0tQmRhTTUzdm5VUmNhV1pFQXBGRWc?oc=5",
+  "date": "2026-11-08",
+  "source": "InsideEVs",
+  "id": "35b6827a85c7e776",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-08",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "electric truck"
+   ],
+   "industry": [
+    "truck"
    ]
   }
  },

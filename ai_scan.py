@@ -13,6 +13,7 @@ import datetime as dt
 import json
 import os
 import re
+import urllib.error
 import urllib.request
 
 import collect as C
@@ -21,11 +22,52 @@ NOW = C.NOW
 TODAY = C.TODAY
 
 
+class ApiError(Exception):
+    def __init__(self, code, text):
+        super().__init__(f"HTTP {code}: {text}")
+        self.code = code
+
+
+def call(url, body=None, headers=None):
+    req = urllib.request.Request(url, data=json.dumps(body).encode("utf-8") if body is not None else None,
+                                 headers={"Content-Type": "application/json", **(headers or {})},
+                                 method="POST" if body is not None else "GET")
+    try:
+        with urllib.request.urlopen(req, timeout=180) as r:
+            return json.loads(r.read().decode("utf-8", "replace"))
+    except urllib.error.HTTPError as e:
+        try:
+            msg = json.loads(e.read().decode("utf-8", "replace"))
+            msg = (msg.get("error") or {}).get("message") or str(msg)
+        except Exception:
+            msg = e.reason
+        raise ApiError(e.code, str(msg)[:180])
+
+
 def post(url, body, headers):
-    req = urllib.request.Request(url, data=json.dumps(body).encode("utf-8"),
-                                 headers={"Content-Type": "application/json", **headers}, method="POST")
-    with urllib.request.urlopen(req, timeout=180) as r:
-        return json.loads(r.read().decode("utf-8", "replace"))
+    return call(url, body, headers)
+
+
+MODEL = {}
+
+
+def ver(name):
+    return [int(x) for x in re.findall(r"\d+", name)[:3]] or [0]
+
+
+def pick_gemini(key):
+    r = call("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200", None, {"x-goog-api-key": key})
+    names = [m["name"].split("/")[-1] for m in r.get("models", []) if "generateContent" in m.get("supportedGenerationMethods", [])]
+    ok = [n for n in names if "flash" in n and not re.search(r"lite|image|tts|live|audio|thinking|exp|preview|8b", n)]
+    ok = ok or [n for n in names if "flash" in n and not re.search(r"image|tts|live|audio", n)]
+    return sorted(ok, key=ver)[-1] if ok else None
+
+
+def pick_openai(key):
+    r = call("https://api.openai.com/v1/models", None, {"Authorization": "Bearer " + key})
+    names = [m["id"] for m in r.get("data", [])]
+    ok = [n for n in names if re.match(r"gpt-\d", n) and n.endswith("-mini")] or [n for n in names if re.match(r"gpt-\d", n) and "mini" in n and not re.search(r"audio|realtime|transcribe|tts|search|image", n)]
+    return sorted(ok, key=ver)[-1] if ok else None
 
 
 def prompt(cfg, g):
@@ -53,7 +95,8 @@ def parse_items(text):
 
 def gemini(cfg, g, key):
     p = cfg["providers"]["gemini"]
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{p.get('model', 'gemini-2.5-flash')}:generateContent"
+    model = MODEL.get("gemini") or p.get("model", "gemini-2.5-flash")
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     r = post(url, {"contents": [{"parts": [{"text": prompt(cfg, g)}]}], "tools": [{"google_search": {}}]},
              {"x-goog-api-key": key})
     cand = (r.get("candidates") or [{}])[0]
@@ -64,7 +107,7 @@ def gemini(cfg, g, key):
 def openai(cfg, g, key):
     p = cfg["providers"]["openai"]
     r = post("https://api.openai.com/v1/responses",
-             {"model": p.get("model", "gpt-5-mini"), "tools": [{"type": p.get("tool", "web_search")}], "input": prompt(cfg, g)},
+             {"model": MODEL.get("openai") or p.get("model", "gpt-5-mini"), "tools": [{"type": p.get("tool", "web_search")}], "input": prompt(cfg, g)},
              {"Authorization": "Bearer " + key})
     text = r.get("output_text") or ""
     if not text:
@@ -102,9 +145,17 @@ def main():
             continue
         for g in cfg.get("groups", []):
             try:
-                items, err = fn(cfg, g, key), None
+                try:
+                    items, err = fn(cfg, g, key), None
+                except ApiError as e:
+                    if e.code not in (400, 404) or name in MODEL:
+                        raise
+                    MODEL[name] = (pick_gemini if name == "gemini" else pick_openai)(key) or ""
+                    if not MODEL[name]:
+                        raise
+                    items, err = fn(cfg, g, key), None
             except Exception as e:
-                items, err = [], str(e)[:200]
+                items, err = [], str(e)[:220]
             new = 0
             for it in items:
                 title = re.sub(r"\s+", " ", str(it.get("title", ""))).strip()
@@ -128,7 +179,7 @@ def main():
                 by_url[url] = cand
                 new += 1
             n_new += new
-            status.append({"provider": name, "group": g["name"], "ok": err is None, "items": len(items), "new": new, "error": err})
+            status.append({"provider": name, "group": g["name"], "model": MODEL.get(name) or pcfg.get("model"), "ok": err is None, "items": len(items), "new": new, "error": err})
     items = sorted(by_id.values(), key=lambda x: (-x["score"], x["date"]), reverse=False)
     items.sort(key=lambda x: x["date"], reverse=True)
     items.sort(key=lambda x: -x["score"])

@@ -1,0 +1,19 @@
+{
+ "_note": "AI scan: Gemini and ChatGPT search the web once a day with the questions below. Answers are candidates only; the Claude runs verify them. Keys come from the GitHub secrets GEMINI_API_KEY and OPENAI_API_KEY. Set enabled to false to switch a provider off. Change the model names here if a provider renames its models.",
+ "providers": {
+  "gemini": {"enabled": true, "model": "gemini-2.5-flash"},
+  "openai": {"enabled": true, "model": "gpt-5-mini", "tool": "web_search"}
+ },
+ "window_hours": 48,
+ "max_items_per_call": 10,
+ "keep_days": 7,
+ "extra": "Give extra weight to events in Sweden, Norway, Finland, Denmark, Iceland and the Baltics, and to startups and scale-ups. Include setbacks (bankruptcies, cancelled projects, delays) as well as successes.",
+ "groups": [
+  {"name": "AI and robotics", "domain": "AI", "focus": "artificial intelligence (foundation models, AI agents, edge AI, computer vision), robotics and humanoids, autonomous vehicles and robotaxis, industrial AI"},
+  {"name": "Compute, chips and connectivity", "domain": "Compute", "focus": "semiconductors and chip export controls, quantum computing and quantum sensing, photonic and neuromorphic computing, AI data centres, 5G/6G, satellite direct-to-device, cybersecurity incidents and regulation (NIS2, Cyber Resilience Act)"},
+  {"name": "Energy, batteries and powertrain", "domain": "Energy", "focus": "batteries (solid-state, sodium-ion, recycling), electric trucks and megawatt charging, hydrogen and electrolysers, grids, energy storage, district heating, small modular reactors and fusion"},
+  {"name": "Materials, manufacturing and supply chains", "domain": "Materials", "focus": "critical minerals and rare earths, green steel, additive manufacturing, factory investments and closures, tariffs and trade conflicts affecting industry"},
+  {"name": "Defence, space and sensing", "domain": "Space", "focus": "defence technology and counter-drone, launch vehicles and satellites (Esrange, Andøya, SaxaVord), earth observation, GNSS jamming and spoofing, lidar and radar"},
+  {"name": "Health, finance and the built environment", "domain": "", "focus": "medical devices and AI diagnostics, digital finance (digital euro, stablecoins, tokenisation), construction robotics and smart buildings, public-sector technology"}
+ ]
+}

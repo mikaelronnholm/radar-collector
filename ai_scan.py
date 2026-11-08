@@ -13,6 +13,7 @@ import datetime as dt
 import json
 import os
 import re
+import time
 import urllib.error
 import urllib.request
 
@@ -49,6 +50,7 @@ def post(url, body, headers):
 
 
 MODEL = {}
+SETTLED = set()
 
 
 def ver(name):
@@ -58,17 +60,16 @@ def ver(name):
 def pick_gemini(key):
     r = call("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200", None, {"x-goog-api-key": key})
     names = [m["name"].split("/")[-1] for m in r.get("models", []) if "generateContent" in m.get("supportedGenerationMethods", [])]
-    ok = [n for n in names if "flash" in n and not re.search(r"lite|image|tts|live|audio|thinking|exp|preview|8b", n)]
-    ok = ok or [n for n in names if "flash" in n and not re.search(r"image|tts|live|audio", n)]
-    return sorted(ok, key=ver)[-1] if ok else None
-
+    ok = [n for n in names if "flash" in n and not re.search(r"image|tts|live|audio|thinking|exp|8b", n)]
+    full = sorted([n for n in ok if "lite" not in n and "preview" not in n], key=ver, reverse=True)
+    rest = sorted([n for n in ok if n not in full], key=ver, reverse=True)
+    return full + rest
 
 def pick_openai(key):
     r = call("https://api.openai.com/v1/models", None, {"Authorization": "Bearer " + key})
     names = [m["id"] for m in r.get("data", [])]
-    ok = [n for n in names if re.match(r"gpt-\d", n) and n.endswith("-mini")] or [n for n in names if re.match(r"gpt-\d", n) and "mini" in n and not re.search(r"audio|realtime|transcribe|tts|search|image", n)]
-    return sorted(ok, key=ver)[-1] if ok else None
-
+    ok = [n for n in names if re.match(r"gpt-\d", n) and "mini" in n and not re.search(r"audio|realtime|transcribe|tts|search|image", n)]
+    return sorted(ok, key=ver, reverse=True)
 
 def prompt(cfg, g):
     since = (NOW - dt.timedelta(hours=cfg.get("window_hours", 48))).strftime("%Y-%m-%d %H:%M UTC")
@@ -148,12 +149,26 @@ def main():
                 try:
                     items, err = fn(cfg, g, key), None
                 except ApiError as e:
-                    if e.code not in (400, 404) or name in MODEL:
+                    if e.code not in (400, 404, 429) or name in SETTLED:
                         raise
-                    MODEL[name] = (pick_gemini if name == "gemini" else pick_openai)(key) or ""
-                    if not MODEL[name]:
-                        raise
-                    items, err = fn(cfg, g, key), None
+                    SETTLED.add(name)
+                    last = e
+                    tried = {MODEL.get(name) or pcfg.get("model")}
+                    for m in (pick_gemini if name == "gemini" else pick_openai)(key)[:6]:
+                        if m in tried:
+                            continue
+                        tried.add(m)
+                        MODEL[name] = m
+                        try:
+                            items, err = fn(cfg, g, key), None
+                            break
+                        except ApiError as e2:
+                            last = e2
+                            if e2.code not in (400, 404, 429):
+                                raise
+                            time.sleep(2)
+                    else:
+                        raise last
             except Exception as e:
                 items, err = [], str(e)[:220]
             new = 0
@@ -179,6 +194,7 @@ def main():
                 by_url[url] = cand
                 new += 1
             n_new += new
+            time.sleep(cfg.get("pause_seconds", 4))
             status.append({"provider": name, "group": g["name"], "model": MODEL.get(name) or pcfg.get("model"), "ok": err is None, "items": len(items), "new": new, "error": err})
     items = sorted(by_id.values(), key=lambda x: (-x["score"], x["date"]), reverse=False)
     items.sort(key=lambda x: x["date"], reverse=True)

@@ -1,5 +1,281 @@
 {
- "generated": "2026-11-07T23:03+00:00",
- "count": 0,
- "items": []
+ "generated": "2026-11-08T04:57+00:00",
+ "count": 11,
+ "items": [
+  {
+   "title": "Xiaomi's Factory Robots Put in Eight-Hour Shifts While Analysts Puzzle Over the Profit Line - ad-hoc-news.de",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOS3BQYklKZVl5cnhKd0tJRkhqLUdXaUxnYzNCOHRqSEZ2b0VjT3lXWnJwbjJhMk0yakpHVm1LemVXM01vcnR1T3huNFNrbkJMcTdrOXdZeG13cEE3TFU4WEtlY0ZteXQyTmZRbERpQVBzWDBIQVRPeGpXS0t0YVJna2FwaDhGcnZCUnZNcVdjXzFxN2dLZXQ3YUxVU1pNWmsweFJSSkFwdnBRS3JNWW1TUXZLTnl4Ml9fTVFLUl9NOXVVaGI4cDFKaXBhT3Q3SHVlSEkyTlBmZUllMkdXVU9QNjUwdExHY1FNOWlzVmMxMFJZVGRHOWc?oc=5",
+   "date": "2026-11-08",
+   "source": "ad-hoc-news.de",
+   "id": "9eb639a666c2d667",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 8,
+   "hits": {
+    "event": [
+     "factory"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "factory"
+    ],
+    "companies": [
+     "Xiaomi"
+    ]
+   }
+  },
+  {
+   "title": "See How Tesla Tore Down The Model S Factory To Build Robots Instead - InsideEVs",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xTkhlWGc5ZzJDSG9WR3QwS3RNN3pGSkR3UVlpM0Z5UFFVUGRhWVBBam96UzVkRGtLNE8zM3NJU20wb1QycWIwTXhKVWdpS3hFN1cwUU9pTTNETThtX0VOWWNpRlMwYU43c0xSdVkyVXBYakhhRVFSOUNjOE9SUQ?oc=5",
+   "date": "2026-11-07",
+   "source": "InsideEVs",
+   "id": "bc9841a71de3dac4",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 8,
+   "hits": {
+    "event": [
+     "factory"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "factory"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Nvidia Faces U.S. Congressional Pressure Over China Spy Allegations, a Wildcard for Semiconductor Export Controls - BigGo Finance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kSVNrYW5nX3oydHlPNVM4a2pOS19ra0hCVUVqOEs0VC1TQW5BRGlwU2pfRlZFTXBIQVhjZFpETU1jUEYwQ2o2NGZKbDdzaWowSU10QTluQ2NweUhyMGs3RmY0VUFqSlY2Tm9UQ202TXZUSm9BWGc?oc=5",
+   "date": "2026-11-08",
+   "source": "BigGo Finance",
+   "id": "52957679530de53c",
+   "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control"
+    ],
+    "tech": [
+     "semiconductor"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "China Wants Mass-Produced Solid-State Batteries By 2030. CATL Knows That's Hard - InsideEVs",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lMHdSSlB5c2FveWEyOVpRWkdLcE53TkMybEtsSDNVVWhpVzhETTkzWEgzYjB3a05BZXk1S09MbGcyRmhYdThQNUxiRGJvclV0X1BUWnBnRlgtclFNajFLNmxvY1puS2I0ejJrOVpFTDdCcGFFdlE?oc=5",
+   "date": "2026-11-07",
+   "source": "InsideEVs",
+   "id": "908171874d441a0c",
+   "feed": "Google News: \"solid-state battery\"",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "solid-state"
+    ],
+    "geo": [
+     "china"
+    ],
+    "companies": [
+     "CATL"
+    ]
+   }
+  },
+  {
+   "title": "Fuel Cell Electric Cleaning Truck and ACR-H: Automated Hydrogen Refueling - Hyundai Motor Group",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdW5BZTFlQlVtWWFGWHpuVDJqTzhOTlhFeXdLT1lNQnQzcEFQbTRobmNUWUFQbWFpY1ZhLWVPV01zQThsalNPVUZ1Ym1weVBzSFcyc0xqVzRpdjdtUjNZQW5zVUFjZEljV1c4SUZTYWlCWjRkN1VSV004UWlFblR6Qk5tdTdsYnY4YlRvU3FRMTJ5S2l1UnBvWWxIcDl6LXpXMEZPWHh1MXI4U0hOZzdVeGZB?oc=5",
+   "date": "2026-11-06",
+   "source": "Hyundai Motor Group",
+   "id": "f76f8d88257e27c3",
+   "feed": "Google News: electric truck OR \"megawatt charging\"",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "hydrogen",
+     "fuel cell"
+    ],
+    "industry": [
+     "truck"
+    ],
+    "companies": [
+     "Hyundai Motor Group"
+    ]
+   }
+  },
+  {
+   "title": "IMC Logistics takes delivery of first Tesla Semi from 50-truck order - Drive Tesla Canada",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlMnN4YnV2NVBiUHdaZE5reTdLODJYemZmUGxEZUczeWNSUGNCYVV0aWp1VG5mR0c3NzZPbzJzZ3c4VXFqMEJjcy1vaklWRmppakNXSy1hZngzUnQ0S09fdzZxYWNVQjFkX0hBb0FhTGtoQ2ZqNXY2VDBqTXFKZw?oc=5",
+   "date": "2026-11-05",
+   "source": "Drive Tesla Canada",
+   "id": "fea24ac7adcb5216",
+   "feed": "Google News: electric truck OR \"megawatt charging\"",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 6,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "industry": [
+     "truck",
+     "logistics"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Stablecoin Regulation Under Trump: What Businesses Must Do Now - OneSafe",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGhNQ181cUpkRTlwRFdDSjV0YzB0X1VoRm9wTlVjMldXOUxBQXhsWUZ4d01JYlFTbF9aYVlZWVdwdUFKU2VBVlRGR3NBT0RXT1VrZmhlUmRTNHJzT1JyRmRZcFV4YnR3NEpNblN5b2R4RzgxY3FSSWpncHJWalYxZzJ1UURTRjQ?oc=5",
+   "date": "2026-11-08",
+   "source": "OneSafe",
+   "id": "b13ea552b3ee0308",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "event": [
+     "regulation"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "bus",
+     "esa"
+    ]
+   }
+  },
+  {
+   "title": "Nigeria Stablecoin Regulation: Inside the New Capital Rules - OneSafe",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXJqdzdEUFBWWGdkRk8xanFLb1ZTWm1QM05PbDNLZC04YlhXRmtLN1dOb19Gb01ZV2tiRzFqVUo4Rzlyd3ZodnBuZkFoVnRETUgzbWJtZzRKRHdTcmhxbUdBaERhaWp2WS1JNzh0N0FYU2NiRW93djdFM3BlU09yTi13Qjc?oc=5",
+   "date": "2026-11-08",
+   "source": "OneSafe",
+   "id": "134f1e33beb00787",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "event": [
+     "regulation"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "esa"
+    ]
+   }
+  },
+  {
+   "title": "Bank of Thailand sets baht stablecoin rules for 2027, pauses money changer licences - Thaiger",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1lFOEdpQ0YtS1pVNERlMk82c1NHWVFwSTEwLUZxdFhIbkZ4Y2FyQmRzQnVfSnphN2lGblBrdEF1NzRFOWpUQTZUSEtldUN0Q3pmQnc1Q1d1U18yTTExWlNCRTVRVEpUVmxfUDhkN083SlRIdVhqR0h4alBoQXlCQk9zR3h0ZHhaRERYNDBEbkZ3YUpNYkRUWFI2U21LVEhSNXpKaDA4ZXgzSld1Tlp2MnhBdVpYZ0V4Z25XSkxoUQ?oc=5",
+   "date": "2026-11-08",
+   "source": "Thaiger",
+   "id": "b6fde0fb632fa66d",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "bank"
+    ]
+   }
+  },
+  {
+   "title": "Uber's 2,000-Robotaxi Target Rests on Partners Years Behind Waymo, Analysts Say - BigGo Finance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yb2JQaThOUUZ0bnE2b3FVcGZrMWYzYV9wVTZiOElnUmJEM0lCeXVWTXd4aUxCYTVMblM3ZC1rb3IxNnFVTzZYT1llV0JLUnc1Nk9IWmxKUzJDNVU?oc=5",
+   "date": "2026-11-07",
+   "source": "BigGo Finance",
+   "id": "2afee0b44864149f",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "companies": [
+     "Uber",
+     "Waymo"
+    ]
+   }
+  },
+  {
+   "title": "Humble Robotics Raises $51M for Cabless Truck [2026] - shattered.io",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV254QW9tejJ2VERydkFCcWpWTHlsa291aHJ0WGpkN1A4SGphb1hHV1FrdXRubGxPVDZzWFU3Ymo5SW14UHJJVmQ3YjJtdXF4SlktbHQ0Vm8tTVVzTWVNMUlJV1Yxa3BnQllkaHY3N21FNi01LUVQaTlZT2ttcmpRS0RHNjFieThIdF9nVXVR?oc=5",
+   "date": "2026-11-05",
+   "source": "shattered.io",
+   "id": "0915097e48e5f9d4",
+   "feed": "Google News: electric truck OR \"megawatt charging\"",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "event": [
+     "raises"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "truck"
+    ]
+   }
+  }
+ ]
 }

@@ -1,12 +1,12 @@
 {
- "run": "2026-11-07T23:03+00:00",
+ "run": "2026-11-08T04:57+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
    "type": "rss",
    "ok": true,
    "items": 80,
-   "new": 80,
+   "new": 0,
    "error": null
   },
   {
@@ -14,7 +14,7 @@
    "type": "rss",
    "ok": true,
    "items": 80,
-   "new": 73,
+   "new": 0,
    "error": null
   },
   {
@@ -22,7 +22,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 58,
+   "new": 0,
    "error": null
   },
   {
@@ -30,7 +30,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 49,
+   "new": 0,
    "error": null
   },
   {
@@ -38,7 +38,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 59,
+   "new": 0,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 59,
+   "new": 0,
    "error": null
   },
   {
@@ -54,7 +54,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 60,
+   "new": 0,
    "error": null
   },
   {
@@ -62,7 +62,7 @@
    "type": "rss",
    "ok": true,
    "items": 50,
-   "new": 48,
+   "new": 0,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 50,
+   "new": 0,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 47,
+   "new": 0,
    "error": null
   },
   {
@@ -86,7 +86,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 43,
+   "new": 0,
    "error": null
   },
   {
@@ -94,15 +94,15 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 46,
+   "new": 0,
    "error": null
   },
   {
    "source": "OpenAlex Nordic – health technology",
    "type": "openalex",
    "ok": true,
-   "items": 19,
-   "new": 18,
+   "items": 18,
+   "new": 0,
    "error": null
   },
   {
@@ -110,7 +110,7 @@
    "type": "pubmed",
    "ok": true,
    "items": 40,
-   "new": 40,
+   "new": 0,
    "error": null
   },
   {
@@ -118,15 +118,15 @@
    "type": "pubmed",
    "ok": true,
    "items": 40,
-   "new": 40,
+   "new": 0,
    "error": null
   },
   {
    "source": "bioRxiv – bioengineering and synthetic biology",
    "type": "rxiv",
    "ok": true,
-   "items": 0,
-   "new": 0,
+   "items": 3,
+   "new": 3,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 60,
+   "new": 0,
    "error": null
   },
   {
@@ -150,7 +150,7 @@
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 30,
+   "new": 0,
    "error": null
   },
   {
@@ -164,6 +164,6 @@
  ],
  "ok": 20,
  "failed": 0,
- "new_items": 863,
- "kept": 150
+ "new_items": 6,
+ "kept": 152
 }

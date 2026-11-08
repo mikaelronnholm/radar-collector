@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-07T23:03+00:00",
- "count": 150,
+ "generated": "2026-11-08T04:57+00:00",
+ "count": 152,
  "items": [
   {
    "title": "Canadian Spine SocietyLongitudinal changes in comprehensive radiographic parameters following short-segment surgery (1–2 levels) for degenerative lumbar spondylolisthesisMeasuring spinopelvic parameters in patients with 6 lumbar vertebrae: a matched comparison of asymptomatic volunteersSupervised and unsupervised machine learning reveals distinct clinical phenotypes across degenerative lumbar conditions: sex-specific clustering for personalized surgical careDoes disc degeneration matter? Outcomes of decompression-alone surgery in low-grade spondylolisthesisIntervertebral disc degeneration in humans: altered peripheral immune cell profile in patients and inflammation-mediated matrix metalloproteinase upregulation in human disc cellsDomino toppling: when the disruption of one disc negatively impacts its neighbour. An investigation into the mechanism of adjacent segment diseaseMultimodal analgesia after surgery for thoracolumbar spinal stenosisLumbar foraminal morphology can affect outcomes of indirect decompression: a novel classificationPredictors of intraoperative vascular complications during anterior lumbar spinal exposure: a retrospective analysisHigher rates of fusion with porous titanium than with polyetheretherketone (PEEK) lumbar interbody cages: a retrospective cohort studyCan measuring preoperative postvoid urine residual values influence care in patients undergoing elective spine surgery?To respond or not to respond: the many faces of recovery after lumbar spine surgeryPostoperative outcomes in primary versus revision lumbar decompressive surgery: a propensity-matched analysisWhat are the barriers and enablers influencing physical activity among patients awaiting spine surgery? A qualitative study guided by the Theoretical Domains FrameworkEffects of childbearing on spinopelvic alignmentClinical and radiological outcomes of biportal endoscopic lumbar interbody fusion using oblique lateral interbody fusion-type cage: preliminary results and learning curve analysisArtificial intelligence for spine surgery education: a comparative analysis of ChatGPT and DeepSeek performanceSpineNavigator: a surgeon-trained large language model to enhance communication and patient education in spine surgeryDoes comorbidity count, ASA score, or Quan-modified Charlson Comorbidity Index score better predict morbidity after elective spinal surgery?Factors associated with perioperative adverse events in patients with degenerative lumbar spondylolisthesisImplementation of an awake spine surgery program in Canada: lessons learned from the surgeon’s perspectiveLongitudinal finite mixture models for mining complex prognostic phenotypes of degenerative cervical myelopathyEnvironmental impacts of a cervical laminectomy and fusion procedure from first consultation to patient recovery: insights from a life cycle assessmentReframing mild degenerative cervical myelopathy: insights from a latent profile analysisPredictive algorithm for treatment recommendation between operative and nonoperative management in mild degenerative cervical myelopathyMachine learning classification of patients with degenerative cervical myelopathy into clinically relevant clusters and development of an adoptable clinical algorithmReassessing the minimal clinically important differences of patient-reported outcomes in cervical myelopathy: a patient-centred approach from the Canadian Spine Outcomes and Research NetworkCurrent practices in return-to-play recommendations for recreational athletes following cervical spine surgeries: a preliminary global surveyCage subsidence and fusion in ACDF, a comparison between autograft, allograft, and synthetic cagesQuantifying cervical cord deformation with automated MRI: validation and clinical correlates in degenerative cervical myelopathyThe impact of estrogen replacement therapy on revision rates and outcomes after anterior cervical discectomy and fusion: a propensity-matched cohort studyImaging biomarkers derived using artificial intelligence pipeline–enhanced prognostication of patients undergoing surgery for nontraumatic spinal cord injury due to degenerative cervical myelopathyWhat patients expect and what they experience: symptom-specific expectation fulfillment and functional recovery in degenerative cervical myelopathy. A retrospective analysis of prospectively collected data from the multicentre Canadian Surgical Spine RegistryBiomechanical comparison of 7 occipital–cervical fixation constructs using finite element analysisOutpatient anterior cervical decompression and fusion: a survey of Canadian surgeonsNational trends in surgical approach for degenerative cervical myelopathy and associated inpatient costsVariability of mechanism of mechanical complications between low-thoracic to pelvis and lumbar to pelvis fusions accurately predicted by musculoskeletal analysisOutcomes of circumferential minimally invasive technique versus open technique in adult spinal deformity surgery patients over 80 years of age: a",
@@ -1734,6 +1734,31 @@
     ],
     "novelty": [
      "pilot"
+    ]
+   }
+  },
+  {
+   "title": "Population-scale machine learning models to estimate individual-level risk for acute respiratory infection",
+   "summary": "Summary / AbstractO_ST_ABSBackgroundC_ST_ABSModels based on administrative population health records can help improve understanding of disease and hospitalisation risk. This understanding can support evidence-based population health policy and processes. Influenza and other acute respiratory diseases place a large, inequitable burden on the New Zealand population and health care resources. We have developed and evaluated models using retrospective New Zealand hospitalisation records linked to other administrative data.\n\nMethodsWe analysed linked annual records for approximately 4{middle dot}85",
+   "url": "https://doi.org/10.64898/2026.10.23.26366351",
+   "date": "2026-10-26",
+   "source": "medrxiv",
+   "id": "9129cef7ae362a9e",
+   "feed": "medRxiv – health informatics",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-08",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "machine learning"
+    ],
+    "industry": [
+     "port",
+     "hospital"
+    ],
+    "novelty": [
+     "record"
     ]
    }
   },
@@ -3637,6 +3662,27 @@
     ],
     "industry": [
      "healthcare"
+    ]
+   }
+  },
+  {
+   "title": "Scalable high-density tactile arenas for measuring ground-contact forces in freely moving animals",
+   "summary": "Understanding how animals physically interact with their environment is fundamental to studying movement, sensorimotor control, and neurological function. Yet most behavioral measurement systems primarily capture movement and posture, while direct measurements of contact forces often require specialized instrumentation or involve trade-offs among spatial coverage, resolution, and acquisition speed. Here, we introduce a scalable tactile sensing platform that transforms the surface beneath freely moving animals into a high-resolution contact-imaging instrument. By combining modular sensor arrays",
+   "url": "https://doi.org/10.64898/2026.10.22.760735",
+   "date": "2026-10-25",
+   "source": "biorxiv",
+   "id": "a639718ee4419539",
+   "feed": "bioRxiv – bioengineering and synthetic biology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-08",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "sensor"
+    ],
+    "novelty": [
+     "scalable"
     ]
    }
   },

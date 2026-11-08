@@ -184,7 +184,10 @@ def main():
             n_new += 1
         status.append({"feed": feed["name"], "url": feed["url"], "ok": err is None, "items": len(items), "new": n_new, "error": err})
 
-    save(os.path.join("inbox", TODAY + ".json"), sorted(new, key=lambda x: -x["score"]))
+    day = load(os.path.join("inbox", TODAY + ".json"), [])
+    have = {x["id"] for x in day}
+    day += [x for x in new if x["id"] not in have]
+    save(os.path.join("inbox", TODAY + ".json"), sorted(day, key=lambda x: -x["score"]))
     week = []
     for i in range(7):
         day = (NOW - dt.timedelta(days=i)).date().isoformat()

@@ -1,5 +1,642 @@
 {
- "generated": "2026-11-08T22:14+00:00",
- "count": 0,
- "items": []
+ "generated": "2026-11-08T22:36+00:00",
+ "count": 22,
+ "items": [
+  {
+   "title": "Apptronik milestone: coverage of Apollo 2 learning platform and Robot Park training centres",
+   "summary": "Space Group reports Apptronik’s announcements around the Apollo 2 learning platform and expanded Robot Park training facilities (data-collection/training hubs) and notes the company’s partnership ties with Google DeepMind.",
+   "url": "https://www.spacegroup.no/apptronik-reaches-major-milestone-in-the-race-to-humanoid-robots/",
+   "id": "907fb1ae25e431a5",
+   "source": "Space Group (coverage of Apptronik)",
+   "date": "2026-11-07",
+   "why": "Scaling dedicated data-collection and training facilities plus platform iterations (Apollo 2) show how humanoid makers are building the physical+model feedback loops necessary for real-world deployments.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 8,
+   "hits": {
+    "event": [
+     "partnership"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Apptronik",
+     "Google",
+     "Google DeepMind"
+    ]
+   }
+  },
+  {
+   "title": "French‑Ukrainian Alta Ares wins six of 16 lots in NATO counter‑drone framework",
+   "summary": "Industry reporting (summarised by Hoverla) says Alta Ares secured six of the 16 framework lots in NATO’s new Drone Edge counter‑UAS marketplace, placing its detection/C2 and interceptor products on the Alliance catalog so members can order or lease them without running new national tenders. ",
+   "url": "https://hoverla.io/beacon/signals/alta-ares-secures-six-nato-counter-drone-framework-lots-and-deepens-ukraine-footprint/",
+   "id": "1de947801fc431bc",
+   "source": "Hoverla Advisory",
+   "date": "2026-11-07",
+   "why": "Entry onto NATO’s fast‑track procurement catalog gives a smaller defence / counter‑drone company immediate access to allied buyers and speeds delivery of proven C‑UAS capabilities to the eastern flank.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 8,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "tech": [
+     "drone"
+    ],
+    "industry": [
+     "port",
+     "nato"
+    ],
+    "companies": [
+     "Alta Ares"
+    ]
+   }
+  },
+  {
+   "title": "TAD Tracker update: robotaxi projects in Europe (map updated; Cybercab display tour noted)",
+   "summary": "TAD Tracker’s Europe robotaxi page (last updated 2026-11-07) summarises live/pilot robotaxi activity across Europe (Zagreb, London, Zurich, Hamburg among others) and notes Tesla’s Cybercab is on a public Europe display tour (Nov 2026–Jan 2027) though no European rides/sales have been announced.",
+   "url": "https://tad-tracker.eu/en/robotaxi/",
+   "id": "c078fb9afaf98fb5",
+   "source": "TAD Tracker Europe",
+   "date": "2026-11-07",
+   "why": "A consolidated, dated snapshot of European robotaxi pilots, permits and display tours is a practical indicator of regulatory progress, city-level deployments and vendor activity in autonomous passenger mobility.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 7,
+   "hits": {
+    "event": [
+     "pilot"
+    ],
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Swedish AI startup Thinking Machines closes major capital round at significantly higher valuation",
+   "summary": "EU Startups reports Thinking Machines is on the verge of completing a large Series C+ round valuing the company at roughly 50 billion SEK (≈USD 4.5bn), representing a major new infusion of capital for the firm.",
+   "url": "https://eustartups.news/swedish-ai-startup-thinking-machines-closes-major-capital-round-at-significantly-higher-valuation/",
+   "id": "ee453e1a0fdf2ccb",
+   "source": "EU Startups",
+   "date": "2026-11-07",
+   "why": "A very large late-stage raise (and valuation re-rating) signals strong investor appetite for model/AI companies and could accelerate foundation-model and agent deployments in Europe.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "series c"
+    ],
+    "tech": [
+     "fusion"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "swedish",
+     "eu "
+    ]
+   }
+  },
+  {
+   "title": "Musk says Tesla will probably rent Optimus and forecasts humanoids could deliver 5x human weekly output",
+   "summary": "RobotsBeat coverage of Elon Musk’s Nov. 6 Baron Investment Conference comments reports Musk said Tesla will likely rent rather than sell Optimus humanoid robots, estimated initial build costs around $20–30k, and argued mature humanoids could deliver roughly 5× a human’s weekly output.",
+   "url": "https://robotsbeat.com/musk-humanoid-robots-5x-productivity-baron-2026/",
+   "id": "1871a7ce22448be0",
+   "source": "RobotsBeat",
+   "date": "2026-11-07",
+   "why": "If Tesla pursues a rental/RaaS model and reiterates aggressive cost and productivity targets, it materially affects the business model, adoption path and competitive dynamics for humanoid robotics.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "robot",
+     "humanoid"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Nacka municipality installs its first battery storage system to support crisis resilience",
+   "summary": "The municipality of Nacka (Stockholm region, Sweden) installed its first battery storage system at the Sigfridsborg school security point to provide electricity during major power outages; the installation was reported in a municipal press release and local media. ",
+   "url": "https://www.mitti.se/nyheter/forsta-batterilagret--ska-hjalpa-vid-kris-6.3.393314.f859faa360",
+   "id": "65355fbc8d5b637c",
+   "source": "Mitt i (local Swedish news)",
+   "date": "2026-11-07",
+   "why": "Local deployment of battery storage for civil‑defence/resilience shows municipal-level adoption of energy storage for emergency services and grid‑outage mitigation.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "outage"
+    ],
+    "tech": [
+     "battery"
+    ],
+    "industry": [
+     "port",
+     "municipal"
+    ],
+    "geo": [
+     "sweden"
+    ]
+   }
+  },
+  {
+   "title": "U.S. officials press China to fulfil Busan rare-earth and agriculture pledges as Nov.10 legal pause nears",
+   "summary": "U.S. Trade Representative Jamieson Greer and Treasury Secretary Scott Bessent held a videoconference with Chinese Vice Premier He Lifeng, urging Beijing to accelerate deliveries of rare earths and other critical minerals after U.S. agencies concluded China had fulfilled roughly two‑thirds of its pledged volumes; the call came three days before China’s one‑year suspension of certain October 2025 export controls is written to expire on Nov. 10, 2026.",
+   "url": "https://eastasiabrief.com/energy-minerals/us-presses-china-rare-earth-shipments-ahead-nov-10-1209",
+   "id": "c0ed2e3584493892",
+   "source": "East Asia Brief",
+   "date": "2026-11-07",
+   "why": "Signals near‑term risk of snapback in Chinese rare‑earth export controls that could disrupt magnet, battery and high‑tech supply chains.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control"
+    ],
+    "tech": [
+     "rare earth",
+     "critical mineral"
+    ],
+    "industry": [
+     "bus",
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "Finnish Geospatial Research Institute paper shows Galileo OSNMA authentication degraded by real-world jamming",
+   "summary": "Researchers at the Finnish Geospatial Research Institute (FGI) published a measurement study of GNSS interference recorded in eastern Estonia showing that high‑power jamming degraded Galileo Open Service Navigation Message Authentication (OSNMA), causing satellite‑specific authentication failures and reduced overall authentication availability; the team released raw I/Q and receiver logs as an open dataset. ",
+   "url": "https://www.cybernews.space/articles/galileo-onsma-impacted-by-jamming-finnish-geospatial-research-institute",
+   "id": "617f960301599537",
+   "source": "cybernews.space",
+   "date": "2026-11-07",
+   "why": "Demonstrates a real-world vulnerability where jamming—not spoofing—can disable GNSS signal authentication, with direct implications for PNT resilience across civilian and military systems in the Baltic/Nordic region.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 5,
+   "hits": {
+    "event": [
+     "researchers"
+    ],
+    "tech": [
+     "satellite",
+     "gnss"
+    ],
+    "geo": [
+     "finnish",
+     "estonia"
+    ]
+   }
+  },
+  {
+   "title": "Swedish legaltech startup Lawster secures 7 million SEK in seed funding from tech angels",
+   "summary": "EU Startups reports Stockholm-based Lawster has closed a 7 million SEK seed round from a group of technology angels to develop its AI-powered subscription legal services platform.",
+   "url": "https://eustartups.news/swedish-legaltech-startup-lawster-secures-7-million-sek-in-seed-funding-from-tech-angels/",
+   "id": "d49efd08a7fed328",
+   "source": "EU Startups",
+   "date": "2026-11-08",
+   "why": "Early-stage funding for an AI legaltech startup in Sweden highlights continued investor interest in Nordic AI-enabled vertical SaaS and productizing domain-specific agents.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "event": [
+     "seed round"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "swedish",
+     "eu "
+    ]
+   }
+  },
+  {
+   "title": "MP Materials says it completed GM magnet qualification as NdPr sales surged",
+   "summary": "Industry reporting notes MP Materials completed the qualification process for magnets destined for General Motors and reported sharply higher neodymium‑praseodymium (NdPr) production and sales in Q3 2026, with MP saying saleable magnet deliveries and related revenue will commence in Q4 2026.",
+   "url": "https://www.samarium.dev/news/mp-materials-completes-gm-magnet-qualification-as",
+   "id": "9c13fb52fd6d6300",
+   "source": "Samarium (industry news)",
+   "date": "2026-11-08",
+   "why": "Represents a material downstream milestone in bringing non‑China magnet supply online, with implications for EV and defence supply chains reliant on NdPr magnets.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "General Motors",
+     "MP Materials"
+    ]
+   }
+  },
+  {
+   "title": "Live trackers report elevated GNSS interference over Finland (live map updated)",
+   "summary": "GPSInterference.com’s Finland region page showed major GNSS degradation with the site reporting 49.2% of monitored Finnish areas affected and a ‘last updated’ timestamp of 08 November 2026 04:47 UTC (detailed per‑airport/altitude statistics). ",
+   "url": "https://gpsinterference.com/region/finland",
+   "id": "212109ce9f703cdf",
+   "source": "GPSInterference.com",
+   "date": "2026-11-08",
+   "why": "Confirms ongoing, measurable GNSS disruption in Finnish airspace and nearby Baltic areas—critical operational intelligence for aviation, maritime, autonomous systems and defence actors.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "gnss"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "finland",
+     "finnish"
+    ]
+   }
+  },
+  {
+   "title": "TechRadar: Nvidia reportedly tells data‑centre customers to trim exposure to Chinese market",
+   "summary": "TechRadar reported that Nvidia has advised some data-centre customers to reduce or exit exposure to the Chinese market amid growing regulatory and political scrutiny of AI‑GPU exports to China, reflecting concerns about export‑control compliance and downstream use.",
+   "url": "https://www.techradar.com/pro/nvidia-reportedly-tells-data-center-customers-to-trim-exposure-to-the-chinese-market",
+   "id": "c5f431bebc893273",
+   "source": "TechRadar",
+   "date": "2026-11-07",
+   "why": "Directly affects AI data‑centre operators and customers worldwide and signals industry-level responses to evolving chip export controls.",
+   "group": "Compute, chips and connectivity",
+   "domain_hint": "Compute",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "radar",
+     "gpu"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "Nature Communications — near-ambient sulfide all‑solid‑state lithium metal batteries (paper published)",
+   "summary": "Researchers published a Nature Communications paper demonstrating near-ambient (≤0.3 MPa, room temperature) operation of sulfide all‑solid‑state lithium‑metal batteries using combined electrolyte/current‑collector design to reduce dendrite formation and interfacial degradation. ",
+   "url": "https://doi.org/10.1038/s41467-026-79393-w",
+   "id": "b42c594a268368ce",
+   "source": "Nature Communications",
+   "date": "2026-11-07",
+   "why": "A peer‑reviewed step toward practical all‑solid‑state Li‑metal batteries addresses a key technical barrier for higher‑energy, safer batteries (relevant to solid‑state battery development roadmaps).",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "event": [
+     "researchers",
+     "demonstrat"
+    ],
+    "tech": [
+     "lithium"
+    ]
+   }
+  },
+  {
+   "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+   "summary": "Associated Press reports that officials at the Commerce Department’s AI safety unit (CAISSI / the U.S. Center for Advancing Innovation and Standards for Super Intelligence) have been asked to informally report to a White House office; the centre lacks a permanent director and has paused publishing its research.",
+   "url": "https://apnews.com/article/d3318eb2cf011df53e9ddb3e03d25f13",
+   "id": "13c0af04a43f76f0",
+   "source": "Associated Press",
+   "date": "2026-11-08",
+   "why": "Centralising oversight of a national AI-safety body under the White House risks politicising independent evaluations and affects how model safety and regulation will be enforced.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 3,
+   "hits": {
+    "event": [
+     "standard"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Elcogen and Hygreen Energy sign MoU to explore solid‑oxide stack integration and megawatt‑scale demos",
+   "summary": "Elcogen (Estonia) signed a Memorandum of Understanding with Hygreen Energy (Beijing) to explore integrating Elcogen solid‑oxide stack technology into Hygreen systems, with plans to accelerate development and testing toward larger megawatt‑scale demonstrations over the next two years. ",
+   "url": "https://www.indexbox.io/blog/elcogen-and-hygreen-energy-sign-mou-on-solid-oxide-stack-integration/",
+   "id": "16b3000e2d30f2bb",
+   "source": "IndexBox (reporting Hydrogen Central/industry sources)",
+   "date": "2026-11-08",
+   "why": "An industry MoU advancing solid‑oxide electrolysis/fuel‑cell stack integration targets higher‑temperature electrolyser pathways and potential megawatt‑scale demonstrations relevant to hydrogen production scaling.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 3,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "geo": [
+     "estonia"
+    ]
+   }
+  },
+  {
+   "title": "New York Times: U.S. cleared Nvidia H200 chips to Chinese firms with empty offices and troubling ties",
+   "summary": "The New York Times reported that the U.S. Commerce Department issued licenses this year allowing about two dozen Chinese companies to handle Nvidia H200 AI chips; reporters found at least two listed licensees (named New Matrix and Maginfra) with apparently vacant offices and corporate links that analysts say tie them to firms previously flagged for national-security concerns.",
+   "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+   "id": "ab864eac627dcd98",
+   "source": "The New York Times",
+   "date": "2026-11-07",
+   "why": "Raises concrete questions about the robustness of recent chip-export licensing and vetting procedures, with implications for semiconductor export controls and supply-chain security.",
+   "group": "Compute, chips and connectivity",
+   "domain_hint": "Compute",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 3,
+   "hits": {
+    "tech": [
+     "chip"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Eurobattery Minerals board member and CEO remanded in custody in Sweden",
+   "summary": "Eurobattery Minerals AB (Sweden) announced that a board member and its CEO, Roberto García Martínez, have been remanded in custody; the company said it had no further details at publication. ",
+   "url": "https://investors.eurobatteryminerals.com/en/press-releases/eurobattery-minerals-board-member-and-ceo-remanded-in-custody-in-sweden/",
+   "id": "85b376832e7dcc23",
+   "source": "Eurobattery Minerals (Investor Relations)",
+   "date": "2026-11-07",
+   "why": "Corporate governance and legal trouble at a European battery-miner developer is a material setback for supply-chain security and investor confidence in battery raw‑materials in the region.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 3,
+   "hits": {
+    "tech": [
+     "battery"
+    ],
+    "geo": [
+     "sweden"
+    ]
+   }
+  },
+  {
+   "title": "Nature Communications — thin lithium negative electrodes enabled by nanofluid wetting (paper published)",
+   "summary": "A Nature Communications paper published 7 November reports a nanofluid‑wetting approach to enable thin (≤20 µm) lithium negative electrodes on Cu, improving processability and cycling life for high‑energy lithium‑metal batteries. ",
+   "url": "https://doi.org/10.1038/s41467-026-79376-x",
+   "id": "7ab72b9045250fc6",
+   "source": "Nature Communications",
+   "date": "2026-11-07",
+   "why": "Technique for producing thin Li negative electrodes could materially affect energy‑density targets and manufacturability for next‑generation lithium metal batteries.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 3,
+   "hits": {
+    "tech": [
+     "lithium"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "NATO opens counter‑drone (C‑UAS) marketplace under Drone Edge, listing 16 pre‑vetted systems",
+   "summary": "Multiple outlets report NATO’s Communications and Information Agency published a Drone Edge C‑UAS marketplace/catalog of 16 pre‑selected systems from five companies (allowing Allies to procure/lease without separate tenders and with an 18‑month framework). ",
+   "url": "https://www.aerotime.aero/articles/nato-counter-drone-marketplace-16-systems/amp",
+   "id": "0fa41781d333d3d3",
+   "source": "AeroTime",
+   "date": "2026-11-07",
+   "why": "Creates a procurement channel to accelerate allied acquisition of counter‑drone systems—material to defence planners and to startups/scale‑ups competing for framework lots and follow‑on orders.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 3,
+   "hits": {
+    "tech": [
+     "drone"
+    ],
+    "industry": [
+     "port",
+     "nato"
+    ]
+   }
+  },
+  {
+   "title": "Flight‑tracking service publishes GPS‑jamming / interference map covering Northern Europe",
+   "summary": "Flightradar24’s GPS jamming & interference map (updated continuously) documents NIC‑derived indicators of degraded navigation quality over regions including the Baltic/Nordic corridor (map page refreshed on and around 2026‑11‑07). ",
+   "url": "https://www.flightradar24.com/data/gps-jamming",
+   "id": "541c06a57e34205e",
+   "source": "Flightradar24",
+   "date": "2026-11-07",
+   "why": "Public, aircraft‑derived mapping of GNSS integrity problems provides corroborating, near‑real‑time evidence of jamming/interference hotspots that matter to operators, regulators and defence planners in the region.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 3,
+   "hits": {
+    "tech": [
+     "radar",
+     "gps jamming"
+    ],
+    "geo": [
+     "nordic"
+    ]
+   }
+  },
+  {
+   "title": "Cointelegraph (via Semafor reporting): Congressional scrutiny and export‑control risk for Nvidia after intelligence and licensing reporting",
+   "summary": "Coverage reports (citing Semafor and other outlets) that U.S. House committee chairs have sought closed briefings with Nvidia’s CEO and that lawmakers and senators signalled increased scrutiny of Nvidia’s China sales following intelligence reporting and investigative stories about licensed Chinese H200 handlers.",
+   "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report",
+   "id": "4d5e0f1e77e69182",
+   "source": "Cointelegraph (reporting on Semafor/press coverage)",
+   "date": "2026-11-07",
+   "why": "Elevates the political and regulatory risk around advanced‑AI chip exports and could prompt tighter export‑control enforcement or new restrictions affecting global semiconductor supply and AI infrastructure deployments.",
+   "group": "Compute, chips and connectivity",
+   "domain_hint": "Compute",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 2,
+   "hits": {
+    "industry": [
+     "port",
+     "nato"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "U.S. Commerce’s BIS extends suspension of the ‘Related Entity/Affiliates’ rule to Jan.10,2027 (reported)",
+   "summary": "Reports (citing JETRO and regulatory filings) show the U.S. Bureau of Industry and Security moved to extend the suspension of its Affiliates/Related‑Entity rule — which would otherwise have resumed in early November — pushing the effective date to January 10, 2027, delaying the 50%‑ownership screening requirement for transactions with Entity‑List‑connected firms.",
+   "url": "https://note.com/trade_news/n/nd72a98b4ecc1?hl=en",
+   "id": "91874964f583941c",
+   "source": "note.com (trade_news summary of JETRO/Federal Register reporting)",
+   "date": "2026-11-07",
+   "why": "Alters the export‑control legal calendar for companies trading dual‑use tech and critical‑minerals inputs, reducing immediate compliance shock from a November snapback.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 1,
+   "hits": {
+    "industry": [
+     "port"
+    ]
+   }
+  }
+ ]
 }

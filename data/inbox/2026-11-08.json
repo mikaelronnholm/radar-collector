@@ -2653,6 +2653,25 @@
   }
  },
  {
+  "title": "Audi is testing humanoid robots to sort car parts at Ingolstadt - The Gadgeteer",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQenZfSTh5TzI1b3J6SjBYT3NNQ081NXhjeVRvN3pFTVFUYm1ZSUhHcks0Ui1tWFZVZ1pwQndIQWUwLXdmWkltdjlxajYtUEhiWlU2LWtzR0RhVG44dm0xdGR4VWt5UUV5cUptWV9UM1FXTTJ0SzZqeHl3TFpNMHBHd0tSVld4WE56bnBraDBTYmIzRkFsTTR5UGVsNnlPZHV5d2VJ?oc=5",
+  "date": "2026-11-07",
+  "source": "The Gadgeteer",
+  "id": "3527786ebd2d15e4",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-08",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "robot",
+    "humanoid"
+   ]
+  }
+ },
+ {
   "title": "Report: Nvidia Could Face Tougher U.S. Policy After Election - Menafn",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkFDMlBKU1FtODVScjJKRHprRHNjMzFPYlJMRHU3UWtXdWtNdGJkX25Db1ZiRV9UNUJ3bGkzd05sX3puM0tqU0pzbG1ENDRpbk8tYzViRmlxLXhOWm9UZmMzV3hKRk5FVUdQOGJzRmhBbnVOT3NyTEZsa2xJdVZxaHViV0djTHkxakw5MTZHWjk?oc=5",
@@ -3801,6 +3820,20 @@
   "source": "https://dominotheory.com/",
   "id": "2543258616965234",
   "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-08",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "German automaker Audi is pushing for investment of up to KRW 9 trillion in new factories to be built.. - 매일경제",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93Yjlka1dHc0Q5Rk95MjA3d3RRLVpNckp4dWF6LXBIdWV6bm9LWERWSHg2TWRjbzd0Sjdfel9XdzVyeFRKVkdoekhOYkRhbnc?oc=5",
+  "date": "2026-11-06",
+  "source": "매일경제",
+  "id": "7626babc488aa0a4",
+  "feed": "Google News: factory investment OR gigafactory Europe",
   "kind": "news",
   "domain_hint": "",
   "collected": "2026-11-08",

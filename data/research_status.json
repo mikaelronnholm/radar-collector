@@ -1,12 +1,12 @@
 {
- "run": "2026-11-08T22:36+00:00",
+ "run": "2026-11-09T05:10+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
    "type": "rss",
    "ok": true,
    "items": 80,
-   "new": 0,
+   "new": 59,
    "error": null
   },
   {
@@ -14,7 +14,7 @@
    "type": "rss",
    "ok": true,
    "items": 80,
-   "new": 0,
+   "new": 75,
    "error": null
   },
   {
@@ -22,7 +22,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 0,
+   "new": 7,
    "error": null
   },
   {
@@ -30,7 +30,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 0,
+   "new": 31,
    "error": null
   },
   {
@@ -38,7 +38,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 0,
+   "new": 5,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 0,
+   "new": 15,
    "error": null
   },
   {
@@ -54,7 +54,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 0,
+   "new": 11,
    "error": null
   },
   {
@@ -62,7 +62,7 @@
    "type": "rss",
    "ok": true,
    "items": 50,
-   "new": 0,
+   "new": 7,
    "error": null
   },
   {
@@ -126,7 +126,7 @@
    "type": "rxiv",
    "ok": true,
    "items": 3,
-   "new": 0,
+   "new": 3,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
@@ -164,6 +164,6 @@
  ],
  "ok": 19,
  "failed": 1,
- "new_items": 0,
- "kept": 158
+ "new_items": 214,
+ "kept": 181
 }

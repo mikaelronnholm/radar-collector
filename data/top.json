@@ -1,7 +1,38 @@
 {
- "generated": "2026-11-08T22:36+00:00",
+ "generated": "2026-11-09T05:10+00:00",
  "count": 200,
  "items": [
+  {
+   "title": "Kimm established “Korea opens its first AI Humanoid Data Factory “ - Cyprus Shipping News",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVDJ3cWg3eXdiU0MwQVp1clREdXNnbVlwcGgwVmVueEhGdE1BRE5tUXJwNHM5RDd6RklSWVpYamdielZoOTVMT2pURE9lbGZZU21HMVFYUmVTQzRDVWlyRnVmdlhULUNNWHBZZXVEcEFIVkQyRlpsM2lrRlNlOXFRZl9PaFIwM296amdjaHNfN1ZqckI0WHJfS1ctTWFKVHdYaHl5RlRZd2lIdw?oc=5",
+   "date": "2026-11-09",
+   "source": "Cyprus Shipping News",
+   "id": "d101f4ad4113552a",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-09",
+   "score": 9,
+   "hits": {
+    "event": [
+     "factory"
+    ],
+    "tech": [
+     "humanoid"
+    ],
+    "industry": [
+     "shipping",
+     "factory"
+    ],
+    "geo": [
+     "korea"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
   {
    "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
    "summary": "",
@@ -787,6 +818,34 @@
     ],
     "companies": [
      "LG Energy Solution"
+    ]
+   }
+  },
+  {
+   "title": "South Korea's shrinking workforce opens factory doors to Chinese humanoid robots - The Cool Down",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmRXNkxQUTNFVUVTdG9MaEw2SmNQRWFlNFR6Y2NWQzB6SVNfNGE3NnJKSWZtbVVJclpZaEk0NS1HaG1kRWpCX0hNY2tfdGpReUpINVEtVm1FZTdYejVPWmppTHBYYy1qZlZpY1FibWJjcDlIUUFFNTNqSW9yeTZqd2VBbVlwaFVIXzB3?oc=5",
+   "date": "2026-11-09",
+   "source": "The Cool Down",
+   "id": "781b481b186d96b8",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-09",
+   "score": 6,
+   "hits": {
+    "event": [
+     "factory"
+    ],
+    "tech": [
+     "robot",
+     "humanoid"
+    ],
+    "industry": [
+     "factory"
+    ],
+    "geo": [
+     "korea"
     ]
    }
   },
@@ -1901,6 +1960,79 @@
     ],
     "companies": [
      "Waymo"
+    ]
+   }
+  },
+  {
+   "title": "U.S. Sanctions, AI Boom Cut Semiconductor Sales to China - 조선일보",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZV9WQU1SQVNZNUJzRHVWNWZmT3pTY0Jfdy1PM0xKLTRWVkYtaVQ0SEkzN2FfaFJRZUpzM1lFd0RTZFp5TUl2U0pDRTR3TFpyNnMtOUpaZEFDczNoanRPSDU5dlEwdVROSFhzYjBZLXU2SmVvb0Y5cFFtRm9TaVRHMTBNcFNJSjRu?oc=5",
+   "date": "2026-11-09",
+   "source": "조선일보",
+   "id": "e8e59c05f8dedad4",
+   "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-09",
+   "score": 5,
+   "hits": {
+    "event": [
+     "sanction"
+    ],
+    "tech": [
+     "semiconductor"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "Stablecoin Regulatory Frameworks, Travel Rule, Bitcoin ETFs, and Ethereum (ETH) Tokenization Analyzed in Crypto Regulation Report - Crowdfund Insider",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQXBDMUFPbFhYczZxZ1doQWw2YmJ3VWlxR1FCemtNVGxWZ0tPOUg0OTQ5WTgwSnREUTB1aHZUX1ZZbW5VN1hxUHNTcXBMT0NvcUZkblk1andRbmlMSVEteVJwakR0S25SSnlaeEM2dWZNWDJILWotYi13clc0OHJnWTR5YkctRGFodlB6eHA5N0t0RzRFeEhkNHFaRzMwWkhKa1NHalE5RTNfTWl0OGQ1NzlaNUFaSlBMUExVdkotc0x1M01iaXFQU19Nc1lRZWhQejJyN1ZOTXZ4OGdHakRXZjE3X0gyMlhZQThha0lTOVdOMDJPZ0xiVk43YVQzNzFtSE9z?oc=5",
+   "date": "2026-11-09",
+   "source": "Crowdfund Insider",
+   "id": "080fe8e37c05cfe4",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-09",
+   "score": 5,
+   "hits": {
+    "event": [
+     "regulation"
+    ],
+    "tech": [
+     "stablecoin",
+     "tokeniz"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Morgan Stanley reiterates Tesla stock Equalweight on trucking outlook By Investing.com - Investing.com UK",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ0s3cFVPdGlCVXRUTVN6azA2VWlib3NaX3ZhWHRYcWk3c20ySDdTaEtyRlFwbHRqeWxTVUJBSzlEQ1hiU1RlbDd6LUkySEZCTEFTSTBFcWVJaWVsaTd6dkJHdDNoYnZzSFhBM0dITzNNUVZnRzFCa2tVX21acmMyUElWTEJ3X2xadE9sV3Z2MU4wY0ZvMDZRZkdjX3ZzSVFianlfNFR0bXN6d1NLN0JUVE5CYTZTWGRELXE5ZEI3QXlaaXk0bnJrMUtR?oc=5",
+   "date": "2026-11-08",
+   "source": "Investing.com UK",
+   "id": "40045a86ec23f95e",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-09",
+   "score": 5,
+   "hits": {
+    "industry": [
+     "truck"
+    ],
+    "geo": [
+     "uk "
+    ],
+    "companies": [
+     "Tesla"
     ]
    }
   },
@@ -4725,118 +4857,6 @@
     ],
     "industry": [
      "port"
-    ]
-   }
-  },
-  {
-   "title": "Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’",
-   "summary": "",
-   "url": "https://electrek.co/2026/10/28/tesla-robotaxi-houston-rocket-service-area-fake/",
-   "date": "2026-10-28",
-   "source": "",
-   "id": "98c1e959f251a88f",
-   "feed": "Electrek",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot",
-     "robotaxi"
-    ],
-    "companies": [
-     "Tesla"
-    ]
-   }
-  },
-  {
-   "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
-   "summary": "",
-   "url": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/",
-   "date": "2026-10-28",
-   "source": "",
-   "id": "8cd06832746334a3",
-   "feed": "Electrek",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "solid-state"
-    ],
-    "companies": [
-     "CATL"
-    ]
-   }
-  },
-  {
-   "title": "How Will Tokenisation Transform Cross-Border Payments and Settlement?",
-   "summary": "",
-   "url": "https://www.finextra.com/videoarticle/3631/how-will-tokenisation-transform-cross-border-payments-and-settlement?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "date": "2026-10-28",
-   "source": "",
-   "id": "c952e24ba224223f",
-   "feed": "Finextra",
-   "kind": "news",
-   "domain_hint": "Digital Finance",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "order"
-    ],
-    "tech": [
-     "tokenis"
-    ],
-    "industry": [
-     "payments"
-    ]
-   }
-  },
-  {
-   "title": "Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities",
-   "summary": "",
-   "url": "https://electrek.co/2026/10/27/waymo-expansion-250-square-miles-five-cities/",
-   "date": "2026-10-27",
-   "source": "",
-   "id": "f83e428a44d07a04",
-   "feed": "Electrek",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot",
-     "robotaxi"
-    ],
-    "companies": [
-     "Waymo"
-    ]
-   }
-  },
-  {
-   "title": "Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more",
-   "summary": "",
-   "url": "https://electrek.co/2026/10/27/musk-robotaxi-victory-waymo-austin-miles/",
-   "date": "2026-10-27",
-   "source": "",
-   "id": "5481d4e28c4d1a35",
-   "feed": "Electrek",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot",
-     "robotaxi"
-    ],
-    "companies": [
-     "Tesla",
-     "Waymo"
     ]
    }
   }

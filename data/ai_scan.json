@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-08T22:36+00:00",
- "count": 22,
+ "generated": "2026-11-09T05:11+00:00",
+ "count": 35,
  "items": [
   {
    "title": "Apptronik milestone: coverage of Apollo 2 learning platform and Robot Park training centres",
@@ -96,6 +96,67 @@
     ],
     "companies": [
      "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Potential investors push Anthropic to cut IPO valuation; roadshow timing put in doubt",
+   "summary": "Press reports on Nov 8, 2026 say institutional investors are urging Anthropic to accept a materially lower IPO valuation (reporting ranges discussed around $1.1T–$1.6T) and have raised doubts about whether the planned roadshow can start on schedule, putting the November listing plans at risk.",
+   "url": "https://newsglobalcanada.com/2026/11/08/anthropics-ipo-timing-in-doubt-due-to-ai-backlash-sources-say/",
+   "id": "4d9f960119fb6a08",
+   "source": "Global News Canada (reporting Reuters sources)",
+   "date": "2026-11-08",
+   "why": "Anthropic’s IPO timing/price affects public-market funding for a leading model developer and signals investor appetite for huge AI listings.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-09",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "raised",
+     "ipo"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Anthropic"
+    ]
+   }
+  },
+  {
+   "title": "LKAB begins hot commissioning of €73m critical‑minerals demonstration plant in Luleå, Sweden",
+   "summary": "Swedish state‑owned miner LKAB has begun operational (hot) commissioning and testing at its demonstration plant in Luleå to extract phosphorus and all 17 rare‑earth elements from apatite/iron‑ore by‑products; the facility represents an ~SEK 800m (≈€73m) investment and will collect data ahead of potential full‑scale industrial park plans.",
+   "url": "https://euromining.news/lkab-begins-testing-at-e73-million-minerals-plant-in-sweden/",
+   "id": "b8be00c0d9500f1e",
+   "source": "Europe Mining News (reporting on LKAB)",
+   "date": "2026-11-08",
+   "why": "Demonstration of domestic European rare‑earth and phosphorus processing could materially reduce reliance on foreign supply and is a concrete step toward building regional critical‑materials value chains.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-09",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "plant",
+     "demonstrat"
+    ],
+    "geo": [
+     "sweden",
+     "swedish"
+    ],
+    "companies": [
+     "LKAB"
     ]
    }
   },
@@ -230,6 +291,35 @@
    }
   },
   {
+   "title": "OpenAI reportedly closes $11 billion first tranche at a $1.25 trillion valuation",
+   "summary": "Bloomberg/other outlets reported that OpenAI has secured roughly $11 billion in the first close of a private funding round (part of a larger targeted raise), valuing the company at about $1.25 trillion; coverage of the wiring/first-close appeared in reporting published Nov 7–8, 2026.",
+   "url": "https://aifundingtracker.com/ai-funding-news-nov-7-8-2026/",
+   "id": "fcef4d7e957371e4",
+   "source": "AI Funding Tracker",
+   "date": "2026-11-07",
+   "why": "A very large private capital injection and $1.25T private mark materially affect competition for compute, talent and M&A in foundation models.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-09",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "funding round"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "OpenAI"
+    ]
+   }
+  },
+  {
    "title": "Finnish Geospatial Research Institute paper shows Galileo OSNMA authentication degraded by real-world jamming",
    "summary": "Researchers at the Finnish Geospatial Research Institute (FGI) published a measurement study of GNSS interference recorded in eastern Estonia showing that high‑power jamming degraded Galileo Open Service Navigation Message Authentication (OSNMA), causing satellite‑specific authentication failures and reduced overall authentication availability; the team released raw I/Q and receiver logs as an open dataset. ",
    "url": "https://www.cybernews.space/articles/galileo-onsma-impacted-by-jamming-finnish-geospatial-research-institute",
@@ -257,6 +347,36 @@
     "geo": [
      "finnish",
      "estonia"
+    ]
+   }
+  },
+  {
+   "title": "Lanthanides.io updates China rare‑earth export‑controls tracker (status and suspension timelines)",
+   "summary": "Lanthanides.io’s regulatory tracker shows the status of China’s multiple export‑control announcements affecting rare earths and related materials (including which measures remain active, which are suspended and the current suspension end dates), reflecting the evolving regulatory calendar that drives licensing risk for magnet and battery supply chains.",
+   "url": "https://www.lanthanides.io/regulatory/",
+   "id": "c391d914d82cd08e",
+   "source": "Lanthanides.io (regulatory tracker)",
+   "date": "2026-11-09",
+   "why": "A live, element‑level tracker of Chinese export‑control measures and suspension dates is an operationally useful signal for procurement, project scheduling and risk‑weighting of supply‑chain plans.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-09",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "battery",
+     "rare earth"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
     ]
    }
   },
@@ -344,6 +464,177 @@
     "geo": [
      "finland",
      "finnish"
+    ]
+   }
+  },
+  {
+   "title": "Physical Superintelligence says an AI system (using an unreleased Anthropic model) produced a Lean-verified proof of the Aaronson–Ambainis conjecture",
+   "summary": "Physical Superintelligence (PSI) announced that a research system it built — running multiple instances of an unreleased Anthropic model — produced a formal Lean-checked proof of the Aaronson–Ambainis conjecture; PSI published the paper and the Lean formalization and reports the run completed in days (coverage published Nov 8, 2026).",
+   "url": "https://www.tokenpost.com/news/technology/51976",
+   "id": "55fa675ee1c48dc6",
+   "source": "TokenPost",
+   "date": "2026-11-08",
+   "why": "An AI-driven, inspectable mathematical proof (with formal verification artifacts) is a concrete demonstration of AI being used to produce verifiable research breakthroughs and raises questions about reproducibility, model access and research workflows.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-09",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Anthropic"
+    ]
+   }
+  },
+  {
+   "title": "Google to take over Crusoe’s Wyoming site and develop a $17 billion AI campus with ~2.7 GW initial power capacity",
+   "summary": "Coverage on Nov 8, 2026 reports Google has taken control of an unfinished Crusoe site in Laramie County, Wyoming and plans a Project Tembo campus — a roughly $17B build with about 2.7 GW of initial power capacity (scalable plans up to multi-GW) and a linked 702 MW fuel-cell power arrangement.",
+   "url": "https://tilt.now/news/story/c1b0186f-7de5-56d8-815b-f4e49be58a26",
+   "id": "2162031dbade9d79",
+   "source": "Tilt",
+   "date": "2026-11-08",
+   "why": "Major hyperscaler investment of this scale expands on‑premises compute for large models and intensifies local permitting, power and supply-chain debates that affect AI deployment pace.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-09",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Crusoe",
+     "Google"
+    ]
+   }
+  },
+  {
+   "title": "Nous Research publishes Arete-27B (Qwen3.8-27B fine-tune) with public weights and evaluation",
+   "summary": "Nous Research released Arete-27B (a 27B supervised fine-tune of Qwen3.8-27B) and published weights and an 803-prompt ‘propaganda’ evaluation on Hugging Face; reported Nov 8, 2026, Nous claims the fine-tune cuts state‑aligned/propaganda‑style answers from ~22% to ~0.9% while retaining capability.",
+   "url": "https://theagenticweekly.com/news/nous-arete-27b",
+   "id": "4b782ed38c1a733a",
+   "source": "Agentic Weekly",
+   "date": "2026-11-08",
+   "why": "An open‑weight fine-tune that claims to remove state-aligned framing is significant for practitioners seeking high‑quality, auditable models and shows real-world experimentation with model ‘reframing’ at scale.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-09",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Nous Research"
+    ]
+   }
+  },
+  {
+   "title": "Swedish Maritime Administration issues NAVTEX update reporting GNSS, AIS, RADAR and DGPS interference across the Baltic Sea",
+   "summary": "Sjöfartsverket updated its navigational warnings on 2026-11-08 (Latest Update 2026-11-08 17:48 UTC), publishing a Baltic Sea navigational warning (BALTIC SEA NAV WARN 030/26) stating GNSS, AIS, radar and DGPS interference has been observed across the southern, central and northern Baltic including the Gulf of Finland and Gulf of Riga.",
+   "url": "https://navvarn.sjofartsverket.se/en/Navigationsvarningar/Navtex",
+   "id": "954f95df243c90d4",
+   "source": "Swedish Maritime Administration (Sjöfartsverket)",
+   "date": "2026-11-08",
+   "why": "Regional maritime authorities reporting multi-sensor GNSS/AIS/DGPS interference signals an ongoing or recent RFI/spoofing event that affects navigation safety and civil/military operations across the Baltic.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-09",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "radar",
+     "gnss"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "swedish",
+     "finland"
+    ]
+   }
+  },
+  {
+   "title": "NAVTEX (navtex.lv) bulletin republishes Baltic GNSS/AIS/DGPS interference notices (update 2026-11-08)",
+   "summary": "Navtex.lv logged and time-stamped NAVTEX broadcasts on 2026-11-08 that include the Baltic Sea NAV WARN 030/26 and Estonian NAV WARNs, explicitly reporting GNSS, AIS, radar and DGPS interference in the Gulf of Finland, Gulf of Riga and wider Baltic Sea areas.",
+   "url": "https://www.navtex.lv/",
+   "id": "1e2aefc9558602c3",
+   "source": "Navtex.lv (NAVTEX bulletins mirror)",
+   "date": "2026-11-08",
+   "why": "NAVTEX broadcasts are the operational maritime channel for issuing short-term navigational warnings — multiple NAVTEX entries on 2026-11-08 confirm the interference was being promulgated to mariners across several national authorities.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-09",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "radar",
+     "gnss"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "finland",
+     "estonia"
+    ]
+   }
+  },
+  {
+   "title": "Lithuanian ANS (Oro navigacija) NOTAMs: precautionary GNSS jamming/spoofing notice and AIP SUP trigger for military exercise (published on ANS LT page 2026-11-08)",
+   "summary": "The ANS Lithuania NOTAM list (page updated 2026-11-08) includes A7412/26 warning that “PRECAUTION - GNSS SIGNAL JAMMING AND SPOOFING CAN BE EXPECTED IN VILNIUS FIR” and A7408/26 which issues a TRIGGER NOTAM for AIP SUP 21/26 (international military exercise 'WESTERN RESOLVE 2026') effective 2026-11-19 — both entries are shown on the ANS LT NOTAM page.",
+   "url": "https://www.ans.lt/en/information-publications/notams-1",
+   "id": "24f3487074603199",
+   "source": "Oro navigacija / ANS Lithuania",
+   "date": "2026-11-08",
+   "why": "A national NOTAM warning of expected GNSS jamming/spoofing and a formal AIP SUP trigger for a multinational exercise both affect aviation and navigation planning — showing official acknowledgement and scheduled airspace restrictions tied to regional operations.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-09",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "gnss",
+     "spoofing"
+    ],
+    "industry": [
+     "military"
+    ],
+    "geo": [
+     "lithuania"
     ]
    }
   },
@@ -589,6 +880,32 @@
    }
   },
   {
+   "title": "InvestorNews publishes critical‑minerals briefing highlighting Nov.10 legal deadline for China’s export‑control suspension and several recent project FIDs/offtakes",
+   "summary": "InvestorNews (Nov 8) published a critical‑minerals report warning that the legal instrument suspending several China export‑control measures is due to lapse (Nov 10, 2026) and summarised near‑term, concrete industry events — including Freeport‑McMoRan’s $4.5bn Bagdad expansion decision and recent offtake/financing steps for tungsten and separation projects — that together tighten short‑term supply risk.",
+   "url": "https://investornews.com/critical-minerals-rare-earths/critical-minerals-report-two-elections-and-two-deadlines-changed-the-arithmetic-for-western-supply/",
+   "id": "40db4fbd7062a6ba",
+   "source": "InvestorNews",
+   "date": "2026-11-08",
+   "why": "Flags an immediate legal/registry deadline with direct operational and procurement implications for magnet, battery and defence supply chains and cites concrete FIDs/offtakes that change near‑term supply dynamics.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-09",
+   "status": "candidate",
+   "score": 2,
+   "hits": {
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
    "title": "Cointelegraph (via Semafor reporting): Congressional scrutiny and export‑control risk for Nvidia after intelligence and licensing reporting",
    "summary": "Coverage reports (citing Semafor and other outlets) that U.S. House committee chairs have sought closed briefings with Nvidia’s CEO and that lawmakers and senators signalled increased scrutiny of Nvidia’s China sales following intelligence reporting and investigative stories about licensed Chinese H200 handlers.",
    "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report",
@@ -616,6 +933,33 @@
    }
   },
   {
+   "title": "Binance tells some European users to withdraw crypto before fees kick in; affected accounts to close on Dec. 31",
+   "summary": "Binance informed users in some EU countries (reported by users in France, Spain, Italy and Poland) to withdraw assets before monthly maintenance fees begin on Nov. 29 and said affected accounts will be closed with effect from 2026-12-31; the company said it is progressively restricting services after failing to secure a MiCA authorisation. ",
+   "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end/",
+   "id": "5a57b661d8ecbc05",
+   "source": "CoinDesk",
+   "date": "2026-11-07",
+   "why": "Concrete evidence that MiCA’s transition is forcing major non‑authorised crypto platforms to restrict EU retail services, with direct effects on stablecoin and tokenised-asset accessibility in Europe.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-09",
+   "status": "candidate",
+   "score": 2,
+   "hits": {
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "eu ",
+     "france"
+    ]
+   }
+  },
+  {
    "title": "U.S. Commerce’s BIS extends suspension of the ‘Related Entity/Affiliates’ rule to Jan.10,2027 (reported)",
    "summary": "Reports (citing JETRO and regulatory filings) show the U.S. Bureau of Industry and Security moved to extend the suspension of its Affiliates/Related‑Entity rule — which would otherwise have resumed in early November — pushing the effective date to January 10, 2027, delaying the 50%‑ownership screening requirement for transactions with Entity‑List‑connected firms.",
    "url": "https://note.com/trade_news/n/nd72a98b4ecc1?hl=en",
@@ -630,6 +974,29 @@
    ],
    "kind": "news",
    "collected": "2026-11-08",
+   "status": "candidate",
+   "score": 1,
+   "hits": {
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "STAT (reported via OpenRounds) — FDA and CMS plan to coordinate with states on health‑AI oversight",
+   "summary": "OpenRounds (summarising a STAT+ exclusive) reports that the U.S. Food and Drug Administration and Centers for Medicare & Medicaid Services are looking to collaborate with state authorities to coordinate policy and oversight for health AI, aiming to avoid a regulatory patchwork as states test clinical AI. ",
+   "url": "https://openrounds.ai/briefings/2026-11-07",
+   "id": "1c36bb2a19fd1bd2",
+   "source": "OpenRounds (reporting STAT+)",
+   "date": "2026-11-07",
+   "why": "A planned federal–state coordination effort will affect regulatory pathways, reimbursement and deployment timelines for AI diagnostics and AI‑enabled medical devices in clinical practice.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-09",
    "status": "candidate",
    "score": 1,
    "hits": {

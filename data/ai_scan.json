@@ -1,7 +1,149 @@
 {
- "generated": "2026-11-09T05:11+00:00",
- "count": 35,
+ "generated": "2026-11-10T04:59+00:00",
+ "count": 61,
  "items": [
+  {
+   "title": "Kempower to supply Plugit with charging hardware for VR Sverige bus depots and heavy‑vehicle hub in Sweden",
+   "summary": "Kempower (hardware) and Plugit (operator) signed a contract to equip VR Sverige’s Stockholm-region bus depots with depot charging (total installed depot capacity 10 MW) and to supply Klevshult heavy‑goods public charging hub infrastructure featuring eight 400 kW satellites and two triple Kempower Power Units with a combined 1.2 MW of dynamic power.",
+   "url": "https://www.inderes.se/releases/kempower-is-supplying-plugit-with-charging-hardware-to-boost-the-electrification-of-transport-in-sweden",
+   "id": "9d8b74be6b3d8bea",
+   "source": "Kempower / Inderes (press release syndication)",
+   "date": "2026-11-09",
+   "why": "Major deployment of MW‑class DC fast-charging hardware in Sweden advances heavy‑duty vehicle electrification and demonstrates operational megawatt‑scale charging solutions in the Nordics.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 9,
+   "hits": {
+    "event": [
+     "contract"
+    ],
+    "tech": [
+     "satellite",
+     "charging"
+    ],
+    "industry": [
+     "bus",
+     "vehicle"
+    ],
+    "geo": [
+     "sweden"
+    ],
+    "companies": [
+     "Kempower",
+     "Plugit"
+    ]
+   }
+  },
+  {
+   "title": "Q.ANT and IONOS launch photonic computing pilot for AI workloads",
+   "summary": "Q.ANT announced a joint pilot with IONOS (Germany) to give selected developers access to Q.ANT's second‑generation photonic Native Processing Unit via IONOS bare‑metal servers; the pilot (free for selected participants) began on 2026‑11‑09 to test AI/industrial image‑processing, time‑series and other workloads on photonic hardware.",
+   "url": "https://qant.com/news/q-ant-and-ionos-launch-photonic-computing-pilot/",
+   "id": "3a8106b30f7cef78",
+   "source": "Q.ANT (press release)",
+   "date": "2026-11-09",
+   "why": "Moves photonic AI accelerators from research/HPC labs into commercial bare‑metal pilots—potential to reduce energy and cost for some AI workloads.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 8,
+   "hits": {
+    "event": [
+     "series a",
+     "pilot"
+    ],
+    "tech": [
+     "photonic"
+    ],
+    "geo": [
+     "germany"
+    ],
+    "companies": [
+     "Q.ANT"
+    ]
+   }
+  },
+  {
+   "title": "Forum Mobility installs Megawatt Charging Standard (MCS) chargers at FM Harbor depot near Port of Long Beach",
+   "summary": "Forum Mobility commissioned two MCS (megawatt‑class) chargers at its FM Harbor electric truck depot near the Port of Long Beach; the November 9 article notes the chargers enable rapid replenishment (e.g., ~60% range in ~30 minutes for a Tesla Semi) and that another ~30 MW of depot charging capacity is under construction across four additional California depots.",
+   "url": "https://www.evengineeringonline.com/new-mcs-chargers-enable-high-power-electric-truck-charging/",
+   "id": "c97f2b3a363b500e",
+   "source": "EV Engineering & Infrastructure (industry news, published 2026-11-09)",
+   "date": "2026-11-09",
+   "why": "Shows commercial roll‑out of MCS megawatt charging infrastructure for heavy‑duty fleets—critical for electrifying long‑haul trucking and validating high‑power depot deployments.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 8,
+   "hits": {
+    "event": [
+     "standard"
+    ],
+    "tech": [
+     "charging",
+     "megawatt charging",
+     "electric truck"
+    ],
+    "industry": [
+     "truck",
+     "port",
+     "construction"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "IonQ and Carahsoft announce strategic partnership to deliver quantum solutions to the public sector",
+   "summary": "IonQ and government IT distributor Carahsoft announced a partnership in which Carahsoft will act as IonQ's public‑sector distributor, enabling federal, state, local and education customers to procure IonQ quantum computing, networking and sensing solutions through Carahsoft contract vehicles.",
+   "url": "https://www.carahsoft.com/news/ionq-and-carahsoft-partner-to-bring-quantum-solutions-to-the-public-sector-2026",
+   "id": "9aacc207c974312b",
+   "source": "Carahsoft (press release / GlobeNewswire)",
+   "date": "2026-11-09",
+   "why": "Makes quantum computing and related tech more accessible to public‑sector buyers via established procurement channels, accelerating government adoption and procurement pathways for emerging compute technologies.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 8,
+   "hits": {
+    "event": [
+     "partnership",
+     "contract"
+    ],
+    "tech": [
+     "quantum"
+    ],
+    "industry": [
+     "vehicle",
+     "government",
+     "public sector"
+    ],
+    "companies": [
+     "IonQ"
+    ]
+   }
+  },
   {
    "title": "Apptronik milestone: coverage of Apollo 2 learning platform and Robot Park training centres",
    "summary": "Space Group reports Apptronik’s announcements around the Apollo 2 learning platform and expanded Robot Park training facilities (data-collection/training hubs) and notes the company’s partnership ties with Google DeepMind.",
@@ -96,6 +238,238 @@
     ],
     "companies": [
      "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Smart Eye wins two additional DMS design contracts with a major Korean OEM",
+   "summary": "Smart Eye (Göteborg) announced two new driver‑monitoring system (DMS) design wins secured via a global Tier‑1 supplier for models on a Korean EV platform; production for the two models is scheduled to begin mid‑2027 and the order is estimated to generate about SEK 75 million in revenue (press release dated 2026‑11‑09).",
+   "url": "https://www.newscom.com/iw/accesswire?_listenersearchresults_WAR_searchportlet_pageNumber=1&_listenersearchresults_WAR_searchportlet_photoSets=true&_listenersearchresults_WAR_searchportlet_struts.portlet.action=/view/showDetail&_listenersearchresults_WAR_searchportlet_tagId=awire238226&p_p_col_count=2&p_p_col_id=column-1&p_p_col_pos=1&p_p_id=listenersearchresults_WAR_searchportlet&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+   "id": "15651dea4570128d",
+   "source": "Smart Eye / Accesswire (press release)",
+   "date": "2026-11-09",
+   "why": "New automotive design wins validate commercial traction for Swedish computer‑vision/inside‑cab AI systems and will add near‑term revenue and production ramp risk/rewards.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "contract",
+     "order"
+    ],
+    "geo": [
+     "korea"
+    ],
+    "companies": [
+     "Smart Eye"
+    ]
+   }
+  },
+  {
+   "title": "Byhmgard signs €3.0m project loan with Signet Bank for 14.99 MW / ~30 MWh BESS in Rīga, Latvia",
+   "summary": "Byhmgard’s project company SW Power SIA signed a project loan with Signet Bank for just over EUR 3.0 million (≈50% of total ~EUR 6.1m investment) to finance a 14.99 MW / ~30 MWh lithium‑iron‑phosphate battery storage plant in Rīga; building permit expected mid‑November 2026 and commercial operation targeted Q2 2027.",
+   "url": "https://byhmgard.com/news/loan-agreement-signed-with-signet-bank",
+   "id": "0485cd4c06f8371d",
+   "source": "Byhmgard (company press release)",
+   "date": "2026-11-09",
+   "why": "New financed front‑of‑grid BESS in the Baltics increases regional storage capacity and shows continued scale‑up of project financing for utility battery deployments in the Nordic‑Baltic corridor.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "ban",
+     "plant"
+    ],
+    "tech": [
+     "battery",
+     "lithium"
+    ],
+    "industry": [
+     "building",
+     "bank"
+    ],
+    "geo": [
+     "latvia"
+    ]
+   }
+  },
+  {
+   "title": "China’s Ministry of Commerce formally extends suspension of expanded rare‑earth and related export controls (Announcement No. 58 of 2026)",
+   "summary": "China’s Ministry of Commerce and General Administration of Customs published Announcement No. 58 (dated 2026‑11‑09) continuing the suspension of six October‑2025 export‑control announcements — covering certain rare‑earths, magnet equipment, lithium‑battery/anode items and related technologies — from 2026‑11‑11 through 2027‑01‑10. The move also aligns with simultaneous short‑term pauses on additional tariffs and port fees. ",
+   "url": "https://strategic-materials-policy-tracker.vercel.app/sources/src-mofcom-2026-58",
+   "id": "0190edde565456b6",
+   "source": "Ministry of Commerce of the PRC (MOFCOM) / Strategic Materials Policy Tracker",
+   "date": "2026-11-09",
+   "why": "A formal two‑month legal extension eases immediate supply‑chain pressure for magnets, batteries and related industries and affects global sourcing and stockpiling decisions.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control",
+     "tariff"
+    ],
+    "tech": [
+     "battery",
+     "lithium"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "Europe ‘taps China playbook’ as policymakers and projects accelerate rare‑earth processing push",
+   "summary": "A Bloomberg / MiningWeekly report (published 2026‑11‑09) details EU and industry moves to build domestic rare‑earth extraction and processing capacity — citing Nordic projects (including Sweden’s large deposits and a Rare Earths Norway pilot processing announcement) and EU strategic‑project funding aimed at reducing dependence on Chinese supplies. ",
+   "url": "https://finance.yahoo.com/energy/articles/europe-taps-china-playbook-cut-050005869.html",
+   "id": "030db129c2d2fc3c",
+   "source": "Bloomberg (republished on Yahoo Finance / MiningWeekly coverage)",
+   "date": "2026-11-09",
+   "why": "Signals accelerating European/Nordic efforts (projects, pilot plants, strategic funding) to onshore critical‑minerals processing — directly relevant to manufacturers of magnets, EVs and clean‑tech.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "pilot"
+    ],
+    "tech": [
+     "rare earth"
+    ],
+    "industry": [
+     "mining",
+     "port"
+    ],
+    "geo": [
+     "sweden",
+     "norway",
+     "nordic",
+     "eu ",
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "Onodrim Industries secures $300M Series A to roll up European defence and industrial manufacturers",
+   "summary": "Onodrim Industries (Amsterdam) announced a $300 million Series A led by Lux Capital at a reported $1.3 billion valuation (press release dated 2026‑11‑09) to finance acquisitions of established aerospace/defence and industrial manufacturing firms across Europe. ",
+   "url": "https://webdisclosure.com/press-release/onodrim-industries-bv-etr-onodrim-industries-secures-300-million-series-a-at-13-billion-valuation-to-strengthen-europes-defence-and-industrial-foundations-5ERGTQPLxJg",
+   "id": "9a9087980110ef61",
+   "source": "Onodrim Industries (PR Newswire / company press release)",
+   "date": "2026-11-09",
+   "why": "Large capital for a manufacturing/defence roll‑up platform can accelerate consolidation, bring investment into European factories and reshape supplier ownership and industrial capacity.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "series a",
+     "acquisition"
+    ],
+    "industry": [
+     "port",
+     "manufactur",
+     "defence"
+    ],
+    "companies": [
+     "Lux Capital"
+    ]
+   }
+  },
+  {
+   "title": "USA Rare Earth reports Q3 2026 results and first commercial magnet sales",
+   "summary": "USA Rare Earth published Q3 2026 results and slides on 2026‑11‑09 showing the company achieved first magnet sales and began commercial shipments (company investor release), marking early commercialisation from its processing operations. ",
+   "url": "https://investors.usare.com/node/9771/pdf",
+   "id": "df3fac5c6da539cc",
+   "source": "USA Rare Earth (investor press release)",
+   "date": "2026-11-09",
+   "why": "First commercial magnet shipments from a non‑Chinese producer are a concrete supply‑chain development for manufacturers of EV motors, wind turbines and defence magnets.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "rare earth"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "USA Rare Earth"
+    ]
+   }
+  },
+  {
+   "title": "EU (EC/ECB/ESMA) launches European Tokenisation Standards Group call for nominations",
+   "summary": "The European Securities and Markets Authority (ESMA), together with the European Commission and the European Central Bank, issued a public call for industry nominations to join the European Tokenisation Standards Group (ETSG) to draft common standards for holding and settling tokenised securities across DLT and legacy systems.",
+   "url": "https://www.esma.europa.eu/press-news/esma-news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance",
+   "id": "c6d2b9afae7784dc",
+   "source": "ESMA (press release)",
+   "date": "2026-11-09",
+   "why": "Establishes an industry-led EU forum to create interoperability standards for tokenised finance, directly shaping how tokenisation pilots and platforms will interoperate across Europe.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "launches",
+     "standard",
+     "ban"
+    ],
+    "tech": [
+     "tokenis"
+    ],
+    "industry": [
+     "bank"
+    ],
+    "geo": [
+     "eu ",
+     "european commission"
     ]
    }
   },
@@ -320,6 +694,70 @@
    }
   },
   {
+   "title": "Heads of state and AI firms sign joint 'Paris Call' declaration on AI safety and security",
+   "summary": "Leaders of Bahrain, Canada, Finland, France, Norway and the Netherlands, together with executives from major AI companies (including Anthropic, Microsoft, OpenAI, Mistral, Hugging Face, Cohere and others), published and signed a joint declaration committing to shared evaluation, risk-management, incident reporting and shut‑off mechanisms for frontier AI models; the declaration was announced in Ottawa/Paris on 2026-11-09.",
+   "url": "https://pm.gc.ca/en/news/statements/2026/11/09/joint-declaration-paris-call-ai-safety-and-security",
+   "id": "54c14f7dbcac372a",
+   "source": "Prime Minister of Canada (press statement)",
+   "date": "2026-11-09",
+   "why": "Significant multinational political and industry commitments on frontier-model evaluation and incident reporting that shape AI governance and cross-border safety coordination.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 5,
+   "hits": {
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "norway",
+     "finland",
+     "france",
+     "netherlands"
+    ],
+    "companies": [
+     "Anthropic",
+     "Microsoft",
+     "OpenAI"
+    ]
+   }
+  },
+  {
+   "title": "Capgemini selected by Telia Sweden to accelerate AI‑powered business transformation",
+   "summary": "Capgemini announced it has been selected by Telia Sweden to support the next phase of Telia’s business and technology transformation driven by AI, deepening a long‑standing partner relationship (press release dated 2026‑11‑09).",
+   "url": "https://www.capgemini.com/news/press-releases/capgemini-expands-partnership-with-telia-sweden-to-accelerate-ai-powered-business-transformation/",
+   "id": "669de00802007f47",
+   "source": "Capgemini (press release)",
+   "date": "2026-11-09",
+   "why": "Large telecom operator contracting an IT/consulting partner to scale AI internally and for customers—an example of industrial AI adoption at enterprise scale in Sweden.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 5,
+   "hits": {
+    "industry": [
+     "bus",
+     "port"
+    ],
+    "geo": [
+     "sweden"
+    ],
+    "companies": [
+     "Telia"
+    ]
+   }
+  },
+  {
    "title": "Finnish Geospatial Research Institute paper shows Galileo OSNMA authentication degraded by real-world jamming",
    "summary": "Researchers at the Finnish Geospatial Research Institute (FGI) published a measurement study of GNSS interference recorded in eastern Estonia showing that high‑power jamming degraded Galileo Open Service Navigation Message Authentication (OSNMA), causing satellite‑specific authentication failures and reduced overall authentication availability; the team released raw I/Q and receiver logs as an open dataset. ",
    "url": "https://www.cybernews.space/articles/galileo-onsma-impacted-by-jamming-finnish-geospatial-research-institute",
@@ -377,6 +815,185 @@
     ],
     "geo": [
      "china"
+    ]
+   }
+  },
+  {
+   "title": "Skellefteå issues partial start notice allowing EdgeConneX to begin foundation works at former Northvolt site",
+   "summary": "Local reporting (Norran) and industry tracker DataCenterSweden reported that Skellefteå municipality issued a delstartbesked (partial start notice) allowing EdgeConneX to begin foundation work for the first two halls of its planned data‑centre campus on the former Northvolt site (notice recorded 2026‑10‑29, reported 2026‑11‑09).",
+   "url": "https://datacentersweden.se/news/edgeconnex-skelleftea-partial-start-notice-2026-11/",
+   "id": "a75afc29a6b6df74",
+   "source": "DataCenterSweden (summarising Norran)",
+   "date": "2026-11-09",
+   "why": "Concrete construction progress for a potential large‑scale AI/datacenter campus in Sweden (impacts regional energy, supply chain and local debates on data‑centre siting).",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "datacenter"
+    ],
+    "industry": [
+     "port",
+     "municipal"
+    ],
+    "geo": [
+     "sweden"
+    ]
+   }
+  },
+  {
+   "title": "Norwegian TSO Statnett pauses new grid capacity reservations for data centres",
+   "summary": "Statnett announced a temporary halt to new grid-capacity reservations and certain technical-approval applications for data centres in Norway, a measure the TSO says will remain in place no later than 2027-08-01 to allow development of functional requirements and regulatory coordination with the government.",
+   "url": "https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/",
+   "id": "5da00fcb897b8098",
+   "source": "Statnett (press release)",
+   "date": "2026-11-09",
+   "why": "This directly changes grid allocation policy for large new electricity users (notably data centres) in Norway and affects grid planning, prioritisation and major power-demand projects across the Nordics.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "grid"
+    ],
+    "industry": [
+     "government"
+    ],
+    "geo": [
+     "norway",
+     "norwegian"
+    ]
+   }
+  },
+  {
+   "title": "Norway’s grid operator Statnett halts new grid‑capacity reservations for data centres (policy + reserve freeze)",
+   "summary": "Statnett announced a temporary stop (press release reported 2026‑11‑09) to accepting new reservations of transmission‑grid capacity and to processing related technical‑approval applications for large, atypical loads (chiefly data centres) until at least 1 August 2027; the Norwegian government simultaneously announced plans for a data‑centre licensing regime. ",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/",
+   "id": "e5bf7587558b2f05",
+   "source": "Government of Norway / Statnett (reported on regjeringen.no)",
+   "date": "2026-11-09",
+   "why": "A direct regulatory and grid‑access intervention that freezes a major tranche of large digital‑infrastructure investments and affects power‑intensive industrial project timelines and site decisions in Norway and the region.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "grid"
+    ],
+    "industry": [
+     "port",
+     "transmission",
+     "government"
+    ],
+    "geo": [
+     "norway",
+     "norwegian"
+    ]
+   }
+  },
+  {
+   "title": "Kongsberg Maritime unveils 'Arctic Hunter' uncrewed surface vessel for High North ASW roles",
+   "summary": "Kongsberg Maritime announced the Arctic Hunter USV on 9 Nov 2026 (Oslo): a commercially producible uncrewed surface vessel concept equipped for anti‑submarine warfare with Thales UK sonar and military communications, intended for rapid delivery via commercial shipyards and partnership with Balaena Maritime.",
+   "url": "https://www.kongsbergmaritime.com/news-and-events/news-archive/2026/kongsberg-maritime-launches-arctic-hunter-usv-for-the-hybrid-navy/",
+   "id": "15cfc92d8f7f906b",
+   "source": "Kongsberg Maritime (press release)",
+   "date": "2026-11-09",
+   "why": "Major Nordic defence‑tech product launch that signals rapid, industrialised delivery of persistent maritime sensing (complements radar/sonar sensor markets and autonomous maritime systems).",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "event": [
+     "partnership",
+     "unveils"
+    ],
+    "industry": [
+     "military"
+    ],
+    "geo": [
+     "uk "
+    ]
+   }
+  },
+  {
+   "title": "Dutch startup Optics11 says it is in paid trials with several navies, including Sweden; CEO flags further fundraise",
+   "summary": "Defense News reported on 9 Nov 2026 that Optics11 (fiber‑optic underwater sensing) is conducting ~35 paid trials with navies and has tests including for Sweden, the UK, Germany and others; CEO said the firm raised ~€100m over the past 15 months and expects to seek further funding at a unicorn valuation next year.",
+   "url": "https://www.defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech/",
+   "id": "d45702a28e03c031",
+   "source": "Defense News",
+   "date": "2026-11-09",
+   "why": "Startup/scale‑up defence supplier activity and large recent funding (~€100M) indicate growth in sensor‑dense maritime/undersea intelligence capabilities relevant to Nordic/Baltic security buyers and suppliers.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "event": [
+     "raised"
+    ],
+    "industry": [
+     "port",
+     "defense"
+    ],
+    "geo": [
+     "sweden",
+     "germany"
+    ]
+   }
+  },
+  {
+   "title": "Andøya launch schedule updated — Isar Aerospace Spectrum flight (AT‑Astra and others) planned 26 Nov 2026 from Andøya Spaceport",
+   "summary": "Flight Atlas tracker (Andøya page) notes that the next Andøya mission is 'AT‑Astra and Others (Spectrum Flight 3)' scheduled for 2026‑11‑26 20:00 UTC, listing payload/mission details and showing the site’s recent launch activity.",
+   "url": "https://www.flightatlas.org/trackers/and-ya",
+   "id": "0cdeb5727b4f40de",
+   "source": "Flight Atlas (Andøya tracker)",
+   "date": "2026-11-09",
+   "why": "Confirms concrete near‑term launch activity from a Nordic launch site (Andøya), affecting regional access‑to‑space, EO/satellite deployments and launch‑vehicle cadence in northern Europe.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Isar Aerospace"
     ]
    }
   },
@@ -696,6 +1313,114 @@
    }
   },
   {
+   "title": "GPS/GNSS interference remains high across the Baltic Sea (regional RFI monitor update)",
+   "summary": "GNSS RFI Monitor (navwar.nl) updated its Baltic Sea page showing sustained GPS/GNSS interference in the region, reporting data up to 2026-11-10 03:00 UTC with elevated area‑hours (e.g. 5.4% affected area‑hours on 2026-11-09 and 2026-11-08) and dozens of spoofing indications in the last week.",
+   "url": "https://rfi.navwar.nl/gps-jamming/baltic-sea",
+   "id": "800369a76ceec438",
+   "source": "GNSS RFI Monitor / Navwar",
+   "date": "2026-11-10",
+   "why": "Confirms continued, measurable GNSS jamming/spoofing over the Baltic/Northern Europe — a direct operational risk to navigation, EO tasking and GNSS‑dependent defence systems in the prioritized region.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 3,
+   "hits": {
+    "tech": [
+     "gnss",
+     "spoofing"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Live GPS interference trackers and daily summaries show continuing GNSS degradation events in Nordic/Baltic airspace (daily map updates)",
+   "summary": "Multiple live trackers and daily summaries (e.g., GPSInterference / Monitor‑the‑Situation / FlySafe indices) published/updated after 2026‑11‑08 show routine GNSS degradation/jamming cells and daily indices for 2026‑11‑08 to 2026‑11‑10 impacting Baltic, southern Sweden and Finland airspace.",
+   "url": "https://monitor-the-situation.com/gps-jamming-map",
+   "id": "055f0552decbc9ae",
+   "source": "Monitor‑the‑Situation (live GPS jamming map)",
+   "date": "2026-11-10",
+   "why": "Multiple independent monitoring services reporting the same multi‑day GNSS interference pattern provide corroborated, dated evidence of ongoing jamming/spoofing that affects aviation, maritime EO operations and GNSS‑reliant defence systems in the prioritized region.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 3,
+   "hits": {
+    "tech": [
+     "gnss"
+    ],
+    "geo": [
+     "sweden",
+     "finland",
+     "nordic"
+    ]
+   }
+  },
+  {
+   "title": "X‑energy and Dow receive U.S. NRC construction‑permit approval for four Xe‑100 SMRs at Long Mott (Texas)",
+   "summary": "X‑energy and Dow announced the U.S. Nuclear Regulatory Commission approved the Construction Permit Application for four Xe‑100 high‑temperature gas‑cooled small modular reactors at Dow’s Long Mott industrial site in Texas—a first NRC CPA for an HTGR in nearly 60 years; Dow may consider a preliminary investment decision in 2027.",
+   "url": "https://x-energy.com/news/dow-x-energy-proposed-smr-project-receives-historic-construction-permit-for-nuclear-powered-industrial-site/",
+   "id": "248c01acde8e845b",
+   "source": "X‑energy (press release)",
+   "date": "2026-11-09",
+   "why": "A major licensing milestone for advanced SMR technology that accelerates prospects for industrial‑site nuclear decarbonisation and sets a regulatory precedent for next‑generation reactors.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 3,
+   "hits": {
+    "tech": [
+     "small modular reactor",
+     "smr"
+    ],
+    "industry": [
+     "construction"
+    ]
+   }
+  },
+  {
+   "title": "Avalanche (Ava Labs) named as core ledger technology for NYSE-affiliated tokenized securities clearing firm",
+   "summary": "Ava Labs announced that Avalanche will provide the core ledger technology to the clearing firm behind a planned NYSE‑affiliated tokenized securities platform, aiming to support 24/7 trading, on‑chain settlement and atomic clearing (subject to regulatory approvals).",
+   "url": "https://www.prnewswire.com/news-releases/avalanche-to-serve-as-core-ledger-technology-for-clearing-and-settlement-of-nyse-affiliated-upcoming-tokenized-securities-platform-302001234.html",
+   "id": "b45889d9aa41acdc",
+   "source": "PR Newswire / Ava Labs (press release)",
+   "date": "2026-11-09",
+   "why": "A major traditional exchange selecting a blockchain ledger for post‑trade clearing is a significant step toward mainstream tokenised securities markets and affects tokenisation infrastructure choices globally.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 3,
+   "hits": {
+    "tech": [
+     "tokeniz"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
    "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
    "summary": "Associated Press reports that officials at the Commerce Department’s AI safety unit (CAISSI / the U.S. Center for Advancing Innovation and Standards for Super Intelligence) have been asked to informally report to a White House office; the centre lacks a permanent director and has paused publishing its research.",
    "url": "https://apnews.com/article/d3318eb2cf011df53e9ddb3e03d25f13",
@@ -880,6 +1605,32 @@
    }
   },
   {
+   "title": "Karolinska University Hospital tightens AI governance, staff training and shared infrastructure",
+   "summary": "Karolinska University Hospital (Stockholm) announced hospital‑wide AI guidelines, staff education programmes and participation in a national training initiative (Health AI Academy Sweden) to strengthen safe implementation of AI across clinical and administrative processes.",
+   "url": "https://www.icthealth.org/news/karolinska-strengthens-ai-governance-and-staff-training",
+   "id": "a01ada0d97b430c2",
+   "source": "ICT&health (news)",
+   "date": "2026-11-09",
+   "why": "A major Swedish university hospital formalising governance and training shows public‑sector readiness efforts for clinical AI — a key enabler and constraint for medical‑AI deployment across Nordic health systems.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 2,
+   "hits": {
+    "industry": [
+     "hospital"
+    ],
+    "geo": [
+     "sweden"
+    ]
+   }
+  },
+  {
    "title": "InvestorNews publishes critical‑minerals briefing highlighting Nov.10 legal deadline for China’s export‑control suspension and several recent project FIDs/offtakes",
    "summary": "InvestorNews (Nov 8) published a critical‑minerals report warning that the legal instrument suspending several China export‑control measures is due to lapse (Nov 10, 2026) and summarised near‑term, concrete industry events — including Freeport‑McMoRan’s $4.5bn Bagdad expansion decision and recent offtake/financing steps for tungsten and separation projects — that together tighten short‑term supply risk.",
    "url": "https://investornews.com/critical-minerals-rare-earths/critical-minerals-report-two-elections-and-two-deadlines-changed-the-arithmetic-for-western-supply/",
@@ -1004,6 +1755,44 @@
      "port"
     ]
    }
+  },
+  {
+   "title": "Hologen and Sysmex form Saibogen JV to apply AI to routine blood-test data",
+   "summary": "Hologen and Sysmex announced the formation of Saibogen, a joint venture based in Singapore that will apply Hologen's Large Medicine Models to Sysmex hematology analyzer data to extract new clinical and research insights from routine blood tests (initially for research use).",
+   "url": "https://via.ritzau.dk/pressemeddelelse/15277001/saibogen-pte-ltd?publisherId=90446",
+   "id": "d297a762c13d653a",
+   "source": "GlobeNewswire (via Ritzau news mirror)",
+   "date": "2026-11-09",
+   "why": "Combines a large clinical-data AI developer with a global diagnostics instrument company, illustrating rapid commercialisation of AI diagnostics built on existing lab instrumentation and massive routine-data pools.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 0,
+   "hits": {}
+  },
+  {
+   "title": "Nanox / USARAD expands integration of FDA‑cleared AZmed X‑ray AI into teleradiology workflows",
+   "summary": "Nanox Imaging's teleradiology arm USARAD announced an expanded collaboration with AZmed to integrate AZmed's FDA‑cleared Rayvolve X‑ray AI suite into USARAD workflows via the Nanox Marketplace, broadening automated prioritisation and routing for musculoskeletal and chest X‑ray findings.",
+   "url": "https://nano-ximaging.gcs-web.com/news-releases/news-release-details/usarad-nanox-company-expands-collaboration-azmed-integrate-fda",
+   "id": "056fec99558bb818",
+   "source": "Nano‑X Imaging (press release / GlobeNewswire)",
+   "date": "2026-11-09",
+   "why": "Represents a deployment/scale‑up of clinically cleared imaging AI into large teleradiology workflows, showing concrete adoption of AI diagnostics in operational clinical services.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-10",
+   "status": "candidate",
+   "score": 0,
+   "hits": {}
   }
  ]
 }

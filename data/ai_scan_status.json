@@ -1,5 +1,5 @@
 {
- "run": "2026-11-09T05:11+00:00",
+ "run": "2026-11-10T04:59+00:00",
  "calls": [
   {
    "provider": "openai",
@@ -24,8 +24,8 @@
    "group": "Energy, batteries and powertrain",
    "model": "gpt-5-mini",
    "ok": true,
-   "items": 0,
-   "new": 0,
+   "items": 5,
+   "new": 5,
    "error": null
   },
   {
@@ -33,8 +33,8 @@
    "group": "Materials, manufacturing and supply chains",
    "model": "gpt-5-mini",
    "ok": true,
-   "items": 3,
-   "new": 3,
+   "items": 5,
+   "new": 5,
    "error": null
   },
   {
@@ -42,8 +42,8 @@
    "group": "Defence, space and sensing",
    "model": "gpt-5-mini",
    "ok": true,
-   "items": 3,
-   "new": 3,
+   "items": 5,
+   "new": 5,
    "error": null
   },
   {
@@ -51,12 +51,12 @@
    "group": "Health, finance and the built environment",
    "model": "gpt-5-mini",
    "ok": true,
-   "items": 2,
-   "new": 2,
+   "items": 6,
+   "new": 6,
    "error": null
   }
  ],
  "ok": 5,
  "failed": 1,
- "new_items": 13
+ "new_items": 26
 }

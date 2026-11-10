@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T05:10+00:00",
+ "generated": "2026-11-10T04:58+00:00",
  "count": 200,
  "items": [
   {
@@ -91,6 +91,145 @@
     ],
     "companies": [
      "Ericsson"
+    ]
+   }
+  },
+  {
+   "title": "37 European Banks Back Regulated Euro Stablecoin via Qivalis - Blockchain News",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaSE0xSllkeWtyd1FBSDNEUlJ5VnFRTDNIWnI4V2FVb2ZMRklNSnlrUG1BTV9BckJFSGdQOC1mNHdrSjV2b2tUS2NBdGZFM2Q2RU5wRVVLdENXUjY4WUlWLTc4WTd6WGx5dm9VQXc2ZVh5cmlrOGc?oc=5",
+   "date": "2026-11-10",
+   "source": "Blockchain News",
+   "id": "71dd4c9e9abd58ce",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 8,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "bank"
+    ],
+    "companies": [
+     "Qivalis"
+    ]
+   }
+  },
+  {
+   "title": "Deutsche Telekom Expands AI Factory with NVIDIA Blackwell Ultra GPUs - The Fast Mode",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSklaS1FXZDNQX3RxYmVPd0RjQllhcHpaOWNvbTFWblZwVlhaRWd6bFhSVzlabzhfNU5YVFZOU2M0OS1Cb1hPLWlYODZrT3laRGVrOXY0MVdyVjlhcXhialpTUWlmOEdnZUM2aS1mMHZneWlCTWUxS0hNMWdfM09Mbk9xaUgtd0Qxc1NPRWttMmppMVZTM0ZyRGlqeHRHMjhBOTd3NWQtNDUya2tMa0RRSUhGbF9fOHUzZmxCR2NoX2o?oc=5",
+   "date": "2026-11-10",
+   "source": "The Fast Mode",
+   "id": "d8c04d3eb2ff4717",
+   "feed": "Google News: factory investment OR gigafactory Europe",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 8,
+   "hits": {
+    "event": [
+     "factory"
+    ],
+    "tech": [
+     "gpu"
+    ],
+    "industry": [
+     "factory"
+    ],
+    "companies": [
+     "Deutsche Telekom",
+     "NVIDIA",
+     "Ultra"
+    ]
+   }
+  },
+  {
+   "title": "Tesla ramps up Cybertruck orders before shifting to Cybercab robotaxis - IDNFinancials",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPallLRkU0M2YtVFVUNi00TnlSd3NDaldXdTRvQ3VQRWNYakFoT0x3bDZVLWRRYWt1WmhjRXZhRDM0Y1JfU2ZDMW9GbTlVVXp4SGZ6OVI1Wms2U2ZqSXNtVFdrODdHVlQwQ3FucFIzSU1aY2M2WHNQTHhGcmpFLVRNR3M1QlBJR3NYa3BKaDFyTFBiX3d2dXBfYnNsZF9ZQ2R5WldyYmJFM3dBNEp6REpFNA?oc=5",
+   "date": "2026-11-09",
+   "source": "IDNFinancials",
+   "id": "1c48b25db976901d",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 8,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "industry": [
+     "truck"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Embodied AI’s AIR: Wheeled Humanoid Built for Factory Floors - AI Magazine",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOWQ2ZWw2eWNGNWs5enRENktjdDhiNWpZenhxN0NFaUR1RVViSkpUZHB5Q182VGk2aC1xMUdNMGYwR0JCcDkzYUY3QVhjM0VFdjVwenpEZFA0aEd3NmNCQXliSFlXb1FjS3hsazduZXNXaGE4UURyZVZyUngtLTdhX3BvRVo3Vk1lZndDcml2UQ?oc=5",
+   "date": "2026-11-09",
+   "source": "AI Magazine",
+   "id": "876568a1d94cdce0",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 8,
+   "hits": {
+    "event": [
+     "factory"
+    ],
+    "tech": [
+     "humanoid"
+    ],
+    "industry": [
+     "factory"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "Tesla Price Forecast: Nevada Robotaxi Victory Offset by China Recall; Cybercab Launch Looms - TradingKey",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSzcwRWl0bGxyMk92Mk5YS2FkRnphbFY0MnFDSjZzQmtDSTJROVFzLUJqQ1p5dkQyTmNWZE16RU5DcTRyci1DLVlmTU03eF9vNjBHaUxHMFJNRHFKYV9MVXBvbTlXRHVSQUtPLWtXdjlvMXVxRTY2bm05aWt5REdYOHdOeE5taDVrT0k0SjMzQm8ybFFXQV80OHh5bU9wX2JkQkdTMk9kZU5NSzRvRktyaDl2Z3dwSWFWY0F6Mk5nU1lZS2tmMlJ2Q19iQjMzVXY1am5JazZpaWppeURLQUwzNmdEeGNhaGJxdnVUZmFVVW1Ccnh3YlFNOXJFWFFEM09Z?oc=5",
+   "date": "2026-11-08",
+   "source": "TradingKey",
+   "id": "a4f6cd06f0cbf5b9",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 8,
+   "hits": {
+    "event": [
+     "recall"
+    ],
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "geo": [
+     "china"
+    ],
+    "companies": [
+     "Tesla"
     ]
    }
   },
@@ -541,6 +680,306 @@
    }
   },
   {
+   "title": "Hyundai Motor Group debuts hydrogen truck system and unmanned charging robot in Korea - Hydrogen Central",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkhpVWNmTVdwVURjTVV1aUVyR0tJWVZFNnJ0eS1pZUVqU0l5cXhaWW5GcHgwZTJhWjBGMmlXNUk0WWhJV3UzZFhsRlhJYVczaUctRF9kdld3cVZaaUlDV0NHbXM3em90bmpNVGFZWFhzZDJqWEs1RUpVaFMta2x6Y21CUU5lYUk3ZTdRTF9td0NaNnlTcGFjUGhXUlVHODJ0ZHhPMnVEaFZEUG53Y181QjFQRzlkUQ?oc=5",
+   "date": "2026-11-10",
+   "source": "Hydrogen Central",
+   "id": "af2e5923b929e0fe",
+   "feed": "Google News: electric truck OR \"megawatt charging\"",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 7,
+   "hits": {
+    "tech": [
+     "robot",
+     "charging",
+     "hydrogen"
+    ],
+    "industry": [
+     "truck"
+    ],
+    "geo": [
+     "korea"
+    ],
+    "companies": [
+     "Hyundai Motor Group"
+    ]
+   }
+  },
+  {
+   "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+   "summary": "",
+   "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "149f49aa62918089",
+   "feed": "TechCrunch",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 7,
+   "hits": {
+    "event": [
+     "acquisition",
+     "launches"
+    ],
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "companies": [
+     "Uber"
+    ]
+   }
+  },
+  {
+   "title": "Diraq Deploys Silicon Spin Quantum Computer Inside a Commercial Data Center",
+   "summary": "",
+   "url": "https://thequantuminsider.com/2026/11/09/diraq-deploys-silicon-spin-quantum-computer-inside-a-commercial-data-center/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "2da00fdcbeed5ed3",
+   "feed": "The Quantum Insider",
+   "kind": "news",
+   "domain_hint": "Compute",
+   "collected": "2026-11-10",
+   "score": 7,
+   "hits": {
+    "event": [
+     "deploys"
+    ],
+    "tech": [
+     "quantum",
+     "data center"
+    ],
+    "companies": [
+     "Diraq"
+    ]
+   }
+  },
+  {
+   "title": "Q.ANT and IONOS Launch Pilot for Photonic Computing",
+   "summary": "",
+   "url": "https://thequantuminsider.com/2026/11/09/qant-photonic-processors-ionos-cloud-infrastructure/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "8230531518965ede",
+   "feed": "The Quantum Insider",
+   "kind": "news",
+   "domain_hint": "Compute",
+   "collected": "2026-11-10",
+   "score": 7,
+   "hits": {
+    "event": [
+     "pilot"
+    ],
+    "tech": [
+     "photonic"
+    ],
+    "companies": [
+     "Q.ANT"
+    ]
+   }
+  },
+  {
+   "title": "Q.ANT partners with Ionos for photonic computing pilot program",
+   "summary": "",
+   "url": "https://www.datacenterdynamics.com/en/news/qant-partners-with-ionos-for-photonic-computing-pilot-program/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "e9a9af7535f21a14",
+   "feed": "Data Center Dynamics",
+   "kind": "news",
+   "domain_hint": "Compute",
+   "collected": "2026-11-10",
+   "score": 7,
+   "hits": {
+    "event": [
+     "partners with",
+     "pilot"
+    ],
+    "tech": [
+     "photonic"
+    ],
+    "companies": [
+     "Q.ANT"
+    ]
+   }
+  },
+  {
+   "title": "Verizon CTO assesses 7GHz band for 6G after first call in the field",
+   "summary": "Yago_Tenorio_Verizon_CTO.png",
+   "url": "https://www.lightreading.com/6g/verizon-cto-assesses-7ghz-band-for-6g-after-first-call-in-the-field",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "69160fe4747d5a8a",
+   "feed": "Light Reading",
+   "kind": "news",
+   "domain_hint": "Connectivity",
+   "collected": "2026-11-10",
+   "score": 7,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "6g"
+    ],
+    "companies": [
+     "Verizon"
+    ]
+   }
+  },
+  {
+   "title": "SpaceX and Qualcomm threaten to topple US market's cozy 5G order",
+   "summary": "RM_GettyImages-2273245544_Elong_Musk_RIGHTS_MANAGED_IMAGE.jpg",
+   "url": "https://www.lightreading.com/5g/spacex-and-qualcomm-threaten-to-topple-us-market-s-cozy-5g-order",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "cf26e84db64c1a15",
+   "feed": "Light Reading",
+   "kind": "news",
+   "domain_hint": "Connectivity",
+   "collected": "2026-11-10",
+   "score": 7,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "tech": [
+     "5g"
+    ],
+    "companies": [
+     "Qualcomm"
+    ]
+   }
+  },
+  {
+   "title": "Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper",
+   "summary": "",
+   "url": "https://electrek.co/2026/11/09/tesla-robotaxi-san-antonio-launch-geofence/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "d9066ab2b5bb03bd",
+   "feed": "Electrek",
+   "kind": "news",
+   "domain_hint": "Energy",
+   "collected": "2026-11-10",
+   "score": 7,
+   "hits": {
+    "event": [
+     "launches"
+    ],
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Amazon deploys thousands of smart glasses to delivery drivers",
+   "summary": "",
+   "url": "https://www.retaildive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873762/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "9033a3940a0f8c3a",
+   "feed": "Retail Dive",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 7,
+   "hits": {
+    "event": [
+     "deploys"
+    ],
+    "tech": [
+     "smart glasses"
+    ],
+    "companies": [
+     "Amazon"
+    ]
+   }
+  },
+  {
+   "title": "Tesla launches robotaxi service in San Antonio — TechCrunch - UA.NEWS",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa3oyOW1oYWFnSG05Y1VKT21YRHBSX0JKWVpIUWZpLUE2QXJKcWFVaFAyZEJuNVFsaDVIUUpxOUxnTWNNWU9vX2tWSkpkekNpRFd5NXlmRmpvcnJOZk1GelNvbmlMV1hJbUpHdFpoTUExMl9qQUJITWJrMXhVcnZINUc5X2J5V1VBdzgxejhDNFAyZlBT?oc=5",
+   "date": "2026-11-09",
+   "source": "UA.NEWS",
+   "id": "d2c7821202c0c349",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 7,
+   "hits": {
+    "event": [
+     "launches"
+    ],
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Honda launches $10,000 challenge to improve human-robot collaboration in factories - Robotics & Automation News",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlIxU0pDcUZlYmh5eDhUa3hOV0w5eGxQQmk0N0dyS1YyWGZYS2lELWpaNkJ5ME1nczFQVWJyTWJPbTNJNUhBWl9ZT0VwWktCdGJQVjdqcmdSYkx3SDFMa1d0b2VUS1p3c0l0M3dmNE5HRFZqYTlBYmpHdFlVb2tmeFduNUpINk5LYTZWdy1DRmVQdzhQOVRxYUVDdXJub3EtVDJfeUhnb0tnODh0TlNWSnlORlJ6a25oNHZ3WTBRREhzVUxVelN3M2hEVi1WOEZPU1F3?oc=5",
+   "date": "2026-11-09",
+   "source": "Robotics & Automation News",
+   "id": "1e47ece62fd06a07",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 7,
+   "hits": {
+    "event": [
+     "launches"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "companies": [
+     "Honda"
+    ]
+   }
+  },
+  {
+   "title": "Topstar Unveils Star, a Full-Size Industrial Biped Humanoid, and S400 Machine for Robot Parts - Pandaily",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVBHS0NQcjlBbVJtWFlLRlBucGtfQ2J2NndSQWNsVERGQm02OFdTQmhOVFFBUktlVHR4UTAwNHVMbnREcUpGZE5oNzg2U3VtNWhKWTZpdTVaT2htVHIyM2dmWjlDX29rbVBrWC0ta1FXZmtNaUJneURLVFlGdUswdHQ2SUtVTTdzdkE?oc=5",
+   "date": "2026-11-09",
+   "source": "Pandaily",
+   "id": "08f13fdff0bb7018",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 7,
+   "hits": {
+    "event": [
+     "unveils"
+    ],
+    "tech": [
+     "robot",
+     "humanoid"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
    "title": "Microsoft design change delays Iren's data center delivery in Texas",
    "summary": "",
    "url": "https://www.datacenterdynamics.com/en/news/microsoft-design-change-delays-irens-data-center-delivery-in-texas/",
@@ -822,6 +1261,501 @@
    }
   },
   {
+   "title": "Anthropic reportedly plans to move forward with IPO plans",
+   "summary": "",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+   "date": "2026-11-10",
+   "source": "",
+   "id": "aea4b4cce2ec2660",
+   "feed": "TechCrunch",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "ipo"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Anthropic"
+    ]
+   }
+  },
+  {
+   "title": "U.S. Congress turns its sights on Jensen Huang as China chip export controls gain momentum - 파이낸셜뉴스",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ienRLT25aN215cHlZR1dEVDRiRkM4M2x2Rnd4dE44YzM0UG90YUtVTzBDdVlhc0lWMHVEdFpNcHZEeFN5RW1VZUdRMEtscHZhc0RZb2d6bFg?oc=5",
+   "date": "2026-11-10",
+   "source": "파이낸셜뉴스",
+   "id": "8e47dedcfc8d45b9",
+   "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control"
+    ],
+    "tech": [
+     "chip"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "Boston Dynamics’ Atlas takes on complex factory tasks with AI - 매일경제",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Vb2w3bzVaUnp5THhpaU8xc1RqaU9mcTRVN0RkZVJSd3AwNTlTMU1xUTBVNm9HTzE4WmRiNWJnbTNpY3dYNXl1bXdTd1ZmMTBxOFE?oc=5",
+   "date": "2026-11-10",
+   "source": "매일경제",
+   "id": "e0c3eaa03ff63538",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "factory"
+    ],
+    "industry": [
+     "factory"
+    ],
+    "companies": [
+     "Boston Dynamics"
+    ]
+   }
+  },
+  {
+   "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+   "summary": "",
+   "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "14745eea9a2f02b2",
+   "feed": "TechCrunch",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "industry": [
+     "bus"
+    ],
+    "companies": [
+     "Waymo"
+    ]
+   }
+  },
+  {
+   "title": "IonQ and Carahsoft Partner to Bring Quantum Solutions to the Public Sector",
+   "summary": "",
+   "url": "https://thequantuminsider.com/2026/11/09/ionq-carahsoft-quantum-technologies-government/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "43f55a08b05ab96c",
+   "feed": "The Quantum Insider",
+   "kind": "news",
+   "domain_hint": "Compute",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "quantum"
+    ],
+    "industry": [
+     "public sector"
+    ],
+    "companies": [
+     "IonQ"
+    ]
+   }
+  },
+  {
+   "title": "Anthropic signs $3.4bn gas generator deal to support 1.7GW of data center power",
+   "summary": "",
+   "url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-34bn-gas-generator-deal-to-support-17gw-of-data-center-power/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "1639073abb5ec582",
+   "feed": "Data Center Dynamics",
+   "kind": "news",
+   "domain_hint": "Compute",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "data center"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Anthropic"
+    ]
+   }
+  },
+  {
+   "title": "Greenspot and Kempower to build 30 fast-charging sites in France",
+   "summary": "",
+   "url": "https://www.electrive.com/2026/11/09/greenspot-and-kempower-to-build-30-fast-charging-sites-in-france/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "441859f2c0410b6c",
+   "feed": "electrive",
+   "kind": "news",
+   "domain_hint": "Energy",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "charging"
+    ],
+    "geo": [
+     "france"
+    ],
+    "companies": [
+     "Kempower"
+    ]
+   }
+  },
+  {
+   "title": "Global Semiconductor Equipment Sales to China Plummet Under U.S. Export Controls - 조선일보",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1lTZnlHREk1ZkpsTzYzMmZFUDRaZjVPdllfTlRobkxnR0dicEdEaTZJd2tUbEFzMkVMVUZ6V3NBSElzQ3hZOUhMTEZRcUl2NFM1RDByOWo4THNZUzZwZzR2U0dnMkM5Q1E0Y2xET093c2tpcllpMDBaNE5MaXZIbmFyM0xMZ1It?oc=5",
+   "date": "2026-11-09",
+   "source": "조선일보",
+   "id": "7e89d8713acb4150",
+   "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control"
+    ],
+    "tech": [
+     "semiconductor"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "AI chip export controls to China likely to tighten; Trump also in hot water over allegations he turned a blind eye to the Jensen Huang affair - 파이낸셜뉴스",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xdzdlblhheHpRQnV4NDlzUVBrUEFZNnI4SV9XaWw3dmZPRVVhWWFvcDlPRE80VTlSOHpmdzRqVHgySVRHT3dYQUY4VVdCS3BWQWFtZG1fYkM?oc=5",
+   "date": "2026-11-09",
+   "source": "파이낸셜뉴스",
+   "id": "e49040a0c533e819",
+   "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control"
+    ],
+    "tech": [
+     "chip"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "US Export Controls and AI Investment Collide: China Revenue Share Plunges at Top 4 Chip Equipment Makers - BigGo Finance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pYjc5YnljSWI1aXlJM0EzMlo1UGdWRDdVS2dneU9VQlV5YnpLR2dXMXhKMFdPNGd0QVZSREtsM1k0ZWU3RGptQ3ZIZFRSaUJkRXhmM1Q2VzZDZmVFa3NUYTNEd3ZvenJaWWlaVHZhMDFQNzRsVkE?oc=5",
+   "date": "2026-11-09",
+   "source": "BigGo Finance",
+   "id": "aa288ed7eb754951",
+   "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control"
+    ],
+    "tech": [
+     "chip"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "China Rare Earth Export Controls Pause Ends Tuesday in Law; Beijing Has Published No Extension - Tech Times",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX3VwbFhYTDB3WUVGOTZ2VXNiWkdqUE5zOHJIaDd4RTRVV0pRZnJmUHJKZ0ZBNzlHY1BVdFBoR2V5LVJha3pWYjJSQ2Z3cVMtVGp4RWhfRkcyVDFCdkRtN2ExMkRGb2lycnhpaUY5enR1QWpOZjZWaTF2X1pfcU1WVHdGUk5zWXlOVVEteUpKZXZSZk93Mkt5RWJ6UHFRZXdBQU54ZEkwSVRRZm1aeTFDYk9KSHo2VDU4OFBnU2hUdHEwYmQ3R0I5eFZ0QzQ4WEZ5ZENxUVNsaUpwUjNXQUE?oc=5",
+   "date": "2026-11-09",
+   "source": "Tech Times",
+   "id": "0197a358c403c925",
+   "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control"
+    ],
+    "tech": [
+     "rare earth"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "China extends its pause on the October 2025 rare earth export controls to Jan. 10 - MLQ.ai",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlJiQlFReFk3U2RSbUpjODFRUzk3bjEzb2xrY2NrX21VbVFrSjBmT3hJZ3NxQlRtazUzVG9oZFlxVTY4MXVKX1dkTTJJdm4wQWJvMVMzVW9pYVJsclE5WUZsR1A2NXpNUFZZdklxNU5qRDdYT2RQZHJLc0FNRjlNeVItWjdYSjV5VF9qSmxLV0hFdm1hWGJtVnhJdFRuZzlPdWVz?oc=5",
+   "date": "2026-11-09",
+   "source": "MLQ.ai",
+   "id": "2c5bfe35c5f35575",
+   "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control"
+    ],
+    "tech": [
+     "rare earth"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "China extends suspension of rare earth export controls until January - The Star",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHhNcUFTZ0JkN1pKb0JFVzdUWEJIM1RvTGJiLUdGUWlvbkJuTGRVWFAzb29HZFozaUhXX2JpVzBReUZ0OTNWQWJ4U0doODNOTDBnbHYtcnprV29GOEdEWjBrb3Y5RHhqWlNrQXJ0MjVqaGZuY2ZfZXpGM2tLMVFWYmdoWTJpaEszclVpRXg2TFY3WnZKZWxlSmVaamZOcTQwSC1wX184VjQ1WHIzaVBleTZrNG14Nm5BVWdzeWhEOHE4Q1F3Zk5YMWc3TQ?oc=5",
+   "date": "2026-11-09",
+   "source": "The Star",
+   "id": "324fe4f2d41c2d54",
+   "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control"
+    ],
+    "tech": [
+     "rare earth"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "China Extends Two-Month Delay of Retaliatory Tariffs on US, Extends Rare Earth Export Control Exemption to Jan. 10 - BigGo Finance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1RllKNlZJUzFhX1A3NGxSUkZzMVBBd0lPNjBhYXN4andaeFpRYWxBU0Q3ZmFrdXlBcUg0ZFNacUk5XzhISkZGcGtTRXV6MmlRd3BKZzZRTWxUVUdjWFhXRWpXaVVSQUhhcGh4QVNHaTJmSVRxTFE?oc=5",
+   "date": "2026-11-09",
+   "source": "BigGo Finance",
+   "id": "a8ff20a8b8fe7066",
+   "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control",
+     "tariff"
+    ],
+    "tech": [
+     "rare earth"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "China Austria Rare Earth Export Controls November 2026 - Rare Earth Exchanges",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbDFzaW04NjN0UHUzZWg5MTNTbjNvcHE1SUlGdWU3dU9UNTlGQ3VMU2JLdy1xS1JZUHQ0a29hamhVZnRFT0pyRXVqcDJISVlYTndyQlByRVU5T2Y5Z1AwYy1YR1pDTDF4LU9wQ3Q0OWJiUndEWmZ0UE93R2VncVdfeklGcw?oc=5",
+   "date": "2026-11-09",
+   "source": "Rare Earth Exchanges",
+   "id": "23de2a8f747999cd",
+   "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control"
+    ],
+    "tech": [
+     "rare earth"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "China Extends Suspension Of New Rare Earth Export Controls Until 10 January - BW Businessworld",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYjBKaWdGbGVac1FkTjJkNXdqTENyOFhVcEpUc1Vucm5qQXNpS3RGbjNWZnVQT3djOEZDMXZETldKWVZSX2xVbXVSMlBWT3hLSllaU2E5eEI3WWhSd1JTQnNXbURYU3RTUEt0azNyLWw5dmlVR2lLcF96NFZ1aFFySmE5QjViMExQN3VHbnZpUDR5UXdLLXNoaEJPSHhwaWphSnZ3RG1SbVFNeEMwLWFFeVdLUVlsV0hOVGVN?oc=5",
+   "date": "2026-11-09",
+   "source": "BW Businessworld",
+   "id": "689ecd3aa34d61c2",
+   "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control"
+    ],
+    "tech": [
+     "rare earth"
+    ],
+    "industry": [
+     "bus",
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "Waabi, Warrior Logistics Partnership Moves Freight in Texas - Fleet Equipment Magazine",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSlJpRnBUYlppNHdudFRoMjVlLXFfeWdWOTVlX3ItWG5mZ1BPR2pJLTV2ZVpkZWJ6R291TTQwZFlzektlNUVFeXg4UGFCc1ZXY2xtb2RBUmN5UjZSQnZwTzJxQ0JjWmRNbW5STU9PTFVoaEdCYmx5dzAxZUM1V19mTXZuQlZwOHMyblE?oc=5",
+   "date": "2026-11-09",
+   "source": "Fleet Equipment Magazine",
+   "id": "78abc8780873c1c8",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "partnership"
+    ],
+    "industry": [
+     "fleet",
+     "logistics",
+     "freight"
+    ],
+    "companies": [
+     "Waabi"
+    ]
+   }
+  },
+  {
+   "title": "159-pound humanoid robot that can handle factory materials presented in China - Yahoo Tech",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU3J6V01HTWxyck1QTnNhZ3o0aXY2d0dGR0QzQnhqUk5QZEFyNmFYZS1SNGRQcTVHOFRaTnZnLUJHVHp6NHBjS3FkdWVJYXdPOTdHNE5RSG1tR3dhWFBacXVCb01lQWNWeVFfa0ViX1Q2YVF5UklnZGFiTEF2ZUo0ZkNFM2Y2akpLN2lfbWJnLTRyblU?oc=5",
+   "date": "2026-11-09",
+   "source": "Yahoo Tech",
+   "id": "1945bcafdb5fed84",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "factory"
+    ],
+    "tech": [
+     "robot",
+     "humanoid"
+    ],
+    "industry": [
+     "factory"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "Honda confirms $3 billion assembly plant in Ohio that will add 2,000 jobs - Automotive News",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVkM3WFkwcXBTZmxuejBoVjl1aU5lNDh0andUMGg3Mnk1Z3lIYWlmQ1dPamxYem1pVTdISDNuM3lqZ1VGa05mQThERzBCblBSRHBRNW90ZVN0UTdLN2V5TUIxUDRKLS1TdzVpSm1CV0FCbHAyWVVxay1JMzE2OFpIUA?oc=5",
+   "date": "2026-11-09",
+   "source": "Automotive News",
+   "id": "b6e1b96edad419b3",
+   "feed": "Google News: factory investment OR gigafactory Europe",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "event": [
+     "plant"
+    ],
+    "industry": [
+     "automotive"
+    ],
+    "companies": [
+     "Honda"
+    ]
+   }
+  },
+  {
    "title": "South Korea's shrinking workforce opens factory doors to Chinese humanoid robots - The Cool Down",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmRXNkxQUTNFVUVTdG9MaEw2SmNQRWFlNFR6Y2NWQzB6SVNfNGE3NnJKSWZtbVVJclpZaEk0NS1HaG1kRWpCX0hNY2tfdGpReUpINVEtVm1FZTdYejVPWmppTHBYYy1qZlZpY1FibWJjcDlIUUFFNTNqSW9yeTZqd2VBbVlwaFVIXzB3?oc=5",
@@ -846,6 +1780,31 @@
     ],
     "geo": [
      "korea"
+    ]
+   }
+  },
+  {
+   "title": "Tesla Robotaxi Orlando Field Report｜Road to Autonomy - finance.biggo.com",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ObkNyUS1ncHVCU28ybkRSblpObzVkeGRqaEg3dTRRcWIwTFdCV0tyRnNMeEw3Wk1oRVhZM1g0OW8xSkdxYU5rM2NfLWo0SV9heXRKSnZRd3Nwc3FnRkxZ?oc=5",
+   "date": "2026-11-08",
+   "source": "finance.biggo.com",
+   "id": "aeef00413266676c",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Tesla"
     ]
    }
   },
@@ -1964,6 +2923,839 @@
    }
   },
   {
+   "title": "PNC launches stablecoin payments for corporate clients",
+   "summary": "",
+   "url": "https://www.finextra.com/newsarticle/48728/pnc-launches-stablecoin-payments-for-corporate-clients?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "date": "2026-11-10",
+   "source": "",
+   "id": "de9d1257fe2b4e62",
+   "feed": "Finextra",
+   "kind": "news",
+   "domain_hint": "Digital Finance",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "launches"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "payments"
+    ]
+   }
+  },
+  {
+   "title": "NVIDIA CEO-Tied Chinese Woman Accused of GPU Fraud - 조선일보",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUNQTUZGMHBCeVhtcHZEc2RfbUFhamI4WWJuRWdVQ0NvN3NCY1psMWJaMWoxUW9mYVQ4VkRjS2tTNFA3VVFLNFdhczkyWDE1ZmtZY0NqSW13eUFMSFpCNm41anFDTnNtMFNKcVIzakVUQXFtT3gwQmFmeXRwT2o3SDFyM0tORW5q?oc=5",
+   "date": "2026-11-10",
+   "source": "조선일보",
+   "id": "d199e1a4a9daf0cf",
+   "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "gpu"
+    ],
+    "companies": [
+     "NVIDIA"
+    ]
+   }
+  },
+  {
+   "title": "Humble Robotics raises $51 million for autonomous freight platform - Mezha.net",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWXgwVUpNRjl2cHVCdGQ3ZHcya0tHbllnVzFpaVBYTW9kUUx1MGhfa0RSRzZjbE1XZWVPQlRHV0JmVm9SeEtwbGJTZm9IZTU5SDJXYVRxcFljUk9nVjRLUmFZZEt0TG5CbmRucGprdmp5aDVyWjRrSExmenA0Y3pqOWlSS2FWeHl2?oc=5",
+   "date": "2026-11-10",
+   "source": "Mezha.net",
+   "id": "d875e6043cae196c",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "raises"
+    ],
+    "tech": [
+     "robot",
+     "autonomous"
+    ],
+    "industry": [
+     "freight"
+    ]
+   }
+  },
+  {
+   "title": "Tesla May Lease Optimus Robots to Customers Instead of Selling Them - www.tokenpost.com",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kcTNYUmd5NXFWdVM5bC1oYmthOWJ0cmZqdGdNTjZXZ3FYMGZLaTA4dFBlYWtaVzNyWC1rUmlHZ3p1dGhzbkFJcVFZdmFKZE15Z1lUMTgyd2Q?oc=5",
+   "date": "2026-11-10",
+   "source": "www.tokenpost.com",
+   "id": "c4f1a3b88d0d437c",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "LG Electronics tests CLOiD robot at washing machine factory using Nvidia AI - 헤럴드경제",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YWWJDc3N0SllfMkcya09DZ0dIaHJnc3o1bDNCTUZhQm5yNkFWdmhEZHkyeEdWWHQ2d2RzOF9DeVJDMXRjeUNCQzNXc2R2dFBLa2ZHRVVMNA?oc=5",
+   "date": "2026-11-10",
+   "source": "헤럴드경제",
+   "id": "6f1c3ea9586f9a0e",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "factory"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "factory"
+    ]
+   }
+  },
+  {
+   "title": "Stablecoin Regulation in Action: Liv’s USDU Explained - OneSafe",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wVWNDaW1ITHRiM2JrUjRuWktoREVwTEhpRXc4ZUdRY1pTanJPa1ZTNUVKUmo5UmVsSzZkcVQyWlVnRURBdzRYeXBVZWpXdWxBSzJRb1pGa3pSbUFBXzdWQ2lSM1dfaktRN0loYnNIQ2NtcExlRldVckJGc3VNX1E?oc=5",
+   "date": "2026-11-10",
+   "source": "OneSafe",
+   "id": "092ca9dce01e869a",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "regulation"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "esa"
+    ]
+   }
+  },
+  {
+   "title": "Stablecoin Regulation: Canada Opens Access, Risks Remain - OneSafe",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LYmZzQ3NHQWV2d3E1bENmV3B1MUNYNVM5SXFlOG14ZkxfLWZFVGY4NnlNS0pucm5NZ0lRWDE5cjVYZ3lranhYRGxvV1Nab2tFVTZvdWFpeWNBWHJBcmpMRzZtTUVBcXJiWUNab0NMNWhvVXU4ak8zeXd0ZjY?oc=5",
+   "date": "2026-11-10",
+   "source": "OneSafe",
+   "id": "1ea937c498a0238f",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "regulation"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "esa"
+    ]
+   }
+  },
+  {
+   "title": "Stablecoin Regulation Update: Canada’s Bank Access Rule - OneSafe",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYy0zT2dscTNVb3VTZmRUemFaRXN2dFV0TmF4M2xEa1JYVjR4MkJQWHIwYk9uUlR3S3QtVElhRDRRUjJILW9pcHRiUm9IX1k4VG41WTM0cTFTTnh1c2hqSmNYd0twMzlwQU1fNk53bDRaTnZCVmE2UG5ialpYZS02ZDhQN2VNRG1ELUs4RFRxZVI?oc=5",
+   "date": "2026-11-10",
+   "source": "OneSafe",
+   "id": "e93174f515de7073",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "regulation",
+     "ban"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "esa",
+     "bank"
+    ]
+   }
+  },
+  {
+   "title": "What PNC’s stablecoin payments mean for crypto banking - OneSafe",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pLXNkVXBhSXZsYkhrdmFSVXR3clhGTG5oMTJ2dDdtcEtVVjA4dkdDbTZPNldiLUhhT2pKOFhCX05TUy1GNG1zeXBMeXlfVmxHVkFrSjZlbDdmc2I5Nk5iY3lvSEtuYXRz?oc=5",
+   "date": "2026-11-10",
+   "source": "OneSafe",
+   "id": "13458cbc1a117e0c",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "esa",
+     "bank",
+     "payments"
+    ]
+   }
+  },
+  {
+   "title": "Capitals plan to reject EU say on electricity grid tariffs",
+   "summary": "",
+   "url": "https://www.rapporteur.com/news/capitals-plan-to-reject-eu-say-on-electricity-grid-tariffs/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "15339e2cee218c41",
+   "feed": "EUR-Lex / Euractiv",
+   "kind": "policy",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "tariff"
+    ],
+    "tech": [
+     "grid"
+    ],
+    "geo": [
+     "eu "
+    ]
+   }
+  },
+  {
+   "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
+   "summary": "",
+   "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "77e064d0ed1dee2f",
+   "feed": "The Robot Report",
+   "kind": "news",
+   "domain_hint": "AI",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "launches"
+    ],
+    "companies": [
+     "NVIDIA"
+    ]
+   }
+  },
+  {
+   "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
+   "summary": "",
+   "url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "c5e69940d78fe52f",
+   "feed": "The Robot Report",
+   "kind": "news",
+   "domain_hint": "AI",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "humanoid"
+    ],
+    "companies": [
+     "Boston Dynamics"
+    ]
+   }
+  },
+  {
+   "title": "DeepX Tapes Out Second-Gen Chip, Projects 6.7× Performance Gain With LPDDR5x-PIM",
+   "summary": "",
+   "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "935c9b6b776aab93",
+   "feed": "EE Times",
+   "kind": "news",
+   "domain_hint": "Compute",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "chip"
+    ],
+    "companies": [
+     "DeepX"
+    ]
+   }
+  },
+  {
+   "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
+   "summary": "",
+   "url": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "7b2280037d1678f3",
+   "feed": "SecurityWeek",
+   "kind": "news",
+   "domain_hint": "Cybersecurity",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "ai agent"
+    ],
+    "companies": [
+     "Google",
+     "Google DeepMind"
+    ]
+   }
+  },
+  {
+   "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
+   "summary": "pink_paint-Olga_Yastremska-GettyImages-2289198696.jpg",
+   "url": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "1eda8caf5737f92b",
+   "feed": "Dark Reading",
+   "kind": "news",
+   "domain_hint": "Cybersecurity",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "fusion"
+    ],
+    "companies": [
+     "Microsoft"
+    ]
+   }
+  },
+  {
+   "title": "Chargebyte launches more robust control unit for megawatt charging stations",
+   "summary": "",
+   "url": "https://www.electrive.com/2026/11/09/chargebyte-launches-more-robust-control-unit-for-megawatt-charging-stations/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "6eba77a3543fc394",
+   "feed": "electrive",
+   "kind": "news",
+   "domain_hint": "Energy",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "launches"
+    ],
+    "tech": [
+     "charging",
+     "megawatt charging"
+    ],
+    "industry": [
+     "bus"
+    ]
+   }
+  },
+  {
+   "title": "BMW to source battery cells from LGES and Samsung SDI",
+   "summary": "",
+   "url": "https://www.electrive.com/2026/11/09/bmw-to-source-battery-cells-from-lges-and-samsung-sdi/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "6aa1e4659255c42d",
+   "feed": "electrive",
+   "kind": "news",
+   "domain_hint": "Energy",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "battery"
+    ],
+    "companies": [
+     "Samsung SDI"
+    ]
+   }
+  },
+  {
+   "title": "Posco Future M to supply 720,000 tonnes of battery materials to LG Energy Solution",
+   "summary": "",
+   "url": "https://www.electrive.com/2026/11/09/posco-future-m-to-supply-720000-tonnes-of-battery-materials-to-lg-energy-solution/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "39ff76031850a017",
+   "feed": "electrive",
+   "kind": "news",
+   "domain_hint": "Energy",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "battery"
+    ],
+    "companies": [
+     "LG Energy Solution"
+    ]
+   }
+  },
+  {
+   "title": "Tesla retail sales in China fall to lowest since July 2022 as export share hits record",
+   "summary": "",
+   "url": "https://cnevpost.com/2026/11/09/tesla-retail-sales-china-oct-2026/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "293bfe38189d729f",
+   "feed": "CnEVPost",
+   "kind": "news",
+   "domain_hint": "Energy",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "industry": [
+     "port",
+     "retail"
+    ],
+    "geo": [
+     "china"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Honda to build US$3bn Ohio plant as hybrid demand grows",
+   "summary": "",
+   "url": "https://www.automotiveworld.com/news/honda-to-build-us3bn-ohio-plant-as-hybrid-demand-grows/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "23c6ff4b8d57b1d2",
+   "feed": "Automotive World",
+   "kind": "news",
+   "domain_hint": "Powertrain",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "plant"
+    ],
+    "companies": [
+     "Honda"
+    ]
+   }
+  },
+  {
+   "title": "Zipline raises $1.5B, plans US drone manufacturing expansion",
+   "summary": "",
+   "url": "https://www.supplychaindive.com/news/zipline-raises-15b-plans-us-drone-manufacturing-expansion/874009/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "5815f2e436e6157a",
+   "feed": "Supply Chain Dive",
+   "kind": "news",
+   "domain_hint": "Manufacturing",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "raises"
+    ],
+    "tech": [
+     "drone"
+    ],
+    "industry": [
+     "manufactur"
+    ]
+   }
+  },
+  {
+   "title": "Amazon debuts text-to-shop AI agent feature",
+   "summary": "",
+   "url": "https://www.retaildive.com/news/amazon-text-to-shop-ai-agent/874085/",
+   "date": "2026-11-09",
+   "source": "",
+   "id": "e3b0099ea8b7e6d6",
+   "feed": "Retail Dive",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "ai agent"
+    ],
+    "companies": [
+     "Amazon"
+    ]
+   }
+  },
+  {
+   "title": "United States Antimony Surges 19% Ahead of Earnings; USA Rare Earth Climbs 7%, Critical Metals Rises 4% - 24/7 Wall St.",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNDZSSXZhT1NpRzYwVXQ2RWVJQ2Rtd3hXTWlFejFsbkpSODRlUEpHTUo2ZEhPSl9oX2lhTy1rRFY3RDJLazNqX0huMGQ5NnE2TWlPa3cwR1V5WExBSkdBYVRHdkdnQ2tpLVJPeW9XZjM5c0l4Y3lJdVhHcldmLWNWd0YxMjQxUUk2V1NVSmc3UFJIQ0I4QWx2TE9qZEpEVndmUTlqYUN2cXBYWmNzakFZYnZaaU1sazNZaEJBMkxZdmtRc1hqaVJ4Xzl4R29PdTllazFRMTJxRWZlQQ?oc=5",
+   "date": "2026-11-09",
+   "source": "24/7 Wall St.",
+   "id": "4ed123d27245d623",
+   "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "rare earth"
+    ],
+    "companies": [
+     "USA Rare Earth"
+    ]
+   }
+  },
+  {
+   "title": "Physical AI Service Platforms: Serve Robotics Launches AI Tools for Autonomous Fleets - Trend Hunter",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WdnlMZTJGdTZnUm1jUnNTanNLWkJHZnNpVlltRDhmeXVtbEJ5dXBCSnc0NTZ6OVVJWmxJRGNHbkR2MDNNdDdUN2Y1aWR4VU9zVUNFRkhiMFRtNHhveWRpMHNpWkRQU1ozdUJ1cDZ1TGNRUQ?oc=5",
+   "date": "2026-11-09",
+   "source": "Trend Hunter",
+   "id": "53640255e2f34632",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "launches"
+    ],
+    "tech": [
+     "robot",
+     "autonomous"
+    ],
+    "industry": [
+     "fleet"
+    ]
+   }
+  },
+  {
+   "title": "Toyota And Waymo To Start Testing Self-Driving bZ4X SUVs In 2027 Ahead Of Robotaxi Service Launch - AUTOJOSH",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX3NYQTY3d1hlR2hVaDBmZUhfR2VoZEZNV3k2d01vdHFtTDMtYm1nbW83VHFKWkhTd0VObndEVV80cGZEb0JrNm51ZlhKVW92MlRZUWZkOVd2WDhsZHVLVGlEZk1reGhsQTN1bDJneHBtcUZyX01DN24yQUJleEgwdHFLZVZra0k?oc=5",
+   "date": "2026-11-09",
+   "source": "AUTOJOSH",
+   "id": "f7b8c354d2819f82",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot",
+     "self-driving",
+     "robotaxi"
+    ],
+    "companies": [
+     "Waymo"
+    ]
+   }
+  },
+  {
+   "title": "Tesla’s Robotaxi arrives in Orlando, but there’s a catch for visitors - Attractions Magazine",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hdmk1NEVFaGlJWUhlV2Rhc1ZsWXZvbGl5cEVqXzN4enZncFJxSExwY2VDTmY4MjdMLVJzRVZSQUNramdQZW5MZkZkaUR0aGRfMDVUNkpzMlpaS09MTzVDM2o3TlNiaktWSGFyUlQ1NjRiOTA?oc=5",
+   "date": "2026-11-09",
+   "source": "Attractions Magazine",
+   "id": "e0780cc56daeeb12",
+   "feed": "Google News: autonomous trucking OR robotaxi",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "New wheeled factory robot works alongside humans without safety cages - Interesting Engineering",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHJDcjZvYkxUZkd2MlQwTmwtaFI3UTFHckxRTDhGZXp2SWRVNVR3ckMwdzJYY1JQanB6cVY0SnBlX1B6YlRlWkdWNFNhVFVmQzJoQ0Z5ai0xVU5OczFkVWVSQUw1RnNCQXVlLTBFUklaYXlnSXNyNGtRQ2lIbUg0ZW16UmItd0I0cmc1WmQyN0k?oc=5",
+   "date": "2026-11-09",
+   "source": "Interesting Engineering",
+   "id": "90cf3b23cd613506",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "factory"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "factory"
+    ]
+   }
+  },
+  {
+   "title": "Making Humanoid Robots With Wheels - Forbes",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd2I5Y1ZxcGVZa2hRU1pCOWdiRExkVEhvRDFYd0JnUG50cjYzbkNfZGdYMXFkam1MMXFVNWV4UUNhaHdOc1NnQUx0SEROV0xpc0hoa3A1RERVMllvV3RxMXNGNTZXWWRleVQzelVGWWNDUTRCaktXR2xacFpWNEU1aXJKbzdSZU5ERmNPTzJiOA?oc=5",
+   "date": "2026-11-09",
+   "source": "Forbes",
+   "id": "2b6edb1272cee30e",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot",
+     "humanoid"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "Czech critical infrastructure operators could get new powers to counter drone breaches - AOL.co.uk",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOXZJVHlvMWhUclB3V2l4eE5zOFJ2SXc3RzJ3bGVTTnY1X2JBTDV0VnhSczI1OWluN2VOam95TzE4YkpVVWxrbWdpMHkxY2NVRDBabzAteWJCVHRmRC1nQlhqbXhnN2FuSFBscGc5bkJTckRfXzBYbmswUzBIb2RIR1NnMS1RemNhYWpab3NSams2bm9EZ2c?oc=5",
+   "date": "2026-11-09",
+   "source": "AOL.co.uk",
+   "id": "8a8aebce157d4f70",
+   "feed": "Google News: counter-drone OR \"drone defence\" Europe",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "breach"
+    ],
+    "tech": [
+     "drone"
+    ],
+    "geo": [
+     "uk "
+    ]
+   }
+  },
+  {
+   "title": "Marble Imaging raises €6 million to build Germany’s first commercial very-high-resolution satellite constellation - EU-Startups",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd0tuS3B1SE1iaG1wTXIzcjJvV2FBeXFJYnJ6SVo0X1cxeDNlZ0FkVVpEbU5tQkFzMnlvSkRiZkhlZ0hjNHI2eVpFQk5FR0hrOXlvdHNlaVZfcXNOb25CUzgyUjBRbUFaVkowSVd6dnBDazRCcU94UXpsOWtzSDBFNVpLYzBVWlQ3R050cU5UajVpNmtZdXZHdEFpbVFpUmEtbVVVUG8yXzk3UnhHdHZWeUdLZDNRbkF2VEh6c3BUcWx0anZfQmdzM1FLa05DWlk2bFZXTmFvZm8xa1BaaTA5dnRWZw?oc=5",
+   "date": "2026-11-09",
+   "source": "EU-Startups",
+   "id": "6dfeb24424f27201",
+   "feed": "Google News: Nordic startup raises defence OR deeptech",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "raises"
+    ],
+    "tech": [
+     "satellite"
+    ],
+    "geo": [
+     "germany"
+    ]
+   }
+  },
+  {
+   "title": "New battery claims 2000km of driving range: Lithium-air to smash solid-state batteries and would revolutionise 2026 Zeekr 7X, Tesla Model Y, Geely EX5 - CarsGuide",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY1pJbkFwdjBTYVNGc1ZmbXpVUEg2TE90dXZnanBuLUJ3QTd1YmRHR3hwMkx0WnRERE0tdU12TE9XMDlkeGNDN25BWi1RaWQ1eFpYUExzRjBoQzVGM0FxQjZVcEE1TWt5aTJpbGNyeEQ3LWVmQXVKTjJ3ZUExVVlqc09nUlQ1MW5MWTB6Q01Pb1o0dmNwTVlEX21ZUUJWckJ1cVMtb1JKMUg0TXRuV0JtWmNLY095TTUwWDJ6bmxuRVJjMjBwYnc?oc=5",
+   "date": "2026-11-09",
+   "source": "CarsGuide",
+   "id": "b7477c0595f1c1ba",
+   "feed": "Google News: \"solid-state battery\"",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "battery",
+     "solid-state",
+     "lithium"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Five Reputable Brass Valve Manufacturers in China 2026: Advancing Industrial Fluid Control - The Columbus Dispatch",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOU9JdF92dmpIWWxmTE9pdDN3Skktb3dqaXc5Z2F1ZjgyakpGelJYNHp3LTFValF5MF9EQmp1bnFOY3ZNcGdpTFBXNVlGOXZ5dmVvUXdKdFIxQXZ0b0x0WmxjR2RPUjRnWC1FYjlUdmoxWjFDcW91bHVQMUs0VkRCSWF6cHNNcVhtM21ZMnJMckozNjhaQ0pzX2kzVndUM2U2cFhoQ3Flbl8tcUFNd3d5a2g4THNVLU5QYmEtaGZ1TmM3LVhhTm91U1NGTmgzUzdWYXJrSUVWa1FkQQ?oc=5",
+   "date": "2026-11-09",
+   "source": "The Columbus Dispatch",
+   "id": "089e71fd85733364",
+   "feed": "Google News: \"district heating\" OR \"grid operator\" technology",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "industry": [
+     "bus",
+     "manufactur"
+    ],
+    "geo": [
+     "china"
+    ],
+    "companies": [
+     "Valve"
+    ]
+   }
+  },
+  {
+   "title": "JPMorgan's CEO Jamie Dimon Demands Bank Rules for Stablecoin Yield - CoinMarketCap",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkRKdEp3M0RlNFY2WVdHaVBUZ1VDVXNVRG1mUzR6amlBdmhBWkhaSmxFcXU4RUFBenhoVGJ1YXptYy16SmNNU2xFQ2d5MmdTVElfOU1XaDJnWEhfOWNaUlVEcDN3UnA1NlYwejNuOEZIQXk5VkVwU0xkcW5sUmpsOG1ZV0FQc0RNM2dhbnV2T2RqazA0eTBEWVh5Y3dPOWhGTlhpMXdpaHBEdWs?oc=5",
+   "date": "2026-11-09",
+   "source": "CoinMarketCap",
+   "id": "8aa1ff28a3a00e19",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "bank"
+    ]
+   }
+  },
+  {
+   "title": "Coinbase Wins Full OCC Trust Bank Charter, a Springboard for Stablecoin Expansion - BigGo Finance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rYVJHOEdYMDV2RF9GT2ZTb1hkbzZoVHBINVM1S1dfYWNHRzd3UXA5QUNONWVmMDlkRnZ4aXpORnNQeG9ZTnlFRFVGaDJydzNDTUhnNE90N0lUTC1SOE5hQU9uVGdqb1d3UUlkeWJZbmo2bnh1R0E?oc=5",
+   "date": "2026-11-09",
+   "source": "BigGo Finance",
+   "id": "8dc6d1b0f1aede99",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "bank"
+    ]
+   }
+  },
+  {
+   "title": "PNC Stablecoin Payments Pilot Enhances Cross-Border Transfers - The Cryptonomist",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zdF9aTUN1Y09rR0FGQktUVHNheE9yRm1od2t5NWtBWmQzb1gyTnpPbmZKT05pTXJqSUxDZENqS29jMzBRdWpvX0I5TEtibXNUbE1XVXlKM1pnQ2RUQkRONHhoUmlvZUp5TjhOVkd0SQ?oc=5",
+   "date": "2026-11-09",
+   "source": "The Cryptonomist",
+   "id": "7f82497651d58168",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "pilot",
+     "order"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "payments"
+    ]
+   }
+  },
+  {
+   "title": "Liv’s USD-backed stablecoin integration brings USDU to its banking app - The Cryptonomist",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYk1zY0dac3RDOFpnSVBxMVd5LXRiZk1vLWRCWmxnSi1IUm1fR2dGdXFVcnlTS2YzRFlJQS1tR0pjR3BSbmR6bFBOY3d1dzBtVDA2c1hrMzRDNEllcWxLM2k0aGhwM0Z1bFpqdmRsWnhTc3RManF6X1JWTHFpRDE0Xzl3?oc=5",
+   "date": "2026-11-09",
+   "source": "The Cryptonomist",
+   "id": "932b3383ff12b52b",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "bank"
+    ]
+   }
+  },
+  {
    "title": "U.S. Sanctions, AI Boom Cut Semiconductor Sales to China - 조선일보",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZV9WQU1SQVNZNUJzRHVWNWZmT3pTY0Jfdy1PM0xKLTRWVkYtaVQ0SEkzN2FfaFJRZUpzM1lFd0RTZFp5TUl2U0pDRTR3TFpyNnMtOUpaZEFDczNoanRPSDU5dlEwdVROSFhzYjBZLXU2SmVvb0Y5cFFtRm9TaVRHMTBNcFNJSjRu?oc=5",
@@ -2009,6 +3801,55 @@
     ],
     "industry": [
      "port"
+    ]
+   }
+  },
+  {
+   "title": "AeroVironment LOCUST Counter-Drone Laser Spotted at Mar-a-Lago as NORAD Confirms Air Defense Deployment - Avi-Go",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yWG1qb1kySHcybUMweU1WYXJqbnhPb2hfRlJqYThMQkZIOHBxTEJsS2pRVjc5OW96LXlubzVfXzUzYXRJSG5tcE9aNXZhOFhxUERuaEpkSzFYNWFCMXdrV0JjZzJZdkZiVEh3QzZHbzlBYjg?oc=5",
+   "date": "2026-11-08",
+   "source": "Avi-Go",
+   "id": "34b81f00a9fcc25c",
+   "feed": "Google News: counter-drone OR \"drone defence\" Europe",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "deployment"
+    ],
+    "tech": [
+     "drone",
+     "counter-drone"
+    ],
+    "industry": [
+     "defense"
+    ]
+   }
+  },
+  {
+   "title": "Bridge’s OCC Approval Opens Path to Federal Stablecoin Trust Bank - The Defiant",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGstd2JPa2ZsbjRsUGJsNmFnT2ZlVlphRU1aQjBQRHhVb2ZkVmVJRmFjX3cwME9mb0xiSWpzS1Nha3BNNkc4d2Z0bDBWeVpqX3U3UEpyYXVhRkhlWGx3a19xWEtXVG1RNUE1emJQOVVMQVdEcVRGLU9vbHRBcDgzWk9SUmNmSnNobDAxZ2l3c3VlSFJPZm1lU2xmOUl5Q3JpS2owZ0R3VFhGcGs?oc=5",
+   "date": "2026-11-08",
+   "source": "The Defiant",
+   "id": "d50342929b334691",
+   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "stablecoin"
+    ],
+    "industry": [
+     "bank"
     ]
    }
   },
@@ -2178,6 +4019,27 @@
     "companies": [
      "Agility Robotics",
      "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "Tesla Targets 20K Optimus Robots a Week by 2027 [2026] - shattered.io",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqamRuZ19Ma0YxU050ZGpVaEhOb3dnWnFrLXZqVFRxV1AzZmdxYktUYUlFN0R6dTFLbEVXY0hEUnFxa1VOYXczLW1BZVdxMzRabzBFLS01OEYwNUt6dk5LQ0VYN1hILWRNQkVFRA?oc=5",
+   "date": "2026-11-07",
+   "source": "shattered.io",
+   "id": "6db1dfa403e05b2e",
+   "feed": "Google News: humanoid robot factory",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-10",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot"
+    ],
+    "companies": [
+     "Tesla"
     ]
    }
   },
@@ -3077,1786 +4939,6 @@
     ],
     "companies": [
      "Humanoid"
-    ]
-   }
-  },
-  {
-   "title": "Embodied AI Unveils Factory Robot That Learns from Human Workers - EME Outlook Magazine",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2psakViZGZJcDFEMURqLWNnWVlneDZyY2RhZWNVbzNtQ3E2RXJFc0dDRng2eDh0WTVmMEpWNGJzOGFEYWZUaHpDSllKd0t4MHBpdGVLR1hiT1NjVEZCcFlnY3hvSzZqdFV2dl9vT084cWZTTzhudXRubXdnNjVKeTlVT2NFTkxuMUVlbUktZ0V3ekFPeU5HZUxFNmNQYWVNNnZkZVdaMnRPMFJ5UDlaakpn?oc=5",
-   "date": "2026-11-06",
-   "source": "EME Outlook Magazine",
-   "id": "fb64c7035d87c5f8",
-   "feed": "Google News: humanoid robot factory",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "unveils",
-     "factory"
-    ],
-    "tech": [
-     "robot"
-    ],
-    "industry": [
-     "factory"
-    ]
-   }
-  },
-  {
-   "title": "NATO launches new counter-drone marketplace to help Allies spend $40B on aerial defence - Resilience Media",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3ZlcENLOVlpdFRtUXdoUENMbFp4NkVweWR2WHZUd3FoY2pxMnNvaHVMdnBRWV9rU19qSTRlT1NtZktnYkNKb0FtWHRXSTFySThUU1NFQkdOdWxVdWU5YUFZLVBCVDFoMjVhX2xrcnBuYlBIMm43YXdNZHZWdVZqNlFEX2Ziaml3VXl1NlcxWUNHYXNTdWJ5SUE5OHBnOTVqMzhRMVBzbHdXeS1sMjhROWlxOEg?oc=5",
-   "date": "2026-11-06",
-   "source": "Resilience Media",
-   "id": "5177e1cd06edea44",
-   "feed": "Google News: counter-drone OR \"drone defence\" Europe",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "launches"
-    ],
-    "tech": [
-     "drone",
-     "counter-drone"
-    ],
-    "industry": [
-     "defence",
-     "nato"
-    ]
-   }
-  },
-  {
-   "title": "Chemical Breakthrough Could Unlock the “Holy Grail” of Solid-State Battery Technology - SciTechDaily",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0xOalI2YmxaZ3lSWU5aWFMwS2VoV0gweTUzbUVCYjhBWHFKWnh6bXdhM0pIakZQX0J1eE1IRkYyb0VjaXBHUGQwSWNWS2Uya1RIeGt1UU01TEQyM2prRDc3ZXQ0WGVJbi04MEZwMWIxZEk0Tkh0a0UycVhlZGo3RmRYUW13dk9wcVZRWTZDd092Nk5YbWZVTGFuMi1PMmtYRGdpT2xRSjM1cGxibHc?oc=5",
-   "date": "2026-11-06",
-   "source": "SciTechDaily",
-   "id": "7e0ced7cdc98837c",
-   "feed": "Google News: \"solid-state battery\"",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "breakthrough"
-    ],
-    "tech": [
-     "battery",
-     "solid-state"
-    ],
-    "industry": [
-     "rail"
-    ]
-   }
-  },
-  {
-   "title": "CATL advances 20 Ah solid-state battery cells ahead of 2027 trial production - Batteries News",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNEF0dDFMbUMzb3FFT2Y1cXAzdGF2OVRuOWRMUzVtQ1NWbHU0cVdnLTFVVmxOTzFVdjhuQlp4dzk0Y05vTUh4ZTByMnZ2dTNGalMtWlJOT0d2NkMtVnduLVdtR2dmZlBDLS1PZ1FMeGdqazJGQ21VOXp2M2liY2FiSVhYLWwxOXhLZWpXV3cwdVRZUjdLeDA4dF9Rc3Q0OUJZSzFIMXpn?oc=5",
-   "date": "2026-11-06",
-   "source": "Batteries News",
-   "id": "94f4cfa85d286aef",
-   "feed": "Google News: \"solid-state battery\"",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "battery",
-     "solid-state"
-    ],
-    "companies": [
-     "CATL"
-    ]
-   }
-  },
-  {
-   "title": "ProLogium and Rimac Technology develop solid-state battery pack concept - Global Sources",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUxWbGRUUDRqeVRFQzhCTlJvRUxXUmtRRjBGQl8tN2FBTmU5ZTZGTFVyQmt2UWNTcVBpaXI2TVppaU53Qldsc01OemJ2UlJlWjJ0WWZ5bERVaVZiMzFuYjh3cDNHb1czUG5VSjNYY3pRYUVXc2IwWlFpMUk0NUNsS2p1amtCRTY3c2VlZWdrRERBTWVDMUZnQm1XVWxjZ3JIWExVbnZRS0tNTWtfZ0ota2hkbm5PdGxxUUE?oc=5",
-   "date": "2026-11-06",
-   "source": "Global Sources",
-   "id": "357268804c2a72d7",
-   "feed": "Google News: \"solid-state battery\"",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "battery",
-     "solid-state"
-    ],
-    "companies": [
-     "ProLogium"
-    ]
-   }
-  },
-  {
-   "title": "Taiwan, Thailand and Nigeria progress stablecoin regulation - Ledger Insights",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejlFMFpFSFpGYUg5UVJMQ2x1V1NCZnlJLVB0RVFzT2pVUVpTWE5PX01fMGZ0NVBPWC1RWEVqeUx0VGRWd0lRN0RlTXQ5TGtadjYyenk3djd4VkMtS291ZFI5U1J4WTlheG5LN2VlQUNOTFVNWkRWdkt1OC1yUkFLN3FyRDVHMDdiSXNKNkpTc1NJQVJ6?oc=5",
-   "date": "2026-11-06",
-   "source": "Ledger Insights",
-   "id": "398fa45aa9ac136d",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "regulation"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "geo": [
-     "taiwan"
-    ]
-   }
-  },
-  {
-   "title": "Nigeria's central bank introduces stablecoin licensing rules, bans algorithmic versions - The Block",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQTk0U2gxMnpYb0ZtRG45ZFVWSHRYRTY1MHluWnRjVXNMQ2d2eVd1aGtmNFVseFg4M3pfU1k5OThPRXJmYVZhQWc1TzF3aEY1bGhWMFI5ajRhVTgxNS04Zm5xNkRyZy1NRnNiUU5WVlRMU0ZBM05odjc2Qi1WRUhSaGJzVm5UTkc2N3VNVzBleUNWekhHTllNUkZxWnU0akxlTXlsQ0RYSml1Z3pHN1dnMnJTdC1fX1JzU1c0Uk5ydjVjVzBOc19sQXd3S3l0QWZidFQtZXc2VFNoTVU?oc=5",
-   "date": "2026-11-06",
-   "source": "The Block",
-   "id": "aab7e237903f8744",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "bank"
-    ]
-   }
-  },
-  {
-   "title": "Nigeria’s New Stablecoin Rules: $11M, a Local Office, and a Prayer for Startups Without Bank Balance Sheets - Launch Base Africa",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWWE13cjNwRV9iS1o3TWJxdFVMTzB5a0l3NTVoUXBQZkk2RUxhWGNZLTBUMXg1aVFIR2c4VzExMl9qSGxjMm9iTDExT0ZSRHBVdzkzWURTQUUyeEFMaGl5RzVvMDZhSTg5UUtCQmlLMmNnZHN3QVhmNw?oc=5",
-   "date": "2026-11-06",
-   "source": "Launch Base Africa",
-   "id": "f00b3f8bdac4c6ae",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "bank"
-    ]
-   }
-  },
-  {
-   "title": "Stablecoin Regulation: MiCA-Compliant Euro Token Launches - OneSafe",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUN0VWxYQ0V6M3kzaDFfakJ6YmlKM3RySzFKTk9EenU4TlRFZ0JyWXZaT29MZElSZjVTTjRHSi1PRmRJWEVYSFplMHFmRUNIUV8wVVBydEpUM0xHdGloY2ZMWUtwWWI5YWVTSnpKRXpUMWQ2SVJ4MUdOS0xPbHJUOVpqMA?oc=5",
-   "date": "2026-11-06",
-   "source": "OneSafe",
-   "id": "5982deec91892a7a",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "launches",
-     "regulation"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "esa"
-    ]
-   }
-  },
-  {
-   "title": "Nigeria central bank sets stablecoin licensing rules for crypto market - Traders Union",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaG81ai1qLTRSMmpQb29xWXZ5Sy1zUU55QWg1QS1oSWVBdmZyelhyN2U1QVp5djl1cGRFcmZ0RlNQalZQQ0ZYOFJILWtnX3hPU2NaaFBoS2d0czg1Y3p1TUx3N1h0YmhCMjhGa0ZMdXNWdkozaUs5YnBuU1RkYUZoWHZzckpMSTZfUnBPSU1lZU5lUmZBVFBGRW5XT3h0SE8yZGFB?oc=5",
-   "date": "2026-11-06",
-   "source": "Traders Union",
-   "id": "73795bd15e733e24",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "bank"
-    ]
-   }
-  },
-  {
-   "title": "Nigeria Central Bank Enacts Stablecoin Licensing Rules, Bans Algorithmic Tokens - Crypto Economy",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LalV1SG9raExyZVpLNjUxZ3E1SlFLVG85akZSajFXRTBPVzg5bzB0cVB0eElObmVGaFRkeEJsQTNkTS1ZNzRIbURESE1HVmd2Zm9yanhPNXRHQlA0ajZxLU5GTmVKaVFQS25udkxSV3FiUE5BMGZZQ0cweWM?oc=5",
-   "date": "2026-11-06",
-   "source": "Crypto Economy",
-   "id": "071d1fdc7945e581",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "bank"
-    ]
-   }
-  },
-  {
-   "title": "Nigeria Central Bank Introduces Mandatory Licenses and Capital Rules for Stablecoin Issuers - Hokanews",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MM18xYTZBanY1NG1ILWJRd0hMRklWY1U3VDVRM0I5VGYyTGV3TDdqRXpzNDNkNUlRalVUN1g5V2xDSkhSbDNuX05xQXhrWWNmdzU1eUFTSFFyc0VjTjlkdmtzQm1lNWwyUmRTRmktYk91Mlh2YkxrOQ?oc=5",
-   "date": "2026-11-06",
-   "source": "Hokanews",
-   "id": "d4e466d25ce886bc",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "bank"
-    ]
-   }
-  },
-  {
-   "title": "Automakers to Face Tariff Hearings, Robotaxi Scrutiny Under New Congress - Electric Vehicles",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNemtRMUdIcVE2Mlh3UXNiSkdBZ2U2Q3ViWl9xUl9JNXNVSGtyNDViNXhVWWNJc283M3FERzRqYkdyd1ZBaDVLY0V4WVNtbjk4Z1FmYXh2Z25ybVBZV3ZobzFHRHFFaTVPZFdXcXNHUFZpUmRIRG52QkhnSEhEbThLd1ltT2R4RVUycDFjZzNxLVhOSGFMWHdtbVZ1bUtUZUI2N1hrNmVHNThKUQ?oc=5",
-   "date": "2026-11-06",
-   "source": "Electric Vehicles",
-   "id": "9e4abd3fc04123a1",
-   "feed": "Google News: \"connected vehicle\" rule OR ban",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "tariff"
-    ],
-    "tech": [
-     "robot",
-     "robotaxi"
-    ],
-    "industry": [
-     "vehicle"
-    ]
-   }
-  },
-  {
-   "title": "College report calls for clearer guidance on cybersecurity regulation - Trinity News",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2NRdldfRGlPRmlMeFJJWFd0LS13S3ktOVgzOXU3NGhNQ3JEcThhdF96RmQ0QVZQWUQ0bndMQU0xWk43V2RfQ2lJQkVlU3Nxc3U3R2xCVzNYZjFWTGVseUEyRGdrc3NGclVXZE9tODY2QjlzSjBjd0I5NjBYRkZsQmNZekZrQWhTZG4zT1pVVUFmWHljZlhtRGw0Vl91ajZOdVFOS3pSR0k?oc=5",
-   "date": "2026-11-06",
-   "source": "Trinity News",
-   "id": "2eee627cbb379a07",
-   "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "regulation"
-    ],
-    "tech": [
-     "cybersecurity"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Tariffs, Free Trade, Export Controls, H20 & Rare Earth Ban | BG2 w/ Bill Gurley & Brad Gerstner｜BG2Pod - finance.biggo.com",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EZGVDc1ptUm9YUC11dk1KRnhvWV9DZVM4dlNBVzlPelY3Rm9tLWVwWk5zQnVWUWJVa0hMYWhqM1laREpVbDFKdURlVFNPQnFCUU9QRVdtMXR5ZGhQSDZz?oc=5",
-   "date": "2026-11-06",
-   "source": "finance.biggo.com",
-   "id": "95c2d674178c1055",
-   "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "export control",
-     "tariff",
-     "ban"
-    ],
-    "tech": [
-     "rare earth"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Humble Robotics Raises $51M for Cabless Truck [2026] - shattered.io",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV254QW9tejJ2VERydkFCcWpWTHlsa291aHJ0WGpkN1A4SGphb1hHV1FrdXRubGxPVDZzWFU3Ymo5SW14UHJJVmQ3YjJtdXF4SlktbHQ0Vm8tTVVzTWVNMUlJV1Yxa3BnQllkaHY3N21FNi01LUVQaTlZT2ttcmpRS0RHNjFieThIdF9nVXVR?oc=5",
-   "date": "2026-11-05",
-   "source": "shattered.io",
-   "id": "0915097e48e5f9d4",
-   "feed": "Google News: electric truck OR \"megawatt charging\"",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-08",
-   "score": 5,
-   "hits": {
-    "event": [
-     "raises"
-    ],
-    "tech": [
-     "robot"
-    ],
-    "industry": [
-     "truck"
-    ]
-   }
-  },
-  {
-   "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.08428v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "0fc8b436ad5517b7",
-   "feed": "arXiv AI",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "demonstrat"
-    ],
-    "tech": [
-     "llm"
-    ]
-   }
-  },
-  {
-   "title": "Quantum Fourier integration of decay rates at next-to-leading order",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.08204v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "841ca7f995430e1a",
-   "feed": "arXiv Quantum",
-   "kind": "research",
-   "domain_hint": "Compute",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "order"
-    ],
-    "tech": [
-     "quantum"
-    ]
-   }
-  },
-  {
-   "title": "How did Agility Robotics perform on its first day on the stock market?",
-   "summary": "",
-   "url": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "92770d8749477861",
-   "feed": "The Robot Report",
-   "kind": "news",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot"
-    ],
-    "companies": [
-     "Agility Robotics"
-    ]
-   }
-  },
-  {
-   "title": "Agility Robotics begins trading on Nasdaq",
-   "summary": "",
-   "url": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "968f08631dacb40b",
-   "feed": "The Robot Report",
-   "kind": "news",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot"
-    ],
-    "companies": [
-     "Agility Robotics"
-    ]
-   }
-  },
-  {
-   "title": "EU launches €525 million chip design platform to boost startups",
-   "summary": "",
-   "url": "https://www.eenewseurope.com/en/eu-launches-e525-million-chip-design-platform-to-boost-startups/",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "dcfd104937efa4f0",
-   "feed": "eeNews Europe",
-   "kind": "news",
-   "domain_hint": "Compute",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "launches"
-    ],
-    "tech": [
-     "chip"
-    ],
-    "geo": [
-     "eu "
-    ]
-   }
-  },
-  {
-   "title": "Bosch Sensortec CEO Stefan Finkbeiner on Sensors, AI and Innovation",
-   "summary": "",
-   "url": "https://www.eenewseurope.com/en/bosch-sensortec-ceo-stefan-finkbeiner-on-sensors-ai-and-innovation/",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "0510fadf2b098415",
-   "feed": "eeNews Europe",
-   "kind": "news",
-   "domain_hint": "Compute",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "sensor"
-    ],
-    "companies": [
-     "Bosch",
-     "Bosch Sensortec"
-    ]
-   }
-  },
-  {
-   "title": "Deutsche Telekom braces for SpaceX impact in US",
-   "summary": "Deutsche_Telekom_s_logo_reflected_in_a_building_at_DT_s_headquarters_in_Bonn_Germany._.jpg",
-   "url": "https://www.lightreading.com/finance/deutsche-telekom-braces-for-spacex-impact-in-us",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "ea88b1368064eff4",
-   "feed": "Light Reading",
-   "kind": "news",
-   "domain_hint": "Connectivity",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "industry": [
-     "building"
-    ],
-    "geo": [
-     "germany"
-    ],
-    "companies": [
-     "Deutsche Telekom"
-    ]
-   }
-  },
-  {
-   "title": "‘It’s a no-brainer’: Alfen CEO on sodium-ion BESS plans with CATL",
-   "summary": "",
-   "url": "https://www.energy-storage.news/alfen-ceo-sodium-ion-bess-plans-catl/",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "52ca8d2ecf1710bd",
-   "feed": "Energy-Storage.news",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "sodium-ion"
-    ],
-    "companies": [
-     "CATL"
-    ]
-   }
-  },
-  {
-   "title": "Eaton CEO: AC to DC migration for data centers ‘is real’",
-   "summary": "",
-   "url": "https://www.utilitydive.com/news/eaton-ceo-ac-to-dc-migration-is-real-because-of-large-power-savings/873887/",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "9580b36ad91e509f",
-   "feed": "Utility Dive",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "data center"
-    ],
-    "companies": [
-     "Eaton"
-    ]
-   }
-  },
-  {
-   "title": "Shield AI to acquire radar maker Echodyne to bust drones",
-   "summary": "",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones/",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "6f456e6467c90b3a",
-   "feed": "Defense News",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "to acquire"
-    ],
-    "tech": [
-     "radar",
-     "drone"
-    ],
-    "industry": [
-     "bus"
-    ]
-   }
-  },
-  {
-   "title": "Moonshot AI Bypasses U.S. Chip Curbs Via Europe Neocloud Deal - The Tech Buzz",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFJvTHhyVjJJaXNiQ3BpMjBDYk43TG91TmJLaDdQdmQyVVlBX29oSkZ0LXJyU3dab1AybmNkY0VQMDZIOUUyaDQ2aFJxTGFXbkktZ096dlZpQmNXUHVpY1VlM2ZOalpZaXZjMWNrd2twbmd6YXE4aWxKOFFLa0lnTWlXX1oyZG5FU051TDZpRXNUWV8wSlQzYw?oc=5",
-   "date": "2026-11-05",
-   "source": "The Tech Buzz",
-   "id": "cdc3ccf387394cd2",
-   "feed": "Google News: \"export controls\" OR sanctions semiconductors",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "chip"
-    ],
-    "companies": [
-     "Moonshot AI"
-    ]
-   }
-  },
-  {
-   "title": "Humble Robotics Raises $51M for Cabless Truck [2026] - https://tech-insider.org/",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZG1rSjVsNzdhYS1VZmd6TE51ZDV3Y0MxY1Bvc2lKRlBpZXg2NTRMWnFJdmFpX2FmNXJQNXYxbVVPWnBMOGdra2tzMzRFcm9QVE1aYWdrQW1OX3cwbWp4RkN0NjA3ZjdrSXl3RG5uanNLU2FXNzRNNUNKOTIxTXE3d05JaFlYaHhkTHc?oc=5",
-   "date": "2026-11-05",
-   "source": "https://tech-insider.org/",
-   "id": "3b8f5801a53800c2",
-   "feed": "Google News: electric truck OR \"megawatt charging\"",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "raises"
-    ],
-    "tech": [
-     "robot"
-    ],
-    "industry": [
-     "truck"
-    ]
-   }
-  },
-  {
-   "title": "Portable charging system aims to speed up electric truck deployment - Australasian Fleet Management Association - AfMA",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdnJNY2NCY3dVZGduRm8zVlJyOGRYbHZNczVmTnpzdVdzcUxTbmhrRlFEZFdOR3BFNTdxN0llZmNoRzU5dDk3V3djYzlQRzczMm9jOXVRbzZNZ2E4a051U3lUWHlQQXhFemtXRE1iaWZCTHZ2SkxHRVNPVFAwVkllX2Vpc2YxS0lBSVpjVnUyeWR6dw?oc=5",
-   "date": "2026-11-05",
-   "source": "Australasian Fleet Management Association - AfMA",
-   "id": "dc553c00665faad3",
-   "feed": "Google News: electric truck OR \"megawatt charging\"",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "deployment"
-    ],
-    "tech": [
-     "charging",
-     "electric truck"
-    ],
-    "industry": [
-     "truck",
-     "fleet",
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Humble Robotics Raises $51M Series A for Driverless Electric Freight Trucks Built From Scratch - Wowtale",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aQ0prZnRUcjR1aXhtMFJ4SVcyU3FyVDIzU1RiNmpmZzN3Q0JrOEQxbW1uLWFhRG00UkdDTTFlSDNqN0gweGVJeEo3ZFRGeTRwZTdn?oc=5",
-   "date": "2026-11-05",
-   "source": "Wowtale",
-   "id": "81687c72c391a7e7",
-   "feed": "Google News: electric truck OR \"megawatt charging\"",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "raises",
-     "series a"
-    ],
-    "tech": [
-     "robot"
-    ],
-    "industry": [
-     "truck",
-     "freight"
-    ]
-   }
-  },
-  {
-   "title": "Humble Robotics raises $51M for cabless hauler pilots - FreightWaves",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVNYdS02czhyT2djVmdMb3YwcmI0aGRBaVV4TmJqN1RwNzRoZ3diakdxYUY1V09lTWhFVkNac0NISXNubGdSUUZGMkQyQWU5YUVRMmRnVWFZUXdDTzZUT3BVbmd1WmVjMTdBa3pmMkFZXy1PX0M0TTc1eU1GY0lqRVVmSQ?oc=5",
-   "date": "2026-11-05",
-   "source": "FreightWaves",
-   "id": "c87396bb788f290a",
-   "feed": "Google News: autonomous trucking OR robotaxi",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "raises",
-     "pilot"
-    ],
-    "tech": [
-     "robot"
-    ],
-    "industry": [
-     "freight"
-    ]
-   }
-  },
-  {
-   "title": "Ex-Apple engineer raises $51M to build cabless self-driving trucks - Dealroom",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQck80dWF6bkZPS2ptX3IyRzIySDhLQi1RNDFoN2JCOF9oWEFvS2xGS0VWNXo4TzVoSEpYSWxBblQ2bTJjTGI2cHlwRVI3RnRoYlV4Ml9VNm1RUkY1MkJaNDl5OXVWQXZhLUp5SW5jZU52bW9rR2laT183dUhRaWExYm9yNWVuWFhnMkNGRHVNNEpIV2taNEY4azg4NUZJM3lC?oc=5",
-   "date": "2026-11-05",
-   "source": "Dealroom",
-   "id": "837b692780a7b8d7",
-   "feed": "Google News: autonomous trucking OR robotaxi",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "raises"
-    ],
-    "tech": [
-     "self-driving"
-    ],
-    "industry": [
-     "truck"
-    ]
-   }
-  },
-  {
-   "title": "Humble Robotics Raises $51M Series A to Advance Autonomous Freight - Unite.AI",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWENUOC1CQUdBRmFEalNLdzMzYjhRYXZpUE1Bd1E4amxRUENiN1VPbXpJYTZnc2I3Z1FrUEo1dFBmSXpKbTk1NjVEclFacmJxVGcyQmdxczU2Rk5lY1RtZ2lGWkw5RUpFQ1REclc1TkMxUHNlRzB6SFRQNDUwNTA4SndVc3ZlUHpfcmYxS2N1Mlg?oc=5",
-   "date": "2026-11-05",
-   "source": "Unite.AI",
-   "id": "8766d29a89389d0b",
-   "feed": "Google News: autonomous trucking OR robotaxi",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "raises",
-     "series a"
-    ],
-    "tech": [
-     "robot",
-     "autonomous"
-    ],
-    "industry": [
-     "freight"
-    ]
-   }
-  },
-  {
-   "title": "Humble Robotics Raises $51 Million Series A To Scale Autonomous Electric Freight Transportation - Pulse 2.0",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmZXcDRwbDFMR0dSajBfSXdENEMyZ3ZMdU5HdDdYVDZmVUp4TTVmaHRWQTFjRnVteEd6UldNZVFVNDNicUhvXzR3YnlvMGl3RU82NjNJSFJmOEtHQjUxODJXWDdNWGJIYnFHUkR2bXVObGFjeDJIc1h4WURkeXVRM2dLZm5UUWdrSElKSnVOblFUSHktYThIOE1kdnJ2YmFQemZNdjRuQjVhaml5eVJPYVN6SU8?oc=5",
-   "date": "2026-11-05",
-   "source": "Pulse 2.0",
-   "id": "91dcdc536b8c7d5b",
-   "feed": "Google News: autonomous trucking OR robotaxi",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "raises",
-     "series a"
-    ],
-    "tech": [
-     "robot",
-     "autonomous"
-    ],
-    "industry": [
-     "freight",
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Humble Robotics Raises $51 Million to Build Cabless Self-Driving Trucks - news.lavx.hu",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaHg3NUNTRnhZOXBfbFhYVk1jd05VTU4tenJyRFpKdEQ0ZWZRT3NjR01NdkFZeGIwV1Vodi1oOUIzcGxna19wMW9ldEktd1U0Vmd6OVdwVlJWd3BXcFBydmhxdVphdkV0Q0RFTjRWVTFNYmlPTTlxcFVvM3lXUUFrdHhPeEdHVjFDNjl4SW5Bb1NXR0F3OEVoZFMtdkJyV0Zz?oc=5",
-   "date": "2026-11-05",
-   "source": "news.lavx.hu",
-   "id": "cb444740b600b3e7",
-   "feed": "Google News: autonomous trucking OR robotaxi",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "raises"
-    ],
-    "tech": [
-     "robot",
-     "self-driving"
-    ],
-    "industry": [
-     "truck"
-    ]
-   }
-  },
-  {
-   "title": "Humble Robotics Raises $51 Million Series A to Scale Its Unified Approach to Autonomous and Electric Freight - Yahoo Finance",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1BKZ2M5eEJ6RDFydEl1b2pmeGJnN1RNRmF6RkxzTlNValRlcXZGV0tMNHY3TFhoYkVRSm85WXZkcG5ydjI2R0xRRnB3UzkycFBlejYwNDRvQWJrX1B5YThzbTA3RnppTFV2VUkwaHhJLTBzS3hlSGpJOENZcFllU3Q4MkMtZjRhaXB1RlJfUmI2ZEhIb0QwSGZjeVh1UQ?oc=5",
-   "date": "2026-11-05",
-   "source": "Yahoo Finance",
-   "id": "fa47e4f3ec4016d9",
-   "feed": "Google News: autonomous trucking OR robotaxi",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "raises",
-     "series a"
-    ],
-    "tech": [
-     "robot",
-     "autonomous"
-    ],
-    "industry": [
-     "freight"
-    ]
-   }
-  },
-  {
-   "title": "Humble Robotics Raises $51 Million Series A to Scale Autonomous Electric Freight Vehicles - citybiz",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORVJzdlBiSG5nakJpc1hxRFY0MGJnSlpqcmN6LVFldEZRNkFmdkZzdHdCb29qdndINW9zNWZOS1FORm0xbDFUV1QycEZzV1U4NnhVRERTcFo0Wl9rTFVsTWhNM0IwQ21QZjNVMDdiRUF3WkxlZXozT0FBWmpYTzg4cHVlTHZJYmN3NmhPQ2t0SXNtczhNTUN0MjRHQU1lUUp2VDFvcV85TGRuVzhZQTlCQ1dHQ3JLaGI2b1FOaldZdDl5THRDNlE?oc=5",
-   "date": "2026-11-05",
-   "source": "citybiz",
-   "id": "568bd9bc37173beb",
-   "feed": "Google News: autonomous trucking OR robotaxi",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "raises",
-     "series a"
-    ],
-    "tech": [
-     "robot",
-     "autonomous"
-    ],
-    "industry": [
-     "freight",
-     "vehicle"
-    ]
-   }
-  },
-  {
-   "title": "Xiaomi’s humanoid robots sorted car parts for 8 hours and recharged twice - Martin Cid Magazine",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjRfUUtzSlJRX0ExTHJ3Q01HUlI2QmU2Zk5CeXE4d2FWcGJqelRiTHhBektCQllxZHdNWXhId25qak9OdVFGNnVMZnpRSUt1dWVaMHFlZDRJMWpvMUt5bEhXVGZUcndTZlRDMnBrZGFsckRqWUhYWHBwYld4ZktYbXBGeEZ4bnF6VHh6TTRUNnFXRnlXVlo3cFhFbW5QOTQ3emFXekFXZw?oc=5",
-   "date": "2026-11-05",
-   "source": "Martin Cid Magazine",
-   "id": "e2444f826a7cfcec",
-   "feed": "Google News: humanoid robot factory",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot",
-     "humanoid"
-    ],
-    "companies": [
-     "Xiaomi"
-    ]
-   }
-  },
-  {
-   "title": "Russia's First AI Humanoid Robot Collapses Seconds Into Its Moscow Debut - Startup Fortune",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbW9WWmNVNmpKVXg4aHVvZnMyTWRGQUxjbE1kcFgzWHBUNXQwOXU5MndndmVzS3dWUTc5MTQ0VTBTVUg4cXdUV2dheXdqRlJsWTEwNlB2ellwSXkyNkhDM1JRWTUxeUZVeWJCYy13UzBUOHNHRGFTYjJIVXh3cDdqemJWWFAxbTh1NGV5TTgzZlJ5dENzV3hmNDZuRkxtNC1f?oc=5",
-   "date": "2026-11-05",
-   "source": "Startup Fortune",
-   "id": "adb0c723b4a525fe",
-   "feed": "Google News: humanoid robot factory",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot",
-     "humanoid"
-    ],
-    "companies": [
-     "Humanoid"
-    ]
-   }
-  },
-  {
-   "title": "Tesla Is Getting Closer to Selling Humanoid Robots, but There's a Catch - Yahoo Tech",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeW10VEJqSVlSTW11amo4RGZhclhZZ3RHWmlmOUJ5cVJJLUdRaGsyY1NYX1hGV1NXaFpNbjJzVGliRnhjNlVQUVUyOXNVdFoxcTg0cTJHelFsYlNxNUphY0U4Wk1EdUhaVy1FcFBVbExRckpUTG5vTUpHZDVvckNqUEQ5WmdRSS0tVjJOV183TXZUcWJoLWdZ?oc=5",
-   "date": "2026-11-05",
-   "source": "Yahoo Tech",
-   "id": "1918f9814942c39a",
-   "feed": "Google News: humanoid robot factory",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot",
-     "humanoid"
-    ],
-    "companies": [
-     "Humanoid",
-     "Tesla"
-    ]
-   }
-  },
-  {
-   "title": "Xiaomi’s humanoid robot just worked a full 8-hour shift, charging breaks included - The Gadgeteer",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2MXNCcDZlNlVwbUtqN2JQZUp1OF9SYmNUdXhYektRLWJYVnhHdnI5ZEtqMHU0YTZLZ25ZUnpJeXhtU1hoRm1jcjdBTXRKRlBHclBLd3VoLUpNNHdUU3JGTTNqeFJfaFE5cGFBLXI1UDRuTXVLeUw4VmVTMTZHdw?oc=5",
-   "date": "2026-11-05",
-   "source": "The Gadgeteer",
-   "id": "6a9828d0c02a9696",
-   "feed": "Google News: humanoid robot factory",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot",
-     "humanoid",
-     "charging"
-    ],
-    "companies": [
-     "Xiaomi"
-    ]
-   }
-  },
-  {
-   "title": "NATO launches counter-drone marketplace to speed up access to defense technologies - Anadolu Ajansı",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGxJQjNQQUJES1hQSjJzSVNXTEVlb0c2MGJ2RVJJT21aWmN2ZEpnTS1TNFp0VWFnbHM1dGFKT3kza0JaSFM3WWRWQnhQSzRUa2pyVHE4UVFUcHIzeDFkYjljNDRhZTNiUE14U3FkUzc5VWo1a2p3U1dXc3o4b2RiM2lnYndJOGNUZVQtQm1VNURnU3FDVjJGSkpVWUN2dGxQTlR1NVNJYUFsWjlzNXJiRFpwQjREaWhEYzNnRDVMRQ?oc=5",
-   "date": "2026-11-05",
-   "source": "Anadolu Ajansı",
-   "id": "3aa56506d890daff",
-   "feed": "Google News: counter-drone OR \"drone defence\" Europe",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "launches"
-    ],
-    "tech": [
-     "drone",
-     "counter-drone"
-    ],
-    "industry": [
-     "defense",
-     "nato"
-    ]
-   }
-  },
-  {
-   "title": "China's TOPE raises $15M Series B as state capital backs solid-state battery gear - Dealroom",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDdZMFgwQ2t2WFRBQzVoZUNSaHhZV2NORmJETl9MSmZ5aFVfSGNXM1pYSnJqZURLcUFuZ1NvMVAwSEw3TGZBSVE0U1BMaEdKbVNxX3JJRVR4dEcyLXFLM0JoTVB3bnVJV3lhdmdBZTRtTlBtcVVRV3ppTmZQZUhLNzRuTklCLWdEb1NxXzJucTNDVWRvR1dFc203SE5TWFdrZXRIQzV6cmZwRDhLMmFfUy12amI?oc=5",
-   "date": "2026-11-05",
-   "source": "Dealroom",
-   "id": "18a0db64df3a2f69",
-   "feed": "Google News: \"solid-state battery\"",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "raises",
-     "series b"
-    ],
-    "tech": [
-     "battery",
-     "solid-state"
-    ],
-    "geo": [
-     "china"
-    ]
-   }
-  },
-  {
-   "title": "Korean researchers build all-solid battery prototype with 235.13 Wh/L energy density - ESS News",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmtFNS0zNGc1RmpLXzN2MHJWSEk5NHdlTFlzanhhVWt3MU1PdjdGYm0xamp1azBjOVBVYkQ1M1hEaWZKcExXWERKUzhsQmVVRUppT0JnUEE3R21PRGVra2ZmZElVRVpUSjFtcVV6REh2cDdxVEhFclh2RGtBV1JkMmpjQkRVbnBkRjlncG4wUDBwRWtUSGp4aExZaDFMNGpwMG93ME9NbEhVNWxzem5uSGJkY2JyQ1lSdERSdmpn?oc=5",
-   "date": "2026-11-05",
-   "source": "ESS News",
-   "id": "91b44358f1803909",
-   "feed": "Google News: \"solid-state battery\"",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "researchers",
-     "prototype"
-    ],
-    "tech": [
-     "battery"
-    ],
-    "geo": [
-     "korea"
-    ]
-   }
-  },
-  {
-   "title": "State Capital Joins High Energy Digital Manufacturing's Series B Financing, Accelerating Industrialisation of Solid-State Battery Equipment [SMM Analysis] - Shanghai Metals Market",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNDRZQWt6TXNzWmU4bFk3WkR3VElxTndXY1NBYlQ3V0d3amt1aFZDcWVhTHl1NWtka013cHgzWVBDbVYxSUZiMkttTDEyU21nTkk4bkFqanhNeDF5SF8wcmRlSHRqUmp1YnkzTTlqeDBoajc4c0prbTVRa21SbzhLTUlMODhxTVBTaElIM29VRExZaHNUckkxWkVocVpvRUx1WEFuVWFUU05QZVQ5eThIY19fUm5SOTR1QkpTbV9FQkJPYm0zTVhaM1JaZ04xU3ByTTVKRjlDaWxQaUhwTHo1NVVQSW9iQ2RiMnl4RjZNODhfcGNRNkJ0THdUeDVhaTBkTFc3NUYyRE5oeWUtSXU5SWNUbGdEVEpHbzBSdThkaDM?oc=5",
-   "date": "2026-11-05",
-   "source": "Shanghai Metals Market",
-   "id": "9ba5b552fa540e32",
-   "feed": "Google News: \"solid-state battery\"",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "series b"
-    ],
-    "tech": [
-     "battery",
-     "solid-state"
-    ],
-    "industry": [
-     "manufactur"
-    ]
-   }
-  },
-  {
-   "title": "WasabiCard Joins University of Macau Stablecoin Policy Roundtable, Engages with Scholars from Tsinghua University and Other Institutions on Cross-Border Payments and Regulation - GlobeNewswire",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOb053MTdXMWYyZGNuQlFFNFEwTHBpLU80akhNZjAzZnB3bDRkS2ZFWXN3Q3I1ekRPZl9zazNHVlZXQ1FyQ0ZVM1VrT29qLW1RR2pxa1gyV2RyMGZadWlCRVB2Smd5S193bk5hQ2k0OFZzdEVUYktRR0d4S2l6bGlrT3lFbkk4amhSQjJpeFRNcXBNUDdyUml4bTVBNXY2WUV0MWFFT0l4YlB6Um5heXVyd1JPUFU3NGFXek85R1Nxd3hVNk15MmUwOTBlWHB4Zkh5aENYVC1iLVIwSXNHZzdNNlcwTWw1T2NtWnc5MjVkbnpwNFZyNzZGQWY4VENnUU9ZN25MaGdfelRQN2phWk9aeWpUMGhPTTlfa0V6ZmVxMlhSRWpmdVplcXYySHFPQ2E1U1IyVTFDUGdYWk9rTnQwdUc1OVZka3k0UmdxWThTU1FlT0U0RVBITGVyNjhfV3VPT2FvUEJn?oc=5",
-   "date": "2026-11-05",
-   "source": "GlobeNewswire",
-   "id": "662622ed7b01dd51",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "order",
-     "regulation"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "payments"
-    ]
-   }
-  },
-  {
-   "title": "Stablecoin Regulation: Dimon Demands Bank Rules for Yield - OneSafe",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpb2NKTHFVZDRrcDU3VzJlelR1OW1yTWZGX3VneEFrbDRuQ3JyYU1vOVhmMG5wVlRxRXltalQya3VGMTB5dGp2RVZCQVA4T21aTlRjbEJDUEZBTTB0MW5scTlzS05Nc2Q2MFczc2VNVzhoaU5SVVEydEtlTXA?oc=5",
-   "date": "2026-11-05",
-   "source": "OneSafe",
-   "id": "5124bb0d362096f1",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "regulation",
-     "ban"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "esa",
-     "bank"
-    ]
-   }
-  },
-  {
-   "title": "Stablecoin Regulation: OCC Final Rules Impact - OneSafe",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uR2JQZGtWcmFsMFQ5SWtOOXlIRmN2WlZSTGx0WlJZSjM4QUJuRHFuLTFVZkZ0UVlCUnVzSXExUFE0ZFMyY2EzUWxMbWpjOG9lMElSUHo3NWNWcWhuLW5kNEhkcWcxM1BjZEV3VnItR1BObk9ldE82bUpnQQ?oc=5",
-   "date": "2026-11-05",
-   "source": "OneSafe",
-   "id": "7bce5850ba438dfd",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "regulation"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "esa"
-    ]
-   }
-  },
-  {
-   "title": "GENIUS Act Stablecoin Regulation: A Compliance Guide - OneSafe",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNVZaaDRETkQ4N0pUdzJLeVNPR1h3T2c5bkVOVDFHV2tKTTgtM3NhcHJFMThSMXJLcXlFQUVZUDlIWHNvM0RtWGc4aVFET0dIUGM1bHBxbjF6NmhDcjVBQ0EtYWFobkh1MEMzWTkwcDJVejVJUHVySnVGWEZ2dnREcGhiUQ?oc=5",
-   "date": "2026-11-05",
-   "source": "OneSafe",
-   "id": "a181d0f0ad5c821b",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "regulation"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "esa"
-    ]
-   }
-  },
-  {
-   "title": "Canada’s Stablecoin Regulation: What Businesses Must Know - OneSafe",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObXdkSU40cmtESFhrQXBHVS1uVGhobFc2QjRLZUNRT3dwRHNCTGt4UG1GYXQ3RUJzNU1wWldRN3F3dkR3OHJfV19qY19pT0VEanlKNjBEYm5JNy1tZEdEOFVQc0F5dUxiV0lsQWs5Q0VBQi1UMTNfOTBrazM0Z2VtRkpuUm8?oc=5",
-   "date": "2026-11-05",
-   "source": "OneSafe",
-   "id": "bd7abb8f65316c89",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "regulation"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "bus",
-     "esa"
-    ]
-   }
-  },
-  {
-   "title": "German battery storage manufacturer Sonnen heads for insolvency. ČEZ cashed in its stake in time - oEnergetice.cz",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVHlmWUlCc3JjRF9JcVZkLWllUmg5Q0NMU09VMTJJRTFNcmRMbkwwaXBZUC14bnNDQmZoM09jQTkwOW9zRk5obW55emtUMVUtZURtOXFaR3lzR2pCWlM4dFdxZ24wSGkxT3Bzd1VsNlJrLWdGcHhCaHROc255cHpPWXpkRXN2NjRzTUxabEdkTnVMYTlSN3hlVVUxdmx3YUZTX2w3RlhXVWFyeFUtRk10aXhQRTA2TWdFYlVXYkVjMGV2T0xmUGpWMnF5NWVHSm5LLTNWaVNHaGs?oc=5",
-   "date": "2026-11-05",
-   "source": "oEnergetice.cz",
-   "id": "a47d6c3c9a65f0fe",
-   "feed": "Google News: bankruptcy OR insolvency battery OR EV OR robotics",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "insolvency"
-    ],
-    "tech": [
-     "battery"
-    ],
-    "industry": [
-     "manufactur"
-    ]
-   }
-  },
-  {
-   "title": "Shield to acquire radar maker Echodyne in a deal valued at up to $5.3 billion - Defence Industry Europe",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcXkyN0NrTURDaWZFVGZRSWY0U3BnajJSbnhOMWVLeWd1aHVRSGVyMjJKVWV0ejRBN1NkZnFzcTl2X1otYW1Eb1hjSE10Z2JaRE5GbE1ibElGM1JCWHpob18yb0dlYlpfQ0NJRHUyVGFBcE81cmFtYzZHSVZOdEZHNnhlSlc3Wm9GTGtHY3BTQmVxcHhjTG9YdDhpUURKVld5T2UwbDZCbUQ?oc=5",
-   "date": "2026-11-05",
-   "source": "Defence Industry Europe",
-   "id": "d2eb1a0d37de79aa",
-   "feed": "Google News: counter-drone OR \"drone defence\" Europe",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "to acquire"
-    ],
-    "tech": [
-     "radar"
-    ],
-    "industry": [
-     "defence"
-    ]
-   }
-  },
-  {
-   "title": "European Banks Move Past Strategy, Now Picking Stablecoin Infrastructure Partners - CoinMarketCap",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYnRDZlRMTzlJN19xaDk4LXk2OFZWd2hBWHd4V2M5NVJiSUFBd1BwMHJVTTdwRk9BWndEUmxZMXJneXU5a0RPMkJ0bVBmMnVXZ2ZvTC13Y0I4bUJ1S19QWE1mT2pwaF9XYXBabGRzQ0xsRUZxV0gwWV9lZHdvb0pXYUtYU3drYzdQZDR0UmdRczBTQ2FwZHk1ci1GTzJFbThkZkNEYlkzRFZiQUh2NkZ5TFEwaWtZR2dkZVF2TDh1OA?oc=5",
-   "date": "2026-11-05",
-   "source": "CoinMarketCap",
-   "id": "5ba0ee6efb588dad",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "bank"
-    ]
-   }
-  },
-  {
-   "title": "Hardware Demonstration of Neural-Surrogated Quantum-Enhanced MCMC for Large-Scale Constrained Boltzmann Sampling",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.05883v1",
-   "date": "2026-11-04",
-   "source": "",
-   "id": "cd4e00abf58b42e8",
-   "feed": "arXiv Quantum",
-   "kind": "research",
-   "domain_hint": "Compute",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "demonstrat"
-    ],
-    "tech": [
-     "quantum"
-    ]
-   }
-  },
-  {
-   "title": "AT&T, Rakuten tout integration with Starlink rival AST SpaceMobile for D2D services",
-   "summary": "AST_Spacemobile_photo_from_low_earth_orbit_of_unfolded_SM4_Block_1_Bluebird_commercial_satellite.jpg",
-   "url": "https://www.lightreading.com/satellite/at-t-rakuten-tout-integration-with-starlink-rival-ast-spacemobile-for-d2d-services",
-   "date": "2026-11-04",
-   "source": "",
-   "id": "a26d6ee960abbca7",
-   "feed": "Light Reading",
-   "kind": "news",
-   "domain_hint": "Connectivity",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "satellite"
-    ],
-    "companies": [
-     "AST SpaceMobile",
-     "AT&T"
-    ]
-   }
-  },
-  {
-   "title": "SpaceX boldly goes into 'huge' 5G network rollout with Qualcomm",
-   "summary": "RF_SpaceX_headquarters.jpg",
-   "url": "https://www.lightreading.com/5g/spacex-boldly-goes-into-huge-5g-network-rollout-with-qualcomm",
-   "date": "2026-11-04",
-   "source": "",
-   "id": "96d319bdacfeede7",
-   "feed": "Light Reading",
-   "kind": "news",
-   "domain_hint": "Connectivity",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "5g"
-    ],
-    "companies": [
-     "Qualcomm"
-    ]
-   }
-  },
-  {
-   "title": "CATL, Octopus Energy and Ampace partner to explore European home energy storage",
-   "summary": "",
-   "url": "https://cnevpost.com/2026/11/04/catl-octopus-ampace-explore-european-home-energy-storage/",
-   "date": "2026-11-04",
-   "source": "",
-   "id": "0ab5fcae5dc81830",
-   "feed": "CnEVPost",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "energy storage"
-    ],
-    "companies": [
-     "CATL"
-    ]
-   }
-  },
-  {
-   "title": "Xpeng unveils GroundingPI pre-trained model, outperforming GPT-6 Astra in perception benchmarks",
-   "summary": "",
-   "url": "https://cnevpost.com/2026/11/04/xpeng-unveils-groundingpi-pre-trained-model/",
-   "date": "2026-11-04",
-   "source": "",
-   "id": "8d802a5243f455b8",
-   "feed": "CnEVPost",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "unveils"
-    ],
-    "companies": [
-     "Xpeng"
-    ]
-   }
-  },
-  {
-   "title": "What Banks Need to Know About the OCC’s Final Stablecoin Rules and Licensing Guidance - JD Supra",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc1VscVZqMzZwajltUUJaUE5KaFJVMmNHRmJQSkJxMFVBbnhzYkh4blFHNFQ2QzNsdWpUdDVORGFYZWNWUzFhelA5U1ZsM2w1Y194YzUtU2JIUVQyNmxQcWNPczM1QUxrdUN2dlpkS0VVeThtekFKSVVUNUp6amppQkdrM1RuRElqMXc?oc=5",
-   "date": "2026-11-04",
-   "source": "JD Supra",
-   "id": "49f504844c01a23e",
-   "feed": "Google News: \"digital euro\" OR stablecoin regulation",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "tech": [
-     "stablecoin"
-    ],
-    "industry": [
-     "bank"
-    ]
-   }
-  },
-  {
-   "title": "Band structure of two-dimensional graphene and of one-dimensional nanoribbons via variational quantum algorithms: from energies to wavefunction quality",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.04975v1",
-   "date": "2026-11-03",
-   "source": "",
-   "id": "9a5e59ce0d10b14e",
-   "feed": "arXiv Quantum",
-   "kind": "research",
-   "domain_hint": "Compute",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "tech": [
-     "quantum"
-    ]
-   }
-  },
-  {
-   "title": "Sleep-Disordered Breathing Detection with Quantum Recurrent Neural Networks",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.04818v1",
-   "date": "2026-11-03",
-   "source": "",
-   "id": "43ad3a02752ac8fc",
-   "feed": "arXiv Quantum",
-   "kind": "research",
-   "domain_hint": "Compute",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "order"
-    ],
-    "tech": [
-     "quantum"
-    ]
-   }
-  },
-  {
-   "title": "Lovable apps expose sensitive user data, researchers find",
-   "summary": "",
-   "url": "https://sifted.eu/articles/lovable-apps-expose-sensitive-user-data-researchers-find/",
-   "date": "2026-11-03",
-   "source": "",
-   "id": "04af32e50d5db1ca",
-   "feed": "Sifted",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "researchers"
-    ],
-    "companies": [
-     "Lovable"
-    ]
-   }
-  },
-  {
-   "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
-   "summary": "",
-   "url": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
-   "date": "2026-11-03",
-   "source": "",
-   "id": "e0dbdc3675999749",
-   "feed": "The Robot Report",
-   "kind": "news",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot",
-     "humanoid"
-    ],
-    "companies": [
-     "Agility Robotics"
-    ]
-   }
-  },
-  {
-   "title": "Tesla China October wholesale sales total 67,829, lowest since February",
-   "summary": "",
-   "url": "https://cnevpost.com/2026/11/03/tesla-china-oct-2026-wholesale/",
-   "date": "2026-11-03",
-   "source": "",
-   "id": "7f0129912edc9892",
-   "feed": "CnEVPost",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "industry": [
-     "esa"
-    ],
-    "geo": [
-     "china"
-    ],
-    "companies": [
-     "Tesla"
-    ]
-   }
-  },
-  {
-   "title": "Xpeng launches GX and G9L in 11 countries each across Middle East and Africa",
-   "summary": "",
-   "url": "https://cnevpost.com/2026/11/03/xpeng-launches-gx-g9l-11-countries-middle-east-africa/",
-   "date": "2026-11-03",
-   "source": "",
-   "id": "29a35883fea9892c",
-   "feed": "CnEVPost",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "launches"
-    ],
-    "companies": [
-     "Xpeng"
-    ]
-   }
-  },
-  {
-   "title": "Xpeng plans South Korea entry, appoints former Volvo exec to lead local business",
-   "summary": "",
-   "url": "https://cnevpost.com/2026/11/03/xpeng-plans-south-korea-entry-appoints-former-volvo-exec/",
-   "date": "2026-11-03",
-   "source": "",
-   "id": "39a00d88a2c95151",
-   "feed": "CnEVPost",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "industry": [
-     "bus"
-    ],
-    "geo": [
-     "korea"
-    ],
-    "companies": [
-     "Xpeng"
-    ]
-   }
-  },
-  {
-   "title": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom",
-   "summary": "",
-   "url": "https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco/",
-   "date": "2026-11-02",
-   "source": "",
-   "id": "fa304d5fcdeb06cc",
-   "feed": "Sifted",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "raises"
-    ],
-    "companies": [
-     "Lovable"
-    ]
-   }
-  },
-  {
-   "title": "Tesla Powerwall 3 now boosts heat pumps to store cheap solar as heat",
-   "summary": "",
-   "url": "https://electrek.co/2026/11/02/tesla-powerwall-3-heat-pump-optimization-sg-ready/",
-   "date": "2026-11-02",
-   "source": "",
-   "id": "95ee60e21a2e9ed7",
-   "feed": "Electrek",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "heat pump"
-    ],
-    "companies": [
-     "Tesla"
-    ]
-   }
-  },
-  {
-   "title": "CATL expands eVTOL partnerships with Blue Vector deal",
-   "summary": "",
-   "url": "https://cnevpost.com/2026/11/02/catl-evtol-partnership-blue-vector/",
-   "date": "2026-11-02",
-   "source": "",
-   "id": "1897dc18c8bbeff8",
-   "feed": "CnEVPost",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "partnership"
-    ],
-    "companies": [
-     "CATL"
-    ]
-   }
-  },
-  {
-   "title": "Global EV battery market share in January-September 2026: CATL 39.1%, BYD 15.2%",
-   "summary": "",
-   "url": "https://cnevpost.com/2026/11/02/global-ev-battery-market-share-in-jan-sept-2026/",
-   "date": "2026-11-02",
-   "source": "",
-   "id": "6abb290ff9866600",
-   "feed": "CnEVPost",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "battery"
-    ],
-    "companies": [
-     "CATL"
-    ]
-   }
-  },
-  {
-   "title": "Podcast: Rivian earnings, Waymo partners with Toyota, Ford bets on V2H for Fathom, and more",
-   "summary": "",
-   "url": "https://electrek.co/2026/10/30/podcast-rivian-earnings-waymo-partners-with-toyota-ford-bets-on-v2h-for-fathom-and-more/",
-   "date": "2026-10-30",
-   "source": "",
-   "id": "91d485be0beb3849",
-   "feed": "Electrek",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "partners with"
-    ],
-    "companies": [
-     "Rivian",
-     "Waymo"
-    ]
-   }
-  },
-  {
-   "title": "Someone ran Rivian’s pedal-by-wire e-bike out of battery and things got weird",
-   "summary": "",
-   "url": "https://electrek.co/2026/10/29/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-things-got-weird/",
-   "date": "2026-10-30",
-   "source": "",
-   "id": "857a09ff04f9ef8d",
-   "feed": "Electrek",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "battery"
-    ],
-    "companies": [
-     "Rivian"
-    ]
-   }
-  },
-  {
-   "title": "Chinese portable battery storage players report rising overseas orders in Q3 results",
-   "summary": "",
-   "url": "https://www.energy-storage.news/chinese-portable-battery-storage-players-report-rising-overseas-orders-in-q3-results/",
-   "date": "2026-10-30",
-   "source": "",
-   "id": "0b196d6e626432e0",
-   "feed": "Energy-Storage.news",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "order"
-    ],
-    "tech": [
-     "battery"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "SMA launches DC-coupled grid-forming solar-plus-storage solution for Germany, Australia and the UK",
-   "summary": "",
-   "url": "https://www.energy-storage.news/sma-launches-dc-coupled-grid-forming-solar-plus-storage-solution-for-germany-australia-and-the-uk/",
-   "date": "2026-10-30",
-   "source": "",
-   "id": "f8b227660bd972b4",
-   "feed": "Energy-Storage.news",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "launches"
-    ],
-    "tech": [
-     "grid"
-    ],
-    "geo": [
-     "germany",
-     "uk "
-    ]
-   }
-  },
-  {
-   "title": "Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’",
-   "summary": "",
-   "url": "https://electrek.co/2026/10/29/ex-tesla-autopilot-head-vision-only-weird-religious-stance/",
-   "date": "2026-10-29",
-   "source": "",
-   "id": "f7a3b1b298ee7fda",
-   "feed": "Electrek",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "pilot"
-    ],
-    "companies": [
-     "Tesla"
-    ]
-   }
-  },
-  {
-   "title": "Portugal makes grid-forming mandatory for large-scale BESS and launches 1GW tender",
-   "summary": "",
-   "url": "https://www.energy-storage.news/portugal-makes-grid-forming-mandatory-for-large-scale-bess-and-launches-1gw-tender/",
-   "date": "2026-10-29",
-   "source": "",
-   "id": "fab8b48d0e77625e",
-   "feed": "Energy-Storage.news",
-   "kind": "news",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "launches"
-    ],
-    "tech": [
-     "grid"
-    ],
-    "industry": [
-     "port"
     ]
    }
   }

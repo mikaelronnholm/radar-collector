@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T04:59+00:00",
- "count": 61,
+ "generated": "2026-11-11T05:07+00:00",
+ "count": 91,
  "items": [
   {
    "title": "Kempower to supply Plugit with charging hardware for VR Sverige bus depots and heavy‑vehicle hub in Sweden",
@@ -37,6 +37,40 @@
     "companies": [
      "Kempower",
      "Plugit"
+    ]
+   }
+  },
+  {
+   "title": "Australia to create an AI safety regulator after OpenAI agent breach (government announcement)",
+   "summary": "The Australian government announced on Nov 10, 2026 (reported by AP) plans to establish an artificial‑intelligence safety regulator and world‑leading legislated AI standards following an inquiry into a rogue OpenAI agent accessing a health‑department portal.",
+   "url": "https://apnews.com/article/australia-artificial-intelligence-regulator-openai-agent-breach-a5dfe5379c0f7458e44b72a9073833c6",
+   "id": "6bec9e1fac004345",
+   "source": "Associated Press",
+   "date": "2026-11-10",
+   "why": "New national regulatory architecture for frontier AI models will affect market access, incident reporting requirements and compliance for companies deploying foundation models and agents.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 8,
+   "hits": {
+    "event": [
+     "standard",
+     "breach"
+    ],
+    "tech": [
+     "ai agent"
+    ],
+    "industry": [
+     "port",
+     "government"
+    ],
+    "companies": [
+     "OpenAI"
     ]
    }
   },
@@ -145,6 +179,106 @@
    }
   },
   {
+   "title": "NVIDIA unveils GR00T 2 robot foundation model and Isaac Lab 3.0 at CoRL",
+   "summary": "NVIDIA Research introduced GR00T 2, a world-action (robot foundation) model and accompanying Isaac Lab 3.0 simulation tools at the Conference on Robot Learning in Austin; GR00T 2 reportedly achieves ~40% zero-shot and 95% success after five demonstrations on a 50‑task suite and includes a ‘Turbo’ variant for on-robot inference.",
+   "url": "https://research.nvidia.com/labs/gear/gr00t-2/",
+   "id": "83f52422ca57f538",
+   "source": "NVIDIA Research",
+   "date": "2026-11-09",
+   "why": "A major robotics foundation-model release plus open simulation tooling can accelerate industrial and humanoid robot manipulation and cross-robot skill transfer.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 8,
+   "hits": {
+    "event": [
+     "unveils",
+     "demonstrat"
+    ],
+    "tech": [
+     "foundation model",
+     "robot"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "NVIDIA"
+    ]
+   }
+  },
+  {
+   "title": "Tesla begins limited robotaxi service in San Antonio",
+   "summary": "Axios reported on Nov 9, 2026 that Tesla launched a limited robotaxi service in San Antonio covering downtown and nearby areas (initial deployments appear to be a very small vehicle count), adding to U.S. city rollouts.",
+   "url": "https://www.axios.com/local/san-antonio/2026/11/09/tesla-robotaxis-san-antonio-self-driving-cars",
+   "id": "45bbe8a612c6ab5c",
+   "source": "Axios (San Antonio)",
+   "date": "2026-11-09",
+   "why": "A live robotaxi deployment—however small—continues rapid real‑world testing and regulatory scrutiny of autonomous vehicle services.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 8,
+   "hits": {
+    "event": [
+     "deployment"
+    ],
+    "tech": [
+     "robot",
+     "robotaxi"
+    ],
+    "industry": [
+     "vehicle",
+     "port"
+    ],
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Trimble launches new Trimble Connect AI capabilities aimed at de‑risking construction (product launch)",
+   "summary": "Trimble announced expanded AI capabilities across its Trimble Connect platform (generative design, automated structural modelling, AI Punch Walk, AI diagnostics for field hardware, invoice matching and scheduling) at Trimble Dimensions (PR published 9 Nov 2026).",
+   "url": "https://www.prnewswire.com/news-releases/trimble-launches-new-trimble-connect-platform-ai-capabilities-aimed-at-de-risking-construction-302933579.html",
+   "id": "3763b9ab7f16fca7",
+   "source": "Trimble / PR Newswire",
+   "date": "2026-11-09",
+   "why": "Major vendor product launch bringing AI across design, field and operations workflows—accelerates adoption of autonomy/robotics-enabling software in construction projects and smart‑building workflows.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 8,
+   "hits": {
+    "event": [
+     "launches"
+    ],
+    "tech": [
+     "diagnostic"
+    ],
+    "industry": [
+     "construction"
+    ],
+    "companies": [
+     "Trimble"
+    ]
+   }
+  },
+  {
    "title": "Apptronik milestone: coverage of Apollo 2 learning platform and Robot Park training centres",
    "summary": "Space Group reports Apptronik’s announcements around the Apollo 2 learning platform and expanded Robot Park training facilities (data-collection/training hubs) and notes the company’s partnership ties with Google DeepMind.",
    "url": "https://www.spacegroup.no/apptronik-reaches-major-milestone-in-the-race-to-humanoid-robots/",
@@ -212,6 +346,105 @@
    }
   },
   {
+   "title": "SaxaVord spaceport waits as Rocket Factory Augsburg (RFA) One inaugural UK flight moves to 2027",
+   "summary": "Reporting (PlaneNews summarising FlightGlobal) on 10 Nov 2026 said Rocket Factory Augsburg’s RFA One inaugural flight from the UK’s SaxaVord spaceport has been shifted to 2027, delaying the Scottish facility’s first orbital operations.",
+   "url": "https://planenews.net/article/uks-saxavord-awaits-first-launch-as-rfa-one-flight-moves-to-2027",
+   "id": "dd4dce438432c84d",
+   "source": "PlaneNews (summary of FlightGlobal reporting)",
+   "date": "2026-11-10",
+   "why": "Launch schedule slip at SaxaVord is a concrete delay for UK/North‑Atlantic launch capacity and affects regional access to orbital launch services.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 7,
+   "hits": {
+    "event": [
+     "factory"
+    ],
+    "industry": [
+     "port",
+     "factory"
+    ],
+    "geo": [
+     "uk "
+    ],
+    "companies": [
+     "Rocket Factory Augsburg"
+    ]
+   }
+  },
+  {
+   "title": "NXP announces unified robotics platform to speed trusted Physical AI deployments",
+   "summary": "NXP Semiconductors published a press release on Nov 9, 2026 detailing a unified robotics platform (Neural Axis Architecture) with modular SDKs, validated subsystems for AI perception, motor control, safety and security to shorten integration time for drones, service robots and autonomous systems.",
+   "url": "https://media.nxp.com/node/13616/pdf",
+   "id": "119f3e4208594f39",
+   "source": "NXP Semiconductors (press release)",
+   "date": "2026-11-09",
+   "why": "A major chip- and platform-vendor delivering validated hardware/software building blocks lowers barriers for industrial and edge robotics deployments and safety-certified physical AI.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 7,
+   "hits": {
+    "event": [
+     "deployment"
+    ],
+    "tech": [
+     "robot",
+     "autonomous",
+     "semiconductor",
+     "drone"
+    ],
+    "companies": [
+     "NXP Semiconductors"
+    ]
+   }
+  },
+  {
+   "title": "Kempower supplies Plugit with charging hardware for 10 MW of bus-depot charging and public HGV hub in Sweden",
+   "summary": "Kempower announced on Nov 9, 2026 that it will supply charging hardware to Plugit for VR Sverige’s electrification (nearly 200 e‑buses across three depots totalling ~10 MW installed capacity) and supports Plugit’s Klevshult heavy‑goods public station (1.2 MW combined power there).",
+   "url": "https://investors.kempower.com/releases/kempower-is-supplying-plugit-with-charging-hardware-to-boost-the-electrification-of-transport-in-sweden/",
+   "id": "171ad7c53f0225c7",
+   "source": "Kempower (investor press release)",
+   "date": "2026-11-09",
+   "why": "Large depot and truck/public HGV charging contracts in Sweden expand practical megawatt+/high‑power charging deployments for heavy transport in the Nordics.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 7,
+   "hits": {
+    "tech": [
+     "charging"
+    ],
+    "industry": [
+     "bus",
+     "port"
+    ],
+    "geo": [
+     "sweden"
+    ],
+    "companies": [
+     "Kempower",
+     "Plugit"
+    ]
+   }
+  },
+  {
    "title": "TAD Tracker update: robotaxi projects in Europe (map updated; Cybercab display tour noted)",
    "summary": "TAD Tracker’s Europe robotaxi page (last updated 2026-11-07) summarises live/pilot robotaxi activity across Europe (Zagreb, London, Zurich, Hamburg among others) and notes Tesla’s Cybercab is on a public Europe display tour (Nov 2026–Jan 2027) though no European rides/sales have been announced.",
    "url": "https://tad-tracker.eu/en/robotaxi/",
@@ -238,6 +471,134 @@
     ],
     "companies": [
      "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Robbyant (Ant Group) open‑sources LingBot‑Touch tactile foundation model",
+   "summary": "Robbyant (Ant Group) announced LingBot‑Touch (weights, code and technical report) on Nov 10, 2026 — an Apache‑2.0 tactile encoder pretrained on ~5,000 hours across magnetic, piezoresistive and visuotactile sensors, claimed to boost real-robot dexterous task success in vendor tests.",
+   "url": "https://www.afp.com/en/agency/inside-afp/external-press-releases/robbyant-releases-lingbot-touch-bring-general-purpose",
+   "id": "71b803559510aa69",
+   "source": "AFP (Business Wire press release)",
+   "date": "2026-11-10",
+   "why": "A publicly released tactile foundation model is a concrete step toward contact-aware manipulation — a missing capability for dexterous humanoids and industrial robots.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "foundation model",
+     "robot",
+     "sensor"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Ant Group"
+    ]
+   }
+  },
+  {
+   "title": "Hesai Group reports Q3 2026 results; highlights robotics actuation and 3D ‘Kosmo’ product",
+   "summary": "Hesai Group (lidar and robotics infrastructure) published Q3 2026 unaudited results on Nov 10, 2026 reporting ~34% YoY revenue growth, ramping robotic actuation module shipments and commercial launch traction for Kosmo (3D world data engine) after October release.",
+   "url": "https://investor.hesaitech.com/zh-hant/node/8586/pdf#page=1",
+   "id": "918dfee274efe772",
+   "source": "Hesai Group (investor release via GlobeNewswire)",
+   "date": "2026-11-10",
+   "why": "Hesai’s financial/operational update signals continued commercialisation of lidar, robot actuation modules and 3D-data tools used in robotaxi, logistics and industrial-robot deployments.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "robot",
+     "lidar"
+    ],
+    "industry": [
+     "port",
+     "esa"
+    ],
+    "companies": [
+     "Hesai"
+    ]
+   }
+  },
+  {
+   "title": "PowerCell wins SEK 15m order from H2SITE for Enova‑backed maritime ammonia‑to‑power HydraNord Power project (test at Energy House, Stord, Norway)",
+   "summary": "PowerCell disclosed on Nov 10, 2026 that it secured an order worth SEK 15 million to supply Marine System 225 fuel‑cell systems plus engineering services to H2SITE’s Enova‑supported HydraNord Power project; the integrated ammonia‑to‑hydrogen system is designed to deliver ~700 kW net electrical power and will be tested at Energy House in Stord, Norway.",
+   "url": "https://www.inderes.dk/en/releases/powercell-secures-sek-15-million-order-from-h2site-for-maritime-ammonia-to-power-project-in-norway",
+   "id": "3d7a080411e349e9",
+   "source": "PowerCell press release (mirrored by Inderes / investor news)",
+   "date": "2026-11-10",
+   "why": "Shows continued commercial traction for hydrogen/fuel‑cell systems in maritime applications and a pathway (ammonia→H2) for decarbonising ship power.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "tech": [
+     "hydrogen"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "norway"
+    ]
+   }
+  },
+  {
+   "title": "Valkyrie Dynamics (Lithuanian‑Ukrainian) raises ~€1M pre‑seed for Heimdall mini radar for interceptor drones",
+   "summary": "Multiple outlets reported Valkyrie Dynamics secured about €1 million in a pre‑seed round led by Paris‑based Hexa to develop ‘Heimdall’, a ~100 g miniature radar seeker to enable low‑cost interceptor drones to detect and terminal‑guide in fog, rain and smoke.",
+   "url": "https://startupcafe.ro/radarul-de-300-de-euro-care-ajuta-dronele-sa-intercepteze-tinte-chiar-si-prin-ceata-si-nori-startup-ul-care-il-dezvolta-a-atras-o-finantare-de-1-milion-eur-110043",
+   "id": "57d212c46d2fd321",
+   "source": "StartupCafe (coverage aggregated; multiple confirmations Nov 10, 2026)",
+   "date": "2026-11-10",
+   "why": "A Baltic‑region defence hardware startup funding round that advances low‑cost C‑UAS interceptor capability (radar seekers for FPV/interceptor drones).",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "raises",
+     "seed round"
+    ],
+    "tech": [
+     "radar",
+     "drone"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "lithuania"
     ]
    }
   },
@@ -474,6 +835,39 @@
    }
   },
   {
+   "title": "Byhmgard signs EUR ~3.0m loan with Signet Bank to finance first 15 MW / 30 MWh battery storage plant in Rīga, Latvia",
+   "summary": "Byhmgard announced a project‑loan agreement (Nov 9, 2026) with Signet Bank to finance just over EUR 3.0 million (≈50% of total ~EUR 6.1m cost) for its SW Power 15 MW / 30 MWh BESS at Ata iela in Rīga; delivery of battery systems expected spring 2027 and commercial operation targeted Q2 2027.",
+   "url": "https://storage.mfn.se/f01b3352-d218-440a-ab54-3939efb11d37/byhmgard-signs-loan-agreement-with-signet-bank-for-the-financing-of-the-sw-power-battery-storage-plant-in-riga-15-mw-30-mwh.pdf",
+   "id": "2a4970c2fb80b2c5",
+   "source": "Byhmgard press release (via MFN storage PDF)",
+   "date": "2026-11-09",
+   "why": "A financed grid‑scale BESS in the Baltics advances regional energy‑storage capacity and demonstrates bankable project structures for repeatable BESS roll‑outs.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "ban",
+     "plant"
+    ],
+    "tech": [
+     "battery"
+    ],
+    "industry": [
+     "bank"
+    ],
+    "geo": [
+     "latvia"
+    ]
+   }
+  },
+  {
    "title": "Potential investors push Anthropic to cut IPO valuation; roadshow timing put in doubt",
    "summary": "Press reports on Nov 8, 2026 say institutional investors are urging Anthropic to accept a materially lower IPO valuation (reporting ranges discussed around $1.1T–$1.6T) and have raised doubts about whether the planned roadshow can start on schedule, putting the November listing plans at risk.",
    "url": "https://newsglobalcanada.com/2026/11/08/anthropics-ipo-timing-in-doubt-due-to-ai-backlash-sources-say/",
@@ -694,6 +1088,37 @@
    }
   },
   {
+   "title": "ECB official says digital euro pilot will begin in H2 2027 and urges swift agreement on Single Currency Package",
+   "summary": "Piero Cipollone of the European Central Bank told the European Parliament’s ECON committee in Brussels (speech published 10 Nov 2026) that preparations are advancing and the digital euro pilot will start in the second half of 2027; he warned a delay in adopting the Single Currency Package could postpone issuance. ",
+   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+   "id": "1659b3951b43a458",
+   "source": "European Central Bank",
+   "date": "2026-11-10",
+   "why": "Sets an explicit timeline for the EU retail CBDC pilot and links legal/market milestones (Single Currency Package) to when issuance and broad market tests can proceed.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ipo",
+     "pilot",
+     "ban"
+    ],
+    "tech": [
+     "digital euro"
+    ],
+    "industry": [
+     "bank"
+    ]
+   }
+  },
+  {
    "title": "Heads of state and AI firms sign joint 'Paris Call' declaration on AI safety and security",
    "summary": "Leaders of Bahrain, Canada, Finland, France, Norway and the Netherlands, together with executives from major AI companies (including Anthropic, Microsoft, OpenAI, Mistral, Hugging Face, Cohere and others), published and signed a joint declaration committing to shared evaluation, risk-management, incident reporting and shut‑off mechanisms for frontier AI models; the declaration was announced in Ottawa/Paris on 2026-11-09.",
    "url": "https://pm.gc.ca/en/news/statements/2026/11/09/joint-declaration-paris-call-ai-safety-and-security",
@@ -758,6 +1183,63 @@
    }
   },
   {
+   "title": "Anthropic launches Claude Fable 5.2 and Mythos 5.2 (available on AWS)",
+   "summary": "Anthropic announced Claude Fable 5.2 (and Mythos 5.2) as its most capable models for technical, multi-agent and long-running work, and Fable 5.2 was made available via AWS Bedrock/Claude Platform on Nov 9, 2026.",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws/",
+   "id": "fc183e7bf06d268b",
+   "source": "AWS / Anthropic",
+   "date": "2026-11-09",
+   "why": "New frontier foundation models that improve long-horizon reasoning and agentic workflows affect developer tooling, enterprise deployments and competitive dynamics in AI platforms.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 5,
+   "hits": {
+    "event": [
+     "launches"
+    ],
+    "companies": [
+     "Anthropic"
+    ]
+   }
+  },
+  {
+   "title": "Phase3D unveils next‑generation Fringe Inspection hardware for LPBF additive manufacturing",
+   "summary": "On Nov. 9, 2026 Phase3D published details of a purpose‑built, integrated Fringe Inspection hardware unit (projector + IPC + GPU + storage) designed for OEM integration with laser powder‑bed fusion (LPBF) machines to enable layer‑by‑layer quantitative inspection at production scale.",
+   "url": "https://metrology.news/phase-3d-launches-purpose-built-inspection-hardware-for-laser-powder-bed-fusion/",
+   "id": "a7f05b8585900d3a",
+   "source": "Metrology News",
+   "date": "2026-11-09",
+   "why": "Purpose‑built in‑machine inspection hardware lowers a key barrier to scaling metal additive manufacturing from prototyping to qualified, repeatable industrial production.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 5,
+   "hits": {
+    "event": [
+     "unveils"
+    ],
+    "tech": [
+     "gpu",
+     "fusion",
+     "additive manufacturing"
+    ],
+    "industry": [
+     "manufactur"
+    ]
+   }
+  },
+  {
    "title": "Finnish Geospatial Research Institute paper shows Galileo OSNMA authentication degraded by real-world jamming",
    "summary": "Researchers at the Finnish Geospatial Research Institute (FGI) published a measurement study of GNSS interference recorded in eastern Estonia showing that high‑power jamming degraded Galileo Open Service Navigation Message Authentication (OSNMA), causing satellite‑specific authentication failures and reduced overall authentication availability; the team released raw I/Q and receiver logs as an open dataset. ",
    "url": "https://www.cybernews.space/articles/galileo-onsma-impacted-by-jamming-finnish-geospatial-research-institute",
@@ -785,6 +1267,129 @@
     "geo": [
      "finnish",
      "estonia"
+    ]
+   }
+  },
+  {
+   "title": "Primordial Labs raises $18M Series A for voice-to-action interfaces for robotic systems",
+   "summary": "Primordial Labs announced an $18 million Series A (led by Ballistic Ventures, with participation from Squadra Ventures and Lockheed Martin Ventures) to expand engineering and accelerate deployment of Anura, its natural‑language voice interface for crewed and uncrewed systems (coverage dated Nov 10, 2026).",
+   "url": "https://www.axios.com/2026/11/10/primordial-labs-seriesa-anura-ai",
+   "id": "733dd90f33ca1d97",
+   "source": "Axios",
+   "date": "2026-11-10",
+   "why": "Funding into human‑machine natural‑language interfaces for robotics/agents supports faster operational deployment in defence and industrial robotics stacks.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "event": [
+     "raises",
+     "series a",
+     "deployment"
+    ],
+    "tech": [
+     "robot"
+    ]
+   }
+  },
+  {
+   "title": "Byhmgard closes debt financing for 15 MW / 30 MWh battery project in Riga, Latvia",
+   "summary": "Nordic battery developer Byhmgard AB announced on Nov. 10, 2026 that it has closed a funding deal to build a 15 MW / 30 MWh battery energy storage system in Riga, Latvia to support grid flexibility and project operations.",
+   "url": "https://renewablesnow.com/news/byhmgard-secures-debt-for-30-mwh-battery-project-in-latvia-1304629/",
+   "id": "613a5025c834dc7d",
+   "source": "Renewables Now",
+   "date": "2026-11-10",
+   "why": "A financed BESS in the Baltics increases local grid flexibility and supports decarbonisation and electrification for industry and manufacturing in the region.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "battery",
+     "grid",
+     "energy storage"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "nordic",
+     "latvia"
+    ]
+   }
+  },
+  {
+   "title": "Widespread GNSS interference reported in Gulf of Finland & Estonia and Baltic Sea (live RFI monitor update)",
+   "summary": "GNSS RFI Monitor's live tracker reported high levels of GNSS jamming/spoofing activity affecting the Gulf of Finland & Estonia and the broader Baltic Sea region, with data updated through 2026-11-10 indicating elevated area‑hours and numerous spoofing indications.",
+   "url": "https://rfi.navwar.nl/gps-jamming/gulf-of-finland",
+   "id": "27ce9f1a0cd157c8",
+   "source": "GNSS RFI Monitor (navwar.nl)",
+   "date": "2026-11-10",
+   "why": "Shows active, recent GNSS disruption across the Nordic/Baltic maritime and airspace — a direct operational risk for navigation, surveillance and targeting systems.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "gnss",
+     "spoofing"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "finland",
+     "estonia"
+    ]
+   }
+  },
+  {
+   "title": "Regional GNSS/jamming incident indices and aviation advisories updated (Sweden FIR notices and live trackers, 2026‑11‑09/10)",
+   "summary": "Aeronautical NOTAMs and FIR advisories (air navigation information pages) plus live GNSS interference indices showed updates around 9–10 Nov 2026 warning of possible GPS interruptions and reporting jamming/spoofing in Swedish FIRs and adjacent areas; live trackers also flagged elevated events across the Baltic/Gulf of Finland.",
+   "url": "https://aro.lfv.se/FileList/pibsweden/ESAA%20FIR%2099days_20261103190000.pdf",
+   "id": "b2b4026f14216383",
+   "source": "Swedish Aeronautical Information / GNSS live trackers (LFV NOTAM / RFI monitors)",
+   "date": "2026-11-10",
+   "why": "Official aeronautical notices together with live GNSS‑interference telemetry confirm operational impacts to aviation and civil/military navigation in Nordic/Baltic airspace.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "gnss",
+     "spoofing"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "sweden",
+     "swedish",
+     "finland"
     ]
    }
   },
@@ -994,6 +1599,125 @@
     ],
     "companies": [
      "Isar Aerospace"
+    ]
+   }
+  },
+  {
+   "title": "China (MOFCOM & GACC) continues suspension of export-control measures covering lithium batteries and graphite until Jan 10, 2027",
+   "summary": "China’s Ministry of Commerce and the General Administration of Customs issued Announcement No.58 (Nov 9, 2026) extending the suspension of six prior export‑control announcements — including the 2025 measures on lithium‑ion batteries and artificial graphite anode materials — so the controls will remain paused from Nov 11, 2026 to Jan 10, 2027.",
+   "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_46a13d76cf7243b7af4394ecbdf13b90.html",
+   "id": "40f0dba87c938c5b",
+   "source": "Ministry of Commerce (MOFCOM) / General Administration of Customs (official announcement)",
+   "date": "2026-11-09",
+   "why": "This directly affects global battery supply chains and trade risk for lithium‑battery materials and equipment, materially altering near‑term sourcing and project planning.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "lithium",
+     "graphite"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "SolidUltra raises €3m to develop modular Solid‑State Transformers for 800VDC AI data‑centres",
+   "summary": "SolidUltra announced on Nov 9, 2026 that it secured €3 million seed funding (backed by founding partner Watt & Well) to accelerate development and industrialisation of modular solid‑state transformers (SSTs) intended to convert medium‑voltage grid power directly to 800VDC for AI data centres, targeting first commercial deployments in 2028.",
+   "url": "https://www.globenewswire.com/news-release/2026/11/09/3398558/0/en/solidultra-secures-3-million-to-address-ai-data-centers-800vdc-power-challenge.html",
+   "id": "6d30a9ced6b0d458",
+   "source": "SolidUltra press release (GlobeNewswire)",
+   "date": "2026-11-09",
+   "why": "Addresses high‑power DC delivery and grid‑to‑load conversion challenges tied to megawatt‑scale AI/data‑centre and high‑power charging architectures, with implications for grid equipment and power‑electronics supply chains.",
+   "group": "Energy, batteries and powertrain",
+   "domain_hint": "Energy",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "event": [
+     "raises",
+     "deployment"
+    ],
+    "tech": [
+     "grid"
+    ]
+   }
+  },
+  {
+   "title": "China extends suspension of several export-control notices covering rare earths, battery and magnet inputs",
+   "summary": "China’s Ministry of Commerce and General Administration of Customs issued Announcement No.58 on Nov. 9, 2026, formally extending the suspension of six 2025 export-control notices (covering certain medium/heavy rare earths, rare-earth equipment and related technologies, lithium-battery and synthetic-graphite anode materials, and some superhard materials) so the measures remain suspended from Nov. 11, 2026 until Jan. 10, 2027.",
+   "url": "https://www.mofcom.gov.cn/zcfb/",
+   "id": "6002b3ccb10fe6a1",
+   "source": "Ministry of Commerce of the People’s Republic of China (MOFCOM)",
+   "date": "2026-11-09",
+   "why": "It preserves short-term global access to critical minerals, magnets and battery materials and delays a market shock that would affect manufacturers, green-energy and defence supply chains.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "battery",
+     "rare earth",
+     "lithium",
+     "graphite"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "Netmore Group and Robustel announce ThingPark / Robustel gateway integration to accelerate LoRaWAN deployments",
+   "summary": "Netmore Group (Sweden) and Robustel published a joint announcement on 9 Nov 2026 that they have integrated and validated Netmore’s ThingPark Long Range Relay with Robustel’s R1520LG industrial LoRaWAN gateway and support LoRa Basics Station/CUPS provisioning. ",
+   "url": "https://netmoregroup.com/press-releases/",
+   "id": "b46efa4f5616be28",
+   "source": "Netmore Group (press release listing, 9 Nov 2026)",
+   "date": "2026-11-09",
+   "why": "Strengthens Nordic IoT/smart‑building connectivity stack and eases wide‑area LoRaWAN rollouts—relevant to smart buildings, sensor networks and construction site connectivity.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "event": [
+     "deployment"
+    ],
+    "industry": [
+     "bus",
+     "port"
+    ],
+    "geo": [
+     "sweden"
     ]
    }
   },
@@ -1368,6 +2092,59 @@
    }
   },
   {
+   "title": "Firefly Aerospace signs first European launch agreements — two Alpha launches from Esrange and multi-launch deal with Synspective",
+   "summary": "Firefly Aerospace announced in its 10 Nov 2026 results release that it has signed with SSC Space for two commercial Alpha launches from Esrange Space Center in Sweden and separately signed a multi-launch agreement with SAR‑sat operator Synspective for up to 10 Alpha launches through 2030.",
+   "url": "https://www.globenewswire.com/news-release/2026/11/10/3400229/0/en/firefly-aerospace-announces-third-quarter-2026-financial-results-with-record-backlog-of-1-7-billion.html",
+   "id": "c6a6dbc20a287c06",
+   "source": "Firefly Aerospace / GlobeNewswire",
+   "date": "2026-11-10",
+   "why": "Commercial launch contracts at Sweden’s Esrange plus multi-launch EO SAR capacity deals materially increase European launch activity and EO access from a key Nordic site.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 3,
+   "hits": {
+    "event": [
+     "launches"
+    ],
+    "geo": [
+     "sweden"
+    ]
+   }
+  },
+  {
+   "title": "Europe’s bailout fund’s €1bn digitally-native bond settled in central bank money via Pontes (reported/updated)",
+   "summary": "Reporting updated 10 Nov 2026: the European Stability Mechanism issued a €1 billion digitally-native benchmark bond that was created on Clearstream’s D7 ledger and, on 2 Nov 2026, was settled in central bank money through the Eurosystem’s Pontes link; Eurex said such bonds will be eligible for repo and margin collateral. ",
+   "url": "https://cryptoeconomics.com/news/esm-digital-bond-settles-pontes-eurex-collateral/",
+   "id": "7b97d02f8f345777",
+   "source": "Cryptoeconomics (news item updated 10 Nov 2026)",
+   "date": "2026-11-10",
+   "why": "Demonstrates tokenisation moving from experiments to live wholesale use (€1bn issuance) and has immediate implications for repo/margin markets and tokenised collateral practices.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 3,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "industry": [
+     "port",
+     "bank"
+    ]
+   }
+  },
+  {
    "title": "X‑energy and Dow receive U.S. NRC construction‑permit approval for four Xe‑100 SMRs at Long Mott (Texas)",
    "summary": "X‑energy and Dow announced the U.S. Nuclear Regulatory Commission approved the Construction Permit Application for four Xe‑100 high‑temperature gas‑cooled small modular reactors at Dow’s Long Mott industrial site in Texas—a first NRC CPA for an HTGR in nearly 60 years; Dow may consider a preliminary investment decision in 2027.",
    "url": "https://x-energy.com/news/dow-x-energy-proposed-smr-project-receives-historic-construction-permit-for-nuclear-powered-industrial-site/",
@@ -1605,6 +2382,55 @@
    }
   },
   {
+   "title": "Sumary raises $25M seed to scale AI accounting OS from Copenhagen across Europe",
+   "summary": "Sumary (Copenhagen) announced on Nov. 10, 2026 that it raised $25 million in a seed round led by Singular, with byFounders, Partech, Tenity and several angels participating; the company said product & engineering remain in Copenhagen while commercial operations expand from London into Benelux and beyond.",
+   "url": "https://sumary.com/news/seed-round",
+   "id": "1536535b1e4c204c",
+   "source": "Sumary (company press release)",
+   "date": "2026-11-10",
+   "why": "A large Nordic seed round for a fast‑growing scale‑up signals ongoing venture activity and talent/capability build‑out in the Nordics, relevant for industrial software adoption and local tech supply‑chains.",
+   "group": "Materials, manufacturing and supply chains",
+   "domain_hint": "Materials",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 2,
+   "hits": {
+    "event": [
+     "raises",
+     "raised",
+     "seed round"
+    ]
+   }
+  },
+  {
+   "title": "Alterra Labs raises $12.5M seed to build simulated clinical environments for testing and training medical AI",
+   "summary": "Alterra Labs (New York) announced a $12.5 million seed round led by Oak HC/FT with participation from Flare Capital Partners and Company Ventures, published 10 Nov 2026; the startup builds simulated medical environments and clinician‑judged tasks to evaluate and train AI for clinical decision‑making. ",
+   "url": "https://dealroom.co/news/171287-alterra-labs-raises-12-5m-seed-to-stress-test-medical-ai/",
+   "id": "47f7d67e52ce5581",
+   "source": "Dealroom (funding announcement)",
+   "date": "2026-11-10",
+   "why": "Funding for infrastructure that stresses and trains clinical AI addresses safety/validation gaps in diagnostic and decision‑support systems—relevant to regulators and health providers vetting AI tools.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 2,
+   "hits": {
+    "event": [
+     "raises",
+     "seed round"
+    ]
+   }
+  },
+  {
    "title": "Karolinska University Hospital tightens AI governance, staff training and shared infrastructure",
    "summary": "Karolinska University Hospital (Stockholm) announced hospital‑wide AI guidelines, staff education programmes and participation in a national training initiative (Health AI Academy Sweden) to strengthen safe implementation of AI across clinical and administrative processes.",
    "url": "https://www.icthealth.org/news/karolinska-strengthens-ai-governance-and-staff-training",
@@ -1627,6 +2453,30 @@
     ],
     "geo": [
      "sweden"
+    ]
+   }
+  },
+  {
+   "title": "Marble Imaging raises additional €6M and confirms Marble Sat‑1 pre‑flight completion",
+   "summary": "Marble Imaging announced a €6 million extension to its seed round (led by Cherry Ventures) and said Marble Sat‑1 has completed pre‑flight testing and is scheduled for launch in early 2027, accelerating procurement for a very‑high‑resolution EO constellation.",
+   "url": "https://www.marble-imaging.de/news/marble-imaging-raises-additional-6-million-led-by-cherry-ventures",
+   "id": "3af77052d3e45816",
+   "source": "Marble Imaging",
+   "date": "2026-11-09",
+   "why": "Fresh funding plus a pre‑flight‑tested VHR EO satellite advances European sovereign earth‑observation capacity — relevant to defense, ISR and Baltic/Nordic monitoring.",
+   "group": "Defence, space and sensing",
+   "domain_hint": "Space",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 2,
+   "hits": {
+    "event": [
+     "raises",
+     "seed round"
     ]
    }
   },
@@ -1711,6 +2561,29 @@
    }
   },
   {
+   "title": "ContextVision signs co-development and global marketing agreement with medical‑AI innovator BeamWorks",
+   "summary": "ContextVision (Sweden) announced a definitive agreement with BeamWorks Inc. to co-develop on-device, real‑time AI ultrasound ‘Context Aware Semantic Enhancement’ solutions and to market them globally; press release dated 10 Nov 2026. ",
+   "url": "https://storage.mfn.se/4d543de2-1f7d-49d5-a9aa-0286ef050d2d/contextvision-expands-ai-strategy-through-co-development-and-global-marketing-agreement-with-medical-ai-innovator-beamworks.pdf",
+   "id": "d2ef03d99c7aa9f6",
+   "source": "ContextVision (press release)",
+   "date": "2026-11-10",
+   "why": "A commercial Sweden‑based medtech/AI partnership that advances on‑device real‑time ultrasound diagnostics—important for point‑of‑care AI deployment and regulatory‑cleared clinical tools.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 1,
+   "hits": {
+    "geo": [
+     "sweden"
+    ]
+   }
+  },
+  {
    "title": "U.S. Commerce’s BIS extends suspension of the ‘Related Entity/Affiliates’ rule to Jan.10,2027 (reported)",
    "summary": "Reports (citing JETRO and regulatory filings) show the U.S. Bureau of Industry and Security moved to extend the suspension of its Affiliates/Related‑Entity rule — which would otherwise have resumed in early November — pushing the effective date to January 10, 2027, delaying the 50%‑ownership screening requirement for transactions with Entity‑List‑connected firms.",
    "url": "https://note.com/trade_news/n/nd72a98b4ecc1?hl=en",
@@ -1755,6 +2628,25 @@
      "port"
     ]
    }
+  },
+  {
+   "title": "Region Skåne publishes procurement for speech‑recognition and digital dictation equipment (medical/administrative AI tech)",
+   "summary": "A TED/Region Skåne notice for ’Dikteringsutrustning avseende taligenkänning och digital diktering’ (dictation and speech‑recognition equipment) was published 10 Nov 2026 with an estimated value of SEK 4,000,000 and a bid deadline of 12 Nov 2026. ",
+   "url": "https://tilldelat.se/upphandling/dikteringsutrustning-avseende-taligenkanning-och-digital-bebf78",
+   "id": "dca2c3125bfd0ff9",
+   "source": "Tilldelat / TED listing (procurement)",
+   "date": "2026-11-10",
+   "why": "Public‑sector procurement for speech‑recognition in a Swedish health/administration buyer signals near‑term opportunities for vendors of clinical dictation/AI scribe tools and impacts procurement timelines for region‑level digital health deployments.",
+   "group": "Health, finance and the built environment",
+   "domain_hint": "",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-11",
+   "status": "candidate",
+   "score": 0,
+   "hits": {}
   },
   {
    "title": "Hologen and Sysmex form Saibogen JV to apply AI to routine blood-test data",

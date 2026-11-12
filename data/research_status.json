@@ -1,13 +1,13 @@
 {
- "run": "2026-11-11T05:04+00:00",
+ "run": "2026-11-12T05:05+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
    "type": "rss",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "The read operation timed out"
+   "ok": true,
+   "items": 80,
+   "new": 71,
+   "error": null
   },
   {
    "source": "arXiv AI",
@@ -15,7 +15,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "error": "HTTP Error 429: Unknown Error"
   },
   {
    "source": "arXiv Computer Vision",
@@ -28,41 +28,41 @@
   {
    "source": "arXiv Systems & Control",
    "type": "rss",
-   "ok": true,
-   "items": 60,
-   "new": 60,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 429: Unknown Error"
   },
   {
    "source": "arXiv Signal Processing (radar, 6G)",
    "type": "rss",
-   "ok": true,
-   "items": 60,
-   "new": 11,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 429: Unknown Error"
   },
   {
    "source": "arXiv Quantum hardware",
    "type": "rss",
-   "ok": true,
-   "items": 60,
-   "new": 46,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 429: Unknown Error"
   },
   {
    "source": "arXiv Materials (batteries, magnets, catalysts)",
    "type": "rss",
-   "ok": true,
-   "items": 60,
-   "new": 13,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 429: Unknown Error"
   },
   {
    "source": "arXiv Applied Physics",
    "type": "rss",
    "ok": true,
    "items": 50,
-   "new": 16,
+   "new": 0,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 6,
+   "new": 9,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 15,
+   "new": 13,
    "error": null
   },
   {
@@ -86,7 +86,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 8,
+   "new": 9,
    "error": null
   },
   {
@@ -102,7 +102,7 @@
    "type": "openalex",
    "ok": true,
    "items": 15,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
@@ -110,31 +110,31 @@
    "type": "pubmed",
    "ok": true,
    "items": 40,
-   "new": 6,
+   "new": 1,
    "error": null
   },
   {
    "source": "PubMed – surgical robotics and devices",
    "type": "pubmed",
-   "ok": true,
-   "items": 40,
-   "new": 2,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "bioRxiv – bioengineering and synthetic biology",
    "type": "rxiv",
    "ok": true,
-   "items": 4,
-   "new": 4,
+   "items": 6,
+   "new": 6,
    "error": null
   },
   {
    "source": "medRxiv – health informatics",
    "type": "rxiv",
    "ok": true,
-   "items": 1,
-   "new": 0,
+   "items": 3,
+   "new": 2,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 6,
+   "new": 4,
    "error": null
   },
   {
@@ -150,7 +150,7 @@
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 26,
+   "new": 25,
    "error": null
   },
   {
@@ -162,8 +162,8 @@
    "error": null
   }
  ],
- "ok": 17,
- "failed": 3,
- "new_items": 223,
- "kept": 233
+ "ok": 13,
+ "failed": 7,
+ "new_items": 145,
+ "kept": 239
 }

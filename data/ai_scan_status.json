@@ -1,5 +1,5 @@
 {
- "run": "2026-11-11T05:07+00:00",
+ "run": "2026-11-12T05:07+00:00",
  "calls": [
   {
    "provider": "openai",
@@ -14,33 +14,6 @@
    "provider": "openai",
    "group": "Compute, chips and connectivity",
    "model": "gpt-5-mini",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "The read operation timed out"
-  },
-  {
-   "provider": "openai",
-   "group": "Energy, batteries and powertrain",
-   "model": "gpt-5-mini",
-   "ok": true,
-   "items": 5,
-   "new": 5,
-   "error": null
-  },
-  {
-   "provider": "openai",
-   "group": "Materials, manufacturing and supply chains",
-   "model": "gpt-5-mini",
-   "ok": true,
-   "items": 4,
-   "new": 4,
-   "error": null
-  },
-  {
-   "provider": "openai",
-   "group": "Defence, space and sensing",
-   "model": "gpt-5-mini",
    "ok": true,
    "items": 6,
    "new": 6,
@@ -48,15 +21,42 @@
   },
   {
    "provider": "openai",
+   "group": "Energy, batteries and powertrain",
+   "model": "gpt-4.1-mini-2025-04-14",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 429: You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+  },
+  {
+   "provider": "openai",
+   "group": "Materials, manufacturing and supply chains",
+   "model": "gpt-4.1-mini-2025-04-14",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 429: You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+  },
+  {
+   "provider": "openai",
+   "group": "Defence, space and sensing",
+   "model": "gpt-4.1-mini-2025-04-14",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 429: You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+  },
+  {
+   "provider": "openai",
    "group": "Health, finance and the built environment",
-   "model": "gpt-5-mini",
-   "ok": true,
-   "items": 7,
-   "new": 7,
-   "error": null
+   "model": "gpt-4.1-mini-2025-04-14",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 429: You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   }
  ],
- "ok": 5,
- "failed": 1,
- "new_items": 30
+ "ok": 2,
+ "failed": 4,
+ "new_items": 14
 }

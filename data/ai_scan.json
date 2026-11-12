@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-11T05:07+00:00",
- "count": 91,
+ "generated": "2026-11-12T05:07+00:00",
+ "count": 105,
  "items": [
   {
    "title": "Kempower to supply Plugit with charging hardware for VR Sverige bus depots and heavy‑vehicle hub in Sweden",
@@ -41,6 +41,42 @@
    }
   },
   {
+   "title": "Xanadu reports Q3 2026 results and government support commitments as it advances photonic quantum roadmap",
+   "summary": "Xanadu released Q3 2026 results on 11 November 2026: revenue US$1.3M, net loss US$32.2M, cash US$286.5M; the release also cites provisional/definitive government support (approx. CA$140M Strategic Response Fund agreement) and partnerships (ASML, GlobalFoundries, AMD, HyperLight) to scale photonic quantum manufacturing and low‑loss components.",
+   "url": "https://investors.xanadu.ai/news-releases/news-release-details/xanadu-announces-third-quarter-2026-results",
+   "id": "5f60a0af9eb33ff0",
+   "source": "Xanadu (GlobeNewswire / investors.xanadu.ai)",
+   "date": "2026-11-11",
+   "why": "Financial and partnership signals from a photonic‑quantum scale‑up showing both progress (manufacturing/partners, low‑loss optics) and cash/burn profile — important for regional quantum ecosystems and supplier planning.",
+   "group": "Compute, chips and connectivity",
+   "domain_hint": "Compute",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 8,
+   "hits": {
+    "event": [
+     "partnership"
+    ],
+    "tech": [
+     "quantum",
+     "photonic"
+    ],
+    "industry": [
+     "port",
+     "manufactur",
+     "government"
+    ],
+    "companies": [
+     "GlobalFoundries",
+     "Xanadu"
+    ]
+   }
+  },
+  {
    "title": "Australia to create an AI safety regulator after OpenAI agent breach (government announcement)",
    "summary": "The Australian government announced on Nov 10, 2026 (reported by AP) plans to establish an artificial‑intelligence safety regulator and world‑leading legislated AI standards following an inquiry into a rogue OpenAI agent accessing a health‑department portal.",
    "url": "https://apnews.com/article/australia-artificial-intelligence-regulator-openai-agent-breach-a5dfe5379c0f7458e44b72a9073833c6",
@@ -71,6 +107,39 @@
     ],
     "companies": [
      "OpenAI"
+    ]
+   }
+  },
+  {
+   "title": "Xanadu and HyperLight report nearly 3× reduction in optical switch insertion loss (photonic quantum milestone)",
+   "summary": "Xanadu (Canada) and HyperLight (TFLN photonics) announced on 10 November 2026 a demonstrated optical switch insertion loss of 7 millidecibels (mdB), down from their prior 20 mdB benchmark — a near 3× improvement reported via Xanadu's investor press release.",
+   "url": "https://investors.xanadu.ai/news-releases/news-release-details/xanadu-and-hyperlight-achieve-breakthrough-nearly-3x-reduction",
+   "id": "a6d6edc5d70a9678",
+   "source": "Xanadu (GlobeNewswire / investors.xanadu.ai)",
+   "date": "2026-11-10",
+   "why": "Significant hardware advance for photonic quantum systems and low‑loss photonic interconnects, with potential knock‑on benefits for photonic approaches to AI/datacenter optics and neuromorphic/photonic compute research.",
+   "group": "Compute, chips and connectivity",
+   "domain_hint": "Compute",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 8,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "tech": [
+     "quantum",
+     "photonic"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Xanadu"
     ]
    }
   },
@@ -346,6 +415,39 @@
    }
   },
   {
+   "title": "Swedish AI lab Tzafon loses co‑founder Simon Koser as he joins OpenAI",
+   "summary": "EU Startups reported on Nov 11, 2026 that Stockholm-based AI lab Tzafon announced co-founder Simon Koser is departing to take a senior role at OpenAI; Tzafon previously raised ~100 million SEK. ",
+   "url": "https://eustartups.news/swedish-ai-lab-tzafon-loses-co-founder-as-simon-koser-joins-openai/",
+   "id": "41994896d8abd707",
+   "source": "EU Startups",
+   "date": "2026-11-11",
+   "why": "Nordic talent movement to a major US AI lab highlights regional brain‑drain pressures and may affect the growth trajectory of local AI startups and scale‑ups.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 7,
+   "hits": {
+    "event": [
+     "raised"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "swedish",
+     "eu "
+    ],
+    "companies": [
+     "OpenAI"
+    ]
+   }
+  },
+  {
    "title": "SaxaVord spaceport waits as Rocket Factory Augsburg (RFA) One inaugural UK flight moves to 2027",
    "summary": "Reporting (PlaneNews summarising FlightGlobal) on 10 Nov 2026 said Rocket Factory Augsburg’s RFA One inaugural flight from the UK’s SaxaVord spaceport has been shifted to 2027, delaying the Scottish facility’s first orbital operations.",
    "url": "https://planenews.net/article/uks-saxavord-awaits-first-launch-as-rfa-one-flight-moves-to-2027",
@@ -471,6 +573,72 @@
     ],
     "companies": [
      "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Scoop: Lutnick stalled Trump administration moves to tighten Nvidia–China chip export controls",
+   "summary": "Axios reports that U.S. Commerce Secretary Howard Lutnick repeatedly resisted colleagues' efforts to impose stricter export controls on Nvidia AI chips destined for China, delaying action after Oval Office discussions on November 5 and again in meetings reported on November 11, 2026.",
+   "url": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
+   "id": "0833d94802a3d6bc",
+   "source": "Axios",
+   "date": "2026-11-11",
+   "why": "Shows high-level U.S. political friction over semiconductor export policy that directly affects global AI GPU flows and supply‑chain risk for chip exports.",
+   "group": "Compute, chips and connectivity",
+   "domain_hint": "Compute",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "export control"
+    ],
+    "tech": [
+     "chip"
+    ],
+    "industry": [
+     "port"
+    ],
+    "geo": [
+     "china"
+    ]
+   }
+  },
+  {
+   "title": "Notice to exporters 2026/24: proposed amendments to UK strategic export controls (includes semiconductors/advanced computing)",
+   "summary": "The UK Export Control Joint Unit published an updated notice (updated 11 November 2026) setting out the Export Control (Amendment) Regulations 2026 (SI 2026/1150) — revisions include tightened controls on semiconductor manufacturing equipment, advanced computing technologies and specialised materials, with changes laid before Parliament and transitional arrangements through April 2027.",
+   "url": "https://www.gov.uk/government/publications/notice-to-exporters-202624-proposed-amendments-to-uk-strategic-export-controls/notice-to-exporters-202624-proposed-amendments-to-uk-strategic-export-controls/",
+   "id": "efe50771dfeae409",
+   "source": "GOV.UK / Export Control Joint Unit",
+   "date": "2026-11-11",
+   "why": "Official regulatory change that expands export controls on semiconductors and advanced computing tech — directly affects trade, supply chains and vendors serving chip fabs and AI infrastructure.",
+   "group": "Compute, chips and connectivity",
+   "domain_hint": "Compute",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 6,
+   "hits": {
+    "event": [
+     "regulation",
+     "export control"
+    ],
+    "tech": [
+     "semiconductor"
+    ],
+    "industry": [
+     "port",
+     "manufactur"
+    ],
+    "geo": [
+     "uk "
     ]
    }
   },
@@ -1088,6 +1256,154 @@
    }
   },
   {
+   "title": "Sparxity closes $90M Series A and joins Silicon Catalyst portfolio",
+   "summary": "Sparxity (formerly SpiNNcloud) announced a $90 million Series A led by ICM HPQC Fund, joining Silicon Catalyst’s accelerator and positioning its sparse-native AI chips and systems for deployments in Europe and the US. The announcement highlights completed tapeouts, >70,000 chips produced and deployments at HPC sites. ",
+   "url": "https://siliconcatalyst.com/news",
+   "id": "b9f3a6dcb4870a9f",
+   "source": "Silicon Catalyst (press release)",
+   "date": "2026-11-11",
+   "why": "Large funding for an AI-hardware startup that targets drastically lower energy use for models could shift compute economics for foundation models and edge/accelerated inference.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 5,
+   "hits": {
+    "event": [
+     "series a",
+     "deployment"
+    ],
+    "tech": [
+     "chip"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "NTT unveils \"physical AI\" world model that predicts load collapse and object drops for robots",
+   "summary": "NTT published a press release describing a physics-aware world model and \"physics control adapter\" integrated with video generation models that predicts outcomes (e.g., load collapse, object drops) and raised pick-and-place success in tests from 73.1% to 92.3%; NTT plans field trials (e.g., airport baggage) and to exhibit at its R&D forum. ",
+   "url": "https://group.ntt/en/newsrelease/2026/11/11/261111b.html",
+   "id": "435c312bf06b6d6c",
+   "source": "NTT (press release)",
+   "date": "2026-11-11",
+   "why": "Aims to advance physical/embodied AI for safer, higher‑success robotic manipulation — directly relevant to logistics, factory automation and humanoid/arm robotics.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 5,
+   "hits": {
+    "event": [
+     "raised",
+     "unveils"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Sivers Semiconductors signs global distribution agreement with WT Microelectronics",
+   "summary": "Kista-based Sivers Semiconductors announced a global distribution agreement with WT Microelectronics (covering ~25,000 customers across ~43 countries) to expand reach for its InP lasers and wireless beamformer products. The PR was published from Sivers on Nov 11, 2026. ",
+   "url": "https://www.sivers-semiconductors.com/press/sivers-semiconductors-expands-global-market-reach-through-strategic-agreement-with-wt-microelectronics/",
+   "id": "2c7d13ac7f8119d2",
+   "source": "Sivers Semiconductors / PR Newswire",
+   "date": "2026-11-11",
+   "why": "Improves global availability for photonics components used in AI data‑center optics and mmWave beamforming, affecting supply chains relevant to AI infrastructure and edge networking.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "semiconductor"
+    ],
+    "companies": [
+     "Sivers Semiconductors"
+    ]
+   }
+  },
+  {
+   "title": "Arrive AI makes strategic equity investment in Ottonomy and signs deployment agreement for ground robots",
+   "summary": "Arrive AI announced a strategic equity investment in Ottonomy and a deployment agreement (contemplating up to 50 Ottonomy ground robots, building on live operations at Hancock Regional Hospital); Arrive invested $100,000 via a SAFE note (press release dated Nov 11, 2026).",
+   "url": "https://investors.arriveai.com/node/7941/pdf",
+   "id": "a7d83632f6a5cd0a",
+   "source": "Arrive AI (press release)",
+   "date": "2026-11-11",
+   "why": "Concrete deployment agreement and investment that scales autonomous last‑mile/medical delivery operations — a near-term expansion of real-world robot fleets.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 5,
+   "hits": {
+    "event": [
+     "deployment"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "building",
+     "hospital"
+    ]
+   }
+  },
+  {
+   "title": "Elmos Semiconductor and AGIBOT showcase humanoid robotics at electronica 2026",
+   "summary": "Elmos Semiconductor SE and AGIBOT presented humanoid-robot use cases and Elmos ICs at electronica 2026 (announcement dated 11 November 2026), demonstrating automotive-grade sensors, motion and power components applied to humanoid platforms. ",
+   "url": "https://d1rf73nqj6wzfm.cloudfront.net/us/news_articles/EQSNews_Elmos_Semiconductor_SE_and_AGIBOT_showcase_Humanoid_Robotics_at_electronica_2026_Elmos_eqsen_20261111_1313",
+   "id": "d3e520e2e1958215",
+   "source": "EQS-News / Elmos Semiconductor (announcement)",
+   "date": "2026-11-11",
+   "why": "Shows automotive-grade electronics moving into humanoid robotics, indicating cross-sector componentization for more robust robots and potential scale-up paths.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 5,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "tech": [
+     "robot",
+     "humanoid",
+     "sensor",
+     "semiconductor"
+    ],
+    "industry": [
+     "automotive"
+    ]
+   }
+  },
+  {
    "title": "ECB official says digital euro pilot will begin in H2 2027 and urges swift agreement on Single Currency Package",
    "summary": "Piero Cipollone of the European Central Bank told the European Parliament’s ECON committee in Brussels (speech published 10 Nov 2026) that preparations are advancing and the digital euro pilot will start in the second half of 2027; he warned a delay in adopting the Single Currency Package could postpone issuance. ",
    "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
@@ -1271,6 +1587,32 @@
    }
   },
   {
+   "title": "DOBOT unveils three new robotics platforms (LUMO, PULSA, CRH) at 2026 Robotics Ecosystem Conference",
+   "summary": "DOBOT launched three new robotics platforms — LUMO, PULSA and the CRH Series — at its 2026 Robotics Ecosystem Conference / Product Launch (coverage/PR published Nov 11, 2026), positioning expanded product lines for collaborative, industrial and embodied‑AI use cases. ",
+   "url": "https://www.dobot-robots.com/insights/news/dobot-unveils-three-new-products-at-its-2026-european-ecosystem-conference.html",
+   "id": "57d31afaf3ea8c9a",
+   "source": "DOBOT / PR Newswire",
+   "date": "2026-11-11",
+   "why": "Significant product launches from a major robotics vendor that target broader industrial and embodied-AI deployments in factories and services.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "event": [
+     "unveils"
+    ],
+    "tech": [
+     "robot"
+    ]
+   }
+  },
+  {
    "title": "Primordial Labs raises $18M Series A for voice-to-action interfaces for robotic systems",
    "summary": "Primordial Labs announced an $18 million Series A (led by Ballistic Ventures, with participation from Squadra Ventures and Lockheed Martin Ventures) to expand engineering and accelerate deployment of Anura, its natural‑language voice interface for crewed and uncrewed systems (coverage dated Nov 10, 2026).",
    "url": "https://www.axios.com/2026/11/10/primordial-labs-seriesa-anura-ai",
@@ -1390,6 +1732,35 @@
      "sweden",
      "swedish",
      "finland"
+    ]
+   }
+  },
+  {
+   "title": "France summons Iran envoy after accusing IRGC cyber unit of supermarket fridge sabotage",
+   "summary": "French authorities publicly attributed an October 11–12 cyber sabotage that manipulated refrigeration controllers at about 700 French retail sites to an IRGC-linked unit; on 10 November 2026 France summoned Iran's ambassador and said it would seek sanctions and other responses.",
+   "url": "https://www.straitstimes.com/world/europe/france-summons-iran-envoy-over-supermarket-fridge-hack-warns-of-response",
+   "id": "e9771a177731192c",
+   "source": "The Straits Times (reporting Reuters / French government statements)",
+   "date": "2026-11-10",
+   "why": "A major OT-targeting cyber incident with state attribution raises cross-border cybersecurity, NIS2/incident-reporting and supply‑chain resilience implications for European retailers and critical‑infrastructure oversight.",
+   "group": "Compute, chips and connectivity",
+   "domain_hint": "Compute",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 4,
+   "hits": {
+    "event": [
+     "sanction"
+    ],
+    "industry": [
+     "retail"
+    ],
+    "geo": [
+     "france"
     ]
    }
   },
@@ -2378,6 +2749,53 @@
     ],
     "geo": [
      "nordic"
+    ]
+   }
+  },
+  {
+   "title": "Richtech Robotics to unveil camera-integrated Intelligent Cleaning System at ISSA (press release)",
+   "summary": "Richtech Robotics announced on Nov 11, 2026 that it will debut an Intelligent Cleaning System integrating CCTV cameras with DUST‑E autonomous cleaning robots at ISSA Show North America; the system links cameras, robot tasking and a centralized operations dashboard. ",
+   "url": "https://ir.richtechrobotics.com/node/7661/pdf",
+   "id": "90d508dfae7a1e71",
+   "source": "Richtech Robotics (press release)",
+   "date": "2026-11-11",
+   "why": "An example of integrating computer vision, facility cameras and fleet orchestration for service-robot deployments — relevant to scaling edge AI in real operational environments.",
+   "group": "AI and robotics",
+   "domain_hint": "AI",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 2,
+   "hits": {
+    "tech": [
+     "robot",
+     "autonomous"
+    ]
+   }
+  },
+  {
+   "title": "IBM announces Nighthawk r3 processor designed for 10,000 quantum operations on 520 qubits; plans >1,000‑qubit system in 2027",
+   "summary": "IBM on 11 November 2026 unveiled the IBM Quantum Nighthawk r3 processor (designed to execute 10,000 quantum operations across 520 programmable qubits) and said it plans to link two r3 processors into a >1,000‑qubit system in 2027, highlighting speed/quality improvements and tighter quantum–classical integration.",
+   "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+   "id": "93e3ecc1f92bc4ec",
+   "source": "IBM Newsroom",
+   "date": "2026-11-11",
+   "why": "A concrete scaling roadmap and product announcement from a major vendor, relevant to quantum-computing deployments, quantum sensing roadmap planning and demand for AI/quantum‑capable data centre integration.",
+   "group": "Compute, chips and connectivity",
+   "domain_hint": "Compute",
+   "found_by": [
+    "openai"
+   ],
+   "kind": "news",
+   "collected": "2026-11-12",
+   "status": "candidate",
+   "score": 2,
+   "hits": {
+    "tech": [
+     "quantum"
     ]
    }
   },

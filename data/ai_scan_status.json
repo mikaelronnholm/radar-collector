@@ -1,23 +1,23 @@
 {
- "run": "2026-11-12T05:07+00:00",
+ "run": "2026-11-13T05:05+00:00",
  "calls": [
   {
    "provider": "openai",
    "group": "AI and robotics",
-   "model": "gpt-5-mini",
-   "ok": true,
-   "items": 8,
-   "new": 8,
-   "error": null
+   "model": "gpt-4.1-mini-2025-04-14",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 429: You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
    "provider": "openai",
    "group": "Compute, chips and connectivity",
-   "model": "gpt-5-mini",
-   "ok": true,
-   "items": 6,
-   "new": 6,
-   "error": null
+   "model": "gpt-4.1-mini-2025-04-14",
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP 429: You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
    "provider": "openai",
@@ -56,7 +56,7 @@
    "error": "HTTP 429: You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   }
  ],
- "ok": 2,
- "failed": 4,
- "new_items": 14
+ "ok": 0,
+ "failed": 6,
+ "new_items": 0
 }

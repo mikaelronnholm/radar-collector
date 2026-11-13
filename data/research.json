@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-12T05:05+00:00",
- "count": 239,
+ "generated": "2026-11-13T05:04+00:00",
+ "count": 245,
  "items": [
   {
    "title": "Canadian Spine SocietyLongitudinal changes in comprehensive radiographic parameters following short-segment surgery (1–2 levels) for degenerative lumbar spondylolisthesisMeasuring spinopelvic parameters in patients with 6 lumbar vertebrae: a matched comparison of asymptomatic volunteersSupervised and unsupervised machine learning reveals distinct clinical phenotypes across degenerative lumbar conditions: sex-specific clustering for personalized surgical careDoes disc degeneration matter? Outcomes of decompression-alone surgery in low-grade spondylolisthesisIntervertebral disc degeneration in humans: altered peripheral immune cell profile in patients and inflammation-mediated matrix metalloproteinase upregulation in human disc cellsDomino toppling: when the disruption of one disc negatively impacts its neighbour. An investigation into the mechanism of adjacent segment diseaseMultimodal analgesia after surgery for thoracolumbar spinal stenosisLumbar foraminal morphology can affect outcomes of indirect decompression: a novel classificationPredictors of intraoperative vascular complications during anterior lumbar spinal exposure: a retrospective analysisHigher rates of fusion with porous titanium than with polyetheretherketone (PEEK) lumbar interbody cages: a retrospective cohort studyCan measuring preoperative postvoid urine residual values influence care in patients undergoing elective spine surgery?To respond or not to respond: the many faces of recovery after lumbar spine surgeryPostoperative outcomes in primary versus revision lumbar decompressive surgery: a propensity-matched analysisWhat are the barriers and enablers influencing physical activity among patients awaiting spine surgery? A qualitative study guided by the Theoretical Domains FrameworkEffects of childbearing on spinopelvic alignmentClinical and radiological outcomes of biportal endoscopic lumbar interbody fusion using oblique lateral interbody fusion-type cage: preliminary results and learning curve analysisArtificial intelligence for spine surgery education: a comparative analysis of ChatGPT and DeepSeek performanceSpineNavigator: a surgeon-trained large language model to enhance communication and patient education in spine surgeryDoes comorbidity count, ASA score, or Quan-modified Charlson Comorbidity Index score better predict morbidity after elective spinal surgery?Factors associated with perioperative adverse events in patients with degenerative lumbar spondylolisthesisImplementation of an awake spine surgery program in Canada: lessons learned from the surgeon’s perspectiveLongitudinal finite mixture models for mining complex prognostic phenotypes of degenerative cervical myelopathyEnvironmental impacts of a cervical laminectomy and fusion procedure from first consultation to patient recovery: insights from a life cycle assessmentReframing mild degenerative cervical myelopathy: insights from a latent profile analysisPredictive algorithm for treatment recommendation between operative and nonoperative management in mild degenerative cervical myelopathyMachine learning classification of patients with degenerative cervical myelopathy into clinically relevant clusters and development of an adoptable clinical algorithmReassessing the minimal clinically important differences of patient-reported outcomes in cervical myelopathy: a patient-centred approach from the Canadian Spine Outcomes and Research NetworkCurrent practices in return-to-play recommendations for recreational athletes following cervical spine surgeries: a preliminary global surveyCage subsidence and fusion in ACDF, a comparison between autograft, allograft, and synthetic cagesQuantifying cervical cord deformation with automated MRI: validation and clinical correlates in degenerative cervical myelopathyThe impact of estrogen replacement therapy on revision rates and outcomes after anterior cervical discectomy and fusion: a propensity-matched cohort studyImaging biomarkers derived using artificial intelligence pipeline–enhanced prognostication of patients undergoing surgery for nontraumatic spinal cord injury due to degenerative cervical myelopathyWhat patients expect and what they experience: symptom-specific expectation fulfillment and functional recovery in degenerative cervical myelopathy. A retrospective analysis of prospectively collected data from the multicentre Canadian Surgical Spine RegistryBiomechanical comparison of 7 occipital–cervical fixation constructs using finite element analysisOutpatient anterior cervical decompression and fusion: a survey of Canadian surgeonsNational trends in surgical approach for degenerative cervical myelopathy and associated inpatient costsVariability of mechanism of mechanical complications between low-thoracic to pelvis and lumbar to pelvis fusions accurately predicted by musculoskeletal analysisOutcomes of circumferential minimally invasive technique versus open technique in adult spinal deformity surgery patients over 80 years of age: a",
@@ -297,6 +297,37 @@
    }
   },
   {
+   "title": "Co-RoboPV: cooperative aerial robot system for photovoltaic power plant inspection based on reinforcement learning",
+   "summary": "Abstract Efficient inspection of large-scale photovoltaic (PV) plants can be significantly improved by employing a multi-aerial robot system. This article aims to develop an algorithm tailored to such a system for coverage path planning. Our approach involves determining the optimal number and types of aerial robots, designing a detailed flight plan, preparing the robots and their equipment, and analyzing the data collected from inspections. Autonomous operation is critical for enhancing efficiency and accuracy by eliminating direct human control of aerial robot flight. To this end, we utilize",
+   "url": "https://doi.org/10.1038/s41598-026-76194-5",
+   "date": "2026-11-11",
+   "source": "Scientific Reports",
+   "institutions": [
+    "Amirkabir University of Technology",
+    "Concordia University",
+    "Norwegian University of Science and Technology",
+    "University of Freiburg",
+    "University of Isfahan"
+   ],
+   "id": "4358d9b6488015b4",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-13",
+   "score": 6,
+   "hits": {
+    "event": [
+     "plant"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "novelty": [
+     "efficiency"
+    ]
+   }
+  },
+  {
    "title": "Design and Over-the-Air Evaluation of a Digital Twin-Driven Site-Specific Neural Receiver for 5G NR on NVIDIA DGX Spark",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.13490v1",
@@ -409,6 +440,34 @@
     ],
     "tech": [
      "diagnostic"
+    ]
+   }
+  },
+  {
+   "title": "Robot-Assisted Toupet Fundoplication in a Patient With Situs Inversus Totalis: A Case Report",
+   "summary": "Situs inversus totalis (SIT) is a rare congenital anomaly with complete mirror-image transposition of the thoracic and abdominal organs, making standardized minimally invasive surgery demanding.To our knowledge, all previously reported antireflux fundoplications in SIT have been laparoscopic.We report a 43year-old woman with SIT, gastroesophageal reflux disease partially responsive to proton pump inhibitors, and a 3cm type I hiatal hernia, who underwent robot-assisted Toupet fundoplication with the da Vinci Xi system in a completely mirror-imaged setup.The subxiphoid Nathanson liver retractor,",
+   "url": "https://doi.org/10.7759/cureus.119420",
+   "date": "2026-11-10",
+   "source": "Cureus",
+   "institutions": [
+    "Kolding Hospital",
+    "Odense University Hospital"
+   ],
+   "id": "9915ec8ffdf88984",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-13",
+   "score": 6,
+   "hits": {
+    "event": [
+     "standard"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "port"
     ]
    }
   },
@@ -1623,6 +1682,86 @@
    }
   },
   {
+   "title": "Plant-adaptive fluorescence hydrogel sensor for non-invasive monitoring of pesticide degradation.",
+   "summary": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42950625/",
+   "date": "2027-02-01",
+   "source": "Biosensors & bioelectronics",
+   "id": "2cec523ccb3be430",
+   "feed": "PubMed – surgical robotics and devices",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-13",
+   "score": 5,
+   "hits": {
+    "event": [
+     "plant"
+    ],
+    "tech": [
+     "sensor"
+    ]
+   }
+  },
+  {
+   "title": "Predicting Thirty Day Hospital Readmission in Patients With Diabetes Using Explainable Machine Learning",
+   "summary": "Abstract Background Hospital readmission within 30 days of discharge is an important healthcare outcome. Machine-learning models may help estimate readmission risk; however, their performance, outcome definitions, and interpretability must be carefully evaluated before potential clinical application. Objective To evaluate Logistic Regression and Random Forest models for predicting recorded 30-day hospital readmission among encounters in the publicly available UCI Diabetes 130-US Hospitals dataset. Methods This retrospective secondary-data study used 101,766 hospital encounters recorded between",
+   "url": "https://doi.org/10.21203/rs.3.rs-11268007/v1",
+   "date": "2026-11-11",
+   "source": "Research Square",
+   "institutions": [
+    "Iran University of Medical Sciences",
+    "Linnaeus University"
+   ],
+   "id": "3e0d7c5d0c5c5479",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-13",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "machine learning"
+    ],
+    "industry": [
+     "port",
+     "hospital",
+     "healthcare"
+    ],
+    "novelty": [
+     "record"
+    ]
+   }
+  },
+  {
+   "title": "Improved subglacial boundary conditions near Dome C, Antarctica, through rigorous integration of multi-campaign radar data and an ensemble stochastic simulation approach",
+   "summary": "Subglacial bed topography is a fundamental boundary condition for ice-sheet flow, basal thermal regimes, and the preservation of palaeoclimate records, yet it remains highly uncertain across Antarctica. We use stochastic simulation methods to generate an ensemble of gridded (500 m) ice thickness and bed elevation near Dome C, and map bed elevation uncertainty accounting for impacts of data availability and basal roughness. New airborne radar measurements uncover previously undocumented sectors of the ice-bed interface and we integrate these with existing data using a rigorous approach to ensur",
+   "url": "https://doi.org/10.5194/tc-20-6477-2026",
+   "date": "2026-11-11",
+   "source": "The Cryosphere",
+   "institutions": [
+    "DTU Space",
+    "Korea Polar Research Institute",
+    "Norwegian Polar Institute",
+    "Technical University of Denmark",
+    "The FRAM Centre",
+    "University of Alabama"
+   ],
+   "id": "f2abf0b79a5364b2",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-13",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "radar"
+    ],
+    "novelty": [
+     "record"
+    ]
+   }
+  },
+  {
    "title": "Impact of Reduced-Order Modelling on Sum-of-Squares Region-of-Attraction Certification for Grid-Forming and Grid-Following Converters",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.13497v1",
@@ -1981,6 +2120,32 @@
     ],
     "companies": [
      "Overview"
+    ]
+   }
+  },
+  {
+   "title": "A data-driven approach for systematic correction of electronic bandgaps",
+   "summary": "We demonstrate that a single machine-learning correction, applied to bandgaps from density functional theory calculations with two of the most frequently used energy functionals, results in bandgaps that are close to the experimental values. This solves a classical problem of computationally efficient electronic structure methods, to give reliable bandgaps that can be compared to experiments. The employed approach relies on materials specific feature engineering of machine learning models, and is shown to have close accuracy to that of much more expensive calculations based on the GW-approxima",
+   "url": "https://arxiv.org/abs/2611.10889",
+   "date": "2026-11-07",
+   "source": "arXiv (Cornell University)",
+   "institutions": [
+    "Linköping University",
+    "Uppsala University"
+   ],
+   "id": "8d69f8f136db67f8",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-13",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban",
+     "demonstrat"
+    ],
+    "novelty": [
+     "demonstrat"
     ]
    }
   },
@@ -2350,6 +2515,35 @@
     ],
     "novelty": [
      "first"
+    ]
+   }
+  },
+  {
+   "title": "Spectral properties of a nanosecond backward wave optical parametric oscillator",
+   "summary": "Differential absorption lidar experiments require pulsed, tunable, narrow-linewidth laser sources that are robust and suitable for integration in airborne or spaceborne applications. This study presents the fine spectral properties of backward OPOs in the nanosecond regime, which is a promising solution.",
+   "url": "https://www.epj-conferences.org/10.1051/epjconf/202639307044/pdf",
+   "date": "2026-11-05",
+   "source": "Springer Link (Chiba Institute of Technology)",
+   "institutions": [
+    "Centre National de la Recherche Scientifique",
+    "Département Physique, Instrumentation, Environnement et Espace",
+    "Institut d’Optique Graduate School",
+    "KTH Royal Institute of Technology",
+    "Laboratoire Charles Fabry",
+    "Office National d'Études et de Recherches Aérospatiales"
+   ],
+   "id": "1dbc35758cf2f75b",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-13",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "lidar"
+    ],
+    "industry": [
+     "bus"
     ]
    }
   },
@@ -3045,6 +3239,27 @@
    }
   },
   {
+   "title": "Phantom energy: New report exposes empty promises behind nuclear power and data centers",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-phantom-energy-exposes-nuclear-power.html",
+   "date": "2026-11-13",
+   "source": "",
+   "id": "29e8d10221efaa8b",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-13",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "data center"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
    "title": "Sri Lanka launches pilot of Chinese flying taxi service",
    "summary": "",
    "url": "https://techxplore.com/news/2026-11-sri-lanka-chinese-flying-taxi.html",
@@ -3081,6 +3296,185 @@
    "hits": {
     "tech": [
      "robot"
+    ],
+    "industry": [
+     "construction"
+    ]
+   }
+  },
+  {
+   "title": "Visions for hydrogen-based materials for energy applications",
+   "summary": "The world’s dependence on fossil fuels necessitates rapid advancement of clean storage and renewable energy technologies. There is abundance of renewable energy in the form of solar irradiance and wind, and the most commonly used energy carrier for these sources is electricity using batteries. Hydrogen is a viable energy carrier because of its diverse chemistry and capacity to form a wide range of bonds and interactions with most other elements. Hydrogen-based materials encompass a great variety of compositions, structures and properties, which modern synthesis methods can further tailor towar",
+   "url": "https://doi.org/10.1016/j.mattod.2026.103533",
+   "date": "2026-11-11",
+   "source": "Materials Today",
+   "institutions": [
+    "Aarhus University",
+    "Advanced Institute for Materials Research, Tohoku University",
+    "California State University, Northridge",
+    "Curtin University",
+    "Griffith University",
+    "Institute for Energy Technology"
+   ],
+   "id": "a4d73740404b5809",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-13",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "hydrogen"
+    ]
+   }
+  },
+  {
+   "title": "A Heterogeneous Robotic Framework for Autonomous Solar Panel Inspection using Computer Vision and Path Optimization",
+   "summary": "This work presents a comprehensive and modular framework enabling effective collaboration between Unmanned Aerial Vehicles (UAVs) and Unmanned Ground Vehicles (UGVs) for autonomous inspection of photovoltaic (PV) farms. The framework integrates real-time visual perception, intelligent planning, and adaptive coordination through a hierarchical, multi-layered architecture. The UAV is equipped with a camera to perform the inspection. The framework uses the You Only Look Once Version 8 (YOLOv8) Convolutional Neural Network (CNN) for high-precision detection and localization of solar panels. A Gene",
+   "url": "https://doi.org/10.1007/s10846-026-02482-x",
+   "date": "2026-11-11",
+   "source": "Journal of Intelligent & Robotic Systems",
+   "institutions": [
+    "Federal Center for Technological Education Celso Suckow da Fonseca",
+    "NORCE Research AS",
+    "Universidade Federal Fluminense",
+    "University of South-Eastern Norway"
+   ],
+   "id": "0a8452a0d6df3953",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-13",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "computer vision",
+     "robot",
+     "autonomous",
+     "uav"
+    ],
+    "industry": [
+     "vehicle"
+    ]
+   }
+  },
+  {
+   "title": "Decoupling instantaneous and cumulative stress: Physics-guided capacity prediction for lithium-ion batteries under stochastic cycling",
+   "summary": "",
+   "url": "https://doi.org/10.1016/j.apenergy.2026.129236",
+   "date": "2026-11-11",
+   "source": "Applied Energy",
+   "institutions": [
+    "Aalborg University",
+    "Chongqing University",
+    "Delft University of Technology"
+   ],
+   "id": "231d3452ba71bbdd",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-13",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "lithium"
+    ]
+   }
+  },
+  {
+   "title": "Identifying catalyst technologies in clusters with unsupervised machine learning: an application on patent clusters in the UK",
+   "summary": "",
+   "url": "https://doi.org/10.1080/17421772.2026.2754065",
+   "date": "2026-11-11",
+   "source": "Spatial Economic Analysis",
+   "institutions": [
+    "Blekinge Institute of Technology",
+    "Research Institute of Industrial Economics",
+    "Swedish Entrepreneurship Forum",
+    "University of Warsaw"
+   ],
+   "id": "93aff2138434cb8e",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-13",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "machine learning"
+    ],
+    "geo": [
+     "uk "
+    ]
+   }
+  },
+  {
+   "title": "AquaMamba: Selective state space modeling for underwater scene segmentation in marine robotics",
+   "summary": "Underwater scene segmentation is challenging because image degradation and domain shift vary greatly in marine environments, and the behavior of selective state-space models (SSMs) in this environment remains insufficiently characterized. We propose AquaMamba, a ResNet34-UNet segmentation framework that replaces the bottleneck operator with stacked Mamba layers, and compare it with five established CNN-based methods and a constructed Transformer-bottleneck baseline in the SUIM benchmark. AquaMamba achieves an mIoU of 0.669, 1.9 percentage points higher than the controlled Trans-UNet baseline (",
+   "url": "https://doi.org/10.1371/journal.pone.0360659",
+   "date": "2026-11-11",
+   "source": "PLoS ONE",
+   "institutions": [
+    "KTH Royal Institute of Technology",
+    "Mokwon University",
+    "Nantong Institute of Technology",
+    "Nantong University"
+   ],
+   "id": "55dac2bfe59e5f3a",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-13",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "robot"
+    ]
+   }
+  },
+  {
+   "title": "From emissions to damage: A mechanism-based assessment of artificial intelligence's environmental cost and the limits of the sustainable energy transition",
+   "summary": "Artificial intelligence is rapidly transforming the global economy, but its environmental impact presents a clear paradox, as it can improve efficiency while also increasing energy demand. Existing studies focus mainly on emissions, while policymakers care about the associated welfare losses. This paper shifts the analysis from emissions to carbon damage, capturing the monetized cost imposed on economies and societies. It also investigates and quantifies the mediating role of sustainable energy transition in the relationship between artificial intelligence and carbon damage. Using panel data f",
+   "url": "https://doi.org/10.1016/j.jenvman.2026.131326",
+   "date": "2026-11-11",
+   "source": "Journal of Environmental Management",
+   "institutions": [
+    "University of Vaasa"
+   ],
+   "id": "78442d1ae265f2f8",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-13",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "artificial intelligence"
+    ],
+    "novelty": [
+     "efficiency"
+    ]
+   }
+  },
+  {
+   "title": "Automated 3D Reconstruction of Mycorrhizal Fungal Structures from Bright-Field Microscopy Using Oriented Bounding Boxes and Focus Modeling",
+   "summary": "Abstract Background Fungal networks play a fundamental role in soil ecology and plant symbiosis, yet their three-dimensional characterization remains challenging due to their complex filamentous morphology and the limitations of conventional microscopy image analysis. This work presents a data-driven framework for three-dimensional reconstruction of fungal structures from bright-field microscopy, combining YOLO-based oriented bounding box (OBB) detection with continuous focus modeling for depth estimation. Addressing a problem explored by relatively few existing microscopy-based reconstruction",
+   "url": "https://doi.org/10.21203/rs.3.rs-11394217/v1",
+   "date": "2026-11-11",
+   "source": "Research Square",
+   "institutions": [
+    "Italian Institute of Technology",
+    "University of Southern Denmark"
+   ],
+   "id": "16db96740f8ac6bf",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-13",
+   "score": 4,
+   "hits": {
+    "event": [
+     "plant"
     ],
     "industry": [
      "construction"
@@ -3448,29 +3842,6 @@
    }
   },
   {
-   "title": "System-level impacts of landscape scenicness on onshore wind deployment in a decarbonized European energy system",
-   "summary": "Abstract Onshore wind is pivotal to Europe’s decarbonization, yet its expansion increasingly faces social constraints due to landscape impacts that are rarely captured in energy system models. This study presents a Europe-wide integration of landscape scenicness, which is used as a proxy for potential landscape impact, into a calibrated, multi-sector energy system model that explores policy interactions with enhanced capacity-factor granularity. Building on a machine-learning–based scenicness dataset linked to wind resource assessment, and an enhanced representation of wind technologies with f",
-   "url": "https://doi.org/10.1088/2753-3751/aec019",
-   "date": "2026-11-10",
-   "source": "Environmental Research Energy",
-   "institutions": [
-    "ETH Zurich",
-    "Paul Scherrer Institute",
-    "University of Oslo"
-   ],
-   "id": "1edf7a6c31573ab9",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-12",
-   "score": 4,
-   "hits": {
-    "event": [
-     "deployment"
-    ]
-   }
-  },
-  {
    "title": "Explainable quantum regression algorithm with encoded data structure",
    "summary": "",
    "url": "https://doi.org/10.1007/s42484-026-00453-x",
@@ -3493,26 +3864,49 @@
    }
   },
   {
-   "title": "PhyMorphS: A Physics-Guided Framework for Mesh-Based Morphological Synthesis of White Matter Microstructures",
-   "summary": "Numerical phantoms provide controlled 3D representations of brain tissue microstructure for developing and evaluating biophysical models of diffusion-weighted Magnetic Resonance Imaging (dMRI). Existing phantom synthesizers employ different geometric primitives and optimization strategies to generate densely packed substrates with diverse axonal morphologies. However, direct deformation of axonal surfaces under mechanical constraints remains less explored. We propose PhyMorphS, a mesh-based framework in which axonal morphology emerges through physics-guided growth and interactions with the loc",
-   "url": "https://doi.org/10.64898/2026.11.09.765314",
+   "title": "Establishing Standards for Assessment and Reporting of SNSPD Performance",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.14653v1",
    "date": "2026-11-10",
-   "source": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "institutions": [
-    "Amager Hospital",
-    "Copenhagen University Hospital",
-    "Technical University of Denmark",
-    "École Polytechnique Fédérale de Lausanne"
-   ],
-   "id": "6338a90cb94b7d54",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "source": "",
+   "id": "f9643476f3015d94",
+   "feed": "arXiv Applied Physics",
    "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-12",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-13",
    "score": 4,
    "hits": {
-    "tech": [
-     "fusion"
+    "event": [
+     "standard"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Association of Prethrombectomy Hemorrhagic Infarction on MRI With Further Transformation and Functional Outcomes: A Multicenter Study",
+   "summary": "Background and Objectives Mechanical thrombectomy (MT) is the standard of care for acute ischemic stroke from large vessel occlusion (LVO). Although postprocedural parenchymal hematoma (PH) predicts poor outcomes, pretreatment hemorrhagic infarction (HI), defined as petechial bleeding within infarcted tissue, is traditionally viewed as a benign radiologic finding. Its significance on sensitive preintervention MRI remains underexplored. We evaluated whether pretreatment MRI HI is associated with 90-day functional dependence, post-MT PH, and symptomatic intracerebral hemorrhage (SICH). Methods T",
+   "url": "https://doi.org/10.1212/wnl.0000000000218742",
+   "date": "2026-11-10",
+   "source": "Neurology",
+   "institutions": [
+    "Aarhus University",
+    "Beth Israel Deaconess Medical Center",
+    "Brigham and Women's Hospital",
+    "Harvard University",
+    "Massachusetts General Hospital",
+    "Sunnybrook Health Science Centre"
+   ],
+   "id": "68076888c1807ff8",
+   "feed": "OpenAlex Nordic – health technology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-13",
+   "score": 4,
+   "hits": {
+    "event": [
+     "standard"
     ]
    }
   },
@@ -3622,175 +4016,6 @@
    }
   },
   {
-   "title": "Premixed and stratified ammonia/air combustion in an optical chamber using hydrogen pre-chamber jet ignition",
-   "summary": "This study presents premixed and stratified lean ammonia combustion ignited by a hydrogen pre-chamber jet at an 8% hydrogen energy share and a global equivalence ratio of 0.6. Ammonia is directly injected into an optical chamber at 165 (premixed) and 40 (stratified) crank angle degrees before top dead centre. High-speed natural flame luminosity imaging, OH*/NH* chemiluminescence imaging, and exhaust measurements were employed. Premixed operation shows simultaneous emergence of the six jets and a lower coefficient of variation of indicated mean effective pressure of 2.9% against 4.0%. Stratifie",
-   "url": "https://doi.org/10.1016/j.ijhydene.2026.158419",
-   "date": "2026-11-09",
-   "source": "International Journal of Hydrogen Energy",
-   "institutions": [
-    "King Abdullah University of Science and Technology",
-    "Norwegian University of Science and Technology"
-   ],
-   "id": "8feffbe050efb5fc",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "hydrogen"
-    ],
-    "industry": [
-     "bus"
-    ]
-   }
-  },
-  {
-   "title": "From Experimental Characterisation to Prediction Models of LIB Anode Drying Processes",
-   "summary": "In commercial lithium ion Battery (LIB) cell manufacturing, understanding and improving the drying process is key to the yield as well as energy-consumption, and thereby the CO2 emission footprint. As such, this study experimentally investigates convection drying kinetics of anodes alongside the use of (informed and non-informed) neural network models, in order to better understand and improve electrode manufacturing. In the experimental campaign we find that air velocity and temperature are the most important parameters in the initial phase (constant-rate period) before we reach the critical ",
-   "url": "https://doi.org/10.3390/batteries12110479",
-   "date": "2026-11-09",
-   "source": "Batteries",
-   "institutions": [
-    "Eindhoven University of Technology",
-    "Institute for Energy Technology",
-    "Norwegian University of Science and Technology"
-   ],
-   "id": "e26f6be12ff40bef",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "battery",
-     "lithium"
-    ],
-    "industry": [
-     "manufactur"
-    ]
-   }
-  },
-  {
-   "title": "DiffPhD: A Unified Differentiable Solver for Projective Heterogeneous Materials in Elastodynamics with Contact-Rich GPU-Acceleration",
-   "summary": "Differentiable simulation of soft bodies is a foundation for system identification, trajectory optimization, and Real2Sim transfer. Yet, existing methods such as the differentiable Projective Dynamics (DiffPD) struggle when faced with heterogeneous materials with extreme stiffness contrasts, hyperelasticity under large deformations, and contact-rich interactions, which are common scenarios in the real world. We present DiffPhD, a unified GPU-accelerated differentiable Projective Dynamics framework for heterogeneous materials that tackles these intertwined challenges simultaneously. Our key ins",
-   "url": "https://doi.org/10.1145/3842497",
-   "date": "2026-11-09",
-   "source": "ACM Transactions on Graphics",
-   "institutions": [
-    "Aalto University",
-    "National Taiwan University",
-    "National University of Singapore",
-    "National Yang Ming Chiao Tung University",
-    "University of British Columbia"
-   ],
-   "id": "5b86804a81086169",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "gpu"
-    ]
-   }
-  },
-  {
-   "title": "From Machine Learning Theory to Sustainable AI",
-   "summary": "",
-   "url": "https://doi.org/10.1007/s13218-026-00924-0",
-   "date": "2026-11-09",
-   "source": "Künstliche Intell.",
-   "institutions": [
-    "University of Copenhagen",
-    "University of Rostock"
-   ],
-   "id": "8d11e22c52815e5c",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "machine learning"
-    ]
-   }
-  },
-  {
-   "title": "Satellites and Reanalysis Reveal the Dominance of Dynamics over Precipitation in Marine Cold-Air Outbreak Cloud Break-Up",
-   "summary": "Abstract. Marine cold air outbreaks (CAOs) frequently occur over the North Atlantic during winter, producing characteristic transitions from cloud streets to closed-cell stratocumulus and, eventually, to more broken open cells. The transition to open cells reduces cloud fraction and thus plays an important role in the region's radiative energy balance. However, the drivers of this cloud break-up remain poorly understood. To investigate these drivers, we apply a newly developed machine learning cloud classifier to MODIS imagery, and combine it with MERRA-2 reanalysis and CloudSat/CALIPSO active",
-   "url": "https://doi.org/10.5194/egusphere-2026-6553",
-   "date": "2026-11-09",
-   "source": "",
-   "institutions": [
-    "University of Oslo"
-   ],
-   "id": "150050c40338e1b4",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "satellite"
-    ]
-   }
-  },
-  {
-   "title": "Interpretable Blood Transcriptomic Classification of Ebola Survivors: A Machine Learning Framework for Post-Recovery Immune Profiling",
-   "summary": "",
-   "url": "https://doi.org/10.34133/csbj.0288",
-   "date": "2026-11-09",
-   "source": "Computational and Structural Biotechnology Journal",
-   "institutions": [
-    "Jazan University",
-    "KTH Royal Institute of Technology",
-    "Umm al-Qura University",
-    "Vellore Institute of Technology University"
-   ],
-   "id": "1800806ba5b37586",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "machine learning"
-    ]
-   }
-  },
-  {
-   "title": "Fine-grained sugarcane varietal classification using high-resolution PRSS-1 satellite imagery: a field-validated dataset and a spatial context-aware deep learning framework",
-   "summary": "Introduction Precise mapping of sugarcane varieties is crucial for precision agriculture, yield evaluation, protection of breeders’ rights, efficient supply chain management and policy formulation. Previous studies highlighted that remote sensing techniques suffered issues such as low spatial resolution and inadequate field-validated ground truth data. Literature review reported usage of statistical analysis methods and machine learning approaches in classification of sugarcane varieties, while constraining the use of deep learning techniques, primarily due to low quality and insufficient data",
-   "url": "https://doi.org/10.3389/fpls.2026.1981795",
-   "date": "2026-11-09",
-   "source": "Frontiers in Plant Science",
-   "institutions": [
-    "Norwegian University of Science and Technology",
-    "Riphah International University",
-    "Sohar University",
-    "Umm al-Qura University",
-    "University of Bergen"
-   ],
-   "id": "c50b9ff02a2522d4",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "satellite"
-    ]
-   }
-  },
-  {
    "title": "Chromosome-level genome assembly of Greenland scurvy-grass (Cochlearia groenlandica) reveals extensive centromeric satellite arrays",
    "summary": "We present a chromosome-level, haplotype-resolved genome assembly from Greenland scurvy-grass (Cochlearia groenlandica). The assembly comprises two pseudo-haplotypes of 322 Mb and 295 Mb, with 89.7% and 95.6% respectively, each scaffolded into 7 chromosomes. Assembly completeness is high (BUSCO 97.8% in each haplotype), with 34,213 and 29,684 annotated protein-coding genes for haplotypes one and two, respectively. The chromosomes contain extensive centromeric satellite arrays that cover up to half of some chromosomes. Their precise functional boundaries remain undetermined.",
    "url": "https://doi.org/10.64898/2026.11.05.764761",
@@ -3810,6 +4035,32 @@
    "hits": {
     "tech": [
      "satellite"
+    ]
+   }
+  },
+  {
+   "title": "Detecting space objects with Earth-observation radar satellites",
+   "summary": "Millimetre-to-centimetre orbital debris poses a hazard to spacecraft, but its abundance remains difficult to measure. Spaceborne radars offer a substantial sensitivity advantage at close range: received echo power decreases with the fourth power of distance, so an otherwise identical object ten times closer produces a 10,000 times stronger echo. We investigate this opportunity using openly available Sentinel-1 radar voltages recorded on six calendar days. Catalogue-assisted processing identifies a manually validated sample of 76 objects at ranges of 41.7--492.9 km, including satellites, rocket",
+   "url": "https://arxiv.org/abs/2611.12158",
+   "date": "2026-11-09",
+   "source": "arXiv (Cornell University)",
+   "institutions": [
+    "Swedish Institute of Space Physics",
+    "UiT The Arctic University of Norway"
+   ],
+   "id": "2b333baede4add92",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-13",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "radar",
+     "satellite"
+    ],
+    "novelty": [
+     "record"
     ]
    }
   },
@@ -4432,6 +4683,28 @@
     ],
     "industry": [
      "transmission"
+    ]
+   }
+  },
+  {
+   "title": "A Phase-Balanced Differential Rydberg-Atom Quantum Receiver for Weak GNSS Signal Detection",
+   "summary": "This paper proposes a phase-balanced differential Rydberg atomic quantum receiver (DRAQR) for weak-signal recovery, using local-oscillator phase control to reinforce differential signal responses and a shared squeezed-reservoir model to correlate inter-cell quantum projection noise (QPN) and photon shot noise (PSN). An analytical model incorporating QPN, PSN, intrinsic thermal noise (ITN), and inter-cell correlations quantifies signal-to-noise ratio (SNR) gain, outage-constrained minimum detectable power, and bit-error rate (BER) for square $M$-QAM. For the evaluated settings, SNR gain reaches",
+   "url": "https://arxiv.org/abs/2611.09653",
+   "date": "2026-11-06",
+   "source": "arXiv (Cornell University)",
+   "institutions": [
+    "Aalborg University"
+   ],
+   "id": "b2e068ac2dea24a0",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-13",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "quantum",
+     "gnss"
     ]
    }
   },
@@ -5376,79 +5649,6 @@
    }
   },
   {
-   "title": "Forecasting Earth Surface Change in Embedding Space",
-   "summary": "Repeated satellite imagery permits understanding of how our planet changes over time, letting us predict its future and plan mitigating actions. Most existing studies that rely on a time series of satellite observations forecast the spectral values at each pixel for a future target date. However, clouds, shadows, and sensor noise often corrupt these observations, so that spectral forecasters waste much of their capacity on low-level features or noise rather than real change. With the advent of Earth foundation models, we argue that forecasting in embedding space is a feasible and more effectiv",
-   "url": "https://arxiv.org/abs/2611.02211",
-   "date": "2026-11-01",
-   "source": "arXiv (Cornell University)",
-   "institutions": [
-    "Aalto University",
-    "University of Cambridge",
-    "Wuhan University"
-   ],
-   "id": "758edde562fa6ffb",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "satellite"
-    ]
-   }
-  },
-  {
-   "title": "A synoptic overview of the EUREC 4 A field campaign",
-   "summary": "Abstract We present an overview of the important synoptic features that occurred during the EUREC 4 A field campaign. These results are based on workshops bringing together forecasters and researchers to look in detail at cloud patterns in the region of interest (Barbados and the upstream trade winds) and how they were influenced by synoptic features. Consistent with previous studies, we found that the influence of, or lack of, midlatitude and subtropical features was important for cloud patterns. The strength and position of subtropical high‐pressure systems strongly varied through the field ",
-   "url": "https://doi.org/10.1002/qj.70311",
-   "date": "2026-10-31",
-   "source": "Quarterly Journal of the Royal Meteorological Society",
-   "institutions": [
-    "Caribbean Institute for Meteorology and Hydrology",
-    "Danish Meteorological Institute",
-    "Karlsruhe Institute of Technology",
-    "Met Office",
-    "Météo-France",
-    "NORCE Research AS"
-   ],
-   "id": "a7151f6f961ad56f",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "event": [
-     "researchers"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Adaptive Land Units from Earth Embeddings",
-   "summary": "Modeling land use starts with a choice of spatial units, typically a regular grid of pixels whose resolution is set by the spatial detail the process requires and, often more critically, by the computational budget. With Earth observation data more abundant than ever, we ask whether good land units can instead emerge from the data itself. To do that, we cluster AlphaEarth embeddings with a parallel Bayesian hierarchical clustering into adaptive land units, large where the land is uniform and small where it is highly heterogeneous. Using Denmark as a case study, we turn 402M land pixels into 1.",
-   "url": "https://arxiv.org/abs/2611.01050",
-   "date": "2026-10-31",
-   "source": "arXiv (Cornell University)",
-   "institutions": [
-    "Aalborg University"
-   ],
-   "id": "3a75087414ea8c51",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "grid"
-    ]
-   }
-  },
-  {
    "title": "Generative Design and Graph Neural Network Screening of Novel Bimetallic Alloy Catalysts for the Hydrogen Evolution Reaction",
    "summary": "",
    "url": "https://arxiv.org/abs/2610.41932v1",
@@ -5466,32 +5666,6 @@
     ],
     "novelty": [
      "novel"
-    ]
-   }
-  },
-  {
-   "title": "Species- and region-specific growth curves, forest age (2020), and disturbance trends for French forests at 30 m resolution",
-   "summary": "Abstract. Spatially explicit biomass growth curves data that jointly resolve tree species, stand age and disturbance regime are scarce, particularly at fine spatial resolutions. We present five consistent data products for metropolitan French forests around 2020, derived from a 30 m dominant-species map, the 30 m FORMS-B satellite above-ground biomass (AGB) map and the Landsat-based European Forest Disturbance Atlas: (1) 290 AGB growth curves for 28 species categories across 11 large ecological regions; (2) a 30 m forest age map for 2020 covering 17.01 Mha of forests, obtained by inverting the",
-   "url": "https://doi.org/10.5194/essd-2026-864",
-   "date": "2026-10-30",
-   "source": "Earth System Science Data Discussions",
-   "institutions": [
-    "Centre National de la Recherche Scientifique",
-    "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
-    "East China Normal University",
-    "Laboratoire des Sciences du Climat et de l'Environnement",
-    "University of Copenhagen",
-    "Université Gustave Eiffel"
-   ],
-   "id": "84c17bc8f109d9f3",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "event": [
-     "ban"
     ]
    }
   },

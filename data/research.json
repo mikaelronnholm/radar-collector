@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-13T05:04+00:00",
- "count": 245,
+ "generated": "2026-11-14T04:58+00:00",
+ "count": 263,
  "items": [
   {
    "title": "Canadian Spine SocietyLongitudinal changes in comprehensive radiographic parameters following short-segment surgery (1–2 levels) for degenerative lumbar spondylolisthesisMeasuring spinopelvic parameters in patients with 6 lumbar vertebrae: a matched comparison of asymptomatic volunteersSupervised and unsupervised machine learning reveals distinct clinical phenotypes across degenerative lumbar conditions: sex-specific clustering for personalized surgical careDoes disc degeneration matter? Outcomes of decompression-alone surgery in low-grade spondylolisthesisIntervertebral disc degeneration in humans: altered peripheral immune cell profile in patients and inflammation-mediated matrix metalloproteinase upregulation in human disc cellsDomino toppling: when the disruption of one disc negatively impacts its neighbour. An investigation into the mechanism of adjacent segment diseaseMultimodal analgesia after surgery for thoracolumbar spinal stenosisLumbar foraminal morphology can affect outcomes of indirect decompression: a novel classificationPredictors of intraoperative vascular complications during anterior lumbar spinal exposure: a retrospective analysisHigher rates of fusion with porous titanium than with polyetheretherketone (PEEK) lumbar interbody cages: a retrospective cohort studyCan measuring preoperative postvoid urine residual values influence care in patients undergoing elective spine surgery?To respond or not to respond: the many faces of recovery after lumbar spine surgeryPostoperative outcomes in primary versus revision lumbar decompressive surgery: a propensity-matched analysisWhat are the barriers and enablers influencing physical activity among patients awaiting spine surgery? A qualitative study guided by the Theoretical Domains FrameworkEffects of childbearing on spinopelvic alignmentClinical and radiological outcomes of biportal endoscopic lumbar interbody fusion using oblique lateral interbody fusion-type cage: preliminary results and learning curve analysisArtificial intelligence for spine surgery education: a comparative analysis of ChatGPT and DeepSeek performanceSpineNavigator: a surgeon-trained large language model to enhance communication and patient education in spine surgeryDoes comorbidity count, ASA score, or Quan-modified Charlson Comorbidity Index score better predict morbidity after elective spinal surgery?Factors associated with perioperative adverse events in patients with degenerative lumbar spondylolisthesisImplementation of an awake spine surgery program in Canada: lessons learned from the surgeon’s perspectiveLongitudinal finite mixture models for mining complex prognostic phenotypes of degenerative cervical myelopathyEnvironmental impacts of a cervical laminectomy and fusion procedure from first consultation to patient recovery: insights from a life cycle assessmentReframing mild degenerative cervical myelopathy: insights from a latent profile analysisPredictive algorithm for treatment recommendation between operative and nonoperative management in mild degenerative cervical myelopathyMachine learning classification of patients with degenerative cervical myelopathy into clinically relevant clusters and development of an adoptable clinical algorithmReassessing the minimal clinically important differences of patient-reported outcomes in cervical myelopathy: a patient-centred approach from the Canadian Spine Outcomes and Research NetworkCurrent practices in return-to-play recommendations for recreational athletes following cervical spine surgeries: a preliminary global surveyCage subsidence and fusion in ACDF, a comparison between autograft, allograft, and synthetic cagesQuantifying cervical cord deformation with automated MRI: validation and clinical correlates in degenerative cervical myelopathyThe impact of estrogen replacement therapy on revision rates and outcomes after anterior cervical discectomy and fusion: a propensity-matched cohort studyImaging biomarkers derived using artificial intelligence pipeline–enhanced prognostication of patients undergoing surgery for nontraumatic spinal cord injury due to degenerative cervical myelopathyWhat patients expect and what they experience: symptom-specific expectation fulfillment and functional recovery in degenerative cervical myelopathy. A retrospective analysis of prospectively collected data from the multicentre Canadian Surgical Spine RegistryBiomechanical comparison of 7 occipital–cervical fixation constructs using finite element analysisOutpatient anterior cervical decompression and fusion: a survey of Canadian surgeonsNational trends in surgical approach for degenerative cervical myelopathy and associated inpatient costsVariability of mechanism of mechanical complications between low-thoracic to pelvis and lumbar to pelvis fusions accurately predicted by musculoskeletal analysisOutcomes of circumferential minimally invasive technique versus open technique in adult spinal deformity surgery patients over 80 years of age: a",
@@ -44,6 +44,36 @@
     "novelty": [
      "first",
      "novel"
+    ]
+   }
+  },
+  {
+   "title": "Exploratory Proteomics and Radiomics Correlates of [68Ga]Ga-ABY-025 PET Uptake in HER2-Low Metastatic Breast Cancer: A Pilot Study",
+   "summary": "Abstract Background Human epidermal growth factor receptor 2 (HER2)-low metastatic breast cancer is now an actionable subtype, yet patient selection remains challenging. The aim of this work was to investigate whether multi-omics profiling (proteomics and radiomics) of paired tumor biopsies could explain the observed discordance between PET uptake, IHC score and total HER2 abundance. Methods Ten patients with HER2-low metastatic breast cancer underwent [ 68 Ga]Ga-ABY-025 PET/CT and tumor biopsy in a pilot clinical trial. Discovery proteomics quantified 5,341 proteins in eight patients, and CT ",
+   "url": "https://doi.org/10.21203/rs.3.rs-11420781/v1",
+   "date": "2026-11-12",
+   "source": "Research Square",
+   "institutions": [
+    "Artificial Intelligence in Medicine (Canada)",
+    "Karolinska Institutet",
+    "Karolinska University Hospital",
+    "Science for Life Laboratory"
+   ],
+   "id": "3aa994d68b6d58f0",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-14",
+   "score": 8,
+   "hits": {
+    "event": [
+     "pilot"
+    ],
+    "companies": [
+     "Uptake"
+    ],
+    "novelty": [
+     "pilot"
     ]
    }
   },
@@ -103,6 +133,78 @@
     ],
     "novelty": [
      "efficiency"
+    ]
+   }
+  },
+  {
+   "title": "Microsoft reports progress as it works to recover email and other services in a global outage",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-microsoft-recover-email-global-outage.html",
+   "date": "2026-11-13",
+   "source": "",
+   "id": "c2508769a1b5b870",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-14",
+   "score": 7,
+   "hits": {
+    "event": [
+     "outage"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Microsoft"
+    ]
+   }
+  },
+  {
+   "title": "Microsoft outage hits companies and governments worldwide as it struggles to restore services",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-outlook-widespread-outage-microsoft-email.html",
+   "date": "2026-11-13",
+   "source": "",
+   "id": "d76bb59aed57c9a2",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-14",
+   "score": 7,
+   "hits": {
+    "event": [
+     "outage"
+    ],
+    "industry": [
+     "government"
+    ],
+    "companies": [
+     "Microsoft"
+    ]
+   }
+  },
+  {
+   "title": "GridForge: A Tractable Network-Flow Method for Constructing Open, Continental-Scale Synthetic Power Grids",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.16222v1",
+   "date": "2026-11-12",
+   "source": "",
+   "id": "9ce4b08c0ceed52b",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-14",
+   "score": 7,
+   "hits": {
+    "tech": [
+     "grid"
+    ],
+    "industry": [
+     "power grid"
+    ],
+    "companies": [
+     "Continental"
     ]
    }
   },
@@ -297,6 +399,51 @@
    }
   },
   {
+   "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+   "summary": "",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+   "date": "2026-11-13",
+   "source": "",
+   "id": "993b316fa437bdf5",
+   "feed": "ScienceDaily Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-14",
+   "score": 6,
+   "hits": {
+    "event": [
+     "breakthrough"
+    ],
+    "tech": [
+     "chip"
+    ],
+    "novelty": [
+     "breakthrough"
+    ]
+   }
+  },
+  {
+   "title": "Speed-to-Power Dominates Energy Costs for AI Data Centers: Technoeconomic Analysis of Powering AI in the Continental United States",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.17098v1",
+   "date": "2026-11-12",
+   "source": "",
+   "id": "aa67f5052bb6f248",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-14",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "data center"
+    ],
+    "companies": [
+     "Continental"
+    ]
+   }
+  },
+  {
    "title": "Co-RoboPV: cooperative aerial robot system for photovoltaic power plant inspection based on reinforcement learning",
    "summary": "Abstract Efficient inspection of large-scale photovoltaic (PV) plants can be significantly improved by employing a multi-aerial robot system. This article aims to develop an algorithm tailored to such a system for coverage path planning. Our approach involves determining the optimal number and types of aerial robots, designing a detailed flight plan, preparing the robots and their equipment, and analyzing the data collected from inspections. Autonomous operation is critical for enhancing efficiency and accuracy by eliminating direct human control of aerial robot flight. To this end, we utilize",
    "url": "https://doi.org/10.1038/s41598-026-76194-5",
@@ -324,6 +471,35 @@
     ],
     "novelty": [
      "efficiency"
+    ]
+   }
+  },
+  {
+   "title": "Common-path evaluation of electric boiler and thermal storage dispatch in Finnish district heating under electricity-price uncertainty",
+   "summary": "The value of uncertainty-aware district-heating dispatch depends on when prices become known and how long heat remains in storage. This study develops a price-taking mixed-integer linear model for a Finnish system with biomass CHP, a 50 MW th electric boiler (EB), a natural-gas peak boiler, and thermal energy storage (TES). Daily 72 h problems implement the cleared first 24 h and propagate each policy's realised TES state. Deterministic, stochastic, and budgeted robust policies are compared on one 2023 hourly path and on 800 held-out price trajectories; their economic differences are assessed ",
+   "url": "https://doi.org/10.1016/j.apenergy.2026.129282",
+   "date": "2026-11-11",
+   "source": "Applied Energy",
+   "institutions": [
+    "Aalto University",
+    "Jilin University",
+    "University of Vaasa"
+   ],
+   "id": "13e45990d0b54d6b",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-14",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "district heating"
+    ],
+    "geo": [
+     "finnish"
+    ],
+    "novelty": [
+     "first"
     ]
    }
   },
@@ -1703,6 +1879,110 @@
    }
   },
   {
+   "title": "Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.17241v1",
+   "date": "2026-11-12",
+   "source": "",
+   "id": "8d03f9d029d4e3c5",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-14",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "llm"
+    ]
+   }
+  },
+  {
+   "title": "CADET: Construction of PCB Routing Instances with Executable Demonstrations",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.16913v1",
+   "date": "2026-11-12",
+   "source": "",
+   "id": "7db2fbaf95b976d4",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-14",
+   "score": 5,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "industry": [
+     "construction"
+    ],
+    "novelty": [
+     "demonstrat"
+    ]
+   }
+  },
+  {
+   "title": "Poisoned hunting weapons, megafauna, and plant use at a 125,000-year-old Arabian paleolakeshore",
+   "summary": "After the African origin of Homo sapiens , multiple dispersals radiated into Asia, yet the Saharo-Arabian archaeological record remains sparse. In this study, we report on ‘Uruq Aljelibah, a Middle Paleolithic site dated to ~125,000 years ago (marine isotope stage 5e) and located on the shore of Mundafan paleolake, Saudi Arabia. Levallois assemblages, refits, and megafaunal associations indicate in situ tool production and carcass processing. Stone tool residues, use-wear, and biomarkers reveal animal and plant processing, including palms, tubers, trees, and shrubs. Several points exhibit impa",
+   "url": "https://doi.org/10.1126/science.aef9342",
+   "date": "2026-11-12",
+   "source": "Science",
+   "institutions": [
+    "Centro Nacional de Investigación sobre la Evolución Humana",
+    "Griffith University",
+    "Instituto de Salud Carlos III",
+    "King Abdullah University of Science and Technology",
+    "King Saud University",
+    "King's College London"
+   ],
+   "id": "c1c836359e4c35b9",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-14",
+   "score": 5,
+   "hits": {
+    "event": [
+     "plant"
+    ],
+    "industry": [
+     "port"
+    ],
+    "novelty": [
+     "record"
+    ]
+   }
+  },
+  {
+   "title": "A 26-year satellite record of vegetation phenology and productivity proxy across Europe",
+   "summary": "Abstract Satellite land surface phenology describes seasonal vegetation development across landscapes. We present MR-VPP 5.0, a 26-year record (2000–2025) of vegetation phenology and seasonal productivity proxy across Europe, available through Copernicus Land Monitoring Service (CLMS). The dataset is derived from MODIS Collection 6.1 NBAR reflectance, contains 13 annual vegetation phenology and productivity (VPP) metrics for up to two growing seasons per year, Plant Phenology Index (PPI) seasonal trajectories at 5-day interval, and quality information, on a 500 m ETRS89-LAEA grid. VPP metrics ",
+   "url": "https://doi.org/10.21203/rs.3.rs-11340886/v1",
+   "date": "2026-11-12",
+   "source": "Research Square",
+   "institutions": [
+    "European Environment Agency",
+    "Eurostat",
+    "Flemish Institute for Technological Research",
+    "Lund University"
+   ],
+   "id": "0197ad8f7442a321",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-14",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "satellite"
+    ],
+    "novelty": [
+     "record"
+    ]
+   }
+  },
+  {
    "title": "Predicting Thirty Day Hospital Readmission in Patients With Diabetes Using Explainable Machine Learning",
    "summary": "Abstract Background Hospital readmission within 30 days of discharge is an important healthcare outcome. Machine-learning models may help estimate readmission risk; however, their performance, outcome definitions, and interpretability must be carefully evaluated before potential clinical application. Objective To evaluate Logistic Regression and Random Forest models for predicting recorded 30-day hospital readmission among encounters in the publicly available UCI Diabetes 130-US Hospitals dataset. Methods This retrospective secondary-data study used 101,766 hospital encounters recorded between",
    "url": "https://doi.org/10.21203/rs.3.rs-11268007/v1",
@@ -3054,6 +3334,60 @@
    }
   },
   {
+   "title": "Biologically Augmented Autologous Minced Cartilage Implantation for Focal Knee Cartilage Lesions in Professional Athletes: Radiological Results and Return to Competition from a Single Sports Medicine Specialized Hospital",
+   "summary": "Introduction Minced cartilage implantation (MCI) is a single-stage technique for treating knee cartilage lesions, but athlete-specific evidence remains limited. Objectives To evaluate radiological outcomes and time to return to competition (RTC) after biologically augmented autologous MCI in professional athletes. Methods Professional athletes with full-thickness (International Cartilage Regeneration and Joint Preservation Society [ICRS] grade 3-4) knee cartilage lesions undergoing biologically augmented autologous MCI were included. Lesion severity was graded preoperatively using the Area Mea",
+   "url": "https://doi.org/10.1016/j.jcjp.2026.100332",
+   "date": "2026-11-01",
+   "source": "Journal of Cartilage & Joint Preservation",
+   "institutions": [
+    "Fortius Clinic",
+    "Johns Hopkins University",
+    "Karolinska Institutet",
+    "McMaster University",
+    "Qatar Orthopaedic and Sports Medicine Hospital",
+    "University of Bologna"
+   ],
+   "id": "1e7e5c4c0db894c9",
+   "feed": "OpenAlex Nordic – health technology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-14",
+   "score": 5,
+   "hits": {
+    "event": [
+     "plant"
+    ],
+    "industry": [
+     "port",
+     "hospital"
+    ]
+   }
+  },
+  {
+   "title": "Machine Learning Based Detection of Chronic Kidney Disease using Full Blood Count from a Ghanaian Hospital Population with an Integrated Web Application",
+   "summary": "Chronic kidney disease (CKD) is usually silent until advanced, and the tests confirming it are frequently unaffordable in sub-Saharan Africa, whereas the full blood count (FBC) is inexpensive and widely performed. We assessed whether machine learning applied to the FBC can detect CKD, and how far its reported performance depends on where synthetic minority oversampling (SMOTE) is applied. Records of 155 patients at the Ho Technical University Hospital, Ghana, 43 (27.7%) with CKD, yielded ten features: age, cardiovascular disease and eight raw FBC parameters. Eleven algorithms, six resampling s",
+   "url": "https://doi.org/10.64898/2026.10.27.26366677",
+   "date": "2026-10-31",
+   "source": "medrxiv",
+   "id": "005e286b14595f0b",
+   "feed": "medRxiv – health informatics",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-14",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "machine learning"
+    ],
+    "industry": [
+     "hospital"
+    ],
+    "novelty": [
+     "record"
+    ]
+   }
+  },
+  {
    "title": "177Lu-PSMA Therapy in Recurrent High-Grade Glioma",
    "summary": "PURPOSE: Patients with recurrent high-grade glioma have poor prognosis and limited treatment options. This pilot study evaluated the feasibility and potential clinical benefit of 177 Lu-PSMA therapy in this patient population. PATIENTS AND METHODS: Eligible patients were selected for treatment based on positive 68 Ga-PSMA-PET findings. 177 Lu-PSMA (7.4 GBq/200 mCi) was administered at 6-8-week intervals and continued as long as well-tolerated. The safety, tolerability, and efficacy of 177 Lu-PSMA were assessed in each treatment cycle using PET/MRI, SPECT/CT, blood tests, neurological tests, an",
    "url": "https://doi.org/10.1097/rlu.0000000000006692",
@@ -3260,6 +3594,215 @@
    }
   },
   {
+   "title": "New AI 'copilot' lets engineers guide structural designs as algorithms create them",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-ai-copilot-algorithms.html",
+   "date": "2026-11-13",
+   "source": "",
+   "id": "2deeeabcc173e432",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "event": [
+     "pilot"
+    ],
+    "novelty": [
+     "pilot"
+    ]
+   }
+  },
+  {
+   "title": "Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.17220v1",
+   "date": "2026-11-12",
+   "source": "",
+   "id": "d3a14e2ed4a2f7a8",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "llm"
+    ],
+    "novelty": [
+     "scalable"
+    ]
+   }
+  },
+  {
+   "title": "A Compact xDAWN-Guided Spatio-Temporal Network with Filter-Bank Convolution for P300 Detection",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.17101v1",
+   "date": "2026-11-12",
+   "source": "",
+   "id": "6c35b834b67cdd8f",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "industry": [
+     "bank"
+    ]
+   }
+  },
+  {
+   "title": "AgriSense: Vision-Language Decision Support and Robotic Intervention in a Virtual Greenhouse Copy title",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.16752v1",
+   "date": "2026-11-12",
+   "source": "",
+   "id": "d6f09649414c6676",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Edge-Gradient Augmentation under Reinforcement Learning for Temporal Graph",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.16678v1",
+   "date": "2026-11-12",
+   "source": "",
+   "id": "a948ee7fd0862655",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "companies": [
+     "Gradient"
+    ]
+   }
+  },
+  {
+   "title": "Natural Gradient Learning in Predictive Coding through Lateral Circuits",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.16666v1",
+   "date": "2026-11-12",
+   "source": "",
+   "id": "6ae1fc7f9000b7c3",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "companies": [
+     "Gradient"
+    ]
+   }
+  },
+  {
+   "title": "Can STATCOM and UPS-Based Voltage Support Mitigate Fault-Induced Reductions in AI Data Center Grid Power Draw?",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.16569v1",
+   "date": "2026-11-12",
+   "source": "",
+   "id": "0490805f915cdccd",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "data center",
+     "grid"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Impact of EU Green Deal climate mitigation policies on the Norwegian Economy",
+   "summary": "This paper assesses how the Norwegian economy may be affected by key EU Green Deal mitigation policies, including tighter emissions caps in the EU Emissions Trading System (EU ETS), the Carbon Border Adjustment Mechanism (CBAM), and the development of a European hydrogen market. Using a global computable general equilibrium model tailored to the Norwegian economy, we evaluate a reference scenario aligned with current policies and four policy scenarios that achieve the EU’s 2030 and 2040 emission reduction targets for ETS sectors. The results show that stronger greenhouse gas emission mitigatio",
+   "url": "https://doi.org/10.5281/zenodo.24156978",
+   "date": "2026-11-12",
+   "source": "Zenodo (CERN European Organization for Nuclear Research)",
+   "institutions": [
+    "CICERO Center for International Climate Research"
+   ],
+   "id": "0ec00318eaf89236",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "geo": [
+     "norwegian",
+     "eu "
+    ]
+   }
+  },
+  {
+   "title": "The 3 master's theses on the operational environment of circular plastic, bio-based side and waste stream and battery",
+   "summary": "The theses include data collected to develop a status update on how CE is treated in national, regional and local strategies, roadmaps and action plans. Data included noted from workshop where stakeholders provide feedback on preliminary findings and conclusions, which were stored in notebooks and digital documents.",
+   "url": "https://doi.org/10.5281/zenodo.24157119",
+   "date": "2026-11-12",
+   "source": "Zenodo (CERN European Organization for Nuclear Research)",
+   "institutions": [
+    "VTT Technical Research Centre of Finland"
+   ],
+   "id": "6dea27fd6f89db92",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "battery"
+    ]
+   }
+  },
+  {
+   "title": "AI-powered bionic eye breakthrough could help the blind see again",
+   "summary": "",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+   "date": "2026-11-12",
+   "source": "",
+   "id": "2e4c095e5adad192",
+   "feed": "ScienceDaily Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "event": [
+     "breakthrough"
+    ],
+    "novelty": [
+     "breakthrough"
+    ]
+   }
+  },
+  {
    "title": "Sri Lanka launches pilot of Chinese flying taxi service",
    "summary": "",
    "url": "https://techxplore.com/news/2026-11-sri-lanka-chinese-flying-taxi.html",
@@ -3355,29 +3898,6 @@
     ],
     "industry": [
      "vehicle"
-    ]
-   }
-  },
-  {
-   "title": "Decoupling instantaneous and cumulative stress: Physics-guided capacity prediction for lithium-ion batteries under stochastic cycling",
-   "summary": "",
-   "url": "https://doi.org/10.1016/j.apenergy.2026.129236",
-   "date": "2026-11-11",
-   "source": "Applied Energy",
-   "institutions": [
-    "Aalborg University",
-    "Chongqing University",
-    "Delft University of Technology"
-   ],
-   "id": "231d3452ba71bbdd",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-13",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "lithium"
     ]
    }
   },
@@ -3478,6 +3998,133 @@
     ],
     "industry": [
      "construction"
+    ]
+   }
+  },
+  {
+   "title": "Data-center growth impacts household electricity costs more through wholesale prices than through grid reinforcement",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.16095v1",
+   "date": "2026-11-11",
+   "source": "",
+   "id": "278cea3bf236e4be",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "grid"
+    ],
+    "industry": [
+     "esa"
+    ]
+   }
+  },
+  {
+   "title": "Robust Safe Control Under Uncertainty: Estimation, Contraction, and Regret Bounds",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.15776v1",
+   "date": "2026-11-11",
+   "source": "",
+   "id": "2ca65597f7abc080",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "event": [
+     "contract"
+    ],
+    "industry": [
+     "bus"
+    ]
+   }
+  },
+  {
+   "title": "Scalable Reference Electrical Architectures for Modern Data Centers",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.15712v1",
+   "date": "2026-11-11",
+   "source": "",
+   "id": "d77a4e8435f56da2",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "data center"
+    ],
+    "novelty": [
+     "scalable"
+    ]
+   }
+  },
+  {
+   "title": "Adaptive Robust Output Regulation of Uncertain Linear Time-Varying Systems",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.15500v1",
+   "date": "2026-11-11",
+   "source": "",
+   "id": "70375ab6da31bb21",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "event": [
+     "regulation"
+    ],
+    "industry": [
+     "bus"
+    ]
+   }
+  },
+  {
+   "title": "Planning-Stage Assessment of Battery-Supported Regional Islanding: A South Australian Case Study",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.15364v1",
+   "date": "2026-11-11",
+   "source": "",
+   "id": "7d8eda6fc9402355",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "battery"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Agreement Is Not Assurance: Evidence-Independent Safety Gates for Agentic AI in DER-Rich Distribution Grids",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.15363v1",
+   "date": "2026-11-11",
+   "source": "",
+   "id": "a6df13dee370951d",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-14",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "agentic",
+     "grid"
+    ],
+    "industry": [
+     "distribution grid"
     ]
    }
   },
@@ -3789,55 +4436,6 @@
     ],
     "industry": [
      "manufactur"
-    ]
-   }
-  },
-  {
-   "title": "Small-Signal Stability of HVDC-Connected Offshore Wind Farms Under Weak-Grid Conditions",
-   "summary": "This paper investigates the small-signal stability of an offshore wind farm connected to a weak onshore AC network through voltage-source-converter-based high-voltage direct-current transmission. An eight-state reduced-order model represents the offshore grid-forming converter, onshore phase-locked loop (PLL), active-power control, DC-link voltage regulation, and battery energy storage system (BESS). Eigenvalue analysis is used to assess the effects of short-circuit ratio (SCR), PLL natural-frequency scaling, wind-power loading, and BESS inclusion. Reducing the SCR from 10 to 1 decreases the d",
-   "url": "https://doi.org/10.37394/232016.2026.21.32",
-   "date": "2026-11-10",
-   "source": "WSEAS TRANSACTIONS ON POWER SYSTEMS",
-   "institutions": [
-    "University of KwaZulu-Natal",
-    "University of Turku"
-   ],
-   "id": "2409c079b58bb8d4",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-12",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "grid"
-    ],
-    "industry": [
-     "transmission"
-    ]
-   }
-  },
-  {
-   "title": "Solid-State Sulfonation of Dense Poly(2,6-Dimethyl-1,4-Phenylene Oxide) Films: Membrane Properties and Electrochemical Assessment at MEA Level",
-   "summary": "Fluorine-free hydrocarbon proton-exchange membranes offer an alternative to perfluorosulfonic acid (PFSA) electrolytes, but good membrane-level properties do not always translate into membrane-electrode assembly (MEA) performance. Here, dense poly(2,6-dimethyl-1,4-phenylene oxide) (PPO) films were sulfonated in the solid state, yielding a sulfur distribution that appeared homogeneous through the membrane thickness and ion-exchange capacities (IEC) of 1.17–2.20 meq g−1, corresponding to sulfonation degrees of 16–32 mol% and water uptake from 55 to 92%. The sulfonated PPO (sPPO) membrane with th",
-   "url": "https://doi.org/10.3390/polym18222801",
-   "date": "2026-11-10",
-   "source": "Polymers",
-   "institutions": [
-    "KTH Royal Institute of Technology",
-    "National Agency for New Technologies, Energy and Sustainable Economic Development",
-    "Parthenope University of Naples",
-    "University of Naples Federico II"
-   ],
-   "id": "86e8dae152cd6e1a",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-12",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "solid-state"
     ]
    }
   },
@@ -4787,130 +5385,6 @@
    }
   },
   {
-   "title": "Estimating Distribution Grid Upgrade Costs based on County-level Building Electrification Projections",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.08347v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "0074cc97a8c1659f",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "grid"
-    ],
-    "industry": [
-     "distribution grid",
-     "building"
-    ]
-   }
-  },
-  {
-   "title": "Optical Network Digital Twin: From Digital Coherent Transmission to Intelligent Network Operations",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.08217v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "07f383301368b9c4",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "digital twin"
-    ],
-    "industry": [
-     "transmission"
-    ]
-   }
-  },
-  {
-   "title": "Semi-Analytical Geometric Synthesis of Robust Quantum Controls",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.08107v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "649303ab57ff2a9f",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "quantum"
-    ],
-    "industry": [
-     "bus"
-    ]
-   }
-  },
-  {
-   "title": "On the Spectral Dependence of Decentralized Stochastic Gradient Tracking",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.07958v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "f5602a184c6b7395",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "companies": [
-     "Gradient"
-    ]
-   }
-  },
-  {
-   "title": "Towards Track Height Control in Additive Manufacturing on Porous Substrates: An Approach for System Identification and Controller Selection",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.07704v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "7aa01624e188f1f5",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "additive manufacturing"
-    ],
-    "industry": [
-     "manufactur"
-    ]
-   }
-  },
-  {
-   "title": "A Novel Asymmetric Distributed Voltage Regulation Scheme to Enhance the Utilization of Distributed Energy Resources",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.07412v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "9af946b6bd2c14fc",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "event": [
-     "regulation"
-    ],
-    "novelty": [
-     "novel"
-    ]
-   }
-  },
-  {
    "title": "Multirobust Control Pulses Designed by Iterative Quantum Kolmogorov-Arnold-Moser Algorithm",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.07802v1",
@@ -5094,27 +5568,6 @@
     ],
     "industry": [
      "rail"
-    ]
-   }
-  },
-  {
-   "title": "Multi-objective Electric Vehicle Charging Strategies at Energy Hubs with Justice-informed Profit Distribution among Users",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.08629v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "0a8c84cb4d4c1e90",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-09",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "charging"
-    ],
-    "industry": [
-     "vehicle"
     ]
    }
   },
@@ -5622,29 +6075,6 @@
     "industry": [
      "bus",
      "port"
-    ]
-   }
-  },
-  {
-   "title": "Response methods of tidal analysis and sun-synchronous satellite altimetry: Comments on “Tidal estimates from sun-synchronous satellite altimeters in the Bohai Sea via an improved harmonic analysis model,” by Pan et al.",
-   "summary": "",
-   "url": "https://doi.org/10.1016/j.ocemod.2026.102858",
-   "date": "2026-11-01",
-   "source": "Ocean Modelling",
-   "institutions": [
-    "DTU Space",
-    "Goddard Space Flight Center",
-    "Technical University of Denmark"
-   ],
-   "id": "45692b0c614f72b9",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "satellite"
     ]
    }
   },

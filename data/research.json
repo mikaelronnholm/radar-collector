@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-14T04:58+00:00",
- "count": 263,
+ "generated": "2026-11-15T04:59+00:00",
+ "count": 271,
  "items": [
   {
    "title": "Canadian Spine SocietyLongitudinal changes in comprehensive radiographic parameters following short-segment surgery (1–2 levels) for degenerative lumbar spondylolisthesisMeasuring spinopelvic parameters in patients with 6 lumbar vertebrae: a matched comparison of asymptomatic volunteersSupervised and unsupervised machine learning reveals distinct clinical phenotypes across degenerative lumbar conditions: sex-specific clustering for personalized surgical careDoes disc degeneration matter? Outcomes of decompression-alone surgery in low-grade spondylolisthesisIntervertebral disc degeneration in humans: altered peripheral immune cell profile in patients and inflammation-mediated matrix metalloproteinase upregulation in human disc cellsDomino toppling: when the disruption of one disc negatively impacts its neighbour. An investigation into the mechanism of adjacent segment diseaseMultimodal analgesia after surgery for thoracolumbar spinal stenosisLumbar foraminal morphology can affect outcomes of indirect decompression: a novel classificationPredictors of intraoperative vascular complications during anterior lumbar spinal exposure: a retrospective analysisHigher rates of fusion with porous titanium than with polyetheretherketone (PEEK) lumbar interbody cages: a retrospective cohort studyCan measuring preoperative postvoid urine residual values influence care in patients undergoing elective spine surgery?To respond or not to respond: the many faces of recovery after lumbar spine surgeryPostoperative outcomes in primary versus revision lumbar decompressive surgery: a propensity-matched analysisWhat are the barriers and enablers influencing physical activity among patients awaiting spine surgery? A qualitative study guided by the Theoretical Domains FrameworkEffects of childbearing on spinopelvic alignmentClinical and radiological outcomes of biportal endoscopic lumbar interbody fusion using oblique lateral interbody fusion-type cage: preliminary results and learning curve analysisArtificial intelligence for spine surgery education: a comparative analysis of ChatGPT and DeepSeek performanceSpineNavigator: a surgeon-trained large language model to enhance communication and patient education in spine surgeryDoes comorbidity count, ASA score, or Quan-modified Charlson Comorbidity Index score better predict morbidity after elective spinal surgery?Factors associated with perioperative adverse events in patients with degenerative lumbar spondylolisthesisImplementation of an awake spine surgery program in Canada: lessons learned from the surgeon’s perspectiveLongitudinal finite mixture models for mining complex prognostic phenotypes of degenerative cervical myelopathyEnvironmental impacts of a cervical laminectomy and fusion procedure from first consultation to patient recovery: insights from a life cycle assessmentReframing mild degenerative cervical myelopathy: insights from a latent profile analysisPredictive algorithm for treatment recommendation between operative and nonoperative management in mild degenerative cervical myelopathyMachine learning classification of patients with degenerative cervical myelopathy into clinically relevant clusters and development of an adoptable clinical algorithmReassessing the minimal clinically important differences of patient-reported outcomes in cervical myelopathy: a patient-centred approach from the Canadian Spine Outcomes and Research NetworkCurrent practices in return-to-play recommendations for recreational athletes following cervical spine surgeries: a preliminary global surveyCage subsidence and fusion in ACDF, a comparison between autograft, allograft, and synthetic cagesQuantifying cervical cord deformation with automated MRI: validation and clinical correlates in degenerative cervical myelopathyThe impact of estrogen replacement therapy on revision rates and outcomes after anterior cervical discectomy and fusion: a propensity-matched cohort studyImaging biomarkers derived using artificial intelligence pipeline–enhanced prognostication of patients undergoing surgery for nontraumatic spinal cord injury due to degenerative cervical myelopathyWhat patients expect and what they experience: symptom-specific expectation fulfillment and functional recovery in degenerative cervical myelopathy. A retrospective analysis of prospectively collected data from the multicentre Canadian Surgical Spine RegistryBiomechanical comparison of 7 occipital–cervical fixation constructs using finite element analysisOutpatient anterior cervical decompression and fusion: a survey of Canadian surgeonsNational trends in surgical approach for degenerative cervical myelopathy and associated inpatient costsVariability of mechanism of mechanical complications between low-thoracic to pelvis and lumbar to pelvis fusions accurately predicted by musculoskeletal analysisOutcomes of circumferential minimally invasive technique versus open technique in adult spinal deformity surgery patients over 80 years of age: a",
@@ -209,6 +209,36 @@
    }
   },
   {
+   "title": "Carbon Footprint Tools as Digital Enablers of Circular Economy Adoption in Danish SMEs Using Additive Manufacturing",
+   "summary": "Small and medium-sized enterprises (SMEs) face increasing pressure to adopt circular and sustainable practices driven by regulation, customer expectations, and supply-chain demands. This study examines how digital carbon footprint tools can support circular decision-making in SMEs and what organizational and ecosystem conditions shape adoption. Such tools convert product and manufacturing data into CO2e estimates for comparing alternatives during product development, rather than providing full life-cycle assessment or corporate reporting. Based on six semi-structured interviews across four Dan",
+   "url": "https://doi.org/10.55845/yc6wph89",
+   "date": "2026-11-12",
+   "source": "Circular Economy",
+   "institutions": [
+    "Technical University of Denmark"
+   ],
+   "id": "1067e547a0664ebe",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-15",
+   "score": 7,
+   "hits": {
+    "event": [
+     "regulation"
+    ],
+    "tech": [
+     "additive manufacturing"
+    ],
+    "industry": [
+     "manufactur"
+    ],
+    "geo": [
+     "danish"
+    ]
+   }
+  },
+  {
    "title": "An Integrated Framework Combining Graph Neural Networks, Physicochemical Modeling, and Optimization for Fragrance Reproduction",
    "summary": "Abstract Reproducing olfactory experiences remains a major challenge, with implications for heritage science, sensory analysis, and the fragrance industry. This work presents an integrated perfume-engineering framework that combines chemical engineering principles with computational modeling to reproduce a target scent. The methodology quantifies the olfactory profile of a reference fragrance, predicts the evaporation behavior of its constituent compounds, and combines first-principles thermodynamic modeling with machine learning and optimization to identify molecular substitutes and propose a",
    "url": "https://doi.org/10.1021/acs.iecr.6c02523",
@@ -399,6 +429,69 @@
    }
   },
   {
+   "title": "Microsoft announces service 'restored,' global outage over",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-microsoft-global-outage.html",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "107e65d8202a91ec",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-15",
+   "score": 6,
+   "hits": {
+    "event": [
+     "outage"
+    ],
+    "companies": [
+     "Microsoft"
+    ]
+   }
+  },
+  {
+   "title": "Microsoft outage shows the risks of relying on a single technology provider for essential services",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-microsoft-outage-technology-essential.html",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "2ec5b6a038b6d586",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-15",
+   "score": 6,
+   "hits": {
+    "event": [
+     "outage"
+    ],
+    "companies": [
+     "Microsoft"
+    ]
+   }
+  },
+  {
+   "title": "Microsoft says services fully restored after hourslong global outage",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-microsoft-fully-hourslong-global-outage.html",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "ff1a8e6aa309085c",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-15",
+   "score": 6,
+   "hits": {
+    "event": [
+     "outage"
+    ],
+    "companies": [
+     "Microsoft"
+    ]
+   }
+  },
+  {
    "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
    "summary": "",
    "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
@@ -419,6 +512,31 @@
     ],
     "novelty": [
      "breakthrough"
+    ]
+   }
+  },
+  {
+   "title": "Scaling Model‑Based Formal Methods: A Thirty‑Year Journey from Software to Digital Twins",
+   "summary": "This retrospective paper reviews more than three decades of our work on the development and industrial deployment of model‑based formal methods in software and systems engineering. We trace the evolution of our research from early work on the Vienna Development Method and its tooling, through successive attempts to scale rigorous modelling approaches to Cyber‑Physical Systems, Systems‑of‑Systems, and, more recently, Digital Twins. Reflecting across these phases, we identify four recurring principles that have shaped our work and our understanding of the practical application of formal methods:",
+   "url": "https://doi.org/10.1145/3862480",
+   "date": "2026-11-13",
+   "source": "Formal Aspects of Computing",
+   "institutions": [
+    "Aarhus University",
+    "Newcastle University"
+   ],
+   "id": "342932b8d06edfe5",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-15",
+   "score": 6,
+   "hits": {
+    "event": [
+     "deployment"
+    ],
+    "tech": [
+     "digital twin"
     ]
    }
   },
@@ -1875,6 +1993,87 @@
     ],
     "tech": [
      "sensor"
+    ]
+   }
+  },
+  {
+   "title": "Automated disassembly of electric vehicle battery packs: A category-based review of methods, robotics, and intelligent control",
+   "summary": "As large volumes of electric vehicles approach end-of-life, efficient and scalable recycling of lithium-ion battery packs is becoming a critical challenge. Due to the high variability in battery pack designs and safety requirements, current battery recycling facilities in Europe largely rely on manual disassembly processes. At scale, these approaches would be labour-intensive and expose workers to significant safety risks, motivating the development of automated disassembly solutions. This review provides a category-based analysis of 49 papers on automated electric vehicle battery disassembly ",
+   "url": "https://doi.org/10.1016/j.jmsy.2026.11.001",
+   "date": "2026-11-13",
+   "source": "Journal of Manufacturing Systems",
+   "institutions": [
+    "University of Agder"
+   ],
+   "id": "b1573a6bf4d2771c",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-15",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot",
+     "battery",
+     "lithium",
+     "recycling"
+    ],
+    "industry": [
+     "vehicle"
+    ],
+    "novelty": [
+     "scalable"
+    ]
+   }
+  },
+  {
+   "title": "Robot-Assisted Mapping of Precursor Formulation, Microstructure, and Electronic Structure in Lead-Free Silver–Bismuth-Iodide Materials for Photovoltaics",
+   "summary": "Abstract Silver–bismuth iodides offer a lead-free alternative for photovoltaic energy conversion, but their device performance depends strongly on the precursor formulation and the absorber formation. In this work, the AURORA robotic platform was adapted to investigate this formulation–performance landscape through sequential, population-level screening of 80 device-level records from mesoscopic photovoltaic devices. An initial concentration screen of an equimolar AgI:BiI3 formulation revealed a strongly nonmonotonic response, with the highest photovoltaic performance at a nominal loading of 1",
+   "url": "https://doi.org/10.1021/acsaem.6c02988",
+   "date": "2026-11-13",
+   "source": "ACS Applied Energy Materials",
+   "institutions": [
+    "KTH Royal Institute of Technology"
+   ],
+   "id": "2883d1b11833f43b",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-15",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot"
+    ],
+    "novelty": [
+     "record"
+    ]
+   }
+  },
+  {
+   "title": "Sub‐Kilogram‐Scale Synthesis of High‐Quality Upconversion Nanoparticles",
+   "summary": "ABSTRACT Lanthanide‐doped upconversion nanoparticles (UCNPs) have attracted significant interest for applications in nanophotonics, biomedicine, and life sciences. However, the lack of stable, high‐quality, and scalable synthetic methods remains a major obstacle to their industrial deployment. Herein, a modified solid‐liquid thermal decomposition (SLTD) strategy is proposed using self‐prepared anhydrous rare‐earth (RE) acetates, together with solid NaHF 2 powder as both the fluorine and sodium sources. Rapid thermal decomposition of NaHF 2 at the solid‐liquid interface enables controlled nucle",
+   "url": "https://doi.org/10.1002/adfm.79629",
+   "date": "2026-11-13",
+   "source": "Advanced Functional Materials",
+   "institutions": [
+    "City University of Hong Kong",
+    "East China University of Technology",
+    "Jiangxi University of Science and Technology",
+    "University of Copenhagen"
+   ],
+   "id": "bca5cf2131dd9cab",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-15",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "photonic"
+    ],
+    "novelty": [
+     "scalable"
     ]
    }
   },
@@ -3364,6 +3563,27 @@
    }
   },
   {
+   "title": "LIMBER: A Hybrid RNA Foundation Model for Predicting and Understanding RNA Structure and Function",
+   "summary": "RNA foundation models offer a promising route to decoding the relationships between RNA sequence, structure and function, yet how model architecture shapes the acquisition and organization of biological information remains poorly understood. Here we introduce Layer-Interleaved Mamba-Bidirectional Encoder for RNA (LIMBER), a hybrid foundation model integrating bidirectional self-attention with selective state-space modeling, pre-trained on 40.5 million non-coding RNA sequences. With task-specific fine-tuning, LIMBER achieves leading performance on secondary-structure prediction and non-coding R",
+   "url": "https://doi.org/10.64898/2026.10.28.762670",
+   "date": "2026-11-01",
+   "source": "biorxiv",
+   "id": "16a4b53c73dc13de",
+   "feed": "bioRxiv – bioengineering and synthetic biology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-15",
+   "score": 5,
+   "hits": {
+    "event": [
+     "acquisition"
+    ],
+    "tech": [
+     "foundation model"
+    ]
+   }
+  },
+  {
    "title": "Machine Learning Based Detection of Chronic Kidney Disease using Full Blood Count from a Ghanaian Hospital Population with an Integrated Web Application",
    "summary": "Chronic kidney disease (CKD) is usually silent until advanced, and the tests confirming it are frequently unaffordable in sub-Saharan Africa, whereas the full blood count (FBC) is inexpensive and widely performed. We assessed whether machine learning applied to the FBC can detect CKD, and how far its reported performance depends on where synthetic minority oversampling (SMOTE) is applied. Records of 155 patients at the Ho Technical University Hospital, Ghana, 43 (27.7%) with CKD, yielded ten features: age, cardiovascular disease and eight raw FBC parameters. Eleven algorithms, six resampling s",
    "url": "https://doi.org/10.64898/2026.10.27.26366677",
@@ -3573,6 +3793,85 @@
    }
   },
   {
+   "title": "Automated Segmentation of Intrinsic Foot Muscles in Ultrasound Using Deep Neural Networks: Development and Validation Study.",
+   "summary": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42864240/",
+   "date": "2027-01-01",
+   "source": "Ultrasound in medicine & biology",
+   "id": "5e526edf28bc94a2",
+   "feed": "PubMed – AI diagnostics and imaging",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-15",
+   "score": 4,
+   "hits": {
+    "companies": [
+     "Intrinsic"
+    ]
+   }
+  },
+  {
+   "title": "Stage-Gated Biomaterial Strategies for Peri-Implantitis Management",
+   "summary": "Abstract Peri-implant biomaterials are commonly compared as isolated antimicrobial technologies, although their clinical relevance depends on linked requirements spanning prevention and treatment. Preventive approaches must preserve tissue integration and future cleanability; once disease develops, treatment must provide access to and disruption of mature biofilm, preserve or recover implant-surface competence, control destructive inflammation, support defect-specific regeneration, and enable durable maintenance. This structured critical review proposes a six-gate framework that evaluates prev",
+   "url": "https://doi.org/10.1021/acsomega.6c10063",
+   "date": "2026-11-14",
+   "source": "ACS Omega",
+   "institutions": [
+    "Justus-Liebig-Universität Gießen",
+    "Region Norrbotten",
+    "Sunderby sjukhus",
+    "Umeå University",
+    "University of Oslo"
+   ],
+   "id": "6ea87a104d73a898",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-15",
+   "score": 4,
+   "hits": {
+    "event": [
+     "plant"
+    ]
+   }
+  },
+  {
+   "title": "Anthropic CEO sells investors on safety, 'no jerks' culture",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-anthropic-ceo-investors-safety-jerks.html",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "fe6be00bb944afb4",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-15",
+   "score": 4,
+   "hits": {
+    "companies": [
+     "Anthropic"
+    ]
+   }
+  },
+  {
+   "title": "Tesla opens Cybercab sales to 'select customers'",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-tesla-cybercab-sales-customers.html",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "cd9836d82999734d",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-15",
+   "score": 4,
+   "hits": {
+    "companies": [
+     "Tesla"
+    ]
+   }
+  },
+  {
    "title": "Phantom energy: New report exposes empty promises behind nuclear power and data centers",
    "summary": "",
    "url": "https://techxplore.com/news/2026-11-phantom-energy-exposes-nuclear-power.html",
@@ -3611,6 +3910,140 @@
     ],
     "novelty": [
      "pilot"
+    ]
+   }
+  },
+  {
+   "title": "Building the hydrogen future: Why announced projects fail to reach investment",
+   "summary": "",
+   "url": "https://doi.org/10.1016/j.erss.2026.105072",
+   "date": "2026-11-13",
+   "source": "Energy Research & Social Science",
+   "institutions": [
+    "Lappeenranta-Lahti University of Technology",
+    "Lithuanian Energy Institute",
+    "National University of Uzbekistan",
+    "Rzeszów University of Technology"
+   ],
+   "id": "469bd5214093174b",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-15",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "hydrogen"
+    ],
+    "industry": [
+     "building"
+    ]
+   }
+  },
+  {
+   "title": "In situ neutron imaging of MnCl2 -silica gel systems for ammonia storage",
+   "summary": "Ammonia is gaining interest as a carbon-free hydrogen carrier, creating a need for efficient storage technologies compatible with emerging low-temperature synthesis routes. Among solid-phase sorbents, MnCl 2 dispersed on silica gel has demonstrated promising ammonia uptake, yet the behavior of larger-scale sorbent beds remains poorly understood. In this study, in situ neutron imaging was used to investigate ammonia sorption-desorption cycling in scaled-up MnCl 2 -silica gel beds, providing non-destructive, in situ visualization of ammonia transport, and structural changes. Sorbents containing ",
+   "url": "https://doi.org/10.1016/j.ijhydene.2026.158520",
+   "date": "2026-11-13",
+   "source": "International Journal of Hydrogen Energy",
+   "institutions": [
+    "Danish Technological Institute",
+    "Heinz Maier-Leibnitz Zentrum",
+    "Helmholtz-Zentrum Hereon",
+    "Paul Scherrer Institute",
+    "Technical University of Denmark"
+   ],
+   "id": "5f8a86a8f4942d28",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-15",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "hydrogen"
+    ],
+    "novelty": [
+     "demonstrat"
+    ]
+   }
+  },
+  {
+   "title": "Inverse Design of Inorganic Compounds with Generative AI",
+   "summary": "Abstract Machine learning is revolutionizing chemistry. Beyond the value of predictive models accelerating virtual screening, generative AI aims at enabling inverse design, reversing the compound-to-property prediction paradigm into property-to-compound generation. Chemists now have access to a rich AI toolbox for organic chemistry, including drug discovery. However, the application of these methods to inorganic compounds remains limited by the challenges posed by their intrinsic nature. This perspective analyzes how these challenges have been addressed, considering widely diverse systems rang",
+   "url": "https://doi.org/10.1021/jacs.6c18007",
+   "date": "2026-11-13",
+   "source": "Journal of the American Chemical Society",
+   "institutions": [
+    "University of Oslo"
+   ],
+   "id": "4bea202d2e2b69aa",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-15",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "generative ai",
+     "machine learning"
+    ]
+   }
+  },
+  {
+   "title": "Cost implications of reproductive outcomes in adult patients with advanced Hodgkin lymphoma in the European Union: evaluated from the Danish and Italian healthcare and societal perspectives",
+   "summary": "Aim: To estimate the reproductive and economic impact of interim positron emission tomography (iPET)-guided brentuximab vedotin, etoposide, cyclophosphamide, doxorubicin, dacarbazine and dexamethasone (BrECADD) versus iPET escalated etoposide, doxorubicin, and cyclophosphamide, bleomycin, vincristine, procarbazine and prednisone (eBEACOPP) in patients of childbearing potential (POCBP) receiving frontline treatment for advanced Hodgkin lymphoma, using healthcare and societal perspectives in Denmark and Italy. Materials & methods: An exploratory cost-consequence analysis was developed using HD21",
+   "url": "https://doi.org/10.57264/cer-2026-0105",
+   "date": "2026-11-13",
+   "source": "Journal of Comparative Effectiveness Research",
+   "institutions": [
+    "Azienda Ospedaliero-Universitaria delle Marche",
+    "Copenhagen University Hospital",
+    "IRCCS Azienda Ospedliero-Universitaria di Bologna Policlinico di Sant'Orsola",
+    "Marche Polytechnic University",
+    "Rigshospitalet",
+    "Takeda (Italy)"
+   ],
+   "id": "0d242f518e98349e",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-15",
+   "score": 4,
+   "hits": {
+    "industry": [
+     "healthcare"
+    ],
+    "geo": [
+     "danish",
+     "european union"
+    ]
+   }
+  },
+  {
+   "title": "Termite mounds as fertility islands and their benefits for raised-field agriculture in the floodplain of the Bangweulu Basin, Zambia",
+   "summary": "Termite mounds are conspicuous features in tropical savannas, where the role of termites as ecosystem engineers is widely acknowledged. Among the many impacts of termites on the environment, modifications of the physicochemical properties of the soil are prominent, to the point that termites have influenced the agricultural and cultural practices of local communities. However, most studies have focused on dry savannas. We investigated the role of termite mounds as fertility islands, and their role in subsistence agriculture, in one of the world’s most extensive floodplain savannas, the Bangweu",
+   "url": "https://doi.org/10.24072/pcjournal.822",
+   "date": "2026-11-13",
+   "source": "Peer Community Journal",
+   "institutions": [
+    "Centre National de la Recherche Scientifique",
+    "Centre d'Écologie Fonctionnelle et Évolutive",
+    "Institut de Recherche pour le Développement",
+    "Lund University",
+    "Université de Montpellier",
+    "École Pratique des Hautes Études"
+   ],
+   "id": "f50d5308f02a8bd3",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-15",
+   "score": 4,
+   "hits": {
+    "event": [
+     "raised",
+     "ban"
     ]
    }
   },
@@ -3761,27 +4194,6 @@
    }
   },
   {
-   "title": "The 3 master's theses on the operational environment of circular plastic, bio-based side and waste stream and battery",
-   "summary": "The theses include data collected to develop a status update on how CE is treated in national, regional and local strategies, roadmaps and action plans. Data included noted from workshop where stakeholders provide feedback on preliminary findings and conclusions, which were stored in notebooks and digital documents.",
-   "url": "https://doi.org/10.5281/zenodo.24157119",
-   "date": "2026-11-12",
-   "source": "Zenodo (CERN European Organization for Nuclear Research)",
-   "institutions": [
-    "VTT Technical Research Centre of Finland"
-   ],
-   "id": "6dea27fd6f89db92",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-14",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "battery"
-    ]
-   }
-  },
-  {
    "title": "AI-powered bionic eye breakthrough could help the blind see again",
    "summary": "",
    "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
@@ -3842,113 +4254,6 @@
     ],
     "industry": [
      "construction"
-    ]
-   }
-  },
-  {
-   "title": "Visions for hydrogen-based materials for energy applications",
-   "summary": "The world’s dependence on fossil fuels necessitates rapid advancement of clean storage and renewable energy technologies. There is abundance of renewable energy in the form of solar irradiance and wind, and the most commonly used energy carrier for these sources is electricity using batteries. Hydrogen is a viable energy carrier because of its diverse chemistry and capacity to form a wide range of bonds and interactions with most other elements. Hydrogen-based materials encompass a great variety of compositions, structures and properties, which modern synthesis methods can further tailor towar",
-   "url": "https://doi.org/10.1016/j.mattod.2026.103533",
-   "date": "2026-11-11",
-   "source": "Materials Today",
-   "institutions": [
-    "Aarhus University",
-    "Advanced Institute for Materials Research, Tohoku University",
-    "California State University, Northridge",
-    "Curtin University",
-    "Griffith University",
-    "Institute for Energy Technology"
-   ],
-   "id": "a4d73740404b5809",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-13",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "hydrogen"
-    ]
-   }
-  },
-  {
-   "title": "A Heterogeneous Robotic Framework for Autonomous Solar Panel Inspection using Computer Vision and Path Optimization",
-   "summary": "This work presents a comprehensive and modular framework enabling effective collaboration between Unmanned Aerial Vehicles (UAVs) and Unmanned Ground Vehicles (UGVs) for autonomous inspection of photovoltaic (PV) farms. The framework integrates real-time visual perception, intelligent planning, and adaptive coordination through a hierarchical, multi-layered architecture. The UAV is equipped with a camera to perform the inspection. The framework uses the You Only Look Once Version 8 (YOLOv8) Convolutional Neural Network (CNN) for high-precision detection and localization of solar panels. A Gene",
-   "url": "https://doi.org/10.1007/s10846-026-02482-x",
-   "date": "2026-11-11",
-   "source": "Journal of Intelligent & Robotic Systems",
-   "institutions": [
-    "Federal Center for Technological Education Celso Suckow da Fonseca",
-    "NORCE Research AS",
-    "Universidade Federal Fluminense",
-    "University of South-Eastern Norway"
-   ],
-   "id": "0a8452a0d6df3953",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-13",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "computer vision",
-     "robot",
-     "autonomous",
-     "uav"
-    ],
-    "industry": [
-     "vehicle"
-    ]
-   }
-  },
-  {
-   "title": "Identifying catalyst technologies in clusters with unsupervised machine learning: an application on patent clusters in the UK",
-   "summary": "",
-   "url": "https://doi.org/10.1080/17421772.2026.2754065",
-   "date": "2026-11-11",
-   "source": "Spatial Economic Analysis",
-   "institutions": [
-    "Blekinge Institute of Technology",
-    "Research Institute of Industrial Economics",
-    "Swedish Entrepreneurship Forum",
-    "University of Warsaw"
-   ],
-   "id": "93aff2138434cb8e",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-13",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "machine learning"
-    ],
-    "geo": [
-     "uk "
-    ]
-   }
-  },
-  {
-   "title": "AquaMamba: Selective state space modeling for underwater scene segmentation in marine robotics",
-   "summary": "Underwater scene segmentation is challenging because image degradation and domain shift vary greatly in marine environments, and the behavior of selective state-space models (SSMs) in this environment remains insufficiently characterized. We propose AquaMamba, a ResNet34-UNet segmentation framework that replaces the bottleneck operator with stacked Mamba layers, and compare it with five established CNN-based methods and a constructed Transformer-bottleneck baseline in the SUIM benchmark. AquaMamba achieves an mIoU of 0.669, 1.9 percentage points higher than the controlled Trans-UNet baseline (",
-   "url": "https://doi.org/10.1371/journal.pone.0360659",
-   "date": "2026-11-11",
-   "source": "PLoS ONE",
-   "institutions": [
-    "KTH Royal Institute of Technology",
-    "Mokwon University",
-    "Nantong Institute of Technology",
-    "Nantong University"
-   ],
-   "id": "55dac2bfe59e5f3a",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-13",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "robot"
     ]
    }
   },
@@ -4125,6 +4430,35 @@
     ],
     "industry": [
      "distribution grid"
+    ]
+   }
+  },
+  {
+   "title": "Euclid Data Release 1 (DR1). Pushing back the borders of the invisible with Euclid. Discovery of fifteen resolved low-surface-brightness stellar systems from the Milky Way to the Local Volume",
+   "summary": "We searched within the first data release of the Euclid Wide Survey (~1900 deg^2) for resolved stellar systems between distances from 10 kpc and several Mpc, using an isochrone filtering technique. We detect 15 systems that have never been resolved into stars before. Five are new discoveries, three in the Milky Way halo and two beyond the Local Group. The remaining ten are dwarf galaxies that were previously catalogued as unresolved sources in shallower ground-based surveys and lack reliable distance measures. We measured distance moduli for all 15 systems, and half-light radii, ellipticities,",
+   "url": "https://doi.org/10.48550/arxiv.2611.16025",
+   "date": "2026-11-11",
+   "source": "arXiv (Cornell University)",
+   "institutions": [
+    "Agenzia Spaziale Italiana",
+    "Aix-Marseille Université",
+    "Astronomical Observatory of Capodimonte",
+    "Astronomical Observatory of Rome",
+    "Brera Astronomical Observatory",
+    "California Institute of Technology"
+   ],
+   "id": "104795ec6e14afaf",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-15",
+   "score": 4,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "novelty": [
+     "first"
     ]
    }
   },
@@ -4436,28 +4770,6 @@
     ],
     "industry": [
      "manufactur"
-    ]
-   }
-  },
-  {
-   "title": "Explainable quantum regression algorithm with encoded data structure",
-   "summary": "",
-   "url": "https://doi.org/10.1007/s42484-026-00453-x",
-   "date": "2026-11-10",
-   "source": "Quantum Machine Intelligence",
-   "institutions": [
-    "Oak Ridge National Laboratory",
-    "University of Helsinki"
-   ],
-   "id": "d6382d3a404ab174",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-12",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "quantum"
     ]
    }
   },
@@ -5012,27 +5324,6 @@
    }
   },
   {
-   "title": "Target fabrication achieves new precision through additive manufacturing",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-fabrication-precision-additive.html",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "ed0e86753399f096",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "additive manufacturing"
-    ],
-    "industry": [
-     "manufactur"
-    ]
-   }
-  },
-  {
    "title": "Site layout and waste management system design for on-site construction waste sorting: Danish practitioners' insights into challenges, mitigation practices, and future approaches",
    "summary": "The unprecedented rate of construction waste and its improper handling pose environmental risks and contribute to project cost overruns. Together with stricter regulatory requirements, tighter certification boundaries, and comprehensive Life Cycle Assessment (LCA), this highlights the importance of on-site construction waste sorting (CWS) and systematic documentation. This study investigates challenges, mitigation practices, and future approaches related to CWS focusing on site layout and waste management system design from practitioners’ perspectives under new Danish regulations. A workshop w",
    "url": "https://doi.org/10.1016/j.clet.2026.101350",
@@ -5533,45 +5824,6 @@
    }
   },
   {
-   "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-anthropic-rapidly-ai-slowdown-group.html",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "34bab45d272812de",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "companies": [
-     "Anthropic"
-    ]
-   }
-  },
-  {
-   "title": "Big Tech, green groups in talks over data center guardrails",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-big-tech-green-groups-center.html",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "585811f84a530a82",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "data center"
-    ],
-    "industry": [
-     "rail"
-    ]
-   }
-  },
-  {
    "title": "Experimental demonstration of dual-polarization nonreciprocal thermal emission at moderate magnetic fields",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.07564v1",
@@ -6019,62 +6271,6 @@
     ],
     "industry": [
      "construction"
-    ]
-   }
-  },
-  {
-   "title": "Bridge damage diagnosis using robust InSAR virtual-sensor displacement features and graph-informed unsupervised learning",
-   "summary": "Early detection and localization of structural anomalies are critical components of damage diagnosis for bridge health monitoring within intelligent transportation networks. Implementation of these tasks requires dense and spatially distributed sensor networks to obtain sufficient structural responses, which may be impractical and economically infeasible. To address this limitation, this study introduces a virtual-sensor construction strategy based on region-wise partitioning and point-wise selection of screened measurement points obtained from synthetic aperture radar (SAR) images along with ",
-   "url": "https://doi.org/10.1016/j.cacaie.2026.100264",
-   "date": "2026-11-02",
-   "source": "Computer-Aided Civil and Infrastructure Engineering",
-   "institutions": [
-    "McGill University",
-    "Northeastern University",
-    "Politecnico di Milano",
-    "University of Vaasa"
-   ],
-   "id": "bd21c6717bf1f19e",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "sensor"
-    ],
-    "industry": [
-     "bus",
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Bridge damage diagnosis using robust InSAR-derived displacement features of virtual sensors by graph-informed unsupervised learning and hierarchical Bayesian thresholding",
-   "summary": "Early detection and localization of structural anomalies are critical components of damage diagnosis for bridge health monitoring within intelligent transportation networks. Implementation of these tasks requires dense and spatially distributed sensor networks to obtain sufficient structural responses, which may be impractical and economically infeasible. To address this limitation, this study introduces a virtual-sensor construction strategy based on region-wise partitioning and point-wise selection of screened measurement points obtained from synthetic aperture radar (SAR) images along with ",
-   "url": "https://doi.org/10.1016/j.cacaie.2026.100264",
-   "date": "2026-11-01",
-   "source": "Computer-Aided Civil and Infrastructure Engineering",
-   "institutions": [
-    "McGill University",
-    "Northeastern University",
-    "Politecnico di Milano",
-    "University of Vaasa"
-   ],
-   "id": "02c796980062923d",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "sensor"
-    ],
-    "industry": [
-     "bus",
-     "port"
     ]
    }
   },

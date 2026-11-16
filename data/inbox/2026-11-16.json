@@ -1,0 +1,657 @@
+[
+ {
+  "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "2cfb3a347b303922",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 5,
+  "hits": {
+   "event": [
+    "seed round"
+   ],
+   "tech": [
+    "sensor",
+    "chip"
+   ],
+   "geo": [
+    "india"
+   ]
+  }
+ },
+ {
+  "title": "Exclusive: Italian robotics startup Mosaico raises €7.5m to tackle AI’s data problem",
+  "summary": "",
+  "url": "https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "22a5c1cb4b2aea71",
+  "feed": "Sifted",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 4,
+  "hits": {
+   "event": [
+    "raises"
+   ],
+   "tech": [
+    "robot"
+   ]
+  }
+ },
+ {
+  "title": "Helping arms: German hospitals turn to robots to solve worker shortages",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/helping-arms-german-hospitals-turn-to-robots-to-solve-worker-shortages/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "2318f94e5486a071",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "robot"
+   ],
+   "industry": [
+    "hospital"
+   ]
+  }
+ },
+ {
+  "title": "Estonia to close Russia border after ‘sabotage’ bid",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/estonia-to-close-russia-border-after-sabotage-bid/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "27b8c1c580dfdabe",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 3,
+  "hits": {
+   "event": [
+    "order"
+   ],
+   "geo": [
+    "estonia"
+   ]
+  }
+ },
+ {
+  "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "45388d70fb8c6259",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "self-driving"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "Starling founder Anne Boden plots new AI-powered bank",
+  "summary": "",
+  "url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "3a2a4a94f93c48f2",
+  "feed": "Sifted",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 3,
+  "hits": {
+   "event": [
+    "ban"
+   ],
+   "industry": [
+    "bank"
+   ]
+  }
+ },
+ {
+  "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+  "summary": "",
+  "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "b77f1ba27d6dd021",
+  "feed": "Electrek",
+  "kind": "news",
+  "domain_hint": "Energy",
+  "collected": "2026-11-16",
+  "score": 3,
+  "hits": {
+   "companies": [
+    "Tesla"
+   ]
+  }
+ },
+ {
+  "title": "High altitude, bitter cold, zero drivers: autonomous trucks take on Tibetan mine",
+  "summary": "",
+  "url": "https://electrek.co/2026/11/15/high-altitude-bitter-cold-zero-drivers-autonomous-trucks-take-on-tibetan-mine/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "316c69b190c7ccc8",
+  "feed": "Electrek",
+  "kind": "news",
+  "domain_hint": "Energy",
+  "collected": "2026-11-16",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "autonomous"
+   ],
+   "industry": [
+    "truck"
+   ]
+  }
+ },
+ {
+  "title": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot",
+  "summary": "",
+  "url": "https://www.freightwaves.com/news/borderlands-mexico-texas-cross-border-traffic-rises-by-400-trucks-through-saturday-pilot",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "02384d3cfbfeaf99",
+  "feed": "FreightWaves",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 3,
+  "hits": {
+   "event": [
+    "pilot",
+    "order"
+   ],
+   "industry": [
+    "truck"
+   ]
+  }
+ },
+ {
+  "title": "Spanish military procures thousands of China-made logistics vehicles",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/spanish-military-procures-thousands-of-china-made-logistics-vehicles/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "615ea9004fcae304",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 2,
+  "hits": {
+   "industry": [
+    "logistics",
+    "vehicle",
+    "military"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "European ships ordered out as EU-Mauritania fishing deal expires",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/european-ships-ordered-out-as-eu-mauritania-fishing-deal-expires/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "4af6b99dd3f3b068",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 2,
+  "hits": {
+   "event": [
+    "order"
+   ]
+  }
+ },
+ {
+  "title": "Apple launches new app to study how people use AI for health",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "00a603aaf7de2bd4",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 2,
+  "hits": {
+   "event": [
+    "launches"
+   ]
+  }
+ },
+ {
+  "title": "Why a ban on non-competes could hurt startups",
+  "summary": "",
+  "url": "https://sifted.eu/articles/uk-non-compete-rules-change-against/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "c049d3163cd1f1f4",
+  "feed": "Sifted",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 2,
+  "hits": {
+   "event": [
+    "ban"
+   ]
+  }
+ },
+ {
+  "title": "Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed",
+  "summary": "",
+  "url": "https://electrek.co/2026/11/15/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "4a42153ac48395b6",
+  "feed": "Electrek",
+  "kind": "news",
+  "domain_hint": "Energy",
+  "collected": "2026-11-16",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "autonomous"
+   ]
+  }
+ },
+ {
+  "title": "Pony AI and Toyota launch bZ4X robotaxi service in Guangzhou",
+  "summary": "",
+  "url": "https://cnevpost.com/2026/11/16/pony-ai-toyota-bz4x-robotaxi-guangzhou/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "6c9cfa72681335fb",
+  "feed": "CnEVPost",
+  "kind": "news",
+  "domain_hint": "Energy",
+  "collected": "2026-11-16",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "robot",
+    "robotaxi"
+   ]
+  }
+ },
+ {
+  "title": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
+  "summary": "",
+  "url": "https://cnevpost.com/2026/11/15/nio-warns-airbag-recall-scam-texts/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "3216b81028b9a4b5",
+  "feed": "CnEVPost",
+  "kind": "news",
+  "domain_hint": "Energy",
+  "collected": "2026-11-16",
+  "score": 2,
+  "hits": {
+   "event": [
+    "recall"
+   ]
+  }
+ },
+ {
+  "title": "EU countries struggle to unite against US drug pricing pressure",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/eu-countries-struggle-to-unite-against-us-drug-pricing-pressure/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "a15cf28bea880cbc",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
+  "title": "Momentum grows for digital levy to fund EU budget",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/momentum-grows-for-digital-levy-to-fund-eu-budget/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "2d602b2e2a32ac95",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
+  "title": "INTERVIEW: Putin is distracting us, warns Estonian PM",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/interview-putin-is-distracting-us-warns-estonian-pm/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "743f2d26082a8ad0",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "estonia"
+   ]
+  }
+ },
+ {
+  "title": "EU budget: Die Rechnung, il conto – who pays?",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/eu-budget-die-rechnung-il-conto-who-pays/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "834e9e842784742d",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
+  "title": "China’s electric airliner era starts with a 19-seat plane and 400 km of range",
+  "summary": "",
+  "url": "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "473a0da9ad5b875d",
+  "feed": "Electrek",
+  "kind": "news",
+  "domain_hint": "Energy",
+  "collected": "2026-11-16",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
+  "summary": "",
+  "url": "https://cnevpost.com/2026/11/15/nio-opens-northernmost-swap-station-china-heihe/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "d3229273643453b7",
+  "feed": "CnEVPost",
+  "kind": "news",
+  "domain_hint": "Energy",
+  "collected": "2026-11-16",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "Data centres are becoming war targets. Europe is ill-prepared",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/data-centres-are-becoming-war-targets-europe-is-ill-prepared/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "ccdae17f0e4617dd",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "INTERVIEW: Climate change from a weather forecaster’s perspective",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/interview-climate-change-from-a-weather-forecasters-perpective/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "db5872e3ea725970",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Trade war in focus at ASEAN summit ahead of Trump arrival",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/trade-war-in-focus-at-asean-summit-ahead-of-trump-arrival/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "3bee32a251e8d9b0",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "French protesters chant against inflation and police",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/french-protesters-chant-against-inflation-and-police/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "9b4b90ab198ce831",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Nations grapple with loss of 1.5°C target at UN climate summit",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/nations-grapple-with-loss-of-1-5c-target-at-un-climate-summit/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "cfae2e07ac73c3a9",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "36b6ca5f2064c50e",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "4cff5178e24a384a",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "9dc97b0f2ccb5f4a",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "The tech products we enthusiastically recommend this holiday season",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "6670abb37eb9112b",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Einstein’s university has three lessons to teach Europe",
+  "summary": "",
+  "url": "https://sifted.eu/articles/einsteins-university-has-three-lessons-to-teach-europe/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "bcb875dcc59bc6fd",
+  "feed": "Sifted",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "‘Build what can’t be cloned’: Fintech’s AI-native back office is getting crowded",
+  "summary": "",
+  "url": "https://sifted.eu/articles/ai-native-fintech-crowding/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "cd9695958161f8c8",
+  "feed": "Sifted",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Fast Forward Awards 2026: HCP Sense, DeepGate, Myvox and LIOM",
+  "summary": "",
+  "url": "https://www.eenewseurope.com/en/fast-forward-awards-2026-hcp-sense-deepgate-myvox-liom/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "b65cd7491c955ba1",
+  "feed": "eeNews Europe",
+  "kind": "news",
+  "domain_hint": "Compute",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Airsys invests in digital boiler startup ThermAI",
+  "summary": "",
+  "url": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "22f5f50cc6bc1fb4",
+  "feed": "Data Center Dynamics",
+  "kind": "news",
+  "domain_hint": "Compute",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+  "summary": "",
+  "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+  "date": "2026-11-15",
+  "source": "",
+  "id": "b836fbf640d8bc6d",
+  "feed": "SecurityWeek",
+  "kind": "news",
+  "domain_hint": "Cybersecurity",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
+  "summary": "",
+  "url": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
+  "date": "2026-11-14",
+  "source": "",
+  "id": "025a816cf1e42178",
+  "feed": "SecurityWeek",
+  "kind": "news",
+  "domain_hint": "Cybersecurity",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Geely Galaxy previews new M8 5-seat hybrid SUV to expand lineup",
+  "summary": "",
+  "url": "https://cnevpost.com/2026/11/16/geely-galaxy-previews-new-m8-hybrid-suv/",
+  "date": "2026-11-16",
+  "source": "",
+  "id": "a890f688febad5f2",
+  "feed": "CnEVPost",
+  "kind": "news",
+  "domain_hint": "Energy",
+  "collected": "2026-11-16",
+  "score": 0,
+  "hits": {}
+ }
+]

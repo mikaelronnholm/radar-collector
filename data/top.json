@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T04:59+00:00",
+ "generated": "2026-11-16T05:36+00:00",
  "count": 200,
  "items": [
   {
@@ -91,37 +91,6 @@
     ],
     "companies": [
      "Airbus"
-    ]
-   }
-  },
-  {
-   "title": "Kimm established “Korea opens its first AI Humanoid Data Factory “ - Cyprus Shipping News",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVDJ3cWg3eXdiU0MwQVp1clREdXNnbVlwcGgwVmVueEhGdE1BRE5tUXJwNHM5RDd6RklSWVpYamdielZoOTVMT2pURE9lbGZZU21HMVFYUmVTQzRDVWlyRnVmdlhULUNNWHBZZXVEcEFIVkQyRlpsM2lrRlNlOXFRZl9PaFIwM296amdjaHNfN1ZqckI0WHJfS1ctTWFKVHdYaHl5RlRZd2lIdw?oc=5",
-   "date": "2026-11-09",
-   "source": "Cyprus Shipping News",
-   "id": "d101f4ad4113552a",
-   "feed": "Google News: humanoid robot factory",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-09",
-   "score": 9,
-   "hits": {
-    "event": [
-     "factory"
-    ],
-    "tech": [
-     "humanoid"
-    ],
-    "industry": [
-     "shipping",
-     "factory"
-    ],
-    "geo": [
-     "korea"
-    ],
-    "companies": [
-     "Humanoid"
     ]
    }
   },
@@ -4382,34 +4351,6 @@
    }
   },
   {
-   "title": "South Korea's shrinking workforce opens factory doors to Chinese humanoid robots - The Cool Down",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmRXNkxQUTNFVUVTdG9MaEw2SmNQRWFlNFR6Y2NWQzB6SVNfNGE3NnJKSWZtbVVJclpZaEk0NS1HaG1kRWpCX0hNY2tfdGpReUpINVEtVm1FZTdYejVPWmppTHBYYy1qZlZpY1FibWJjcDlIUUFFNTNqSW9yeTZqd2VBbVlwaFVIXzB3?oc=5",
-   "date": "2026-11-09",
-   "source": "The Cool Down",
-   "id": "781b481b186d96b8",
-   "feed": "Google News: humanoid robot factory",
-   "kind": "news",
-   "domain_hint": "",
-   "collected": "2026-11-09",
-   "score": 6,
-   "hits": {
-    "event": [
-     "factory"
-    ],
-    "tech": [
-     "robot",
-     "humanoid"
-    ],
-    "industry": [
-     "factory"
-    ],
-    "geo": [
-     "korea"
-    ]
-   }
-  },
-  {
    "title": "Tesla Robotaxi Orlando Field Report｜Road to Autonomy - finance.biggo.com",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ObkNyUS1ncHVCU28ybkRSblpObzVkeGRqaEg3dTRRcWIwTFdCV0tyRnNMeEw3Wk1oRVhZM1g0OW8xSkdxYU5rM2NfLWo0SV9heXRKSnZRd3Nwc3FnRkxZ?oc=5",
@@ -4431,6 +4372,31 @@
     ],
     "companies": [
      "Tesla"
+    ]
+   }
+  },
+  {
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "summary": "",
+   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "date": "2026-11-15",
+   "source": "",
+   "id": "2cfb3a347b303922",
+   "feed": "TechCrunch",
+   "kind": "news",
+   "domain_hint": "",
+   "collected": "2026-11-16",
+   "score": 5,
+   "hits": {
+    "event": [
+     "seed round"
+    ],
+    "tech": [
+     "sensor",
+     "chip"
+    ],
+    "geo": [
+     "india"
     ]
    }
   },
@@ -5163,6 +5129,27 @@
    "hits": {
     "tech": [
      "battery"
+    ],
+    "companies": [
+     "CATL"
+    ]
+   }
+  },
+  {
+   "title": "BESS Industry Buzz: CATL sodium-ion specs, BESS availability and the price of speed-to-power",
+   "summary": "",
+   "url": "https://www.energy-storage.news/bess-industry-buzz-catl-sodium-ion-specs-bess-availability-and-the-price-of-speed-to-power/",
+   "date": "2026-11-13",
+   "source": "",
+   "id": "f107f7a1c0eb3060",
+   "feed": "Energy-Storage.news",
+   "kind": "news",
+   "domain_hint": "Energy",
+   "collected": "2026-11-14",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "sodium-ion"
     ],
     "companies": [
      "CATL"

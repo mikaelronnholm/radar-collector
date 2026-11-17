@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-16T05:37+00:00",
- "count": 287,
+ "generated": "2026-11-17T05:04+00:00",
+ "count": 300,
  "items": [
   {
    "title": "Canadian Spine SocietyLongitudinal changes in comprehensive radiographic parameters following short-segment surgery (1–2 levels) for degenerative lumbar spondylolisthesisMeasuring spinopelvic parameters in patients with 6 lumbar vertebrae: a matched comparison of asymptomatic volunteersSupervised and unsupervised machine learning reveals distinct clinical phenotypes across degenerative lumbar conditions: sex-specific clustering for personalized surgical careDoes disc degeneration matter? Outcomes of decompression-alone surgery in low-grade spondylolisthesisIntervertebral disc degeneration in humans: altered peripheral immune cell profile in patients and inflammation-mediated matrix metalloproteinase upregulation in human disc cellsDomino toppling: when the disruption of one disc negatively impacts its neighbour. An investigation into the mechanism of adjacent segment diseaseMultimodal analgesia after surgery for thoracolumbar spinal stenosisLumbar foraminal morphology can affect outcomes of indirect decompression: a novel classificationPredictors of intraoperative vascular complications during anterior lumbar spinal exposure: a retrospective analysisHigher rates of fusion with porous titanium than with polyetheretherketone (PEEK) lumbar interbody cages: a retrospective cohort studyCan measuring preoperative postvoid urine residual values influence care in patients undergoing elective spine surgery?To respond or not to respond: the many faces of recovery after lumbar spine surgeryPostoperative outcomes in primary versus revision lumbar decompressive surgery: a propensity-matched analysisWhat are the barriers and enablers influencing physical activity among patients awaiting spine surgery? A qualitative study guided by the Theoretical Domains FrameworkEffects of childbearing on spinopelvic alignmentClinical and radiological outcomes of biportal endoscopic lumbar interbody fusion using oblique lateral interbody fusion-type cage: preliminary results and learning curve analysisArtificial intelligence for spine surgery education: a comparative analysis of ChatGPT and DeepSeek performanceSpineNavigator: a surgeon-trained large language model to enhance communication and patient education in spine surgeryDoes comorbidity count, ASA score, or Quan-modified Charlson Comorbidity Index score better predict morbidity after elective spinal surgery?Factors associated with perioperative adverse events in patients with degenerative lumbar spondylolisthesisImplementation of an awake spine surgery program in Canada: lessons learned from the surgeon’s perspectiveLongitudinal finite mixture models for mining complex prognostic phenotypes of degenerative cervical myelopathyEnvironmental impacts of a cervical laminectomy and fusion procedure from first consultation to patient recovery: insights from a life cycle assessmentReframing mild degenerative cervical myelopathy: insights from a latent profile analysisPredictive algorithm for treatment recommendation between operative and nonoperative management in mild degenerative cervical myelopathyMachine learning classification of patients with degenerative cervical myelopathy into clinically relevant clusters and development of an adoptable clinical algorithmReassessing the minimal clinically important differences of patient-reported outcomes in cervical myelopathy: a patient-centred approach from the Canadian Spine Outcomes and Research NetworkCurrent practices in return-to-play recommendations for recreational athletes following cervical spine surgeries: a preliminary global surveyCage subsidence and fusion in ACDF, a comparison between autograft, allograft, and synthetic cagesQuantifying cervical cord deformation with automated MRI: validation and clinical correlates in degenerative cervical myelopathyThe impact of estrogen replacement therapy on revision rates and outcomes after anterior cervical discectomy and fusion: a propensity-matched cohort studyImaging biomarkers derived using artificial intelligence pipeline–enhanced prognostication of patients undergoing surgery for nontraumatic spinal cord injury due to degenerative cervical myelopathyWhat patients expect and what they experience: symptom-specific expectation fulfillment and functional recovery in degenerative cervical myelopathy. A retrospective analysis of prospectively collected data from the multicentre Canadian Surgical Spine RegistryBiomechanical comparison of 7 occipital–cervical fixation constructs using finite element analysisOutpatient anterior cervical decompression and fusion: a survey of Canadian surgeonsNational trends in surgical approach for degenerative cervical myelopathy and associated inpatient costsVariability of mechanism of mechanical complications between low-thoracic to pelvis and lumbar to pelvis fusions accurately predicted by musculoskeletal analysisOutcomes of circumferential minimally invasive technique versus open technique in adult spinal deformity surgery patients over 80 years of age: a",
@@ -44,6 +44,31 @@
     "novelty": [
      "first",
      "novel"
+    ]
+   }
+  },
+  {
+   "title": "Towards Probabilistically Safe Reinforcement Learning: Theory and Deployment on Humanoid and Aerial Robots",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.19616v1",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "7a0d7eb67f607604",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 8,
+   "hits": {
+    "event": [
+     "deployment"
+    ],
+    "tech": [
+     "robot",
+     "humanoid"
+    ],
+    "companies": [
+     "Humanoid"
     ]
    }
   },
@@ -133,6 +158,30 @@
     ],
     "novelty": [
      "efficiency"
+    ]
+   }
+  },
+  {
+   "title": "Anthropic's record IPO faces some big questions",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-anthropic-ipo-big.html",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "25732836f04172e3",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-17",
+   "score": 7,
+   "hits": {
+    "event": [
+     "ipo"
+    ],
+    "companies": [
+     "Anthropic"
+    ],
+    "novelty": [
+     "record"
     ]
    }
   },
@@ -482,6 +531,69 @@
    }
   },
   {
+   "title": "XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.20452v1",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "9fb757a5f1aa580a",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "humanoid"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "The Microsoft outage is an urgent wake‑up call for greater digital resilience",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-microsoft-outage-urgent-wakeup-greater.html",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "a014e1437b0ee665",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-17",
+   "score": 6,
+   "hits": {
+    "event": [
+     "outage"
+    ],
+    "companies": [
+     "Microsoft"
+    ]
+   }
+  },
+  {
+   "title": "Amazon loses 40 satellites in failed rocket launch",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-amazon-satellites-rocket.html",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "7f474301f17efcd1",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-17",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "satellite"
+    ],
+    "companies": [
+     "Amazon"
+    ]
+   }
+  },
+  {
    "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
    "summary": "",
    "url": "https://techxplore.com/news/2026-11-broken-grounded-jets-microsoft-outage.html",
@@ -499,6 +611,72 @@
     ],
     "companies": [
      "Microsoft"
+    ]
+   }
+  },
+  {
+   "title": "EgoSwarm: Learning Decentralized Robot Swarm Intelligence from Human Swarm Demonstrations",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.20100v1",
+   "date": "2026-11-15",
+   "source": "",
+   "id": "8aa28e6bb2c8e902",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 6,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "novelty": [
+     "demonstrat"
+    ]
+   }
+  },
+  {
+   "title": "MoViC: Real-Time Humanoid Whole-Body Control from Monocular Video Streams",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.19998v1",
+   "date": "2026-11-15",
+   "source": "",
+   "id": "e62063cdc2b59549",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "humanoid"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "Cyber-Secure Wearable, Ultra-Low-Power Networked Sensors for Soldier Health Monitoring: Insights from the CAPSARII project",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.20187v1",
+   "date": "2026-11-15",
+   "source": "",
+   "id": "568c2a5603cc21bf",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "sensor"
+    ],
+    "companies": [
+     "Ultra"
     ]
    }
   },
@@ -586,6 +764,75 @@
     ],
     "tech": [
      "recycling"
+    ]
+   }
+  },
+  {
+   "title": "Cooperative Gradient Estimation for Multi-Robot Source Seeking with Heteroskedastic Measurements",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.19535v1",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "82501b81c3767444",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "robot"
+    ],
+    "companies": [
+     "Gradient"
+    ]
+   }
+  },
+  {
+   "title": "Semantics First, Pixels Later: Mission-Driven Event Streams for Drone Video over Bandwidth-Starved Links",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.19463v1",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "27b562984518b215",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 6,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "drone"
+    ],
+    "novelty": [
+     "first"
+    ]
+   }
+  },
+  {
+   "title": "Hydrogen in Practice: A Global Review of Demonstration Projects from Production to Integration",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.19428v1",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "d78897fb15ab0426",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-17",
+   "score": 6,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "tech": [
+     "hydrogen"
+    ],
+    "novelty": [
+     "demonstrat"
     ]
    }
   },
@@ -684,6 +931,27 @@
    }
   },
   {
+   "title": "Universal Quantum Computation in a Wigner's Friend Framework",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.18839v1",
+   "date": "2026-11-13",
+   "source": "",
+   "id": "dbabe0c3172ec13d",
+   "feed": "arXiv Quantum hardware",
+   "kind": "research",
+   "domain_hint": "Compute",
+   "collected": "2026-11-17",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "quantum"
+    ],
+    "companies": [
+     "Universal Quantum"
+    ]
+   }
+  },
+  {
    "title": "Speed-to-Power Dominates Energy Costs for AI Data Centers: Technoeconomic Analysis of Powering AI in the Continental United States",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.17098v1",
@@ -744,6 +1012,31 @@
     ],
     "companies": [
      "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "ControlHarbor: A Benchmark for Control Design by Coding Agents",
+   "summary": "LLM agents, i.e., language models run by a harness, can now write, run and debug software autonomously. This raises the question of whether they can also carry out control system design. In this paper, we consider control system design as a task for LLM agents and grade the designed controller as control engineers do: the controller is given in a single Python file mapping measurements to actions, evaluated on held-out seeds against an ordered set of requirements, under specified physical perturbations and structural certificates, without using neural networks. We formulate the task as a chanc",
+   "url": "https://arxiv.org/abs/2611.16867",
+   "date": "2026-11-12",
+   "source": "arXiv (Cornell University)",
+   "institutions": [
+    "KTH Royal Institute of Technology"
+   ],
+   "id": "a16fe5aadc30ae75",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 6,
+   "hits": {
+    "event": [
+     "raises"
+    ],
+    "tech": [
+     "llm",
+     "autonomous"
     ]
    }
   },
@@ -1510,94 +1803,6 @@
    }
   },
   {
-   "title": "AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.07712v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "2159e28755b8360d",
-   "feed": "arXiv Robotics",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 6,
-   "hits": {
-    "tech": [
-     "humanoid"
-    ],
-    "companies": [
-     "Humanoid"
-    ]
-   }
-  },
-  {
-   "title": "PhySA: Decoupling Aesthetic and Physical Rewards for Humanoid Locomotion",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.07679v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "c7228848d83e8f76",
-   "feed": "arXiv Robotics",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 6,
-   "hits": {
-    "tech": [
-     "humanoid"
-    ],
-    "companies": [
-     "Humanoid"
-    ]
-   }
-  },
-  {
-   "title": "Whole-Body Elasto-Geometrical Calibration of Wheeled Humanoid Robots Using a Shared-Waist Dual-Chain Model",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.07560v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "605174031fb7a104",
-   "feed": "arXiv Robotics",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 6,
-   "hits": {
-    "tech": [
-     "robot",
-     "humanoid"
-    ],
-    "companies": [
-     "Humanoid"
-    ]
-   }
-  },
-  {
-   "title": "VREgo: Consumer VR Headsets for Learning Robot Manipulation from Egocentric Demonstrations",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.07272v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "f2dc4f9470bee1af",
-   "feed": "arXiv Robotics",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 6,
-   "hits": {
-    "event": [
-     "demonstrat"
-    ],
-    "tech": [
-     "robot"
-    ],
-    "novelty": [
-     "demonstrat"
-    ]
-   }
-  },
-  {
    "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.08428v1",
@@ -1731,27 +1936,6 @@
     ],
     "novelty": [
      "prototype"
-    ]
-   }
-  },
-  {
-   "title": "ForPC: Force-Aware Whole-Body Control for Precise Humanoid Cart Pushing",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.08664v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "4b986f6014e7e1b7",
-   "feed": "arXiv Robotics",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-09",
-   "score": 6,
-   "hits": {
-    "tech": [
-     "humanoid"
-    ],
-    "companies": [
-     "Humanoid"
     ]
    }
   },
@@ -2183,6 +2367,52 @@
    }
   },
   {
+   "title": "Can AI Judge You? An Empirical Audit of Deployment Readiness in LLM-assisted Hiring Systems",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.20140v1",
+   "date": "2026-11-15",
+   "source": "",
+   "id": "254cb04a1521fb12",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 5,
+   "hits": {
+    "event": [
+     "deployment"
+    ],
+    "tech": [
+     "llm"
+    ]
+   }
+  },
+  {
+   "title": "The novelty exposed: ablation, reproducibility and transparency in 40 technical reports of open-weight large language models (LLMs)",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.20003v1",
+   "date": "2026-11-15",
+   "source": "",
+   "id": "10e9e3fd3b247f88",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "large language model",
+     "llm"
+    ],
+    "industry": [
+     "port"
+    ],
+    "novelty": [
+     "novel"
+    ]
+   }
+  },
+  {
    "title": "A Stable and Highly Selective Sodium Solid-State ElectrolyteHigh-Energy Mechanochemical Treatment of Disodium Dodecahydridododecaborate",
    "summary": "Abstract Fast, stable, and low-cost solid electrolytes are essential for advancing all-solid-state sodium batteries. Here, we present a fast solid-state sodium ion conductor, which reaches an ionic conductivity of σ(Na+) = 2.8 × 10−3 S cm−1 at 60 °C with an activation energy of Ea = 0.393 eV, made by high-energy mechanochemical treatment of disodium dodecahydrido-closo-dodecaborate, Na2B12H12. The milling process facilitates a transition to the high-temperature dynamically disordered β-polymorph while also providing high stability toward thermal cycling in the range RT to 300 °C. The ionic and",
    "url": "https://doi.org/10.1021/acs.chemmater.6c02020",
@@ -2257,6 +2487,27 @@
     ],
     "novelty": [
      "first"
+    ]
+   }
+  },
+  {
+   "title": "When AI Agents Should Repair, Replan, or Abandon: A Threshold Theory of Plan Commitment",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.19663v1",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "53f71d7ac8d97993",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "ai agent"
     ]
    }
   },
@@ -2338,27 +2589,6 @@
     ],
     "novelty": [
      "scalable"
-    ]
-   }
-  },
-  {
-   "title": "NPU-Accelerated GNSS Signal Acquisition",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.18186v1",
-   "date": "2026-11-13",
-   "source": "",
-   "id": "43b2e6d022739e16",
-   "feed": "arXiv Robotics",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-16",
-   "score": 5,
-   "hits": {
-    "event": [
-     "acquisition"
-    ],
-    "tech": [
-     "gnss"
     ]
    }
   },
@@ -2578,6 +2808,58 @@
     ],
     "novelty": [
      "record"
+    ]
+   }
+  },
+  {
+   "title": "Developing and testing an operational workflow for underwater robotic recovery of abandoned, lost, or otherwise discarded fishing nets",
+   "summary": "Abandoned, lost or otherwise discarded fishing gear (ALDFG) has a potential to adversely affect marine fauna and ecosystems, entangling and killing numerous species and causing marine pollution. Traditional ALDFG removal methods, often including diving or creeping, are labour-intensive, time-consuming, costly, and, in the case of diving, may be hazardous due to poor visibility, low temperatures, strong currents, and dangers of entanglement. Deployment of underwater robotic systems equipped with camera-assisted manipulators presents a promising solution to complement or replace ALDFG retrieval ",
+   "url": "https://doi.org/10.1016/j.ecss.2026.110397",
+   "date": "2026-11-12",
+   "source": "Estuarine Coastal and Shelf Science",
+   "institutions": [
+    "Heriot-Watt University",
+    "Riga Technical University",
+    "UiT The Arctic University of Norway",
+    "University of Latvia"
+   ],
+   "id": "c55bef25641f2522",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "robot"
+    ]
+   }
+  },
+  {
+   "title": "Effect of ambient temperature on bioimpedance from a wearable sensor patch",
+   "summary": "Wearable bioimpedance sensors are promising tools for long-term home monitoring, but their measurements may be affected by ambient temperature and anatomical site. This study examined how cold and warm exposure influence local skin impedance measured by a miniaturized patch at four body locations.Twelve healthy volunteers (4 female, 8 male; 18-40 years) wore four Re:Balans ® Insight patches (upper back, upper arm, thigh, lower leg) for approximately 30 h. On two consecutive days, each participant underwent 1 h of exposure to either a cold (4 °C) or warm (37 °C) climate chamber in counterbalanc",
+   "url": "https://doi.org/10.1088/1873-4030/aec16c",
+   "date": "2026-11-12",
+   "source": "Medical Engineering & Physics",
+   "institutions": [
+    "Oslo University Hospital",
+    "University of Oslo"
+   ],
+   "id": "0e62003de4bd2a8d",
+   "feed": "OpenAlex Nordic – health technology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-17",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "sensor"
+    ],
+    "industry": [
+     "nato"
     ]
    }
   },
@@ -3279,32 +3561,6 @@
    }
   },
   {
-   "title": "The AI-ification paradox: the challenge of AI delegation in healthcare",
-   "summary": "Purpose This paper introduces the AI-ification paradox and explains why organizations that invest in increasingly autonomous AI often keep it in advisory rather than delegated roles. We examine the paradox in healthcare services, where the promise of AI is high but autonomy is tightly bound. Design/methodology/approach The article develops a conceptual model by integrating servitization and task-delegation literature with an illustrative synthesis of 11 interviews from healthcare settings, supplemented by two subsequent expert interviews used for model refinement. Findings AI is most readily d",
-   "url": "https://doi.org/10.1108/sl-08-2026-0402",
-   "date": "2026-11-05",
-   "source": "Strategy and Leadership",
-   "institutions": [
-    "Aalto University",
-    "Antwerp Management School",
-    "University of Jyväskylä"
-   ],
-   "id": "77d52bd53c6726e6",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "autonomous"
-    ],
-    "industry": [
-     "healthcare"
-    ]
-   }
-  },
-  {
    "title": "Architected Bio‐Based Iontronic Skin With Dual‐Mode Pressure and Strain Sensing",
    "summary": "ABSTRACT Human skin encodes pressure and stretch through the motion of ions, a principle soft iontronics reproduce but rarely on sustainable terms. Additive manufacturing has lifted ionogels from cast slabs into architected sensors, yet this progress rests on fossil‐derived acrylates, because plant‐based networks expel the polar ionic liquids that carry charge. Here we print an ionogel whose matrix exceeds 80% bio‐based carbon while stably hosting a hydrophobic imidazolium ionic liquid, resolving a long‐standing compatibility barrier. A single monomer ratio tunes stiffness 30 fold (9 to 0.3 MP",
    "url": "https://doi.org/10.1002/adfm.79432",
@@ -3560,30 +3816,6 @@
    }
   },
   {
-   "title": "Concerted mass transport governs anomalous diffusion in dynamically-stabilized bcc metals",
-   "summary": "Abstract Understanding the microscopic origin of anomalous self-diffusion near melting remains a central challenge in bcc metals. Here we combine ab initio and machine-learning interatomic-potential molecular dynamics simulations (AIMD, MLIP-MD) to elucidate the mechanisms governing high-temperature mass transport in group-3–6 metals. Comparative AIMD simulations near melting reveal a clear distinction between dynamically-stabilized group-3 and group-4 bcc metals and the quasiharmonic group-5 and group-6. In the former, characterized by strongly anharmonic energy landscapes, sufficiently large",
-   "url": "https://doi.org/10.1038/s41524-026-02376-4",
-   "date": "2026-11-03",
-   "source": "npj Computational Materials",
-   "institutions": [
-    "Linköping University"
-   ],
-   "id": "b9d71f00f09887e4",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "fusion"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
    "title": "Interface engineering of crystalline–amorphous hollow c-Co₃S₄/a-CoxP nanocages for all-pH hydrogen evolution",
    "summary": "Exploring highly active and stable non-noble-metal electrocatalysts is critical for the widespread adoption of hydrogen energy technologies. In this work, we report the synthesis of hollow crystalline–amorphous nanocages composed of crystalline cobalt sulfide (c-Co 3 S 4 ) and amorphous cobalt phosphide (a-Co x P), derived from ZIF-67, through precise morphology and structural modulation. These c-Co 3 S 4 /a-Co x P nanocages feature abundant electrocatalytically active sites and exhibit excellent hydrogen evolution reaction (HER) activity across the full pH range. The optimized nanocages achie",
    "url": "https://doi.org/10.1016/j.cej.2026.183855",
@@ -3633,6 +3865,27 @@
     ],
     "industry": [
      "port"
+    ]
+   }
+  },
+  {
+   "title": "ACCURACY OF COMPRESSED SENSING ACCELERATED 3D-FLAIR IN THE DIAGNOSTIC WORK-UP OF MULTIPLE SCLEROSIS AT 1.5 T",
+   "summary": "BACKGROUND3D-FLAIR is central to MR-based diagnosis and monitoring of MS, but long acquisition times remain a limitation.\n\nOBJECTIVESThis single-center prospective non-inferiority study evaluated whether compressed sensing (CS) - accelerated 3D-FLAIR at 1.5T provides lesion detection comparable to optimized Generalized Autocalibrating Partially Parallel Acquisition (GRAPPA) - accelerated 3D-FLAIR. Optimized CS- and GRAPPA-accelerated 3D-FLAIR sequences were incorporated into MRI examinations in patients with known or suspected MS. The primary endpoint was manual lesion count by two blinded rea",
+   "url": "https://doi.org/10.64898/2026.11.02.26367062",
+   "date": "2026-11-03",
+   "source": "medrxiv",
+   "id": "401a93c757d244e0",
+   "feed": "medRxiv – health informatics",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-17",
+   "score": 5,
+   "hits": {
+    "event": [
+     "acquisition"
+    ],
+    "tech": [
+     "diagnostic"
     ]
    }
   },
@@ -4114,6 +4367,296 @@
    }
   },
   {
+   "title": "Artificial Intelligence in Cardiomyopathies: From Opportunistic Detection to Decision-Critical Risk Stratification.",
+   "summary": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43039586/",
+   "date": "2027-01-01",
+   "source": "Heart failure clinics",
+   "id": "3a06c41658ba14f6",
+   "feed": "PubMed – AI diagnostics and imaging",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "artificial intelligence"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Advances in Artificial Intelligence-based Cardiovascular Disease Prevention and Assessment: A State-of-the-Art Review.",
+   "summary": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43039585/",
+   "date": "2027-01-01",
+   "source": "Heart failure clinics",
+   "id": "ed05c5dff0c97da6",
+   "feed": "PubMed – AI diagnostics and imaging",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "artificial intelligence"
+    ],
+    "novelty": [
+     "state-of-the-art"
+    ]
+   }
+  },
+  {
+   "title": "A Lifted Hessian-Riemannian Gradient Flow for LQR Synthesis under Passivity Constraints",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.20757v1",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "0a0651e20a678082",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "companies": [
+     "Gradient"
+    ]
+   }
+  },
+  {
+   "title": "Koopman Temporal Logic and Model Predictive Control of Nonlinear Systems: A Demonstration in AC-DC Power Conversion",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.20708v1",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "40fb6df899918306",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "novelty": [
+     "demonstrat"
+    ]
+   }
+  },
+  {
+   "title": "Estimation of jam density and saturation flow at signalized intersections using only low penetration rate connected vehicle GNSS trajectories: Case study using actual data in Tokyo",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.20457v1",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "21dac95575a71701",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "gnss"
+    ],
+    "industry": [
+     "vehicle"
+    ]
+   }
+  },
+  {
+   "title": "Probabilistic Power Estimation and MPC-based Scheduling of Construction Electric Vehicles Supported by Mobile Charging Stations",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.20392v1",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "b5bcdc9d848d3f64",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "charging"
+    ],
+    "industry": [
+     "vehicle",
+     "port",
+     "construction"
+    ]
+   }
+  },
+  {
+   "title": "Credit without debit: A new way for hackers to target bank accounts",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-credit-debit-hackers-bank-accounts.html",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "71ec0cabefa00308",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "industry": [
+     "bank"
+    ]
+   }
+  },
+  {
+   "title": "A single sensor offers ultraprecise reconstruction of light information",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-sensor-ultraprecise-reconstruction.html",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "8965d59f47862e08",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "sensor"
+    ],
+    "industry": [
+     "construction"
+    ]
+   }
+  },
+  {
+   "title": "Musk, Uber co-founder join call for Jensen Huang's return to Nvidia",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-musk-uber-founder-jensen-huang.html",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "5892e00b17420345",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "companies": [
+     "Uber"
+    ]
+   }
+  },
+  {
+   "title": "Multimodal AI in Healthcare: Review of Vision-Language Foundation Models for Real-World Medical Applications",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.19958v1",
+   "date": "2026-11-15",
+   "source": "",
+   "id": "62a3da47e2678b98",
+   "feed": "arXiv Computer Vision",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "foundation model"
+    ],
+    "industry": [
+     "healthcare"
+    ]
+   }
+  },
+  {
+   "title": "Beyond Vehicle-Centric Data: Scaling Autonomous Driving through Roadside-to-Vehicle Generation",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.19830v1",
+   "date": "2026-11-15",
+   "source": "",
+   "id": "e7ae1b879f40eba8",
+   "feed": "arXiv Computer Vision",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "autonomous"
+    ],
+    "industry": [
+     "vehicle"
+    ]
+   }
+  },
+  {
+   "title": "Causal Discovery for Resiliency-Prioritized Transmission Expansion Planning in Power Systems with Grid-Forming Inverter-Based Resources",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.20292v1",
+   "date": "2026-11-15",
+   "source": "",
+   "id": "ec9ef7b63811be0e",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "grid"
+    ],
+    "industry": [
+     "transmission"
+    ]
+   }
+  },
+  {
+   "title": "Robust Antiferromagnetic Ordering above 500 K in a Family of Bilayer van der Waals Materials",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.20133v1",
+   "date": "2026-11-15",
+   "source": "",
+   "id": "12644b1c3c9b19fe",
+   "feed": "arXiv Materials (batteries, magnets, catalysts)",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "industry": [
+     "bus"
+    ]
+   }
+  },
+  {
+   "title": "Matching two-dimensional statistics does not certify three-dimensional transport in battery electrodes",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.20121v1",
+   "date": "2026-11-15",
+   "source": "",
+   "id": "1db59839d2a280a9",
+   "feed": "arXiv Materials (batteries, magnets, catalysts)",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "battery"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
    "title": "Stage-Gated Biomaterial Strategies for Peri-Implantitis Management",
    "summary": "Abstract Peri-implant biomaterials are commonly compared as isolated antimicrobial technologies, although their clinical relevance depends on linked requirements spanning prevention and treatment. Preventive approaches must preserve tissue integration and future cleanability; once disease develops, treatment must provide access to and disruption of mature biofilm, preserve or recover implant-surface competence, control destructive inflammation, support defect-specific regeneration, and enable durable maintenance. This structured critical review proposes a six-gate framework that evaluates prev",
    "url": "https://doi.org/10.1021/acsomega.6c10063",
@@ -4244,6 +4787,131 @@
     "tech": [
      "satellite",
      "gnss"
+    ]
+   }
+  },
+  {
+   "title": "Robust Well-Log Reconstruction Across Point Gaps and Whole Wells via Boundary-Gated Soft-Thresholding Kalman Fusion",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.19625v1",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "b5536b4643238978",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "fusion"
+    ],
+    "industry": [
+     "bus",
+     "construction"
+    ]
+   }
+  },
+  {
+   "title": "Impact of Wind-Solar-Battery Growth on Electricity Prices: Reserve Scarcity and Transmission Congestion",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.19608v1",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "9a5931087f987ff7",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "battery"
+    ],
+    "industry": [
+     "transmission"
+    ]
+   }
+  },
+  {
+   "title": "Fault Diagnosis and Fault-Tolerant Operation Strategy for Triple-Port Hydrogen Production System",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.19426v1",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "f49e1816c9a90932",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "hydrogen"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Gradient-Based Co-Design of Systems and Reinforcement Learning Policies with Differentiable Simulators",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.19329v1",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "e5da89bacaf7d650",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "companies": [
+     "Gradient"
+    ]
+   }
+  },
+  {
+   "title": "Complete Hypergraph States as a Resource for Robust Quantum Metrology",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.19290v1",
+   "date": "2026-11-14",
+   "source": "",
+   "id": "3131cdb1ad0d6786",
+   "feed": "arXiv Quantum hardware",
+   "kind": "research",
+   "domain_hint": "Compute",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "quantum"
+    ],
+    "industry": [
+     "bus"
+    ]
+   }
+  },
+  {
+   "title": "Feasibility and preliminary validation of a wearable sweat lactate sensor during incremental and steady-state exercise in trained runners",
+   "summary": "Lactate measurement is a cornerstone in the assessment of metabolic stress during exercise. However, blood sampling is invasive and impractical in applied contexts. In this context, sweat has emerged as a promising biological matrix for continuous and non-invasive monitoring of biomarkers, although the validity and reliability of sweat lactate remain controversial. To evaluate the feasibility and preliminary reliability of a new portable sweat lactate sensor, comparing its performance with capillary blood lactate during an incremental protocol and a rectangular protocol in trained runners. Nin",
+   "url": "https://doi.org/10.1016/j.peh.2026.100476",
+   "date": "2026-11-14",
+   "source": "Performance Enhancement & Health",
+   "institutions": [
+    "KTH Royal Institute of Technology",
+    "Universidad Católica de Murcia"
+   ],
+   "id": "cd0bfa2aaaf70c16",
+   "feed": "OpenAlex Nordic – health technology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "sensor"
     ]
    }
   },
@@ -4475,6 +5143,29 @@
    }
   },
   {
+   "title": "Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.18855v1",
+   "date": "2026-11-13",
+   "source": "",
+   "id": "8917bdc30ff659b5",
+   "feed": "arXiv Computer Vision",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "robot",
+     "autonomous"
+    ],
+    "industry": [
+     "vehicle",
+     "port"
+    ]
+   }
+  },
+  {
    "title": "Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.17220v1",
@@ -4681,6 +5372,27 @@
    }
   },
   {
+   "title": "Quantum-inspired orthogonal adapters for certifiably robust medical image classification",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.18775v1",
+   "date": "2026-11-12",
+   "source": "",
+   "id": "470f2f5b892ab189",
+   "feed": "arXiv Computer Vision",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "quantum"
+    ],
+    "industry": [
+     "bus"
+    ]
+   }
+  },
+  {
    "title": "Sri Lanka launches pilot of Chinese flying taxi service",
    "summary": "",
    "url": "https://techxplore.com/news/2026-11-sri-lanka-chinese-flying-taxi.html",
@@ -4699,27 +5411,6 @@
     ],
     "novelty": [
      "pilot"
-    ]
-   }
-  },
-  {
-   "title": "New methods improve 3D scene reconstruction and robot mapping",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-methods-3d-scene-reconstruction-robot.html",
-   "date": "2026-11-11",
-   "source": "",
-   "id": "c9eedbe2304e3e69",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-12",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "robot"
-    ],
-    "industry": [
-     "construction"
     ]
    }
   },
@@ -4832,70 +5523,6 @@
     ],
     "novelty": [
      "scalable"
-    ]
-   }
-  },
-  {
-   "title": "Adaptive Robust Output Regulation of Uncertain Linear Time-Varying Systems",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.15500v1",
-   "date": "2026-11-11",
-   "source": "",
-   "id": "70375ab6da31bb21",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-14",
-   "score": 4,
-   "hits": {
-    "event": [
-     "regulation"
-    ],
-    "industry": [
-     "bus"
-    ]
-   }
-  },
-  {
-   "title": "Planning-Stage Assessment of Battery-Supported Regional Islanding: A South Australian Case Study",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.15364v1",
-   "date": "2026-11-11",
-   "source": "",
-   "id": "7d8eda6fc9402355",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-14",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "battery"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Agreement Is Not Assurance: Evidence-Independent Safety Gates for Agentic AI in DER-Rich Distribution Grids",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.15363v1",
-   "date": "2026-11-11",
-   "source": "",
-   "id": "a6df13dee370951d",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-14",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "agentic",
-     "grid"
-    ],
-    "industry": [
-     "distribution grid"
     ]
    }
   },
@@ -5034,110 +5661,6 @@
    }
   },
   {
-   "title": "Analysis and Demonstration of a Current-Stiff, Isolated Capacitive Bridge Transformer",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.14416v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "03c099b89d41b172",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "event": [
-     "demonstrat"
-    ],
-    "novelty": [
-     "demonstrat"
-    ]
-   }
-  },
-  {
-   "title": "Excitable Behaviours of a First-Order High-Pass Neuron Model",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13985v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "5f62c5982ece1fdc",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "event": [
-     "order"
-    ],
-    "novelty": [
-     "first"
-    ]
-   }
-  },
-  {
-   "title": "Neuromodulation Through Intrinsic Noise",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13780v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "95c80278a9a305bd",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "companies": [
-     "Intrinsic"
-    ]
-   }
-  },
-  {
-   "title": "Decision-Focused Learning via Neural Optimization Layers for Battery-Assisted Grid-Import Smoothing in AI Data Centers",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13694v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "f1b87fb95f003065",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "data center",
-     "battery",
-     "grid"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Data-Driven Robust Dynamic Wireless Charging Lane Planning with Tunable Profit--Risk Trade-off and Modified User Equilibrium",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13538v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "36449f9777e6e6d0",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "charging"
-    ],
-    "industry": [
-     "bus"
-    ]
-   }
-  },
-  {
    "title": "Reading long-range information from a separable quantum record requires entangled measurements",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.14295v1",
@@ -5223,84 +5746,6 @@
    }
   },
   {
-   "title": "Germany's Infineon says AI data center buildout won't slow",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-germany-infineon-ai-center-buildout.html",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "a13152cf3788e98f",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "data center"
-    ],
-    "geo": [
-     "germany"
-    ]
-   }
-  },
-  {
-   "title": "Five things to know about Anthropic",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-anthropic.html",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "d9874db7bdf04633",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "companies": [
-     "Anthropic"
-    ]
-   }
-  },
-  {
-   "title": "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-anthropic-valuation-trillion-company.html",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "3f3fff6ba7d0b52a",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "companies": [
-     "Anthropic"
-    ]
-   }
-  },
-  {
-   "title": "How China gets the Nvidia chips it needs to develop AI",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-china-nvidia-chips-ai.html",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "ab4791cf453ef7c5",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "chip"
-    ],
-    "geo": [
-     "china"
-    ]
-   }
-  },
-  {
    "title": "Establishing Standards for Assessment and Reporting of SNSPD Performance",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.14653v1",
@@ -5348,6 +5793,31 @@
    }
   },
   {
+   "title": "A modular forensic-ready logging framework for medical device systems (FRLF)",
+   "summary": "Medical device software systems rely heavily on logging to support monitoring, debugging, regulatory activities, and post-incident investigation. However, existing logging practices often lack the structure, context, traceability, and integrity required for reliable forensic reconstruction. While forensic readiness frameworks emphasise evidence availability and preservation, they provide limited guidance on what constitutes a forensic-ready log or how such logging should be implemented as a software design feature. This research proposes the Forensic-Ready Logging Framework (FRLF), a technolog",
+   "url": "https://doi.org/10.1016/j.fsidi.2026.302240",
+   "date": "2026-11-10",
+   "source": "Forensic Science International Digital Investigation",
+   "institutions": [
+    "Noroff University College",
+    "University of Plymouth"
+   ],
+   "id": "a76b7b92e82b5f12",
+   "feed": "OpenAlex Nordic – health technology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "medical device"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
    "title": "Caltech robot makes history by building a structure in space",
    "summary": "",
    "url": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
@@ -5365,27 +5835,6 @@
     ],
     "industry": [
      "building"
-    ]
-   }
-  },
-  {
-   "title": "Robust State-Parameter Estimation in Second-Order Thévenin Batteries",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13202v1",
-   "date": "2026-11-09",
-   "source": "",
-   "id": "c6d095be9c6ecf3a",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "event": [
-     "order"
-    ],
-    "industry": [
-     "bus"
     ]
    }
   },
@@ -5694,27 +6143,6 @@
    }
   },
   {
-   "title": "Japan announces emergency cybersecurity package following a wave of attacks",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-japan-emergency-cybersecurity-package.html",
-   "date": "2026-11-07",
-   "source": "",
-   "id": "48ef478d2a8b3284",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "cybersecurity"
-    ],
-    "geo": [
-     "japan"
-    ]
-   }
-  },
-  {
    "title": "Dissecting the Shared Genetic Architecture Between Major Psychiatric Disorders and Metabolic Syndrome",
    "summary": "Metabolic syndrome (MetS) and psychiatric disorders frequently co-occur, suggesting shared biological and genetic mechanisms. However, the genetic architecture underlying this comorbidity remains poorly understood. We performed a large-scale genome-wide investigation to explore the shared genetic architecture between MetS and ten major psychiatric disorders, including attention deficit hyperactivity disorder (ADHD), alcohol dependence (ALC), anorexia nervosa (ANO), anxiety disorder (ANX), autism spectrum disorder (ASD), bipolar disorder (BD), major depressive disorder (MDD), obsessive-compulsi",
    "url": "https://doi.org/10.1186/s40246-026-01071-1",
@@ -5893,27 +6321,6 @@
    }
   },
   {
-   "title": "Agentic AI for Healthcare Claim Denial Analysis: A Policy-Grounded Framework for Privacy Preservation",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.09423v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "10330c027d9b1a36",
-   "feed": "arXiv AI",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-09",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "agentic"
-    ],
-    "industry": [
-     "healthcare"
-    ]
-   }
-  },
-  {
    "title": "Overview of the ImageCLEFmedical 2026 GANs task: Exploring fingerprint detection, privacy leakage, and synthetic medical image generation",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.09455v1",
@@ -6031,45 +6438,6 @@
     "tech": [
      "quantum",
      "gnss"
-    ]
-   }
-  },
-  {
-   "title": "Gradient Boosting for Efficient Rank Discovery in Tensor Network Kernel Machines",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.08093v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "024b37f8a3fbafb6",
-   "feed": "arXiv AI",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "companies": [
-     "Gradient"
-    ]
-   }
-  },
-  {
-   "title": "Towards Scalable Diagnostic-Driven Whole-Slide Image Retrieval for Pathology Archives",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.07935v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "6d5d2ea2b9e47e1a",
-   "feed": "arXiv AI",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "diagnostic"
-    ],
-    "novelty": [
-     "scalable"
     ]
    }
   },
@@ -6544,6 +6912,28 @@
    }
   },
   {
+   "title": "N-GLYcanyzer monitoring of a microperfusion process reveals critical parameters' impact on Trastuzumab biosimilar N-glycoform time evolution",
+   "summary": "Controlling monoclonal antibody (mAb) N-glycosylation as a critical quality attribute (CQA) remains challenging in continuous and intensified biomanufacturing, where conventional end-point analyses obscure dynamic pathway responses. Here, we deployed the N-GLYcanyzer process analytical technology (PAT) for automated monitoring of a microperfusion process that reveals critical parameters' impact on Trastuzumab biosimilar N-glycoform time evolution across a 20-day culture duration of Chinese Hamster Ovary (CHO) cells in a ~2 mL scale-down microbioreactor perfusion platform. Using offline PAT ass",
+   "url": "https://doi.org/10.64898/2026.10.31.763318",
+   "date": "2026-11-03",
+   "source": "biorxiv",
+   "id": "671dbfa2c6ff48ff",
+   "feed": "bioRxiv – bioengineering and synthetic biology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-17",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "fusion",
+     "biomanufacturing"
+    ],
+    "industry": [
+     "manufactur"
+    ]
+   }
+  },
+  {
    "title": "Collective dipole effects amplify field-driven ion transport in amorphous Li$_3$PO$_4$",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.02617v1",
@@ -6727,90 +7117,6 @@
     ],
     "industry": [
      "healthcare"
-    ]
-   }
-  },
-  {
-   "title": "Scalable high-density tactile arenas for measuring ground-contact forces in freely moving animals",
-   "summary": "Understanding how animals physically interact with their environment is fundamental to studying movement, sensorimotor control, and neurological function. Yet most behavioral measurement systems primarily capture movement and posture, while direct measurements of contact forces often require specialized instrumentation or involve trade-offs among spatial coverage, resolution, and acquisition speed. Here, we introduce a scalable tactile sensing platform that transforms the surface beneath freely moving animals into a high-resolution contact-imaging instrument. By combining modular sensor arrays",
-   "url": "https://doi.org/10.64898/2026.10.22.760735",
-   "date": "2026-10-25",
-   "source": "biorxiv",
-   "id": "a639718ee4419539",
-   "feed": "bioRxiv – bioengineering and synthetic biology",
-   "kind": "research",
-   "domain_hint": "Life Sciences & Medtech",
-   "collected": "2026-11-08",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "sensor"
-    ],
-    "novelty": [
-     "scalable"
-    ]
-   }
-  },
-  {
-   "title": "Identifying cohorts at elevated risk of cancers using generative modeling of patient health states",
-   "summary": "While large language models are powerful generators of new text, forecasting disease progression from longitudinal health histories remains a challenging problem. We introduce GenEHR, an autoregressive generative model trained on electronic health records (EHRs) from millions of patients in diverse health systems. The model learns from real-world multimodal patient histories, including diagnoses, medications, lab values, and procedures while explicitly representing irregular intervals between visits to forecast future clinical events. We combine the general-purpose patient representation learn",
-   "url": "https://doi.org/10.64898/2026.09.09.26362676",
-   "date": "2026-10-24",
-   "source": "medrxiv",
-   "id": "36d4bb41ddbd0375",
-   "feed": "medRxiv – health informatics",
-   "kind": "research",
-   "domain_hint": "Life Sciences & Medtech",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "large language model"
-    ],
-    "novelty": [
-     "record"
-    ]
-   }
-  },
-  {
-   "title": "The role of radiographic knee alignment in total knee replacement outcomes and opportunities for artificial intelligence-driven assessment.",
-   "summary": "",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42959533/",
-   "date": "2026-10-16",
-   "source": "Osteoarthritis and cartilage open",
-   "id": "25cb317dbf2a5fa6",
-   "feed": "PubMed – AI diagnostics and imaging",
-   "kind": "research",
-   "domain_hint": "Life Sciences & Medtech",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "artificial intelligence"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Improved Efficiency and Lesion Detection in Small Bowel Capsule Endoscopy Using the Open-Source Artificial Intelligence Model SEE-AI.",
-   "summary": "",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42148037/",
-   "date": "2026-05-15",
-   "source": "DEN open",
-   "id": "bfc2ee52e092ec50",
-   "feed": "PubMed – AI diagnostics and imaging",
-   "kind": "research",
-   "domain_hint": "Life Sciences & Medtech",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "artificial intelligence"
-    ],
-    "novelty": [
-     "efficiency"
     ]
    }
   }

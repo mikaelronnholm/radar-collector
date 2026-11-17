@@ -1,12 +1,12 @@
 {
- "run": "2026-11-16T05:37+00:00",
+ "run": "2026-11-17T05:04+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
    "type": "rss",
    "ok": true,
    "items": 80,
-   "new": 74,
+   "new": 80,
    "error": null
   },
   {
@@ -14,7 +14,7 @@
    "type": "rss",
    "ok": true,
    "items": 80,
-   "new": 77,
+   "new": 72,
    "error": null
   },
   {
@@ -22,7 +22,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 44,
+   "new": 14,
    "error": null
   },
   {
@@ -30,7 +30,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 39,
+   "new": 45,
    "error": null
   },
   {
@@ -38,7 +38,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 7,
+   "new": 8,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 59,
+   "new": 28,
    "error": null
   },
   {
@@ -54,7 +54,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 28,
+   "new": 23,
    "error": null
   },
   {
@@ -62,7 +62,7 @@
    "type": "rss",
    "ok": true,
    "items": 50,
-   "new": 14,
+   "new": 10,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 8,
+   "new": 5,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 9,
+   "new": 7,
    "error": null
   },
   {
@@ -86,23 +86,23 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 5,
+   "new": 1,
    "error": null
   },
   {
    "source": "OpenAlex Nordic – sensing, connectivity, space",
    "type": "openalex",
    "ok": true,
-   "items": 47,
-   "new": 3,
+   "items": 43,
+   "new": 0,
    "error": null
   },
   {
    "source": "OpenAlex Nordic – health technology",
    "type": "openalex",
    "ok": true,
-   "items": 13,
-   "new": 0,
+   "items": 4,
+   "new": 4,
    "error": null
   },
   {
@@ -125,16 +125,16 @@
    "source": "bioRxiv – bioengineering and synthetic biology",
    "type": "rxiv",
    "ok": true,
-   "items": 3,
-   "new": 3,
+   "items": 4,
+   "new": 4,
    "error": null
   },
   {
    "source": "medRxiv – health informatics",
    "type": "rxiv",
    "ok": true,
-   "items": 2,
-   "new": 2,
+   "items": 5,
+   "new": 5,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 2,
+   "new": 4,
    "error": null
   },
   {
@@ -150,7 +150,7 @@
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 4,
+   "new": 28,
    "error": null
   },
   {
@@ -164,6 +164,6 @@
  ],
  "ok": 20,
  "failed": 0,
- "new_items": 381,
- "kept": 287
+ "new_items": 341,
+ "kept": 300
 }

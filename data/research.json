@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T05:04+00:00",
+ "generated": "2026-11-18T05:07+00:00",
  "count": 300,
  "items": [
   {
@@ -44,6 +44,36 @@
     "novelty": [
      "first",
      "novel"
+    ]
+   }
+  },
+  {
+   "title": "A Laboratory on the Road: Europe’s Regulatory Response to the Opacity of Autonomous Vehicles",
+   "summary": "Established frameworks for vehicle regulation are not equipped to certify autonomous driving systems, given that their behaviour in real-world conditions cannot be fully inspected or verified in lab situations. This article examines how European regulators have responded to this challenge in Regulation 2022/1426, the first type approval framework for automated driving systems in Europe. The article extends Burrell’s three forms of algorithmic opacity to also capture the opacity of behaviours emerging from interactions in open, physical environments and uses this to analyse how the regulation r",
+   "url": "https://doi.org/10.5204/lthj.4588",
+   "date": "2026-11-16",
+   "source": "Law Technology and Humans",
+   "institutions": [
+    "Lund University"
+   ],
+   "id": "c86b555b2f928463",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-18",
+   "score": 8,
+   "hits": {
+    "event": [
+     "regulation"
+    ],
+    "tech": [
+     "autonomous"
+    ],
+    "industry": [
+     "vehicle"
+    ],
+    "novelty": [
+     "first"
     ]
    }
   },
@@ -182,6 +212,59 @@
     ],
     "novelty": [
      "record"
+    ]
+   }
+  },
+  {
+   "title": "First-Order Model-Free Policy Gradient for Undiscounted LQR with Global Optimality and Convergence Guarantees",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.21985v1",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "0bb48de768427aa2",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-18",
+   "score": 7,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "companies": [
+     "Gradient"
+    ],
+    "novelty": [
+     "first"
+    ]
+   }
+  },
+  {
+   "title": "Who Benefits From Robots? Gender and Technology on the Shop Floor",
+   "summary": "ABSTRACT The introduction of robots has produced uneven benefits for workers with different skills, occupations, and genders. We examine a qualitative case study of a Norwegian auto‐supply plant to ask why gender inequalities often persist on the shop floor, even in a gender‐progressive institutional context. The introduction of CNC machines in the plant made machining more like the female‐dominated assembly line in skill and strength demands, yet machining remained male‐dominated, with higher pay and greater investment in automation compared to the assembly line. The authors argue that persis",
+   "url": "https://doi.org/10.1111/irel.70054",
+   "date": "2026-11-15",
+   "source": "Industrial Relations A Journal of Economy and Society",
+   "institutions": [
+    "Cornell University",
+    "New York State School of Industrial and Labor Relations",
+    "University of Oslo"
+   ],
+   "id": "5b759d0b6d30281c",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-18",
+   "score": 7,
+   "hits": {
+    "event": [
+     "plant"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "geo": [
+     "norwegian"
     ]
    }
   },
@@ -531,6 +614,27 @@
    }
   },
   {
+   "title": "Anthropic's IPO: How do you price the future of AI?",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-anthropic-ipo-price-future-ai.html",
+   "date": "2026-11-17",
+   "source": "",
+   "id": "9913a305d6159ad1",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-18",
+   "score": 6,
+   "hits": {
+    "event": [
+     "ipo"
+    ],
+    "companies": [
+     "Anthropic"
+    ]
+   }
+  },
+  {
    "title": "XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.20452v1",
@@ -590,6 +694,38 @@
     ],
     "companies": [
      "Amazon"
+    ]
+   }
+  },
+  {
+   "title": "The Jupiter ICy moons Explorer (JUICE) Mission: Post-Launch Status and Mission Overview",
+   "summary": "Abstract The JUpiter ICy Moons Explorer (JUICE) is the first large-class mission in ESA’s Cosmic Vision programme. Proposed in 2007 and selected in 2012, it was launched on 14 April 2023 from Kourou and is now en route towards Jupiter. After arrival in July 2031, JUICE will spend approximately four years studying the Jupiter system, performing multiple flybys of three of its Galilean moons, the icy moons Ganymede, Europa, and Callisto, before entering orbit around Ganymede for its final year. The mission will investigate conditions that may support habitable environments within the satellites,",
+   "url": "https://doi.org/10.1007/s11214-026-01336-0",
+   "date": "2026-11-16",
+   "source": "Space Science Reviews",
+   "institutions": [
+    "Airbus (France)",
+    "CY Cergy Paris Université",
+    "California Institute of Technology",
+    "Centre National de la Recherche Scientifique",
+    "Centrum Badań Kosmicznych",
+    "Czech Academy of Sciences, Institute of Atmospheric Physics"
+   ],
+   "id": "fe321c88a0758c22",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-18",
+   "score": 6,
+   "hits": {
+    "industry": [
+     "esa"
+    ],
+    "companies": [
+     "Overview"
+    ],
+    "novelty": [
+     "first"
     ]
    }
   },
@@ -2367,6 +2503,99 @@
    }
   },
   {
+   "title": "COAST: Safe Flight Corridor Planner for Fast and Robust Snap Minimized Trajectories",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.22447v1",
+   "date": "2026-11-17",
+   "source": "",
+   "id": "eb36baec4fd42ed7",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-18",
+   "score": 5,
+   "hits": {
+    "industry": [
+     "bus"
+    ],
+    "companies": [
+     "Snap"
+    ]
+   }
+  },
+  {
+   "title": "Who Gets the Grid Capacity? Allocating Dynamic Access Among Multiple Virtual Power Plants",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.21981v1",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "9c1b2552a6c246a0",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-18",
+   "score": 5,
+   "hits": {
+    "event": [
+     "plant"
+    ],
+    "tech": [
+     "grid"
+    ]
+   }
+  },
+  {
+   "title": "Tie-Line Scheduling Using Real-Time Contraction Metrics: Hierarchical Reachable Sets for Multi-Area Inverter-Dominated Grids",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.21858v1",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "6896a6be6b9fcd8b",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-18",
+   "score": 5,
+   "hits": {
+    "event": [
+     "contract"
+    ],
+    "tech": [
+     "grid"
+    ]
+   }
+  },
+  {
+   "title": "Development and psychometric validation of the generative AI Educator PerspectoMeter Scale (GAIE-PM) in medical education: a descriptive scale development study",
+   "summary": "Generative artificial intelligence (AI) is increasingly being integrated into medical education, creating both opportunities and concerns for educators. Responsible implementation requires an understanding of educators’ perceptions of its limitations. This study aimed to develop and psychometrically assess the Generative AI Educator PerspectoMeter Scale (GAIE-PM) to measure medical educators’ perceptions of generative AI limitations in medical education. This descriptive scale-development study was conducted among medical educators at medical sciences universities in Iran in 2024. Following a ",
+   "url": "https://doi.org/10.1038/s41598-026-65645-8",
+   "date": "2026-11-16",
+   "source": "Scientific Reports",
+   "institutions": [
+    "Karolinska Institutet",
+    "Kerman University of Medical Sciences",
+    "Rashid Latif Medical College",
+    "Shahid Beheshti University",
+    "Shahid Beheshti University of Medical Sciences",
+    "Shiraz University of Medical Sciences"
+   ],
+   "id": "2518ee29b39115cb",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-18",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "artificial intelligence",
+     "generative ai"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
    "title": "Can AI Judge You? An Empirical Audit of Deployment Readiness in LLM-assisted Hiring Systems",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.20140v1",
@@ -2409,6 +2638,37 @@
     ],
     "novelty": [
      "novel"
+    ]
+   }
+  },
+  {
+   "title": "Layer‐by‐Layer Solvent‐Free Additive Manufacturing Enabling Controllable Ultrathick Electrode Coating for Lithium‐Ion Battery",
+   "summary": "ABSTRACT Dry electrode manufacturing is emerging as a transformative strategy for sustainable lithium‐ion battery production, yet achieving ultrathick electrodes with homogeneous microstructures, efficient electron transport, and high electrochemical utilization remains a fundamental challenge. Here, we report a solvent‐free, layer‐by‐layer additive manufacturing strategy that enables architecturally controlled ultrathick cathodes through molecular‐level coupling between reduced graphene oxide (rGO) and binder. During roll‐to‐roll hot pressing, molten binder infiltrates the rGO framework to fo",
+   "url": "https://doi.org/10.1002/advs.78763",
+   "date": "2026-11-15",
+   "source": "Advanced Science",
+   "institutions": [
+    "Chalmers University of Technology",
+    "Excillum (Sweden)",
+    "Karpagam Academy of Higher Education",
+    "Lawrence Berkeley National Laboratory",
+    "Manipal University Jaipur",
+    "University of Rajasthan"
+   ],
+   "id": "d628dd7578728f4f",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-18",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "battery",
+     "lithium",
+     "additive manufacturing"
+    ],
+    "industry": [
+     "manufactur"
     ]
    }
   },
@@ -2923,6 +3183,35 @@
    }
   },
   {
+   "title": "Enhanced strength-ductility and hydrogen-embrittlement resistance in deep-cryogenic-treated additively manufactured CoCrFeMnNi",
+   "summary": "",
+   "url": "https://doi.org/10.1016/j.ijplas.2026.104884",
+   "date": "2026-11-11",
+   "source": "International Journal of Plasticity",
+   "institutions": [
+    "Advanced Institute for Materials Research, Tohoku University",
+    "KTH Royal Institute of Technology",
+    "Kyoto University",
+    "Nanjing Tech University",
+    "Pohang University of Science and Technology",
+    "Shanghai Jiao Tong University"
+   ],
+   "id": "9c441cfa0d46f63b",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-18",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "hydrogen"
+    ],
+    "industry": [
+     "manufactur"
+    ]
+   }
+  },
+  {
    "title": "Impact of Reduced-Order Modelling on Sum-of-Squares Region-of-Attraction Certification for Grid-Forming and Grid-Following Converters",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.13497v1",
@@ -3370,34 +3659,6 @@
    }
   },
   {
-   "title": "Time-series forecasting of mRDT-positive malaria counts in Tanzania’s lake zone: a comparative evaluation of statistical and machine-learning models using routine surveillance data, 2018–2025",
-   "summary": "Monthly malaria forecasts can support diagnostic and treatment planning when the surveillance outcome and evaluation protocol are clearly defined. We analysed 4,128 council-month records from 43 councils in six Lake Zone regions during January 2018–December 2025. Complete mRDT-positive counts were aggregated to 576 region-month observations and one 96-month Lake Zone series. Six fitted models, an equal-weight ensemble and a seasonal-naive benchmark were evaluated on a fixed-origin 2025 holdout and 37 expanding-window origins with 1–12-month horizons. The dataset contained 11,874,519 mRDT-posit",
-   "url": "https://doi.org/10.1186/s41182-026-01105-3",
-   "date": "2026-11-06",
-   "source": "Tropical Medicine and Health",
-   "institutions": [
-    "Global Water Partnership",
-    "University of Dar es Salaam"
-   ],
-   "id": "e01618ec6ebb0f61",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "diagnostic"
-    ],
-    "industry": [
-     "port"
-    ],
-    "novelty": [
-     "record"
-    ]
-   }
-  },
-  {
    "title": "Accelerated Epoxy Deconstruction via Combined Catalytic Dehydrogenation with Base-Mediated Cleavage",
    "summary": "Abstract Cured epoxy resins and their corresponding glass- and carbon-fiber-reinforced composites are widely used because of their high mechanical strength, chemical resistance, and long-term stability. However, their highly cross-linked structures render them inherently resistant to recycling, with landfilling and incineration remaining the predominant fate for end-of-life products. Existing chemical strategies for epoxy deconstruction are often limited by harsh conditions and poor selectivity. Conversely, strategies employing Ru-, Rh-, and Ni-based catalysts have been reported, offering comp",
    "url": "https://doi.org/10.1021/acsappcat.6c00155",
@@ -3528,35 +3789,6 @@
     ],
     "industry": [
      "port"
-    ]
-   }
-  },
-  {
-   "title": "The marine carbonate system in the northwest European shelf seas: a quality-controlled data product (NWESDAP)",
-   "summary": "Abstract. Continental shelf seas play an important role in the global carbon cycle. At the interface between the land and deep open ocean, shelf seas are typically highly biologically productive, major sites of organic carbon burial in sediments, and are also highly impacted by human activities. To investigate the marine carbon cycle and its variability through space and time, consistent and quality-controlled data products of marine carbonate system variables, such as the Global Ocean Data Analysis Project (GLODAP), are needed. However, GLODAP focuses on the open ocean, limiting its utility f",
-   "url": "https://doi.org/10.5194/essd-2026-872",
-   "date": "2026-11-05",
-   "source": "Earth System Science Data Discussions",
-   "institutions": [
-    "Adaptation et Diversité en Milieu Marin",
-    "Bjerknes Centre for Climate Research",
-    "Centre National de la Recherche Scientifique",
-    "Flanders Marine Institute",
-    "Helmholtz-Zentrum Hereon",
-    "Ifremer"
-   ],
-   "id": "7c5b934d6d09db4e",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "industry": [
-     "port"
-    ],
-    "companies": [
-     "Continental"
     ]
    }
   },
@@ -4062,33 +4294,6 @@
    }
   },
   {
-   "title": "Low-temperature district heating readiness of 2443 multi-family buildings: A network-wide evaluation",
-   "summary": "The transition to low-temperature district heating (LTDH) is a critical component in the decarbonisation of the heating sector through the integration of renewable energy sources. However, the thermal readiness of the existing building stock is perceived as the primary bottleneck in urban cities such as Greater Copenhagen. The purpose of the current study was to evaluate the LTDH readiness of 2,441 multi-family buildings in Greater Copenhagen by integrating hourly smart meter data with Energy Performance Certificate records. This research established a quantitative framework for network-wide e",
-   "url": "https://doi.org/10.1016/j.enbuild.2026.118497",
-   "date": "2026-11-01",
-   "source": "Energy and Buildings",
-   "institutions": [
-    "Technical University of Denmark"
-   ],
-   "id": "72ca53e924e345ee",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-08",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "district heating"
-    ],
-    "industry": [
-     "building"
-    ],
-    "novelty": [
-     "record"
-    ]
-   }
-  },
-  {
    "title": "Biologically Augmented Autologous Minced Cartilage Implantation for Focal Knee Cartilage Lesions in Professional Athletes: Radiological Results and Return to Competition from a Single Sports Medicine Specialized Hospital",
    "summary": "Introduction Minced cartilage implantation (MCI) is a single-stage technique for treating knee cartilage lesions, but athlete-specific evidence remains limited. Objectives To evaluate radiological outcomes and time to return to competition (RTC) after biologically augmented autologous MCI in professional athletes. Methods Professional athletes with full-thickness (International Cartilage Regeneration and Joint Preservation Society [ICRS] grade 3-4) knee cartilage lesions undergoing biologically augmented autologous MCI were included. Lesion severity was graded preoperatively using the Area Mea",
    "url": "https://doi.org/10.1016/j.jcjp.2026.100332",
@@ -4409,6 +4614,155 @@
    }
   },
   {
+   "title": "Technical Report of Mobile Manipulator Robot for Industrial Environments",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.22852v1",
+   "date": "2026-11-17",
+   "source": "",
+   "id": "878933462f44c5a5",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Transmission Expansion and Energy Storage Planning under Great Britain's Uncertain Energy Transition Pathways",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.22711v1",
+   "date": "2026-11-17",
+   "source": "",
+   "id": "c862f87c69be7f4b",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "energy storage"
+    ],
+    "industry": [
+     "transmission"
+    ]
+   }
+  },
+  {
+   "title": "AI Agents Executing an RMS and EMT Ride-Through Workflow on a 2,000-Bus Synthetic Texas Grid: A Case Study with Open-Source Tools",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.22167v1",
+   "date": "2026-11-17",
+   "source": "",
+   "id": "89e5f49871ab453a",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "ai agent",
+     "grid"
+    ],
+    "industry": [
+     "bus"
+    ]
+   }
+  },
+  {
+   "title": "Facet-offset Polytope Expansion for Dynamic Operating Envelopes of Aggregated Distribution Grid Resources",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.22081v1",
+   "date": "2026-11-17",
+   "source": "",
+   "id": "979639c88d299f78",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "grid"
+    ],
+    "industry": [
+     "distribution grid"
+    ]
+   }
+  },
+  {
+   "title": "Robust DOA Estimation for GNSS-like Signals Under Jamming: A Rotation-Enhanced SWN-MUSIC Approach",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.22574v1",
+   "date": "2026-11-17",
+   "source": "",
+   "id": "a15766b83672dc3e",
+   "feed": "arXiv Signal Processing (radar, 6G)",
+   "kind": "research",
+   "domain_hint": "Connectivity",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "gnss"
+    ],
+    "industry": [
+     "bus"
+    ]
+   }
+  },
+  {
+   "title": "Transformer shortages loom for strained US power grid",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-shortages-loom-strained-power-grid.html",
+   "date": "2026-11-17",
+   "source": "",
+   "id": "04b060874ed122e8",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "grid"
+    ],
+    "industry": [
+     "power grid"
+    ]
+   }
+  },
+  {
+   "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-technical-issue-jpmorgan-triggers-online.html",
+   "date": "2026-11-17",
+   "source": "",
+   "id": "62ecfd4be899199a",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "event": [
+     "ban",
+     "delays"
+    ],
+    "industry": [
+     "bank"
+    ]
+   }
+  },
+  {
    "title": "A Lifted Hessian-Riemannian Gradient Flow for LQR Synthesis under Passivity Constraints",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.20757v1",
@@ -4548,6 +4902,159 @@
    "hits": {
     "companies": [
      "Uber"
+    ]
+   }
+  },
+  {
+   "title": "Safe Reinforcement Learning with Hard Constraints: Policy Gradient Methods with Intersample Guarantees",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.21987v1",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "ecb89c8bf3694a8c",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "companies": [
+     "Gradient"
+    ]
+   }
+  },
+  {
+   "title": "Higher-Order Interaction Reconstruction via Integral Physics-Informed Neural Networks",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.21935v1",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "1131e975feaf8294",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "industry": [
+     "construction"
+    ]
+   }
+  },
+  {
+   "title": "Data-Driven Predictive Control for Autonomous Vehicle Racing under Varying Friction",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.21378v1",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "4aae5213ab2d61fd",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "autonomous"
+    ],
+    "industry": [
+     "vehicle"
+    ]
+   }
+  },
+  {
+   "title": "Bandwidth-tunable thermal emitter via dynamic resonator coupling and loss",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.21934v1",
+   "date": "2026-11-16",
+   "source": "",
+   "id": "44d13321a4d62a1a",
+   "feed": "arXiv Applied Physics",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "industry": [
+     "nato"
+    ]
+   }
+  },
+  {
+   "title": "Extending building longevity: wood-based product–service systems",
+   "summary": "Wood has been considered renewable, low-carbon and flexible for use in buildings. Product–service system (PSS) configurations related to building longevity are identified by using PSS archetypes as analytical lenses. These PSS configurations of buildings containing wood are assessed against resource efficiency (RE) and circular economy (CE) hierarchies. Qualitative interviews (n = 31) from Finland provide insights into opportunities for timber products in the building sector. The use of timber in construction and retrofit innovations is examined for flexibility and extending building lifespans",
+   "url": "https://doi.org/10.5334/bc.882",
+   "date": "2026-11-16",
+   "source": "Buildings and Cities",
+   "institutions": [
+    "University of Helsinki"
+   ],
+   "id": "2c7c80b28944adea",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "industry": [
+     "building"
+    ],
+    "novelty": [
+     "efficiency"
+    ]
+   }
+  },
+  {
+   "title": "Life Cycle Assessment of Recycled Plastic: Review on Methodological Choices",
+   "summary": "Abstract In the context of circular economy, plastic recycling plays a crucial role in reducing the environmental impacts of plastic. This study examines how life cycle assessment (LCA) studies define the goal and scope when assessing recycled plastic production, focusing on the relationship between system description and modelling choices. A literature review was performed on 89 selected LCA studies on plastics recycling that consider recycling as a multifunctional process. The review analysed goal definitions, system descriptions, and key scope items, including functional unit, system bounda",
+   "url": "https://doi.org/10.1007/s43615-026-01203-8",
+   "date": "2026-11-16",
+   "source": "Circular Economy and Sustainability",
+   "institutions": [
+    "Chalmers University of Technology",
+    "University of Parma"
+   ],
+   "id": "718c26e93d5e94b6",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "recycling"
+    ]
+   }
+  },
+  {
+   "title": "Multi-satellite constraints reduce uncertainty in modeled aerosol forcing",
+   "summary": "Abstract Aerosol interactions with radiation and clouds remain a dominant source of uncertainty in climate models, limiting confidence in historical climate attribution and future projections. Attempts to reduce the uncertainty in this aerosol Effective Radiative Forcing (ERF) with satellites have relied mainly on cloud observations, leaving the aerosol emissions, properties, and processes that drive it poorly constrained. The recently launched Plankton, Aerosol, Cloud and ocean Ecosystem (PACE) and the Earth Cloud, Aerosol, and Radiation Explorer (EarthCARE) satellites measure aerosol amount,",
+   "url": "https://doi.org/10.21203/rs.3.rs-11566798/v1",
+   "date": "2026-11-16",
+   "source": "Research Square",
+   "institutions": [
+    "Aarhus University",
+    "Royal Netherlands Meteorological Institute",
+    "Scripps Institution of Oceanography",
+    "Space Research Organisation Netherlands",
+    "University of Leeds",
+    "Vrije Universiteit Amsterdam"
+   ],
+   "id": "4db4ae270a1a83a3",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "satellite"
     ]
    }
   },
@@ -4718,28 +5225,6 @@
    }
   },
   {
-   "title": "Strain-Rate Dependence of Hydrogen-Assisted Damage Evolution in Ultrafine-Grained Medium-Mn Steel",
-   "summary": "The strain-rate dependence of hydrogen-assisted damage evolution was investigated in an ultrafine-grained Fe–6Mn–2Al–1Si–0.4C medium-Mn steel using tensile testing, interrupted microstructural characterization, subsurface microscopy, and fractography. Hydrogen charging caused pronounced rate-dependent ductility loss, with relative elongation loss increasing from 24% at 1.7×10−3 s −1 to 48% at 1.7×10−4 s −1 , while the uncharged specimens showed closely comparable tensile responses. Interrupted microstructural characterization revealed similar retained-austenite fractions at both strain rates, ",
-   "url": "https://doi.org/10.1016/j.ijhydene.2026.158695",
-   "date": "2026-11-14",
-   "source": "International Journal of Hydrogen Energy",
-   "institutions": [
-    "Jönköping University",
-    "University of Oulu"
-   ],
-   "id": "cfb5cb8e7d8bc400",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-16",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "hydrogen"
-    ]
-   }
-  },
-  {
    "title": "Silanized bioactive glass-reinforced GelMA/PEGDA hydrogel properties and cell response in an ion-rich environment",
    "summary": "Abstract Purpose GelMA/PEGDA hydrogels have demonstrated good biocompatibility for tissue regeneration, providing a suitable scaffold, while bioactive glass (BG) promotes bone growth. Combining these materials could yield a bone-filling composite. Methods Three GelMA/PEGDA-based hydrogel formulations were prepared: pure hydrogel matrix (M), matrix with BG (M-BG), and with silanized BG (M-MPS-BG). Swelling, degradation and pH changes were analyzed while immersed in PBS. Morphology was analyzed using SEM-EDXA, compression strength was determined, and photoinitiator (Irgacure 2959) leaching was q",
    "url": "https://doi.org/10.1007/s10856-026-07134-y",
@@ -4813,66 +5298,6 @@
    }
   },
   {
-   "title": "Impact of Wind-Solar-Battery Growth on Electricity Prices: Reserve Scarcity and Transmission Congestion",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.19608v1",
-   "date": "2026-11-14",
-   "source": "",
-   "id": "9a5931087f987ff7",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-17",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "battery"
-    ],
-    "industry": [
-     "transmission"
-    ]
-   }
-  },
-  {
-   "title": "Fault Diagnosis and Fault-Tolerant Operation Strategy for Triple-Port Hydrogen Production System",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.19426v1",
-   "date": "2026-11-14",
-   "source": "",
-   "id": "f49e1816c9a90932",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-17",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "hydrogen"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Gradient-Based Co-Design of Systems and Reinforcement Learning Policies with Differentiable Simulators",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.19329v1",
-   "date": "2026-11-14",
-   "source": "",
-   "id": "e5da89bacaf7d650",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-17",
-   "score": 4,
-   "hits": {
-    "companies": [
-     "Gradient"
-    ]
-   }
-  },
-  {
    "title": "Complete Hypergraph States as a Resource for Robust Quantum Metrology",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.19290v1",
@@ -4912,48 +5337,6 @@
    "hits": {
     "tech": [
      "sensor"
-    ]
-   }
-  },
-  {
-   "title": "Phantom energy: New report exposes empty promises behind nuclear power and data centers",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-phantom-energy-exposes-nuclear-power.html",
-   "date": "2026-11-13",
-   "source": "",
-   "id": "29e8d10221efaa8b",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-13",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "data center"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "New AI 'copilot' lets engineers guide structural designs as algorithms create them",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-ai-copilot-algorithms.html",
-   "date": "2026-11-13",
-   "source": "",
-   "id": "2deeeabcc173e432",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-14",
-   "score": 4,
-   "hits": {
-    "event": [
-     "pilot"
-    ],
-    "novelty": [
-     "pilot"
     ]
    }
   },
@@ -5078,71 +5461,6 @@
    }
   },
   {
-   "title": "EPIGRIDS: Documentation and Validation of Seven Open Synthetic Transmission Grid Cases",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.18502v1",
-   "date": "2026-11-13",
-   "source": "",
-   "id": "622043d296ee6782",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-16",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "grid"
-    ],
-    "industry": [
-     "transmission"
-    ]
-   }
-  },
-  {
-   "title": "Grid-Forming AI Data Centers: Coordinated Grid Support Control from IT Loads and Energy Storage",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.18428v1",
-   "date": "2026-11-13",
-   "source": "",
-   "id": "fa14aaeec335bc53",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-16",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "data center",
-     "grid",
-     "energy storage"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Beyond Scalar Inertia: Frequency-Response-Based Assessment of Finite-Duration Inertial Support in Grid-Forming Converters",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.18092v1",
-   "date": "2026-11-13",
-   "source": "",
-   "id": "3a2cc40174bb940d",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-16",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "grid"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
    "title": "Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.18855v1",
@@ -5162,6 +5480,35 @@
     "industry": [
      "vehicle",
      "port"
+    ]
+   }
+  },
+  {
+   "title": "Euclid Data Release 1 (DR1): The MERge processing",
+   "summary": "The ESA satellite mission \\Euclid was launched in July 2023 and started its regular observing mode in February 2024. The data from the \\Euclid instruments Visible Camera (VIS) and the Near IR Spectrometer and Photometer (NISP) are complemented by ground-based imaging data in the $u$, $g$ $r$, $i$, and $z$ bands to enable the determination of photometric redshifts and other galaxy properties. This paper describes the MERge processing function (MER PF) that has been developed and run for the Euclid Data Release 1 (DR1). The aim of the MER PF is to detect objects in the \\Euclid imaging data, meas",
+   "url": "https://doi.org/10.48550/arxiv.2611.17832",
+   "date": "2026-11-13",
+   "source": "arXiv (Cornell University)",
+   "institutions": [
+    "ATG Europe (Netherlands)",
+    "Agenzia Spaziale Italiana",
+    "Aix-Marseille Université",
+    "Arcetri Astrophysical Observatory",
+    "Astronomical Observatory of Capodimonte",
+    "Astronomical Observatory of Rome"
+   ],
+   "id": "ff65081eb03e2b17",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "satellite"
+    ],
+    "industry": [
+     "esa"
     ]
    }
   },
@@ -5265,28 +5612,6 @@
    }
   },
   {
-   "title": "Can STATCOM and UPS-Based Voltage Support Mitigate Fault-Induced Reductions in AI Data Center Grid Power Draw?",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.16569v1",
-   "date": "2026-11-12",
-   "source": "",
-   "id": "0490805f915cdccd",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-14",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "data center",
-     "grid"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
    "title": "AI-powered bionic eye breakthrough could help the blind see again",
    "summary": "",
    "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
@@ -5304,27 +5629,6 @@
     ],
     "novelty": [
      "breakthrough"
-    ]
-   }
-  },
-  {
-   "title": "Methanol substitution suppresses deflagration-excited knock and increases the efficiency of a hydrogen-fuelled CFR engine",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.17449v1",
-   "date": "2026-11-12",
-   "source": "",
-   "id": "571c5194a4b91d76",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-16",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "hydrogen"
-    ],
-    "novelty": [
-     "efficiency"
     ]
    }
   },
@@ -5393,28 +5697,6 @@
    }
   },
   {
-   "title": "Sri Lanka launches pilot of Chinese flying taxi service",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-sri-lanka-chinese-flying-taxi.html",
-   "date": "2026-11-11",
-   "source": "",
-   "id": "51a01eedb70d9ea1",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-12",
-   "score": 4,
-   "hits": {
-    "event": [
-     "launches",
-     "pilot"
-    ],
-    "novelty": [
-     "pilot"
-    ]
-   }
-  },
-  {
    "title": "From emissions to damage: A mechanism-based assessment of artificial intelligence's environmental cost and the limits of the sustainable energy transition",
    "summary": "Artificial intelligence is rapidly transforming the global economy, but its environmental impact presents a clear paradox, as it can improve efficiency while also increasing energy demand. Existing studies focus mainly on emissions, while policymakers care about the associated welfare losses. This paper shifts the analysis from emissions to carbon damage, capturing the monetized cost imposed on economies and societies. It also investigates and quantifies the mediating role of sustainable energy transition in the relationship between artificial intelligence and carbon damage. Using panel data f",
    "url": "https://doi.org/10.1016/j.jenvman.2026.131326",
@@ -5460,69 +5742,6 @@
     ],
     "industry": [
      "construction"
-    ]
-   }
-  },
-  {
-   "title": "Data-center growth impacts household electricity costs more through wholesale prices than through grid reinforcement",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.16095v1",
-   "date": "2026-11-11",
-   "source": "",
-   "id": "278cea3bf236e4be",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-14",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "grid"
-    ],
-    "industry": [
-     "esa"
-    ]
-   }
-  },
-  {
-   "title": "Robust Safe Control Under Uncertainty: Estimation, Contraction, and Regret Bounds",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.15776v1",
-   "date": "2026-11-11",
-   "source": "",
-   "id": "2ca65597f7abc080",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-14",
-   "score": 4,
-   "hits": {
-    "event": [
-     "contract"
-    ],
-    "industry": [
-     "bus"
-    ]
-   }
-  },
-  {
-   "title": "Scalable Reference Electrical Architectures for Modern Data Centers",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.15712v1",
-   "date": "2026-11-11",
-   "source": "",
-   "id": "d77a4e8435f56da2",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-14",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "data center"
-    ],
-    "novelty": [
-     "scalable"
     ]
    }
   },
@@ -5986,6 +6205,29 @@
     ],
     "industry": [
      "bus"
+    ]
+   }
+  },
+  {
+   "title": "Chromosome-level genome assembly of Greenland scurvy-grass ( Cochlearia groenlandica ) reveals extensive centromeric satellite arrays",
+   "summary": "Abstract We present a chromosome-level, haplotype-resolved genome assembly from Greenland scurvy-grass ( Cochlearia groenlandica ). The assembly comprises two pseudo-haplotypes of 322 Mb and 295 Mb, with 89.7% and 95.6% respectively, each scaffolded into 7 chromosomes. Assembly completeness is high (BUSCO 97.8% in each haplotype), with 34,213 and 29,684 annotated protein-coding genes for haplotypes one and two, respectively. The chromosomes contain extensive centromeric satellite arrays that cover up to half of some chromosomes. Their precise functional boundaries remain undetermined.",
+   "url": "https://doi.org/10.64898/2026.11.05.764761",
+   "date": "2026-11-09",
+   "source": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "institutions": [
+    "Swedish University of Agricultural Sciences",
+    "University of Bergen",
+    "University of Oslo"
+   ],
+   "id": "2f2773704b545dc9",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-18",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "satellite"
     ]
    }
   },
@@ -6571,64 +6813,6 @@
    }
   },
   {
-   "title": "Comparison of tomographic wind retrievals with different geometric implementations for multistatic meteor radar networks",
-   "summary": "A growing number of multistatic meteor radar networks are being established worldwide. The multistatic geometry with overlapping observation volumes of several meteor radars or passive receivers permits the inference of higher-order kinematic properties of the wind field or even the retrieval of arbitrary wind fields using tomographic algorithms. Furthermore, there is the long-standing question of the reliability of the vertical wind. In this study, we present a novel Volume Velocity Processing in spherical coordinates and perform an initial cross-comparison to previous implementations of the ",
-   "url": "https://doi.org/10.5194/amt-19-7039-2026",
-   "date": "2026-11-05",
-   "source": "Atmospheric measurement techniques",
-   "institutions": [
-    "British Antarctic Survey",
-    "Embry-Riddle Aeronautical University Daytona Beach Florida Campus",
-    "Embry–Riddle Aeronautical University",
-    "Goddard Space Flight Center",
-    "Institute for Space-Earth Environmental Research, Nagoya University",
-    "NSF NCAR High Altitude Observatory"
-   ],
-   "id": "5057fd031ba4d53f",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "radar"
-    ],
-    "novelty": [
-     "novel"
-    ]
-   }
-  },
-  {
-   "title": "Earth’s crustal magnetic field observed remotely from space",
-   "summary": "Magnetized rocks in Earth’s crust produce the small-scale structure of the geomagnetic field. This crustal field provides important information about the composition, structure, and evolution of Earth’s lithosphere, but is challenging to map because small spatial scales attenuate rapidly with distance and 1 global magnetic observations below typical satellite altitudes are scarce. Here we demonstrate that crustal magnetic field structures can be mapped using a novel remote sensing technique that measures the magnetic field near 80 km from an orbital altitude of approximately 600 km. Using obse",
-   "url": "https://doi.org/10.22541/essoar.15011755/v1",
-   "date": "2026-11-05",
-   "source": "",
-   "institutions": [
-    "California Institute of Technology",
-    "Jet Propulsion Laboratory",
-    "Johns Hopkins University Applied Physics Laboratory",
-    "Technical University of Denmark",
-    "University of Bergen"
-   ],
-   "id": "a060390517852973",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "industry": [
-     "port"
-    ],
-    "novelty": [
-     "demonstrat",
-     "novel"
-    ]
-   }
-  },
-  {
    "title": "Experimental demonstration of dual-polarization nonreciprocal thermal emission at moderate magnetic fields",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.07564v1",
@@ -6731,91 +6915,6 @@
    }
   },
   {
-   "title": "Long-term Prognostic Value of Sequential Coronary CT Angiography and Quantitative PET in Suspected Chronic Coronary Syndromes: A Multicentre study",
-   "summary": "BACKGROUND AND AIMS: The long-term prognostic value of a guideline-recommended selective sequential anatomical-functional imaging strategy using coronary computed tomography angiography (CCTA) followed by quantitative [15O]H2O positron emission tomography (PET) remains uncertain. We evaluated its long-term prognostic value in patients with first symptoms suggestive of obstructive coronary artery disease (CAD). METHODS: In this multicentre European cohort, symptomatic patients first underwent CCTA and were selectively referred to quantitative [15O]H2O PET in case of suspected obstructive stenos",
-   "url": "https://doi.org/10.1093/ehjci/jeag299",
-   "date": "2026-11-04",
-   "source": "European Heart Journal - Cardiovascular Imaging",
-   "institutions": [
-    "Aarhus University",
-    "Amsterdam University Medical Centers",
-    "Canisius-Wilhelmina Ziekenhuis",
-    "Radboud University Medical Center",
-    "Regionshospitalet Viborg",
-    "Turku PET Centre"
-   ],
-   "id": "2783858d81549fed",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "industry": [
-     "nato"
-    ],
-    "novelty": [
-     "first"
-    ]
-   }
-  },
-  {
-   "title": "Healthy Sleep Mitigates the Association Between Cardiometabolic Disease and Poorer Cognitive and Brain Health",
-   "summary": "BACKGROUND: Cardiometabolic diseases (CMDs), including type 2 diabetes, heart disease, and stroke, are important risk factors for dementia. We examined whether healthy sleep can support cognitive and brain health in people with CMDs. METHODS: The study included data from 408 977 adults from the UK Biobank. CMDs were defined using medical records, medication use, and medical history. Sleep patterns were defined using a composite score incorporating sleep duration, chronotype, insomnia symptoms, snoring, and daytime sleepiness. A subsample (n=34 913) underwent brain magnetic resonance imaging; v",
-   "url": "https://doi.org/10.1161/jaha.126.051940",
-   "date": "2026-11-04",
-   "source": "Journal of the American Heart Association",
-   "institutions": [
-    "Hamilton College",
-    "Imperial College London",
-    "Karolinska Institutet",
-    "Northwestern University",
-    "University of Michigan",
-    "University of North Carolina at Chapel Hill"
-   ],
-   "id": "e2825ecec8223479",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "industry": [
-     "port"
-    ],
-    "novelty": [
-     "record"
-    ]
-   }
-  },
-  {
-   "title": "Semaglutide and Kidney Outcomes in Type 2 Diabetes Patients at Low to Moderate Kidney Risk: A Retrospective Active-Comparator Cohort Study",
-   "summary": "Abstract Background Semaglutide has demonstrated kidney benefits in advanced chronic kidney disease (CKD), but evidence in adults with type 2 diabetes at low-to-moderate kidney risk remains limited. We compared kidney outcomes after semaglutide or dipeptidyl peptidase-4 inhibitor (DPP4i) initiation in this population. Methods This retrospective active-comparator, new-user cohort study used data from August 1, 2019 to February 28, 2025 from Maccabi Healthcare Services (MHS), Israel. Adults with type 2 diabetes and low-to-moderate risk according to Kidney Disease: Improving Global Outcomes (KDIG",
-   "url": "https://doi.org/10.21203/rs.3.rs-11365582/v1",
-   "date": "2026-11-04",
-   "source": "Research Square",
-   "institutions": [
-    "Hadassah Medical Center",
-    "Kaplan Medical Center",
-    "Kidney Centre",
-    "Novo Nordisk (Denmark)"
-   ],
-   "id": "4c353834d91db871",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "event": [
-     "demonstrat"
-    ],
-    "novelty": [
-     "demonstrat"
-    ]
-   }
-  },
-  {
    "title": "ProGeo-RC: Prototype-guided Semantic Reliability and Geometric Error Calibration for Semi-supervised Cardiac Image Segmentation",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.04257v1",
@@ -6854,60 +6953,6 @@
     ],
     "novelty": [
      "novel"
-    ]
-   }
-  },
-  {
-   "title": "Evaluation of sea ice variability in three ocean reanalyses and two regional models in the Barents and Kara Seas in 1991–2020",
-   "summary": "Abstract. Satellite measurements indicate that the Barents and Kara Seas have experienced some of the most significant declines in sea ice concentration and an increase in sea surface temperature in the Arctic. Understanding the processes driving these changes is of utmost importance to assess the implications of climate change in the Arctic and globally. Given the observational limitations in these high-latitude areas, coupled models and reanalysis products play a key role. However, it is essential to better understand the strengths and limitations of such data products. Models are often eval",
-   "url": "https://doi.org/10.5194/os-22-3537-2026",
-   "date": "2026-11-03",
-   "source": "Ocean science",
-   "institutions": [
-    "Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung",
-    "Bjerknes Centre for Climate Research",
-    "NORCE Research AS",
-    "Naval Postgraduate School",
-    "University of Helsinki"
-   ],
-   "id": "b892564fd116428a",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "satellite"
-    ]
-   }
-  },
-  {
-   "title": "A closed-to-open cell mixed-phase cloud transition observed over the Nordic Seas under high aerosol loading and strong surface fluxes",
-   "summary": "Abstract. Closed-to-open cell mixed-phase cloud transitions within marine cold air outbreaks subjected to strong turbulent surface fluxes remain poorly understood despite their importance to high-latitude climate. The Cold-Air outbreak Experiment in the Sub-Arctic Region (CAESAR) research aircraft sampled closed-cells with cloud condensation nuclei concentrations surpassing 680 cm-3, decreasing to 90 cm-3 across a transition to open-cells. The aerosol likely originated from Siberian industrial emissions. With fetch, liquid water paths (LWPs) increase from 120 g m-2 to 270 g m-2 and cloud-top e",
-   "url": "https://doi.org/10.5194/acp-26-15375-2026",
-   "date": "2026-11-03",
-   "source": "Atmospheric chemistry and physics",
-   "institutions": [
-    "Aarhus University",
-    "Colorado State University",
-    "Columbia University",
-    "Goddard Institute for Space Studies",
-    "Leibniz Institute for Tropospheric Research",
-    "NILU"
-   ],
-   "id": "d97f782079a51690",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "industry": [
-     "port"
-    ],
-    "geo": [
-     "nordic"
     ]
    }
   },
@@ -7075,48 +7120,6 @@
     "novelty": [
      "demonstrat",
      "in vivo"
-    ]
-   }
-  },
-  {
-   "title": "AuRaSim: A Ray-Tracing Based Automotive FMCW Radar Simulator for Dynamic Scenarios",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2610.37403v1",
-   "date": "2026-10-27",
-   "source": "",
-   "id": "0b8175f70e591ac0",
-   "feed": "arXiv Signal Processing (radar, 6G)",
-   "kind": "research",
-   "domain_hint": "Connectivity",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "radar"
-    ],
-    "industry": [
-     "automotive"
-    ]
-   }
-  },
-  {
-   "title": "Leveraging Artificial Intelligence in Healthcare in Cambodia: Enhancing Access and Patient Outcomes.",
-   "summary": "",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42948795/",
-   "date": "2026-10-27",
-   "source": "Public health challenges",
-   "id": "70aa85d792169404",
-   "feed": "PubMed – AI diagnostics and imaging",
-   "kind": "research",
-   "domain_hint": "Life Sciences & Medtech",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "artificial intelligence"
-    ],
-    "industry": [
-     "healthcare"
     ]
    }
   }

@@ -1,36 +1,36 @@
 {
- "run": "2026-11-17T05:04+00:00",
+ "run": "2026-11-18T05:07+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
    "type": "rss",
-   "ok": true,
-   "items": 80,
-   "new": 80,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "The read operation timed out"
   },
   {
    "source": "arXiv AI",
    "type": "rss",
-   "ok": true,
-   "items": 80,
-   "new": 72,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "The read operation timed out"
   },
   {
    "source": "arXiv Computer Vision",
    "type": "rss",
-   "ok": true,
-   "items": 60,
-   "new": 14,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "The read operation timed out"
   },
   {
    "source": "arXiv Systems & Control",
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 45,
+   "new": 60,
    "error": null
   },
   {
@@ -38,31 +38,31 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 8,
+   "new": 6,
    "error": null
   },
   {
    "source": "arXiv Quantum hardware",
    "type": "rss",
-   "ok": true,
-   "items": 60,
-   "new": 28,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "The read operation timed out"
   },
   {
    "source": "arXiv Materials (batteries, magnets, catalysts)",
    "type": "rss",
-   "ok": true,
-   "items": 60,
-   "new": 23,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "The read operation timed out"
   },
   {
    "source": "arXiv Applied Physics",
    "type": "rss",
    "ok": true,
    "items": 50,
-   "new": 10,
+   "new": 18,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 5,
+   "new": 12,
    "error": null
   },
   {
@@ -86,7 +86,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 1,
+   "new": 8,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
    "type": "openalex",
    "ok": true,
    "items": 43,
-   "new": 0,
+   "new": 7,
    "error": null
   },
   {
@@ -102,7 +102,7 @@
    "type": "openalex",
    "ok": true,
    "items": 4,
-   "new": 4,
+   "new": 0,
    "error": null
   },
   {
@@ -110,7 +110,7 @@
    "type": "pubmed",
    "ok": true,
    "items": 40,
-   "new": 3,
+   "new": 5,
    "error": null
   },
   {
@@ -125,16 +125,16 @@
    "source": "bioRxiv – bioengineering and synthetic biology",
    "type": "rxiv",
    "ok": true,
-   "items": 4,
-   "new": 4,
+   "items": 3,
+   "new": 3,
    "error": null
   },
   {
    "source": "medRxiv – health informatics",
    "type": "rxiv",
    "ok": true,
-   "items": 5,
-   "new": 5,
+   "items": 4,
+   "new": 4,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 4,
+   "new": 6,
    "error": null
   },
   {
@@ -150,7 +150,7 @@
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 28,
+   "new": 30,
    "error": null
   },
   {
@@ -162,8 +162,8 @@
    "error": null
   }
  ],
- "ok": 20,
- "failed": 0,
- "new_items": 341,
+ "ok": 15,
+ "failed": 5,
+ "new_items": 166,
  "kept": 300
 }

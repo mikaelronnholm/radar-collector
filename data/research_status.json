@@ -1,5 +1,5 @@
 {
- "run": "2026-11-20T05:06+00:00",
+ "run": "2026-11-21T05:00+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
@@ -7,7 +7,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 429: Unknown Error"
+   "error": "The read operation timed out"
   },
   {
    "source": "arXiv AI",
@@ -15,7 +15,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 429: Unknown Error"
+   "error": "The read operation timed out"
   },
   {
    "source": "arXiv Computer Vision",
@@ -23,15 +23,15 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 429: Unknown Error"
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "arXiv Systems & Control",
    "type": "rss",
-   "ok": true,
-   "items": 60,
-   "new": 39,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 429: Unknown Error"
   },
   {
    "source": "arXiv Signal Processing (radar, 6G)",
@@ -39,7 +39,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "The read operation timed out"
+   "error": "HTTP Error 429: Unknown Error"
   },
   {
    "source": "arXiv Quantum hardware",
@@ -47,7 +47,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "error": "HTTP Error 429: Unknown Error"
   },
   {
    "source": "arXiv Materials (batteries, magnets, catalysts)",
@@ -60,17 +60,17 @@
   {
    "source": "arXiv Applied Physics",
    "type": "rss",
-   "ok": true,
-   "items": 50,
-   "new": 7,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "The read operation timed out"
   },
   {
    "source": "OpenAlex Nordic – batteries, hydrogen, grid",
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 17,
+   "new": 15,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 17,
+   "new": 18,
    "error": null
   },
   {
@@ -86,14 +86,14 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 7,
+   "new": 15,
    "error": null
   },
   {
    "source": "OpenAlex Nordic – sensing, connectivity, space",
    "type": "openalex",
    "ok": true,
-   "items": 45,
+   "items": 50,
    "new": 7,
    "error": null
   },
@@ -101,7 +101,7 @@
    "source": "OpenAlex Nordic – health technology",
    "type": "openalex",
    "ok": true,
-   "items": 6,
+   "items": 7,
    "new": 1,
    "error": null
   },
@@ -110,7 +110,7 @@
    "type": "pubmed",
    "ok": true,
    "items": 40,
-   "new": 2,
+   "new": 0,
    "error": null
   },
   {
@@ -125,16 +125,16 @@
    "source": "bioRxiv – bioengineering and synthetic biology",
    "type": "rxiv",
    "ok": true,
-   "items": 1,
-   "new": 1,
+   "items": 3,
+   "new": 3,
    "error": null
   },
   {
    "source": "medRxiv – health informatics",
    "type": "rxiv",
    "ok": true,
-   "items": 3,
-   "new": 3,
+   "items": 4,
+   "new": 4,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 1,
+   "new": 6,
    "error": null
   },
   {
@@ -150,7 +150,7 @@
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 30,
+   "new": 21,
    "error": null
   },
   {
@@ -162,8 +162,8 @@
    "error": null
   }
  ],
- "ok": 13,
- "failed": 7,
- "new_items": 132,
+ "ok": 11,
+ "failed": 9,
+ "new_items": 90,
  "kept": 300
 }

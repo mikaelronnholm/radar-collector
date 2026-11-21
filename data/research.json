@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T05:06+00:00",
+ "generated": "2026-11-21T05:00+00:00",
  "count": 300,
  "items": [
   {
@@ -192,6 +192,30 @@
    }
   },
   {
+   "title": "Anthropic falls more than 9% day after record IPO",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-anthropic-falls-day-ipo.html",
+   "date": "2026-11-20",
+   "source": "",
+   "id": "423069eeaeebe75f",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-21",
+   "score": 7,
+   "hits": {
+    "event": [
+     "ipo"
+    ],
+    "companies": [
+     "Anthropic"
+    ],
+    "novelty": [
+     "record"
+    ]
+   }
+  },
+  {
    "title": "China tech giant Alibaba to use more domestic chips",
    "summary": "",
    "url": "https://techxplore.com/news/2026-11-china-tech-giant-alibaba-domestic.html",
@@ -212,6 +236,40 @@
     ],
     "companies": [
      "Alibaba"
+    ]
+   }
+  },
+  {
+   "title": "Reliability-based predictive framework for mechanical anisotropy in robotic large-scale additive manufacturing of wood-based polymer composites",
+   "summary": "Large-scale additive manufacturing of wood-polymer composites is moving from process demonstration toward engineering use, but is limited by the lack of reliable predictive models capable of accounting for their strong anisotropic behaviour. This study establishes a reliability-based predictive framework coupling anisotropic failure criteria with quantified parameter uncertainty, allowing orientation to be selected against a stated reliability target rather than a mean strength. Tensile and flexural specimens of UPM Formi 3D20/19, a 20 wt% cellulose-fibre polylactic acid biocomposite, were cut",
+   "url": "https://doi.org/10.1016/j.matdes.2026.117466",
+   "date": "2026-11-17",
+   "source": "Materials & Design",
+   "institutions": [
+    "Institute of Construction and Architecture of the Slovak Academy of Sciences",
+    "Linnaeus University",
+    "Slovak Academy of Sciences",
+    "Slovak University of Technology in Bratislava"
+   ],
+   "id": "4b09c482ff2c25f0",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-21",
+   "score": 7,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "tech": [
+     "robot",
+     "additive manufacturing"
+    ],
+    "industry": [
+     "manufactur"
+    ],
+    "novelty": [
+     "demonstrat"
     ]
    }
   },
@@ -658,6 +716,123 @@
     ],
     "geo": [
      "eu "
+    ]
+   }
+  },
+  {
+   "title": "Hydrogen-bonded supramolecular liquid crystals with integrated aggregation-induced emission and room-temperature phosphorescence",
+   "summary": "A supramolecular hydrogen-bonding strategy converts a twisted non-mesogenic AIE luminogen into ordered smectic liquid crystals. The hydrogen-bond network acts as a conformation lock, planarising excited states, enhancing intersystem crossing by two orders of magnitude, and activating room-temperature phosphorescence with a lifetime of 8 ms.",
+   "url": "https://doi.org/10.1039/d6cc05916c",
+   "date": "2026-11-19",
+   "source": "Chemical Communications",
+   "institutions": [
+    "Fudan University",
+    "Linköping University",
+    "Ningbo University of Technology",
+    "SR University"
+   ],
+   "id": "503db55df7239e5f",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-21",
+   "score": 6,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "tech": [
+     "hydrogen"
+    ]
+   }
+  },
+  {
+   "title": "Explainable machine learning-assisted exploration of chromatin dynamics reveals chromosome-specific response to serum starvation",
+   "summary": "Chromatin is dynamic at all length scales, influencing chromatin-based processes, such as gene expression. Even large-scale reorganization of whole chromosome territories has been reported upon specific signals, but the lack of suitable methods has prevented analysis of the underlying dynamic processes. Here, we have used CRISPR-Sirius for time-lapse imaging of chromatin loci dynamics during serum starvation. We show that chromosome 1 loci move toward the nuclear envelope during the first hour of serum starvation in a chromosome-specific manner. Machine learning-assisted exploration of acquire",
+   "url": "https://doi.org/10.7554/elife.108797.3",
+   "date": "2026-11-19",
+   "source": "eLife",
+   "institutions": [
+    "Aalto University",
+    "HiLIFE – Elämäntieteiden Instituutti",
+    "Institute for Molecular Medicine Finland",
+    "University of Helsinki"
+   ],
+   "id": "93d7602469c894ae",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-21",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "machine learning"
+    ],
+    "industry": [
+     "port"
+    ],
+    "novelty": [
+     "first"
+    ]
+   }
+  },
+  {
+   "title": "Autonomous Multi-Drone Monitoring of Gregarious Animals: PSO-Based Surface-of-Interest Optimisation from Simulation to Field Deployment",
+   "summary": "Multi-drone systems can provide simultaneous observations of wildlife from complementary viewpoints, but their use in ecological studies remains limited, with most fieldwork still relying on manually piloted single-drone operations. We present an autonomous multi-drone system for multi-perspective monitoring of gregarious animals.Defining each biologically relevant body region as a surface of interest, we formulated monitoring as an optimisation accounting for viewing angle, framing, occlusion, surface priority, and drone–animal stand-off distance. A centralised Particle Swarm Optimisation (PS",
+   "url": "https://doi.org/10.3390/drones10110867",
+   "date": "2026-11-19",
+   "source": "Drones",
+   "institutions": [
+    "Max Planck Institute of Animal Behavior",
+    "Save the Elephants",
+    "University of Konstanz",
+    "University of Southern Denmark"
+   ],
+   "id": "bd99a49e05195b30",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-21",
+   "score": 6,
+   "hits": {
+    "event": [
+     "deployment"
+    ],
+    "tech": [
+     "autonomous",
+     "drone"
+    ],
+    "novelty": [
+     "pilot"
+    ]
+   }
+  },
+  {
+   "title": "Signature of field-induced spin relaxation in the paramagnetic regime of the frustrated triangular antiferromagnet NdZnAl 11 O 19",
+   "summary": "Magnetic frustration along with disorder in rare-earth based magnets provides a fertile ground to explore novel quantum ground state. In this work, the magnetic field induced spin dynamics of a Nd-based triangular lattice compound, NdZnAl11O19, is investigated. X-ray diffraction and inelastic neutron scattering (INS) measurements suggests the positional disorder of Nd3+ ion, where minor fraction of Nd ions (orphan spins) resides at 6h site. Our studies reveal a signature of a Jeff = ½ ground state in low temperature regime in this compound, also, supported through INS analysis. A broad hump is",
+   "url": "https://doi.org/10.1103/3jvc-cng7",
+   "date": "2026-11-19",
+   "source": "Physical review. B./Physical review. B",
+   "institutions": [
+    "European Spallation Source",
+    "ISIS Neutron and Muon Source",
+    "Indian Institute of Technology Mandi"
+   ],
+   "id": "08152b3dbf338743",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-21",
+   "score": 6,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "tech": [
+     "quantum"
+    ],
+    "novelty": [
+     "novel"
     ]
    }
   },
@@ -1921,6 +2096,35 @@
    }
   },
   {
+   "title": "Ground-based GNSS transmissometry reveals contrasting leaf and stem water dynamics in a central Amazon rainforest",
+   "summary": "Vegetation optical depth (VOD) is widely used to monitor vegetation water dynamics, yet its interpretation in dense tropical forests remains uncertain because independent observations of water partitioning among vegetation compartments are scarce. Here, we compare global navigation satellite system transmissometry-derived VOD (GNSS-T VOD) with independent measurements of leaf, stem, and soil water in an old-growth Central Amazon rainforest. Stem water storage (SWS) dominated total vegetation water storage (VWS) and closely tracked seasonal soil moisture. In contrast, GNSS-T VOD exhibited oppos",
+   "url": "https://doi.org/10.1088/1748-9326/aeb4cb",
+   "date": "2026-11-09",
+   "source": "Environmental Research Letters",
+   "institutions": [
+    "California Institute of Technology",
+    "Cornell University",
+    "Finnish Meteorological Institute",
+    "Georgia Institute of Technology",
+    "Instituto Nacional de Pesquisas da Amazônia",
+    "Lawrence Berkeley National Laboratory"
+   ],
+   "id": "dd16c9e0d3b8eea2",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-21",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "gnss"
+    ],
+    "companies": [
+     "Amazon"
+    ]
+   }
+  },
+  {
    "title": "From Festival Video to the Stage: A Sim-to-Real Ladder for Long-Horizon Expressive Whole-Body Dance on a Commercial Humanoid",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.11127v1",
@@ -2872,6 +3076,27 @@
    }
   },
   {
+   "title": "Anthropic soars in record Wall Street debut",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-anthropic-soars-wall-street-debut-1.html",
+   "date": "2026-11-20",
+   "source": "",
+   "id": "900ca90b6605f19f",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-21",
+   "score": 5,
+   "hits": {
+    "companies": [
+     "Anthropic"
+    ],
+    "novelty": [
+     "record"
+    ]
+   }
+  },
+  {
    "title": "Chance-Constrained Joint Beam Hopping Scheduling and Bandwidth Allocation for LEO Satellites",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.26270v1",
@@ -2960,6 +3185,59 @@
     ],
     "novelty": [
      "record"
+    ]
+   }
+  },
+  {
+   "title": "The Runtime Half of the Safety Case Aboard Autonomous Ships: Evaluating Provisos with Claim Graphs and Warrant Records under the MASS Code",
+   "summary": "A safety case makes design-time claims about a vessel that hold only while certain conditions are met in operation, and we call checking these conditions, and responding when one fails, the runtime half of the safety case. Without crew or shore link, an autonomous vessel must perform that runtime half itself. Treating the runtime half as a conformity assessment, of the kind performed in class surveys and flag certification, we derive five functions that a mechanism performing it aboard must provide. We find that the International Code of Safety for Maritime Autonomous Surface Ships requires on",
+   "url": "https://doi.org/10.21203/rs.3.rs-11458659/v1",
+   "date": "2026-11-19",
+   "source": "Research Square",
+   "institutions": [
+    "RISE Research Institutes of Sweden"
+   ],
+   "id": "e121a24a7dc016e7",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-21",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "autonomous"
+    ],
+    "novelty": [
+     "record"
+    ]
+   }
+  },
+  {
+   "title": "Development and external validation of a machine learning model to predict central sensitization symptom burden in psoriatic arthritis",
+   "summary": "Objectives Central sensitization (CS) is a general mechanism of pain amplification. In psoriatic arthritis (PsA), it contributes to pain that is disproportionate to inflammation. We aimed to develop and externally validate machine learning (ML) models to identify clinically significant central sensitization symptom burden in PsA from routinely available clinical and patient-reported variables. Methods Models were developed in a cohort of 223 patients with PsA (CASPAR criteria) and externally validated in 50 patients from two referral centers. The outcome was a Central Sensitization Inventory (",
+   "url": "https://doi.org/10.3389/fimmu.2026.2013699",
+   "date": "2026-11-19",
+   "source": "Frontiers in Immunology",
+   "institutions": [
+    "Campus Bio Medico University Hospital",
+    "European University of Rome",
+    "Link Campus University",
+    "Saint Camillus International University of Health and Medical Sciences",
+    "Umeå University",
+    "University of L'Aquila"
+   ],
+   "id": "47fbc2226972cdf3",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-21",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "machine learning"
+    ],
+    "industry": [
+     "port"
     ]
    }
   },
@@ -3182,36 +3460,6 @@
    }
   },
   {
-   "title": "Traceable Metrological Digital Twin for Robot-Based 3D Inspection: Calibration, Uncertainty Propagation, and Cross-Validation",
-   "summary": "Digital Twins (DTs) are increasingly employed in manufacturing to support simulation, monitoring, and control tasks, but their use in dimensional metrology requires explicit traceability and uncertainty information. This work develops a traceable DT for robot-based 3D inspection by integrating an industrial articulated robot with a laser-line triangulation sensor. The methodology combines robot kinematic identification, optical-sensor characterization, sensor-to-robot referencing, and a machine-readable representation of the calibrated metrological state. Uncertainties associated with the cali",
-   "url": "https://doi.org/10.3390/metrology6040088",
-   "date": "2026-11-18",
-   "source": "Metrology",
-   "institutions": [
-    "Fundación Teknon",
-    "Ideko (Spain)",
-    "National metrology institute VTT MIKES",
-    "Tekniker",
-    "University of the Basque Country"
-   ],
-   "id": "4e8fa3f63bfc9553",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-20",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot",
-     "digital twin"
-    ],
-    "industry": [
-     "port",
-     "manufactur"
-    ]
-   }
-  },
-  {
    "title": "Do local prevention reduce substance-related harm? Analyses of time series data from 196 Swedish municipalities, 2011–2021, with a focus on socioeconomic differences",
    "summary": "Abstract Background This study examines the combined effects of local alcohol, drug, and tobacco prevention efforts on substance-related harm across Swedish municipalities from 2011 to 2021, with particular attention to variation by municipal socioeconomic status (SES). Methods A novel composite prevention index was analyzed in relation to multiple harm indicators using fixed-effects models applied to pooled cross-sectional time-series data. Results Higher levels of local prevention were associated with modest reductions in alcohol-related harm, especially in low-SES municipalities. For exampl",
    "url": "https://doi.org/10.1186/s12889-026-30399-5",
@@ -3260,6 +3508,88 @@
     ],
     "industry": [
      "manufactur"
+    ]
+   }
+  },
+  {
+   "title": "Role of Hydrogen Coverage and Surface Atom Arrangement in Predicting the Composition-Dependent Activity of Au-Pd/Pd(111) Surface Alloys for Hydrogen Evolution",
+   "summary": "Structures, energies, and scripts supporting the full chain from the construction of Au–Pd/Pd(111) surface alloys to the coverage-dependent activity analysis.Preprint: To be addedPrint: To be added Hydrogen-evolution activity on surface alloys is usually predicted from the low-coverage hydrogen adsorption energy. This deposit supports a test of how hydrogen coverage and surface atom arrangement change the composition-dependent activity predicted for Au–Pd/Pd(111) surface alloys from 0 to 76% surface Au. Energies were computed with the UMA machine-learning interatomic potential (uma-s-1p1, OC20",
+   "url": "https://doi.org/10.5281/zenodo.24346697",
+   "date": "2026-11-18",
+   "source": "Zenodo (CERN European Organization for Nuclear Research)",
+   "institutions": [
+    "Ruhr University Bochum",
+    "University of Copenhagen"
+   ],
+   "id": "458b6003f8644564",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-21",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "hydrogen"
+    ],
+    "industry": [
+     "port",
+     "construction"
+    ]
+   }
+  },
+  {
+   "title": "Evidence for p-wave magnetism in electronic band structure of metallic EuSi",
+   "summary": "One active frontier of quantum-matter research is the realization of p -wave symmetry-breaking phases in fermionic systems, long exemplified by the A phase of superfluid helium-3 (refs. 1–3 ). Achieving p -wave superconductivity 4 and its magnetic analogue 5 —characterized by a time-reversal-symmetric, p -wave spin-polarized Fermi surface—remains a grand challenge 6,7 . Despite recent progress in identifying candidate p -wave magnets 5,7–10 , spin-resolved spectroscopic evidence for their electronic structures remains limited. Here we report angle-resolved photoemission spectroscopy (ARPES) an",
+   "url": "https://doi.org/10.1038/s41586-026-11295-9",
+   "date": "2026-11-18",
+   "source": "Nature",
+   "institutions": [
+    "Czech Academy of Sciences",
+    "Deutsches Elektronen-Synchrotron DESY",
+    "Diamond Light Source",
+    "FZU - Institute of Physics of the Czech Academy of Sciences",
+    "Helmholtz-Zentrum Berlin für Materialien und Energie",
+    "Hong Kong University of Science and Technology"
+   ],
+   "id": "908b4216e82e17b6",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-21",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "quantum"
+    ]
+   }
+  },
+  {
+   "title": "Satellite embedding‑based mapping of grassland mowing frequency and its response to drought in Denmark",
+   "summary": "Mowing frequency is a primary indicator of grassland management intensity, forage productivity, and biogeochemical dynamics. Yet, despite a growing body of literature, operational frameworks capable of mapping cutting regimes at a regional scale remain computationally demanding and lack independent benchmarking. Here, we evaluate the potential of Google AlphaEarth annual satellite embeddings to map grassland mowing frequency across Denmark (2017–2023) at 10-m resolution. Using farmer logs across multiple years (n = 346), Random Forest emerged as the top-performing classifier, achieving an over",
+   "url": "https://doi.org/10.1016/j.jag.2026.105687",
+   "date": "2026-11-18",
+   "source": "International Journal of Applied Earth Observation and Geoinformation",
+   "institutions": [
+    "Aarhus University",
+    "Karlsruhe Institute of Technology",
+    "Knowledge Centre for Agriculture",
+    "University of Milan"
+   ],
+   "id": "856b58d0b005a2f6",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-21",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "satellite"
+    ],
+    "geo": [
+     "denmark"
     ]
    }
   },
@@ -3342,58 +3672,6 @@
     ],
     "novelty": [
      "record"
-    ]
-   }
-  },
-  {
-   "title": "How far can a surrogate travel? Mapping cross-climate transferability of building energy surrogates considering limited data budget",
-   "summary": "Machine learning (ML) surrogate models accelerate early-stage building energy prediction by replacing slow physics-based simulation, but a surrogate is often tied to the climate of its training data, and reusing it elsewhere normally requires regenerating datasets and retraining. Transfer learning (TL) offers a potential solution by reusing a surrogate trained in one city for another, yet its reliability under cross-climate weather domain shifts remains poorly understood, and practitioners lack guidance on when it is worthwhile. This study investigates how far an ML building energy surrogate c",
-   "url": "https://doi.org/10.1016/j.egyr.2026.109934",
-   "date": "2026-11-17",
-   "source": "Energy Reports",
-   "institutions": [
-    "Chalmers University of Technology",
-    "University of Washington"
-   ],
-   "id": "10ff501cf30508c7",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-19",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "machine learning"
-    ],
-    "industry": [
-     "building"
-    ]
-   }
-  },
-  {
-   "title": "Machine Learning-Guided Design of Peptide-Targeted CRISPR Vectors for Tissue-Specific Non-Coding RNA Knockdown",
-   "summary": "CRISPR-based genome/epigenome editing and RNA-targeted therapeutics offer unprecedented precision for correcting disease-causing mutations, yet clinical translation remains constrained by two unresolved bottlenecks: suboptimal guide RNA (gRNA) design limiting editing efficiency and specificity, and the absence of safe, tissue-selective delivery platforms. While machine learning (ML)-driven gRNA design and peptide-mediated delivery have each advanced substantially in isolation, to our knowledge, no existing framework jointly optimizes predictive guide-design models and delivery-vector design wi",
-   "url": "https://doi.org/10.3390/ijms272210322",
-   "date": "2026-11-17",
-   "source": "International Journal of Molecular Sciences",
-   "institutions": [
-    "Lebanese French University",
-    "Salahaddin University-Erbil",
-    "Uppsala University",
-    "Uppsala University Hospital"
-   ],
-   "id": "d8bf8d3f580be8c8",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-19",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "machine learning"
-    ],
-    "novelty": [
-     "efficiency"
     ]
    }
   },
@@ -3500,34 +3778,6 @@
    }
   },
   {
-   "title": "Task-level assessment of robotic solutions in warehouses: a human-centric framework",
-   "summary": "Technological advancements are transforming warehouse operations, as robotic solutions are increasingly deployed to enhance efficiency and productivity. Although these technologies reduce physical strain and automate repetitive tasks, their broader effects on human factors (HFs), including perceptual, mental, physical, and psychosocial dimensions, remain insufficiently understood. Moreover, explicit links between specific robotic capabilities and task-level effects on workers remain limited. To address this gap, this study develops a human-centric, task-level framework for evaluating how diffe",
-   "url": "https://doi.org/10.1080/00207543.2026.2762312",
-   "date": "2026-11-16",
-   "source": "International Journal of Production Research",
-   "institutions": [
-    "Norwegian University of Science and Technology",
-    "Saarland University"
-   ],
-   "id": "cb70ad4de1076211",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-19",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot"
-    ],
-    "industry": [
-     "warehouse"
-    ],
-    "novelty": [
-     "efficiency"
-    ]
-   }
-  },
-  {
    "title": "Can AI Judge You? An Empirical Audit of Deployment Readiness in LLM-assisted Hiring Systems",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.20140v1",
@@ -3625,32 +3875,6 @@
     ],
     "novelty": [
      "low-cost"
-    ]
-   }
-  },
-  {
-   "title": "Ten key principles for reusable and transferable XR in European Industrial Virtual Worlds",
-   "summary": "Abstract Industrial Virtual Worlds promise gains in remote collaboration, efficiency, and safety, but a lack of reusability and standardization leaves the field fragmented, with XR solutions that scale and adapt poorly. We report the transfer of a collaborative XR system between two industrial projects: an initial project that built a 5G-based remote maintenance demonstrator, and a follow-up project on AI-supported work systems in the textile industry, in which three XR demonstrators were built. Across both, we observe frictions from shifting working conditions, hardware discontinuation, and u",
-   "url": "https://doi.org/10.1515/icom-2026-0075",
-   "date": "2026-11-14",
-   "source": "i-com",
-   "institutions": [
-    "Fraunhofer Institute for Applied Information Technology",
-    "KTH Royal Institute of Technology"
-   ],
-   "id": "16f078dc2f0fcca6",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-16",
-   "score": 5,
-   "hits": {
-    "event": [
-     "standard"
-    ],
-    "novelty": [
-     "demonstrat",
-     "efficiency"
     ]
    }
   },
@@ -4255,27 +4479,6 @@
    }
   },
   {
-   "title": "Tesla's Cybertruck heads for an exit after years of hype and division",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-tesla-cybertruck-exit-years-hype.html",
-   "date": "2026-11-07",
-   "source": "",
-   "id": "f6e49098e6b6fe3b",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "industry": [
-     "truck"
-    ],
-    "companies": [
-     "Tesla"
-    ]
-   }
-  },
-  {
    "title": "An Overview on Multimodal Wireless and Visual Sensing for Environment Reconstruction: Opportunities and Challenges",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.10516v1",
@@ -4603,58 +4806,6 @@
     ],
     "tech": [
      "hydrogen"
-    ]
-   }
-  },
-  {
-   "title": "Adsorbate Resonance-Assisted Hydrogen Bonding across Solid Interfaces",
-   "summary": "In this work, we identify and characterize a cooperative interaction between adsorbates in which hydrogen bonding and surface-mediated bond redistribution reinforce one another across a solid interface. We show that this phenomenon, which we term adsorbate resonance-assisted hydrogen bonding (ARAHB), arises from the transfer of covalent bond character along a hydrogen-bond coordinate, coupled to bond redistribution throughout the adsorbate-surface complex. We develop a computational workflow to test and identify ARAHB among coadsorbates. Although first identified computationally, we connect AR",
-   "url": "https://doi.org/10.26434/chemrxiv.15011672/v1",
-   "date": "2026-11-04",
-   "source": "ChemRxiv",
-   "institutions": [
-    "University of Copenhagen"
-   ],
-   "id": "13d256d1633378c1",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "hydrogen"
-    ],
-    "novelty": [
-     "first"
-    ]
-   }
-  },
-  {
-   "title": "Graphene quantum Dots-Based Materials: Concepts, Engineering, Advances, and challenges towards electrochemical energy systems",
-   "summary": "Graphene quantum dots (GQDs) are next-generation class of zero-dimensional carbon-based nanomaterials exhibit variable bandgap energies and quantum dimensional effect suitable for advanced electrochemical energy conversion and storage applications. Their intrinsic properties such as high specific surface area, chemical versatility, and electrochemical stability increase their performance characteristics in electrocatalytic systems, batteries, and supercapacitors. GQDs is an exceptional support for anchoring various active materials, such as metal nanoparticles or metal oxides, providing an acc",
-   "url": "https://doi.org/10.1016/j.fuel.2026.141875",
-   "date": "2026-11-04",
-   "source": "Fuel",
-   "institutions": [
-    "GLA University",
-    "King Saud University",
-    "Shanghai University",
-    "University of Glasgow",
-    "University of Southern Denmark"
-   ],
-   "id": "4b1a62bd5c85387d",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-07",
-   "score": 5,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "tech": [
-     "quantum"
     ]
    }
   },
@@ -5125,20 +5276,82 @@
    }
   },
   {
-   "title": "Anthropic soars in Wall Street debut despite AI jitters",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-anthropic-soars-wall-street-debut.html",
+   "title": "MS-TF-SD2: Multi-Scale Time-frequency Spectral Derivative Spike Detection for the early onset prediction of mood episodes in bipolar disorder in a remote longitudinal study using wearables",
+   "summary": "Bipolar disorder is characterized by recurrent depressive and (hypo)manic episodes that cause substantial disability, hospitalization, and elevated suicide risk yet early prodromal signals are frequently subtle and missed in standard clinical care. Our aim was to develop an algorithm that jointly handles non-stationarity, irregular sampling, and transient anomaly detection in wearable data, unveiling patterns of prodromal early warning signs that often manifest as subtle disruptions of activity, sleep, and mood preceding severe mood episodes. We developed and validated the Multi-Scale Time-Fre",
+   "url": "https://doi.org/10.1016/j.bspc.2026.111870",
    "date": "2026-11-19",
-   "source": "",
-   "id": "19e1e4035413d9ca",
-   "feed": "Phys.org Technology",
+   "source": "Biomedical Signal Processing and Control",
+   "institutions": [
+    "Centre for Addiction and Mental Health",
+    "Dalarna University",
+    "The University of Texas Southwestern Medical Center",
+    "University of Toronto"
+   ],
+   "id": "f18aead726fe9dce",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
    "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-20",
+   "domain_hint": "Materials",
+   "collected": "2026-11-21",
    "score": 4,
    "hits": {
-    "companies": [
-     "Anthropic"
+    "event": [
+     "ipo",
+     "order"
+    ],
+    "industry": [
+     "hospital"
+    ]
+   }
+  },
+  {
+   "title": "When endoscopy is not required: reducing low value care for more sustainable endoscopy – European Society of Gastrointestinal Endoscopy (ESGE) Position Statement Update 2026 recycling ESGE published guidelines and position statements",
+   "summary": "The European Society of Gastrointestinal Endoscopy (ESGE) published its first Position Statement on digestive conditions that do not require endoscopy in 2020. Since then, multiple ESGE guidelines have expanded recommendations that promote appropriate indications, de-escalation of surveillance, and evidence-based avoidance of low value procedures. In parallel, avoiding unnecessary endoscopy has emerged as a major strategy for reducing the environmental burden of gastrointestinal endoscopy. This updated Position Statement consolidates such ESGE recommendations into a practical framework definin",
+   "url": "https://doi.org/10.1055/a-2982-8071",
+   "date": "2026-11-19",
+   "source": "Endoscopy",
+   "institutions": [
+    "Administração Regional de Saúde de Lisboa e Vale do Tejo",
+    "Amsterdam University Medical Centers",
+    "Assistance Publique – Hôpitaux de Paris",
+    "Emek Medical Center",
+    "Hospices Civils de Lyon",
+    "Hospital Universitario Ramón y Cajal"
+   ],
+   "id": "2c6593dd1c0c36bd",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-21",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "recycling"
+    ],
+    "novelty": [
+     "first"
+    ]
+   }
+  },
+  {
+   "title": "Subtype-specific autophagy profiles in Renal Cell Carcinoma",
+   "summary": "Autophagy is a highly conserved cellular mechanism essential for recycling intracellular components and providing energy and maintaining cellular homeostasis. The role of autophagy in cancer is double sided, where it can suppress tumorigenesis by degrading damaged organelles and preventing chronic inflammation while supporting survival of existing tumor cells to survive during starvation and stress, and thus support tumor growth. The role of autophagy in renal cell carcinoma (RCC), the most common type of kidney cancer, remains insufficiently described. RCC originates from epithelial cells of ",
+   "url": "https://doi.org/10.64898/2026.11.17.767069",
+   "date": "2026-11-19",
+   "source": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "institutions": [
+    "Akershus University Hospital",
+    "Oslo University Hospital",
+    "University of Oslo"
+   ],
+   "id": "243ada58943766a1",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-21",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "recycling"
     ]
    }
   },
@@ -5247,6 +5460,62 @@
    "hits": {
     "tech": [
      "satellite"
+    ]
+   }
+  },
+  {
+   "title": "Towards sustainable and circular power semiconductor switches: Methodologies, challenges, and potential solutions",
+   "summary": "",
+   "url": "https://doi.org/10.1016/j.rser.2026.117696",
+   "date": "2026-11-18",
+   "source": "Renewable and Sustainable Energy Reviews",
+   "institutions": [
+    "Aalborg University",
+    "Harbin Institute of Technology",
+    "Hefei University of Technology",
+    "Hong Kong Polytechnic University",
+    "Tsinghua University",
+    "University of Cambridge"
+   ],
+   "id": "0a78e3be020c2e13",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-21",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "semiconductor"
+    ]
+   }
+  },
+  {
+   "title": "Soil moisture retrieval for dense vegetation considering time-varying first-order scattering from SMAP L-band dual-polarized brightness temperatures",
+   "summary": "",
+   "url": "https://doi.org/10.1016/j.rse.2026.115787",
+   "date": "2026-11-18",
+   "source": "Remote Sensing of Environment",
+   "institutions": [
+    "Ajou University",
+    "Finnish Meteorological Institute",
+    "Gwangju Institute of Science and Technology",
+    "Jet Propulsion Laboratory",
+    "Massachusetts Institute of Technology",
+    "Ulsan National Institute of Science and Technology"
+   ],
+   "id": "d4d8db5a4ec75456",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-21",
+   "score": 4,
+   "hits": {
+    "event": [
+     "order",
+     "ban"
+    ],
+    "novelty": [
+     "first"
     ]
    }
   },
@@ -5499,85 +5768,6 @@
    }
   },
   {
-   "title": "Multi-satellite constraints reduce uncertainty in modeled aerosol forcing",
-   "summary": "Abstract Aerosol interactions with radiation and clouds remain a dominant source of uncertainty in climate models, limiting confidence in historical climate attribution and future projections. Attempts to reduce the uncertainty in this aerosol Effective Radiative Forcing (ERF) with satellites have relied mainly on cloud observations, leaving the aerosol emissions, properties, and processes that drive it poorly constrained. The recently launched Plankton, Aerosol, Cloud and ocean Ecosystem (PACE) and the Earth Cloud, Aerosol, and Radiation Explorer (EarthCARE) satellites measure aerosol amount,",
-   "url": "https://doi.org/10.21203/rs.3.rs-11566798/v1",
-   "date": "2026-11-16",
-   "source": "Research Square",
-   "institutions": [
-    "Aarhus University",
-    "Royal Netherlands Meteorological Institute",
-    "Scripps Institution of Oceanography",
-    "Space Research Organisation Netherlands",
-    "University of Leeds",
-    "Vrije Universiteit Amsterdam"
-   ],
-   "id": "4db4ae270a1a83a3",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-18",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "satellite"
-    ]
-   }
-  },
-  {
-   "title": "Towards Inter-satellite Laser Metrology for Formation Flying Interferometry",
-   "summary": "Context. The direct detection and atmospheric characterization of terrestrial exoplanets has been highlighted as a key science focus by the US ASTRO2020 Decadal survey and the ESA Voyage 2050 plan. This will require a new generation of telescope which is able to meet the contrast requirements necessary to image a planet many orders of magnitude fainter than its host star - a technological feat which currently limits our observation capabilities. In the mid-infrared, the most viable solution has been shown to be a formation-flying nulling space interferometer. Aims. In this work, we present the",
-   "url": "https://doi.org/10.48550/arxiv.2611.20520",
-   "date": "2026-11-16",
-   "source": "arXiv (Cornell University)",
-   "institutions": [
-    "Australian National University",
-    "Quantum Technologies (Sweden)",
-    "Quantum Technology Sciences (United States)"
-   ],
-   "id": "1ae6d7716a97c0ea",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-19",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "satellite"
-    ],
-    "industry": [
-     "esa"
-    ]
-   }
-  },
-  {
-   "title": "A multi-resolution terrain elevation dataset from ICESat-2 photon-counting laser altimetry data",
-   "summary": "The Ice, Cloud, and land Elevation Satellite-2 (ICESat-2) ATL08 product provides terrain elevations along the ground track at both 100 m and 20 m resolutions, proving a valuable resource for high-accuracy terrain extraction. However, the use of multi-resolution laser altimetry data for high-accuracy terrain extraction remains underexplored. To bridge this gap, we adopt a high-accuracy terrain extraction method incorporating multi-resolution observation accuracy and quality labels. Using 59 months of ATL08 product collected in Finland, we extracted 10.94 million high-accuracy terrain observatio",
-   "url": "https://doi.org/10.1080/10095020.2026.2759570",
-   "date": "2026-11-16",
-   "source": "Geo-spatial Information Science",
-   "institutions": [
-    "Finnish Geospatial Research Institute",
-    "Maanmittauslaitos",
-    "Tongji University",
-    "Wuhan University"
-   ],
-   "id": "d128de841ed44a21",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-20",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "satellite"
-    ],
-    "industry": [
-     "esa"
-    ]
-   }
-  },
-  {
    "title": "Multimodal AI in Healthcare: Review of Vision-Language Foundation Models for Real-World Medical Applications",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.19958v1",
@@ -5662,57 +5852,6 @@
    }
   },
   {
-   "title": "Stage-Gated Biomaterial Strategies for Peri-Implantitis Management",
-   "summary": "Abstract Peri-implant biomaterials are commonly compared as isolated antimicrobial technologies, although their clinical relevance depends on linked requirements spanning prevention and treatment. Preventive approaches must preserve tissue integration and future cleanability; once disease develops, treatment must provide access to and disruption of mature biofilm, preserve or recover implant-surface competence, control destructive inflammation, support defect-specific regeneration, and enable durable maintenance. This structured critical review proposes a six-gate framework that evaluates prev",
-   "url": "https://doi.org/10.1021/acsomega.6c10063",
-   "date": "2026-11-14",
-   "source": "ACS Omega",
-   "institutions": [
-    "Justus-Liebig-Universität Gießen",
-    "Region Norrbotten",
-    "Sunderby sjukhus",
-    "Umeå University",
-    "University of Oslo"
-   ],
-   "id": "6ea87a104d73a898",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-15",
-   "score": 4,
-   "hits": {
-    "event": [
-     "plant"
-    ]
-   }
-  },
-  {
-   "title": "Silanized bioactive glass-reinforced GelMA/PEGDA hydrogel properties and cell response in an ion-rich environment",
-   "summary": "Abstract Purpose GelMA/PEGDA hydrogels have demonstrated good biocompatibility for tissue regeneration, providing a suitable scaffold, while bioactive glass (BG) promotes bone growth. Combining these materials could yield a bone-filling composite. Methods Three GelMA/PEGDA-based hydrogel formulations were prepared: pure hydrogel matrix (M), matrix with BG (M-BG), and with silanized BG (M-MPS-BG). Swelling, degradation and pH changes were analyzed while immersed in PBS. Morphology was analyzed using SEM-EDXA, compression strength was determined, and photoinitiator (Irgacure 2959) leaching was q",
-   "url": "https://doi.org/10.1007/s10856-026-07134-y",
-   "date": "2026-11-14",
-   "source": "Journal of Materials Science Materials in Medicine",
-   "institutions": [
-    "Nordic Institute of Dental Materials",
-    "University of Turku",
-    "Varsinais-Suomen Sairaanhoitopiiri"
-   ],
-   "id": "81a3f9a2bf458587",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-16",
-   "score": 4,
-   "hits": {
-    "event": [
-     "demonstrat"
-    ],
-    "novelty": [
-     "demonstrat"
-    ]
-   }
-  },
-  {
    "title": "Robust Well-Log Reconstruction Across Point Gaps and Whole Wells via Boundary-Gated Soft-Thresholding Kalman Fusion",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.19625v1",
@@ -5774,36 +5913,6 @@
    "hits": {
     "tech": [
      "sensor"
-    ]
-   }
-  },
-  {
-   "title": "Cost implications of reproductive outcomes in adult patients with advanced Hodgkin lymphoma in the European Union: evaluated from the Danish and Italian healthcare and societal perspectives",
-   "summary": "Aim: To estimate the reproductive and economic impact of interim positron emission tomography (iPET)-guided brentuximab vedotin, etoposide, cyclophosphamide, doxorubicin, dacarbazine and dexamethasone (BrECADD) versus iPET escalated etoposide, doxorubicin, and cyclophosphamide, bleomycin, vincristine, procarbazine and prednisone (eBEACOPP) in patients of childbearing potential (POCBP) receiving frontline treatment for advanced Hodgkin lymphoma, using healthcare and societal perspectives in Denmark and Italy. Materials & methods: An exploratory cost-consequence analysis was developed using HD21",
-   "url": "https://doi.org/10.57264/cer-2026-0105",
-   "date": "2026-11-13",
-   "source": "Journal of Comparative Effectiveness Research",
-   "institutions": [
-    "Azienda Ospedaliero-Universitaria delle Marche",
-    "Copenhagen University Hospital",
-    "IRCCS Azienda Ospedliero-Universitaria di Bologna Policlinico di Sant'Orsola",
-    "Marche Polytechnic University",
-    "Rigshospitalet",
-    "Takeda (Italy)"
-   ],
-   "id": "0d242f518e98349e",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-15",
-   "score": 4,
-   "hits": {
-    "industry": [
-     "healthcare"
-    ],
-    "geo": [
-     "danish",
-     "european union"
     ]
    }
   },
@@ -6074,55 +6183,6 @@
     ],
     "industry": [
      "bus"
-    ]
-   }
-  },
-  {
-   "title": "From emissions to damage: A mechanism-based assessment of artificial intelligence's environmental cost and the limits of the sustainable energy transition",
-   "summary": "Artificial intelligence is rapidly transforming the global economy, but its environmental impact presents a clear paradox, as it can improve efficiency while also increasing energy demand. Existing studies focus mainly on emissions, while policymakers care about the associated welfare losses. This paper shifts the analysis from emissions to carbon damage, capturing the monetized cost imposed on economies and societies. It also investigates and quantifies the mediating role of sustainable energy transition in the relationship between artificial intelligence and carbon damage. Using panel data f",
-   "url": "https://doi.org/10.1016/j.jenvman.2026.131326",
-   "date": "2026-11-11",
-   "source": "Journal of Environmental Management",
-   "institutions": [
-    "University of Vaasa"
-   ],
-   "id": "78442d1ae265f2f8",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-13",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "artificial intelligence"
-    ],
-    "novelty": [
-     "efficiency"
-    ]
-   }
-  },
-  {
-   "title": "Automated 3D Reconstruction of Mycorrhizal Fungal Structures from Bright-Field Microscopy Using Oriented Bounding Boxes and Focus Modeling",
-   "summary": "Abstract Background Fungal networks play a fundamental role in soil ecology and plant symbiosis, yet their three-dimensional characterization remains challenging due to their complex filamentous morphology and the limitations of conventional microscopy image analysis. This work presents a data-driven framework for three-dimensional reconstruction of fungal structures from bright-field microscopy, combining YOLO-based oriented bounding box (OBB) detection with continuous focus modeling for depth estimation. Addressing a problem explored by relatively few existing microscopy-based reconstruction",
-   "url": "https://doi.org/10.21203/rs.3.rs-11394217/v1",
-   "date": "2026-11-11",
-   "source": "Research Square",
-   "institutions": [
-    "Italian Institute of Technology",
-    "University of Southern Denmark"
-   ],
-   "id": "16db96740f8ac6bf",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-13",
-   "score": 4,
-   "hits": {
-    "event": [
-     "plant"
-    ],
-    "industry": [
-     "construction"
     ]
    }
   },
@@ -6641,27 +6701,28 @@
    }
   },
   {
-   "title": "Biochemical Basis and Therapeutic Relevance of Cathepsins in Cancer: Recent Advances",
-   "summary": "Background/Objectives: Cathepsins, a family of lysosomal proteases essential for cellular proteostasis, have functions that extend beyond canonical degradation and recycling processes. Their dysregulation has been strongly associated with tumorigenesis, where cathepsins promote multiple hallmarks of cancer, including extracellular matrix remodeling, invasion, proliferation, and inflammation. Both intracellular and extracellular cathepsin activities contribute to tumor microenvironment shaping and influence the response to anticancer therapies, particularly chemoresistance. This review aims to ",
-   "url": "https://doi.org/10.3390/biom16111629",
+   "title": "Methodological Adherence, Reporting Completeness, and Risk of Bias in AI-Assisted Systematic Reviews: A Matched Meta-Research Study",
+   "summary": "BackgroundArtificial intelligence (AI) is increasingly used to accelerate systematic reviews that inform clinical practice and policy. However, evidence on the methodological adherence, reporting completeness, and risk of bias of completed AI-assisted reviews is limited.\n\nObjectiveTo compare methodological adherence, reporting completeness, and risk of bias between published systematic reviews with reported AI assistance and matched reviews with no reported AI use, and to assess AI-use transparency.\n\nMethodsWe conducted a matched-cohort meta-research study of English-language, peer-reviewed he",
+   "url": "https://doi.org/10.64898/2026.11.06.26367388",
    "date": "2026-11-08",
-   "source": "Biomolecules",
-   "institutions": [
-    "Case Western Reserve University",
-    "Minerva Foundation",
-    "University of Helsinki",
-    "University of Salerno"
-   ],
-   "id": "e4a403e7ca7b89d2",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "source": "medrxiv",
+   "id": "8b3cffea3cce6673",
+   "feed": "medRxiv – health informatics",
    "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-11",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-21",
    "score": 4,
    "hits": {
     "tech": [
-     "recycling"
-    ]
+     "artificial intelligence"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Systematic"
+    ],
+    "penalty": true
    }
   },
   {
@@ -6722,6 +6783,27 @@
     ],
     "industry": [
      "defense"
+    ]
+   }
+  },
+  {
+   "title": "Open-source benchmarking of dairy and dairy-free products",
+   "summary": "Dairy-free products offer opportunities to reduce the environmental impact of food. However, they must reproduce the diverse sensory and functional properties of conventional dairy, from foam stabilization in a latte to acid-gel structure in yogurt and melt--stretch behavior in mozzarella. Yet, large-scale, open-source sensory benchmarks across dairy product categories remain scarce. Here we show that the sensory gap between dairy and dairy-free products varies substantially across ten categories: barista milk, butter, cheddar, cream cheese, creamer, ice cream, fluid milk, mozzarella, sour cre",
+   "url": "https://doi.org/10.64898/2026.08.14.744929",
+   "date": "2026-11-07",
+   "source": "biorxiv",
+   "id": "f6e63625e1237549",
+   "feed": "bioRxiv – bioengineering and synthetic biology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-21",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "sensor"
+    ],
+    "industry": [
+     "port"
     ]
    }
   },
@@ -7154,45 +7236,6 @@
     ],
     "industry": [
      "port"
-    ]
-   }
-  },
-  {
-   "title": "Intrinsic Gaps in the Classical Theory of p-n Junctions",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.02439v1",
-   "date": "2026-11-02",
-   "source": "",
-   "id": "2783a331908e3dee",
-   "feed": "arXiv Applied Physics",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "companies": [
-     "Intrinsic"
-    ]
-   }
-  },
-  {
-   "title": "Radiographic manifestations of pneumatosis intestinalis and construction of an AI-assisted diagnostic system.",
-   "summary": "",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42974629/",
-   "date": "2026-11-02",
-   "source": "APL bioengineering",
-   "id": "0beeaf4826ea1376",
-   "feed": "PubMed – AI diagnostics and imaging",
-   "kind": "research",
-   "domain_hint": "Life Sciences & Medtech",
-   "collected": "2026-11-07",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "diagnostic"
-    ],
-    "industry": [
-     "construction"
     ]
    }
   }

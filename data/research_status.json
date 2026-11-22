@@ -1,5 +1,5 @@
 {
- "run": "2026-11-21T05:00+00:00",
+ "run": "2026-11-22T05:03+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
@@ -7,7 +7,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "The read operation timed out"
+   "error": "HTTP Error 429: Unknown Error"
   },
   {
    "source": "arXiv AI",
@@ -15,7 +15,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "The read operation timed out"
+   "error": "HTTP Error 429: Unknown Error"
   },
   {
    "source": "arXiv Computer Vision",
@@ -23,7 +23,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "error": "HTTP Error 429: Unknown Error"
   },
   {
    "source": "arXiv Systems & Control",
@@ -55,7 +55,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "HTTP Error 429: Unknown Error"
+   "error": "The read operation timed out"
   },
   {
    "source": "arXiv Applied Physics",
@@ -70,7 +70,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 15,
+   "new": 12,
    "error": null
   },
   {
@@ -86,7 +86,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 15,
+   "new": 9,
    "error": null
   },
   {
@@ -102,7 +102,7 @@
    "type": "openalex",
    "ok": true,
    "items": 7,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -125,16 +125,16 @@
    "source": "bioRxiv – bioengineering and synthetic biology",
    "type": "rxiv",
    "ok": true,
-   "items": 3,
-   "new": 3,
+   "items": 5,
+   "new": 5,
    "error": null
   },
   {
    "source": "medRxiv – health informatics",
    "type": "rxiv",
    "ok": true,
-   "items": 4,
-   "new": 4,
+   "items": 3,
+   "new": 1,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 6,
+   "new": 4,
    "error": null
   },
   {
@@ -150,7 +150,7 @@
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 21,
+   "new": 7,
    "error": null
   },
   {
@@ -164,6 +164,6 @@
  ],
  "ok": 11,
  "failed": 9,
- "new_items": 90,
- "kept": 300
+ "new_items": 63,
+ "kept": 263
 }

@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-22T05:03+00:00",
- "count": 263,
+ "generated": "2026-11-23T05:26+00:00",
+ "count": 265,
  "items": [
   {
    "title": "A Laboratory on the Road: Europe’s Regulatory Response to the Opacity of Autonomous Vehicles",
@@ -3987,6 +3987,27 @@
    }
   },
   {
+   "title": "CMR-Derived Myocardial Strain May Reflect Advanced Graft Injury Rather Than Acute Rejection After Heart Transplantation",
+   "summary": "AimsCardiac magnetic resonance imaging (CMR) T1 and T2 mapping accurately detect acute heart transplant rejection, but the diagnostic value of CMR-derived strain imaging remains uncertain, particularly for right ventricular strain. Data incorporating donor-derived cell-free DNA (dd-cfDNA) into a composite reference standard are limited. We evaluated the diagnostic accuracy of CMR-derived left and right ventricular strain and ejection fraction for detecting acute rejection in pediatric and adult heart transplant recipients.\n\nMethods and resultsBlinded analysis of 1.5T CMR studies was performed ",
+   "url": "https://doi.org/10.64898/2026.08.10.26360075",
+   "date": "2026-11-09",
+   "source": "medrxiv",
+   "id": "1c63274c006480e1",
+   "feed": "medRxiv – health informatics",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-23",
+   "score": 5,
+   "hits": {
+    "event": [
+     "plant"
+    ],
+    "tech": [
+     "diagnostic"
+    ]
+   }
+  },
+  {
    "title": "Janus Dumbbell Ru–Pt Nanoparticles on Titanium Oxynitride Boost Hydrogen Evolution Across pH",
    "summary": "While platinum nanocatalysts exhibit outstanding activity for the hydrogen evolution reaction (HER), their high cost and scarcity underscore the need to develop more efficient and sustainable alternatives. This work reports a highly active, stable, and cost-effective electrocatalytic composite for HER consisting of bimetallic Janus dumbbell Ru─Pt nanoparticles deposited on a titanium oxynitride-graphene support (Ru─Pt/TiON─C). Ru─Pt/TiON─C nanocomposite with particularly low metal loading of only 1.85 wt.% Pt and 5.5 wt.% Ru outperforms the 20 wt.% Pt/C benchmark catalyst in both acid and alka",
    "url": "https://doi.org/10.1002/cssc.71203",
@@ -4232,31 +4253,6 @@
    }
   },
   {
-   "title": "Population-scale machine learning models to estimate individual-level risk for acute respiratory infection",
-   "summary": "Summary / AbstractO_ST_ABSBackgroundC_ST_ABSModels based on administrative population health records can help improve understanding of disease and hospitalisation risk. This understanding can support evidence-based population health policy and processes. Influenza and other acute respiratory diseases place a large, inequitable burden on the New Zealand population and health care resources. We have developed and evaluated models using retrospective New Zealand hospitalisation records linked to other administrative data.\n\nMethodsWe analysed linked annual records for approximately 4{middle dot}85",
-   "url": "https://doi.org/10.64898/2026.10.23.26366351",
-   "date": "2026-10-26",
-   "source": "medrxiv",
-   "id": "9129cef7ae362a9e",
-   "feed": "medRxiv – health informatics",
-   "kind": "research",
-   "domain_hint": "Life Sciences & Medtech",
-   "collected": "2026-11-08",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "machine learning"
-    ],
-    "industry": [
-     "port",
-     "hospital"
-    ],
-    "novelty": [
-     "record"
-    ]
-   }
-  },
-  {
    "title": "Artificial intelligence in healthcare: clinical applications, evidence maturity, risks, and life-cycle governance.",
    "summary": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42967409/",
@@ -4482,6 +4478,52 @@
    "hits": {
     "event": [
      "order"
+    ]
+   }
+  },
+  {
+   "title": "Uncertainty-aware AI-enabled framework for predicting hydrogen dispersion in confined spaces to enhance operator situational awareness",
+   "summary": "We present a two-stage AI-enabled framework for enhancing operator situational awareness during compressed hydrogen bunkering in maritime confined spaces. In the event of a leak, the framework first estimates the unknown leakage rate from early sensor readings and then forecasts how the hydrogen cloud will disperse over the next time steps, providing operators with a predicted concentration map together with confidence bounds. The framework is based on two independent AI models building one AI system. The AI system is designed as a decision-support tool. It augments sensor readings, and thus e",
+   "url": "https://doi.org/10.1016/j.jlp.2026.106241",
+   "date": "2026-11-20",
+   "source": "Journal of Loss Prevention in the Process Industries",
+   "institutions": [
+    "Cybernetica (Norway)",
+    "Norwegian University of Science and Technology"
+   ],
+   "id": "614d314c1b777c6c",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-23",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "hydrogen"
+    ],
+    "novelty": [
+     "first"
+    ]
+   }
+  },
+  {
+   "title": "Dynamic Reduction of Basic Iron Ore Sinter under Radial Blast Furnace Conditions with and without Hydrogen",
+   "summary": "The dynamic reduction behavior of commercial basic iron ore sinter is investigated under nonisothermal conditions simulating radial zones (wall, average, and center) of an operating blast furnace (BF), using gas profiles derived from multipoint vertical probing. Experiments are conducted in a blast furnace simulator with two gas mixtures: CO–CO 2 –N 2 and CO–CO 2 –H 2 –H 2 O–N 2 . Reduction degree, skeletal density, specific surface area, porosity, phase composition, and microstructure were characterized. Results show pronounced radial differences: the reduction degree is lowest at the wall (3",
+   "url": "https://doi.org/10.1007/s40831-026-01758-8",
+   "date": "2026-11-20",
+   "source": "Journal of Sustainable Metallurgy",
+   "institutions": [
+    "University of Oulu"
+   ],
+   "id": "2237c994c3df3d73",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-23",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "hydrogen"
     ]
    }
   },
@@ -4730,32 +4772,6 @@
    }
   },
   {
-   "title": "Solid-state formation of H$_2$CS and CH$_3$SH in molecular clouds: Carbon-initiated reactions with atomic and molecular hydrogen",
-   "summary": "The solid-state formation pathways of thioformaldehyde (H$_2$CS) and methanethiol (CH$_3$SH) in dense molecular clouds remain poorly constrained. We investigate carbon-initiated reactions in hydrogen sulfide (H$_2$S) ice in the presence of atomic or molecular hydrogen. We co-deposited H$_2$S, ground-state atomic carbon, and H or H$_2$ at 10 K under ultra-high vacuum. We monitored the reaction products using reflection absorption infrared spectroscopy (RAIRS) and characterized their thermal desorption using temperature-programmed desorption (TPD) with quadrupole mass spectrometry. Gas-phase ab ",
-   "url": "https://arxiv.org/abs/2611.24508",
-   "date": "2026-11-18",
-   "source": "arXiv (Cornell University)",
-   "institutions": [
-    "Aarhus University",
-    "Center for Astrophysics Harvard & Smithsonian",
-    "Leiden Observatory",
-    "Leiden University",
-    "Netherlands Organisation for Applied Scientific Research"
-   ],
-   "id": "f6c3fc1e9251d153",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-22",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "solid-state",
-     "hydrogen"
-    ]
-   }
-  },
-  {
    "title": "Technical Report of Mobile Manipulator Robot for Industrial Environments",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.22852v1",
@@ -4933,31 +4949,6 @@
     ],
     "industry": [
      "manufactur"
-    ]
-   }
-  },
-  {
-   "title": "First-principles investigation of hydrogen adsorption on the Eu-doped ZrO2 surfaces as hydrogen storage materials",
-   "summary": "",
-   "url": "https://doi.org/10.1016/j.surfin.2026.111329",
-   "date": "2026-11-17",
-   "source": "Surfaces and Interfaces",
-   "institutions": [
-    "Chulalongkorn University",
-    "Technical University of Denmark"
-   ],
-   "id": "113518c4adc96b18",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-22",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "hydrogen"
-    ],
-    "novelty": [
-     "first"
     ]
    }
   },
@@ -5833,6 +5824,69 @@
    }
   },
   {
+   "title": "Distinct mechanical signatures of dairy and plant-based cheeses",
+   "summary": "Plant-based cheeses account for about 1% of U.S. retail cheese sales and often fail to match the texture and flavor of dairy cheese. Here we compare three commercial dairy and plant-based pairs, cheddar, feta, and mozzarella, with texture profile analysis (n = 60), tension, compression, and shear tests (n = 219), constitutive artificial neural networks, and a consumer panel (n = 306). Plant mozzarella is at least five times stiffer than dairy mozzarella at small strain, yet softer and less cohesive under 50% compression. Plant feta matches the initial stiffness of dairy feta but shows a peak i",
+   "url": "https://doi.org/10.64898/2026.11.05.764742",
+   "date": "2026-11-09",
+   "source": "biorxiv",
+   "id": "f65c3cca63d8d0c0",
+   "feed": "bioRxiv – bioengineering and synthetic biology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-23",
+   "score": 4,
+   "hits": {
+    "event": [
+     "plant"
+    ],
+    "industry": [
+     "retail"
+    ]
+   }
+  },
+  {
+   "title": "Benchmarking foundation models for resting-state functional magnetic resonance imaging time series in cognitive aging research",
+   "summary": "Foundation models trained on large neuroimaging datasets could help smaller studies investigate cognition from brain recordings. However, whether the foundation model-derived representations improve assessment of current cognition, prediction of follow-up cognition, or characterization of cognitive change remains unclear. We evaluated nine configurations from five model families that process regional resting-state functional magnetic resonance imaging time series, using 3,103 scans from 1,653 participants across two observational and five intervention aging cohorts. Primary frozen representati",
+   "url": "https://doi.org/10.64898/2026.11.05.764644",
+   "date": "2026-11-09",
+   "source": "biorxiv",
+   "id": "8c25e4de890f4a28",
+   "feed": "bioRxiv – bioengineering and synthetic biology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-23",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "foundation model"
+    ],
+    "novelty": [
+     "record"
+    ]
+   }
+  },
+  {
+   "title": "Accelerometer Data Harmonization and Feature Engineering for Gait Analytics",
+   "summary": "Gait analytics is utilized for a wide range of health-related applications, ranging from fitness tracking to medical diagnostics, and beyond. Inertial measurement units that are ubiquitously available in mobile devices provide an accessible means of gait analysis but differences in sensor specifications, placement, and recording protocols limit comparability across studies. This study developed and evaluated an analysis-centered data warehouse and standardized quality-assessed processing pipeline to facilitate the integration and joint analysis of heterogeneous gait accelerometer data. Six pub",
+   "url": "https://doi.org/10.64898/2026.11.05.26367336",
+   "date": "2026-11-09",
+   "source": "medrxiv",
+   "id": "7012d5a290582b12",
+   "feed": "medRxiv – health informatics",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-23",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "diagnostic"
+    ],
+    "novelty": [
+     "record"
+    ]
+   }
+  },
+  {
    "title": "Advancements in Cloud-Native Systems: A Systematic Mapping Study of Reliability and Scalability across Cloud-Native, Edge-Native and AI-Enabled Systems",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.11040v1",
@@ -6065,30 +6119,6 @@
     ],
     "industry": [
      "port"
-    ]
-   }
-  },
-  {
-   "title": "Institution-specific CT protocol assignment from referral text: A comparison of prompt-engineered and fine-tuned transformer-based language models",
-   "summary": "Purpose Radiological vetting involves reviewing imaging referrals to confirm their appropriateness and assign an acquisition protocol. Growing workforce shortages have turned this vital step into a resource-intensive bottleneck. While Large Language Models (LLMs) have shown promise in applying generic appropriateness criteria, their ability to adapt to institution-specific protocols remains unexplored. This study evaluates a generative LLM (GPT-4o-mini) and a medically pretrained RoBERTa model on institution-specific CT protocol assignment from referral text based on local clinical guidelines ",
-   "url": "https://doi.org/10.1016/j.ejrai.2026.100136",
-   "date": "2026-11-06",
-   "source": "European Journal of Radiology Artificial Intelligence",
-   "institutions": [
-    "Bispebjerg Hospital",
-    "Copenhagen University Hospital",
-    "Frederiksberg Hospital",
-    "Gentofte Hospital"
-   ],
-   "id": "470729e7bbdaaa79",
-   "feed": "OpenAlex Nordic – health technology",
-   "kind": "research",
-   "domain_hint": "Life Sciences & Medtech",
-   "collected": "2026-11-08",
-   "score": 4,
-   "hits": {
-    "event": [
-     "acquisition"
     ]
    }
   },

@@ -1,5 +1,5 @@
 {
- "run": "2026-11-22T05:03+00:00",
+ "run": "2026-11-23T05:26+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
@@ -55,7 +55,7 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "The read operation timed out"
+   "error": "HTTP Error 429: Unknown Error"
   },
   {
    "source": "arXiv Applied Physics",
@@ -63,14 +63,14 @@
    "ok": false,
    "items": 0,
    "new": 0,
-   "error": "The read operation timed out"
+   "error": "HTTP Error 429: Unknown Error"
   },
   {
    "source": "OpenAlex Nordic – batteries, hydrogen, grid",
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 12,
+   "new": 7,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 18,
+   "new": 5,
    "error": null
   },
   {
@@ -86,7 +86,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 9,
+   "new": 2,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 7,
+   "new": 0,
    "error": null
   },
   {
@@ -125,8 +125,8 @@
    "source": "bioRxiv – bioengineering and synthetic biology",
    "type": "rxiv",
    "ok": true,
-   "items": 5,
-   "new": 5,
+   "items": 6,
+   "new": 2,
    "error": null
   },
   {
@@ -134,7 +134,7 @@
    "type": "rxiv",
    "ok": true,
    "items": 3,
-   "new": 1,
+   "new": 3,
    "error": null
   },
   {
@@ -150,7 +150,7 @@
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 7,
+   "new": 4,
    "error": null
   },
   {
@@ -164,6 +164,6 @@
  ],
  "ok": 11,
  "failed": 9,
- "new_items": 63,
- "kept": 263
+ "new_items": 27,
+ "kept": 265
 }

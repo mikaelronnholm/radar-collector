@@ -747,6 +747,30 @@
   }
  },
  {
+  "title": "Siemens Retreats With Tech Peers, but Grid Win and Raised Targets Tell a Different Story - ad-hoc-news.de",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbFdpWWRocVpGc2h2NVQybldxLUlJZG9IYnpMaVU4Z0p1U1pmR3hrSmtnd003bENaOFlMRTk5NFBkLWc1cFhDYjVyVEMySktNeHdMQjdKV1lvM19HMzVnQjRoZXRZb2tOT25BLWtxN3NSNDBJN01PU1VvUGJZV0N5MmkzRGtBYzgxVzlTUUNEV0ZyZTNZczBHQjZmWmxmS2dhSUlWcHloeV82MEZhUGVoS2k0U3JCakFVcXhfQ2Q0NXpXaXRMUFQ2MjlaNTdteEZmYWJDX1hkVlJGZXNrTVVTX29ESURXYmpQQ0ZEemQ5d08?oc=5",
+  "date": "2026-11-22",
+  "source": "ad-hoc-news.de",
+  "id": "336afd1f63b520bc",
+  "feed": "Google News: \"district heating\" OR \"grid operator\" technology",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 7,
+  "hits": {
+   "event": [
+    "raised"
+   ],
+   "tech": [
+    "grid"
+   ],
+   "companies": [
+    "Siemens"
+   ]
+  }
+ },
+ {
   "title": "India’s Electric Truck Sales Surge 254% in 2026 as Tata Motors and UltraTech Expand Fleet Plans - Dalal Street Investment Journal",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObFBUWmlKRTVKYVpRd0FyUjNSak4wNUVTSW0zSms0My0xWkp2c2lLUGd6cTJlVFlfaHJaQk9xZHpKaW5iaVFORi02VEdxMHJUX2k3US1NYWhNZTYwTkJBanRNU0k3YUg2VTkzYjhsaUJLbUZhRlRuek1fQlFaeXhYQTR0VFphVWY1dGFyZUIyeVROcDZsWmQ3UW9LckJSNHdfMUlvMDRaczhYblBTSHBxVEdQTVlYVThLMzluSEkyZDBqV3g2MkdXZlpvV1A5SzA4UDFYQnROOUdYZw?oc=5",
@@ -1283,6 +1307,164 @@
    ],
    "companies": [
     "Google"
+   ]
+  }
+ },
+ {
+  "title": "Wall Street Hit by 'AI Skepticism'... \"Data Centers, China Export Controls\" Two Major Headwinds (Roundup) - 아시아경제",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LYjRkeERQT3o4WEdRY1ExdVRTV3BzcVFYbG1DWWlkbE00akVpeEI4SVQ2aGU3RHVMclpOZkZxcGdidW1PaEZhZksxNXpxLVJzYm1TVG8wNTFsZkZoQ0RvZEhpcDRJeDloR1I5NDFGMFQyWUVZOUZZ?oc=5",
+  "date": "2026-11-23",
+  "source": "아시아경제",
+  "id": "caa4d8f08b27d8af",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 6,
+  "hits": {
+   "event": [
+    "export control"
+   ],
+   "tech": [
+    "data center"
+   ],
+   "industry": [
+    "port"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "China's Ministry of State Security Ran 2-Year Covert Operation to Secure US AI Chips, Seeking to Evade Export Controls - BigGo Finance",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sRF9VM0FNWldmS1FQZWVHaGFwZTZCeHlGeEtaSWJNUDZsRU1IRmVVZTFmM0dQX3lNa1REYUF5VWt0RU9SbF9fSEZRRVlvRmkxRW1Lc3VvRnVhM2tRbEFnNmZBZjcwOHhPT01wOXJ3VUZOREJwQlE?oc=5",
+  "date": "2026-11-22",
+  "source": "BigGo Finance",
+  "id": "c0842b9dd332a3be",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 6,
+  "hits": {
+   "event": [
+    "export control"
+   ],
+   "tech": [
+    "chip"
+   ],
+   "industry": [
+    "port"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "Bessent Says U.S. Export Controls on Nvidia Chips to China Will Remain Unchanged : Global : JKN - 재경일보",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CUW4yZWNJWHlfVHY1OTZHZkd5UFZyeUEyOTdwaGRKcEFSQzhYd2pFckFBWHV1azJ4c0w5cFhXMGg3aUpYUWR4dWhmallHZW55TFlWbXZkVF9ERDdrSGIzV0N3?oc=5",
+  "date": "2026-11-22",
+  "source": "재경일보",
+  "id": "fc1ecf87a77800af",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 6,
+  "hits": {
+   "event": [
+    "export control"
+   ],
+   "tech": [
+    "chip"
+   ],
+   "industry": [
+    "port"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "Alice Huang and her husband have been linked to an alleged network involved in supplying restricted Nvidia AI chips to China, according to a report by The Information, raising concerns about the enforcement of U.S. export controls on advanced semiconduct - Instagram",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42UF9tSlhnOHdfZVBaVDFmRVlNd0wzVl9SdHpvUHBhaUR4dFFsaTgwQ0JXclQ1djRWeFIwMjc5UnVlZHNnQ2ZHSFZ4dVI1aTdsMmc?oc=5",
+  "date": "2026-11-22",
+  "source": "Instagram",
+  "id": "d99eff644a108fe4",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 6,
+  "hits": {
+   "event": [
+    "export control",
+    "ban"
+   ],
+   "tech": [
+    "chip"
+   ],
+   "industry": [
+    "port"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "Infineon Introduces HybridPACK™ HD Power Module for Electric Truck Drivetrains, Enabling High Reliability and Long... - Electronics / Instrumentation / RFID - Infineon Technologies AG - NewswireToday",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdFdQY3Z1bDBRdDdoeEdVR294VTBXRHhhdnQ2N2NHZmZCWkZvdV9KNjBzejJoOEdiQ1NiUlNjR0Fma1Y4X1pueF96SXppVTEwVF9IMHFPb05seV9jTDdPN0txajZQY1RVT3U3Vk51RERFaE5XV3BMYXFBZTAxN1VSaWpNSnhQXzh5YUFKV2xpWUhtM2tFT2xjaVpYMl9iWnVnNlF6VWxsRGpxZjdrY3MybGtlSnM3UmxkcjJjcExpcjBDN0NWampUZ3ZKV09lMy1NSnlPNkxrUjlWb0FMRjRZWDdzWGVUdTFpT0F3a0h2UWNIUk1VTVY4?oc=5",
+  "date": "2026-11-21",
+  "source": "NewswireToday",
+  "id": "daf1cb03f8a53f70",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 6,
+  "hits": {
+   "tech": [
+    "electric truck"
+   ],
+   "industry": [
+    "truck"
+   ],
+   "companies": [
+    "Infineon Technologies"
+   ]
+  }
+ },
+ {
+  "title": "Rivian Buys Chinese LiDAR via Singapore After Denying RoboSense Ties - Electric Vehicles",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUw4aEpPdmplc29fb2dBMlVWNmhHSzhDaFlxTWtaSlpRek5NdW1vTW1Nc3hjYnpRd09VZ1N0R2tuZlJWZGNOVDNvR2tDMnZYU3JjUjZxV2VXWmxlSFUwREtWU0pJX3ZPT1VZeG9Bem5adXZDYzZqd09XdTJKSTJ1bHpQSFJwb0cxSTlkUUI5REk4YmUxVFBqVXhRQTl0M29yMkxRbWE0UDI?oc=5",
+  "date": "2026-11-21",
+  "source": "Electric Vehicles",
+  "id": "6d6953c670b8b85b",
+  "feed": "Google News: \"connected vehicle\" rule OR ban",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 6,
+  "hits": {
+   "tech": [
+    "lidar"
+   ],
+   "industry": [
+    "vehicle"
+   ],
+   "companies": [
+    "Rivian",
+    "RoboSense"
    ]
   }
  },
@@ -4114,6 +4296,316 @@
   }
  },
  {
+  "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "a889ba3d8f9662f8",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "ipo"
+   ],
+   "companies": [
+    "Anthropic"
+   ]
+  }
+ },
+ {
+  "title": "Xpeng launches G9L in Thailand and Indonesia, accelerating global roll-out of flagship SUV",
+  "summary": "",
+  "url": "https://cnevpost.com/2026/11/23/xpeng-launches-g9l-thailand-indonesia/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "ecd6fb76ed903ce0",
+  "feed": "CnEVPost",
+  "kind": "news",
+  "domain_hint": "Energy",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "launches"
+   ],
+   "companies": [
+    "Xpeng"
+   ]
+  }
+ },
+ {
+  "title": "Stablecoin Regulation Gets Real: HSBC's Tokenized Fund Move - OneSafe",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGFSNEVET01yankxMUthSXlqQUp1M3NjUHNZVFk3dDRwVjhhRFFIRE9uUmJaRUxlV0FQUmRCZ09oeGpZMXJPR282N3FzWkhyTWJIUlB3QmQ2eXBSV2FwYmpNLWZiSVNfTmJkY2RhTTRIcFJCTGxsWGZOSTlZeGxWZDdmTDZwS0YzazJMSElR?oc=5",
+  "date": "2026-11-23",
+  "source": "OneSafe",
+  "id": "3686fdae33463054",
+  "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "regulation"
+   ],
+   "tech": [
+    "stablecoin",
+    "tokeniz"
+   ],
+   "industry": [
+    "esa"
+   ]
+  }
+ },
+ {
+  "title": "US-China chip dispute raises fears of renewed trade tensions - Chosunbiz",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmgzMXVRQlZ3ak9BM01mNmlQMmRCMTdqVTk3ek1JSWttNmNMcUE3NVYydlRJdGRVaHljNFM3S1lWeVdSSE0yWkd3TFYzUkVUdnR0NE1EaHRSUUFtQnR2Rnh4NGpYeGpvd2hEMTV3RnZlUmw2TDVKTjFNdlpmNll4YWNoV204Skcz0gGcAUFVX3lxTFA4Q0FLWmhFZHBSeVNJSWtDaWJzNlJpcDNpT29RUVBIT09Sc3lHNjdSb3pNUXlfWmRCaG9vTTNNZm4xTExQU3l4SXdXaVlwdUZ1NGxFLTN0eG5lYTZJREg4UlJjaWthSy1NNk9zTndSMC1mZDRkS01BNzZjQVZ5dDl6amxELUVmQVlvY1JGYnNlYU5KeDlhRDVqbk1VNQ?oc=5",
+  "date": "2026-11-22",
+  "source": "Chosunbiz",
+  "id": "5a2c3af68b31f41c",
+  "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "raises"
+   ],
+   "tech": [
+    "chip"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "Thailand plans to ban exports and transport of chemicals used in rare earth mining - 联合早报",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTmpZcUh4TUtyNXlKSmtHTzBnQjBHWDVpcWhXUXdNdmNpaktHZVNUZUctRHN0dnVYWlZqRnBHd294WWNjcjA4YlJ0Z3BFSGtmeDRiZm1XQ2wxVWYyRVVvRkl0Ri1TSU5acndJQ0t6dnFOMGIyUXN0bmNnYUZ2dFA1Z1BfRmptcVRSSUhtWWpvaWlTQWtNNVJtMFRLNXdwV0dZWEpYRXA4ME5rOFJWUFllXw?oc=5",
+  "date": "2026-11-22",
+  "source": "联合早报",
+  "id": "470eb95982a49b25",
+  "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "ban"
+   ],
+   "tech": [
+    "rare earth"
+   ],
+   "industry": [
+    "mining",
+    "port"
+   ]
+  }
+ },
+ {
+  "title": "Thailand To Ban Exports Of Chemicals Used In Rare Earth Mining After Elevated Arsenic Levels In Rivers - BusinessToday Malaysia",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZUJod2MzdmFXVmVyc19SQ1JvSGRRVGVoWl9DMTJZbkdGamI0M2RzblA0WFZxTWxwTWRZcy1JYVN2UnRqdDlZeEl6cjdjLUVrTG9ITlI2R1hzMmJOT0lmVktZbnh2b0F3a1pmQl9qdXVGOHFqLS1oVVJIbC1UWEVHb3A4OVdqREk2TjU0bnluVm53anF2ODhocm1KQ0JreUR6RUwxcFA0OTROd1A5QWt0aHJkbUV1YVYzSGhNYmR0bkRxYktmRmJtTjlKVjNBVS1PVlREeFVicVVTdXVvNDRJNw?oc=5",
+  "date": "2026-11-22",
+  "source": "BusinessToday Malaysia",
+  "id": "2e05e4dae79fd76f",
+  "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "ban"
+   ],
+   "tech": [
+    "rare earth"
+   ],
+   "industry": [
+    "bus",
+    "mining",
+    "port"
+   ]
+  }
+ },
+ {
+  "title": "Thailand plans to ban the export of chemicals used in rare earth mining to prevent pollution. - Vietnam.vn",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNelA1VGJtdmRTOENHUDdwQ1FWaWZ4OXhMbGdLS0xxYVlSRDlwSFVQSUdfdUVYTXBSZDF0ZjFJR2doRzltNEVLb2RUZ0xrMEpaRVZjUGIzTVpoR3F1R1VsSWdUcVJabEpDdGJYdEprNlVNMEl5QUNoR3RxcDllSElDeEl0dWxkSlBUVF9aVWhYbkdxMXdtcnhPUEh6NUhkR0ZMWlE?oc=5",
+  "date": "2026-11-22",
+  "source": "Vietnam.vn",
+  "id": "99ef058063a3d3c1",
+  "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "ban"
+   ],
+   "tech": [
+    "rare earth"
+   ],
+   "industry": [
+    "mining",
+    "port"
+   ]
+  }
+ },
+ {
+  "title": "Ministry of Transport launches Phase 2 of Karwa Robotaxi test runs with driverless trials - ILoveQatar.net",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRGE4Q3lvLTlma0xWTnVxUFRNZlNnRmZ1UU5WYzl3ZW5hQ2VVOGM3M3kzSHU4RnFlWm9GTjJHbUw3b0g5WkdFQ05RS0xYWEZPb2pPLXF6Y2RZdWVHYndIV0NFX0dTaVJvaG9nWHVyaTI4VTYyQkpMWk9jeFRYV1l1R25SbHJkRmtXQXlBWVgtWjk4dG05b2FUZ3ByWl9EZTR2RnpQNWVJNHk2R0hMZjQtQg?oc=5",
+  "date": "2026-11-22",
+  "source": "ILoveQatar.net",
+  "id": "5c6e390d1892028c",
+  "feed": "Google News: autonomous trucking OR robotaxi",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "launches"
+   ],
+   "tech": [
+    "robot",
+    "robotaxi"
+   ],
+   "industry": [
+    "port"
+   ]
+  }
+ },
+ {
+  "title": "Vectigo launches road-embedded safety system for autonomous vehicles in Colorado - Robotics & Automation News",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbkprNzRNMkRHWnVNRDVfeHUtTHQzOTlTd3FVeHpNS0pXUU4ySTBOUUhHeDlTb1VmUTBHSFZqeVZBQzdhMmplUWlLV3BWVU1ab1BPVENSVHdtUms3NlZIVm5xYlVLb2FRU2RxbXRtYWtnWUVDRXRfallSVnJ4WVJGUmkyVkZtQVB4MXhJMDlqYkZuZlBmNEJiRG1vbVNRUjBRcHNBWmRVWXRmTzdndjlRM2loOUdFdUtQRW5GdjZIOEJQQUJPTXZ5MVFWeXlwR05ia3Nv?oc=5",
+  "date": "2026-11-22",
+  "source": "Robotics & Automation News",
+  "id": "e8dce4184f5a5aa8",
+  "feed": "Google News: autonomous trucking OR robotaxi",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "launches"
+   ],
+   "tech": [
+    "robot",
+    "autonomous"
+   ],
+   "industry": [
+    "vehicle"
+   ]
+  }
+ },
+ {
+  "title": "What Robotics Experts Think of Tesla’s Optimus Robot - IEEE Spectrum",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aSVZBc2JNOVZ2aHJQYVNnVjZEbGNBTnRwbENMYzVGdEJfVUNLLUVzSmxtWFZUT2RJd3FtazgzUGxGUjV6NzF4Z2FSaGgtVEhPZGpqLUlxZGxlbjBaa3lscWdnUTBMWTYxMUhzOHI4RU0yelUwa0tqNmdramY?oc=5",
+  "date": "2026-11-22",
+  "source": "IEEE Spectrum",
+  "id": "0c908ca688fd7fa7",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "tech": [
+    "robot"
+   ],
+   "companies": [
+    "Tesla"
+   ]
+  }
+ },
+ {
+  "title": "Bain Capital's Ajay Agarwal: Humanoid Robots Are the Wrong Form Factor for the Next Decade - BigGo Finance",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaQjJyeVBaLUlOUnBlcDNUbDlrWUxZRUxTQXNTa3FvNXd2alZMR0xzR3pzSGZhU2xsQzBmbzhvTlJEczVLeGNPMW1XMzVsdVBuZENLQU14dFNPU00?oc=5",
+  "date": "2026-11-22",
+  "source": "BigGo Finance",
+  "id": "3ce6982f0369c502",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "tech": [
+    "robot",
+    "humanoid"
+   ],
+   "companies": [
+    "Humanoid"
+   ]
+  }
+ },
+ {
+  "title": "How AI Stablecoin Payments Could Reshape Crypto Banking - OneSafe",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12NEF4U1F5azFhQ1hLeVR2WE1mazJIdzVTQlphdU9rbG9Vc0FqLU5Pc255Y0FuMXZVQzMydjdGUElJajE1a29rRktxUGRGdC1STmJVQXg0cnBPMTNPQ0wxWFlveWU4TTljN1Zvb3pMVUI2WjBCWFd6cHNn?oc=5",
+  "date": "2026-11-22",
+  "source": "OneSafe",
+  "id": "29b24cea9cd42ded",
+  "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "ban"
+   ],
+   "tech": [
+    "stablecoin"
+   ],
+   "industry": [
+    "esa",
+    "bank",
+    "payments"
+   ]
+  }
+ },
+ {
+  "title": "12 European Banks Back Fireblocks for MiCA-Compliant Euro Stablecoin - CoinMarketCap",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkUzQUF0QVF5aE9BN1RzVWlqbDNBUmM2NGprNldQZVpLSTh6d1R2MldaTHQ3UWZ5VGlLMnJkdVozS1E1azFqdERwdnFhUlUyWmc0NlhOWlJTMDNVWUdQdzBmMm1kSTkwajZscGpqRVBGNWtGTFdGbG50a2xDbDlqMjBPQWN4Z1FqWFFUM0lBLUozZEhhZFgyam5WVTZMREZlOTBxb0hDMm9IYzhFZlM0?oc=5",
+  "date": "2026-11-22",
+  "source": "CoinMarketCap",
+  "id": "a9d217f3cc6a2e70",
+  "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "ban"
+   ],
+   "tech": [
+    "stablecoin"
+   ],
+   "industry": [
+    "bank"
+   ]
+  }
+ },
+ {
   "title": "While KOSPI Wails, Robot Stocks Alone Grin... Will Those Riding on Samsung Electronics Keep Climbing? - 매일경제",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSMDJnRExXdi00d3RqTFhxNlpRZVUzR1JNcm43dG51YkxidGtiQW1mZ3AtYUotWDJ5YXJtWWM5Y1duVzRGc3NuY2lrUUUtREZoSDlJ?oc=5",
@@ -4131,6 +4623,54 @@
    ],
    "companies": [
     "Samsung Electronics"
+   ]
+  }
+ },
+ {
+  "title": "BIS addresses the remote access gap as congressional scrutiny of US semiconductor export controls intensifies - DLA Piper",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMm5NVFpKZklpUUlSZzVuRXo1TVh4ZldkdmtXZzZ4Zi1nOVpMQ3BLbWo2ZXViQ0t2YmRVeEVUZWYtU21kb0M5N25KZm1HRUJJamdRSFNHVFdCOUtIS3hMZjc5Y1JjdjRSUy02R00zTkYzb25xTFRtTGx6TUw0ejNoV0E2WUE0UDN3UWFOaDY2LUZNQWc?oc=5",
+  "date": "2026-11-21",
+  "source": "DLA Piper",
+  "id": "6e5e7b02967af971",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "export control"
+   ],
+   "tech": [
+    "semiconductor"
+   ],
+   "industry": [
+    "port"
+   ]
+  }
+ },
+ {
+  "title": "Why Nigerian banks must partner with stablecoin infrastructure providers – Clea CEO - Nairametrics",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc1E4ZWtmNFBfRHBqN3p1bUVWVWhmVDgzQ3J3RXNkbHpMWlFfMW9kYVlmeUQ5NFJyeVFJRF9jd2Q5Z3FYek1oMTU0QnQ1VjlFOFhWYmtuR0V4WDRYc0pEaDM1V1d1cEJ1NXpRM1FBdlptMFJORlBhZUx0a0cwMnJPdXlWbU1zMDY1eHhyV1lqYS0xV1QxclJYOTNnOUM2SmpPb2Jic0Ryc1hnNGRGWUR6Rm1Ec25GSUVRd2c?oc=5",
+  "date": "2026-11-21",
+  "source": "Nairametrics",
+  "id": "1c2a98e21574ef05",
+  "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "ban"
+   ],
+   "tech": [
+    "stablecoin"
+   ],
+   "industry": [
+    "bank"
    ]
   }
  },
@@ -4224,6 +4764,124 @@
    ],
    "industry": [
     "esa"
+   ]
+  }
+ },
+ {
+  "title": "Xiaomi Robot Clocks 8 Hours on EV Line: Results [2026] - shattered.io",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5aHd0S01RRDFVanpnRkNGemZEQW4wQnQzUndpenR3bWxFNE1TUWFnZFphQWROWTd4QThLcHVCeWdqM0dWdV9lTXBLN0FLTUpBTFMycVI5Um5ZMUR2SDBMcThUYWVFUWZ3SkhIbmtReVdQMFZrRHhIcVRsMmpUdw?oc=5",
+  "date": "2026-11-20",
+  "source": "shattered.io",
+  "id": "71d4b2d0583694f0",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "tech": [
+    "robot"
+   ],
+   "companies": [
+    "Xiaomi"
+   ]
+  }
+ },
+ {
+  "title": "DeLaval launches third robot manufacturing plant in Poland - Dairynews.today",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmtXck1YWm55YmFQQ1hSWS16ZXQzWUZJcHdDeU9WbnNvbFJjci1ISDBCNlRTem8tcmN4ejJwTFdrQ20yWFZ2TW5VT0RwVVIxUzlfN2JsRGhuNmIwa00xQnpkYnlFRGprSU1RZmw5RTU4cVdET3JvN3I2amFzeUhMWTU4WUVxd1ZCek81VUNwY09laGZSdWtrNHlNVlRKeWlCQ0ZYMTRMRmg?oc=5",
+  "date": "2026-11-20",
+  "source": "Dairynews.today",
+  "id": "b64c202b219cc128",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "launches",
+    "plant"
+   ],
+   "tech": [
+    "robot"
+   ],
+   "industry": [
+    "manufactur"
+   ]
+  }
+ },
+ {
+  "title": "EU digital euro talks stall amid new debate on access for sanctioned citizens - MLex",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcHJwMjlYY0xVVnJyRnEtSUNDekNENlZqQXo2cm9FQWI2VlQ0Zy03cVhDV28yT2V4Vkpfa1JjR2RjWHpkcUMxQWVKSWxWVHZSOVpSaW4tdUw2eGs2b01kd0VEN2c3dWp5b3F4c3pSVkJNUzRJUzFlOGFLb2pUTjdadHR3aUpoeW5hRWVoVk5wR1VVNFhOVGhtYWotZndKZS0wV1p5RVljb3JnWkNScHVOX0c5U2NtOUJyUFBhcmZVZjRRY2JfUkEzYldlYzRnNGVJdXlQakhB0gFaQVVfeXFMT09uM3lxcHk1RXQ1TjEyS1BlME5yVlhwcjd1dG5ISXdvWWF6cVRlUWh6em52TV80djdxc1JrWVozQWdYYU15N2lmUk9GVXBWXzJydlUtbzdKZ0R3?oc=5",
+  "date": "2026-11-20",
+  "source": "MLex",
+  "id": "0c65fa960f3b00f8",
+  "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "sanction"
+   ],
+   "tech": [
+    "digital euro"
+   ],
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
+  "title": "World’s largest green hydrogen-based synthetic methane plant in Finland reaches final investment decision - Hydrogen Insight",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSGZ0T0JWNzZMdnkydFh2dEM3NEpwSm1GT3VKSkdIaVZwc3pSTlVyUHVIbVVfVDBCTHBiRUx2Z2ZNQkk0eHRwUDlva3JLXzFtbnk4Wjlha0Y3UWswMVNUaFVTVmJib1M1VjRJVXcxYjRiT3FQOUluTUk1ZGtSN3JwdW1SLUVaQWNXWm9MakR1YTlZRjB1QW90VXNsS3c1LXpoVTF1U194Vm9PVXlzV0l5czR0ajh3TEVaU0k4OXg2UVVDamUxSmJ6RUJHeEdBU0JDSVBHdTZWUDhEejFZcllpekFubUZvM0ZlT2pNNzhSdHZXQQ?oc=5",
+  "date": "2026-11-20",
+  "source": "Hydrogen Insight",
+  "id": "9c24b02e3eb939d1",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "plant"
+   ],
+   "tech": [
+    "hydrogen"
+   ],
+   "geo": [
+    "finland"
+   ]
+  }
+ },
+ {
+  "title": "Remote control and cybersecurity: Protecting renewable energy plants’ digital infrastructure - pv magazine India",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQUUxT1BYN2YyS1VMV2plclRGTGpuSlBLa3ZnUnpOVWxBazRSdFZZR0JxMDVxUFEzbDJrVktlYnpnWlNCOUFWN3F0ZXhjZGFxRGZ3TnQ2TnRxZTZFUmtOdHF1MHZpWVRTYkV3R3ppQVMwNU1TRHFqejE1eXBJOENpcllFWU16d0ctVlVNYWRNRk1peGRoZ0xpMmVmM2lBajZETUptOVJ6NmdTS0ptX05tempJRU5scWVjMUJTOGhxOF9pRkJGMVJROE9LbWtsLUlSOUE?oc=5",
+  "date": "2026-11-20",
+  "source": "pv magazine India",
+  "id": "ad7770ed372d9692",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 5,
+  "hits": {
+   "event": [
+    "plant"
+   ],
+   "tech": [
+    "cybersecurity"
+   ],
+   "geo": [
+    "india"
    ]
   }
  },
@@ -9829,31 +10487,6 @@
   }
  },
  {
-  "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-  "summary": "",
-  "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "2cfb3a347b303922",
-  "feed": "TechCrunch",
-  "kind": "news",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 5,
-  "hits": {
-   "event": [
-    "seed round"
-   ],
-   "tech": [
-    "sensor",
-    "chip"
-   ],
-   "geo": [
-    "india"
-   ]
-  }
- },
- {
   "title": "Humble Robotics Raises $51 Million For Autonomous Freight - Menafn",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVdjNnJ1U282S05xRW5XM0REVFl5RFVVenoxUWVXam11Q04wQjYwZkY3NlRySEtubmJ5ZlJYRFFBbTNPbE8xQzRKaHNsWXdZSnhLZnZqVXo3RzJrRUFPTjdkM25sUHp5WWxXX3lTVzh6LWhXbmJCblltRWhibktucEpqdEVWSnBnd3RsTnRHVQ?oc=5",
@@ -9948,6 +10581,237 @@
   }
  },
  {
+  "title": "Stablecoin Payments Link to Korea’s Won Rails - OneSafe",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XQkVtQXpJdGhUTldfbGxUNm4tNmJIMEduUHNFalA1YS0yRHc5UUNmUThyS3FoS0lMbVpsMTNJcjVyY2w2QjJOVGRKT0NGeWExRXpYRWFBMktOLUtTOFJ2a0J5SjFhMVhKZlFVTXRrZk5nQQ?oc=5",
+  "date": "2026-11-23",
+  "source": "OneSafe",
+  "id": "37f53898e126ae26",
+  "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "tech": [
+    "stablecoin"
+   ],
+   "industry": [
+    "rail",
+    "esa",
+    "payments"
+   ],
+   "geo": [
+    "korea"
+   ]
+  }
+ },
+ {
+  "title": "China reportedly runs covert operation to obtain advanced AI chips - Chosunbiz",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZNWliSVN6aTh6aWtBYjQ5U1J4LXZwMi1PT1BtQloxNURwcFI2Nlh5YUdqazBhOFN4X0t5QmtuMTFmaDVhTExmbzRfaTE5a2NzYU0tck1uX3hTQW1WV01wajY0MUJHSGtjMzhLSkxFQWx4Z25mNDNUc1N30gGOAUFVX3lxTFBKck50RHZoRkxaVEtHSkk4Q0kxTHhyS04yWkRYb3c1WThTQ1NNam4wM0s3VEE1U195QUlsbnJmemIzd2w3RmFhbkh4dWJjRmZoQTJiZmFsT2VoRGZxalRCTG9oXzlGMzViUGRabDhPZDg1Nm5nVnJlYktKN0ttMDhudDNDaHZUanVqRmtGMkE?oc=5",
+  "date": "2026-11-22",
+  "source": "Chosunbiz",
+  "id": "80d18e3b8e69609c",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "tech": [
+    "chip"
+   ],
+   "industry": [
+    "port"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "Tesla ends Cybertruck production, boosting Rivi... - Pluang",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM2dDM1VwMzlOTzRhUEc2YkxiV0p1YW9MS2FWUXhNRGp1NVZLQm1xNHNMd1hacW1ySXVKOGNVSGNqdEgxeGMwTTBzNnVCRF9uZGt5Rzl4aVVFSkpkNWtGNHM0OThZZVpDekpoOXBEWEI1WnlOUE1yOGdwYllxMDdlN0diYWJNWEQwVFgyMEREbTh6b2x1cE9FZw?oc=5",
+  "date": "2026-11-22",
+  "source": "Pluang",
+  "id": "613380152a18c671",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "industry": [
+    "truck"
+   ],
+   "companies": [
+    "Tesla"
+   ]
+  }
+ },
+ {
+  "title": "Nigeria seeks stronger EU security partnership to combat terrorism, emerging threats - Business News Nigeria",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjX0xhOHAtSnVMaGFiOTRLU01UNTZCUjNqUldzR2dNY3M4c2xrUkdNbGx5TXcxSFl6RFJXbHdaMVFxQ1JrTmI0YUh5anVfTVFKZ3EzaEdkamZiN2hNOFE?oc=5",
+  "date": "2026-11-22",
+  "source": "Business News Nigeria",
+  "id": "063a998061031def",
+  "feed": "Google News: counter-drone OR \"drone defence\" Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "event": [
+    "partnership"
+   ],
+   "industry": [
+    "bus"
+   ],
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
+  "title": "Sunconnection launches solar-powered SDR-01 dashcam with semi-solid-state battery - Mezha.net",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYy1WLTVQRDBCTDF2MnRTdTREM0lLV2dBU1ozZUpkbml0eWJwRllxcFRyZWtzSjhRcHBMV2F1OW9vdTFvMnh3ZmRWWFJYVjVBUDllbUQ5M09hdGljNTRpUk9UdVJnRTlXTy1FSUxrX2NFVzRwbTNHNElJWk9ieVJvYlhaNGE3RHhZR0QyWE9oa2ZCanc0Ti1TNUVlbw?oc=5",
+  "date": "2026-11-22",
+  "source": "Mezha.net",
+  "id": "ca7f5c252fd485ef",
+  "feed": "Google News: \"solid-state battery\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "event": [
+    "launches"
+   ],
+   "tech": [
+    "battery",
+    "solid-state"
+   ]
+  }
+ },
+ {
+  "title": "Sunconnection's solar dashcam launches with semi-solid-state battery, no wires - Notebookcheck",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3RfdGNBODRjMDFfakVFbzdVVG5MclFIUVBzRzhDbUpCOHd1YjVfWHN5ck9mc2E2a3IxU1pLNXRRZnpYbldIRUQyenJScWhWeGQ0R2FjeVNsQ1Zkd2tvcENOUjJFUWFBLWdiQkw4YnM3U05ObzNFdDViWEoweGM1ZUF2eFF3QU12akxLSENSOWJZaTh0ZmJHTGdpek5KaU5RSGJ2bENpVGo5V2x4YnhYY1owczVqNVY0cndPaHhhRQ?oc=5",
+  "date": "2026-11-22",
+  "source": "Notebookcheck",
+  "id": "a3aca37d292ad030",
+  "feed": "Google News: \"solid-state battery\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "event": [
+    "launches"
+   ],
+   "tech": [
+    "battery",
+    "solid-state"
+   ]
+  }
+ },
+ {
+  "title": "Semiconductor plant wastewater turns into low-carbon heat source via heat pumps - 디지털투데이",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMkRmaXUzUHRRZGhXRXY2TmdvYVpDSkZqLXJNMUpCVE5tZTN3Q2l4TDZrTEZZamlJNTd3bGpuZzJibVpLczRyak1nT0JXN0Z5YUMzdGlHM284UThWU25HT0pad01WZDU4R2R1TG0teHFzT0dVeXFMVFo1TlFibDZrMHIwajFKbGFJbGxBcjl6T05tV3VsZjZ4ZThtQnIzV25HOXJFMzVGNlo4RW8yM2t2SmJyRTVYN2RTcjNpbUdSZFEwbTA?oc=5",
+  "date": "2026-11-22",
+  "source": "디지털투데이",
+  "id": "af11e0a499340fa1",
+  "feed": "Google News: \"district heating\" OR \"grid operator\" technology",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "event": [
+    "plant"
+   ],
+   "tech": [
+    "semiconductor",
+    "heat pump"
+   ]
+  }
+ },
+ {
+  "title": "ECB Eyes 2027 Digital Euro Pilot After Pontes Settlement Launch - CoinMarketCap",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUZlTlZCWWw4RGd5UjlHTHpwd0VveERFR01zQjFJV1RTdGpsMi1PaG9mMVZSS0x2cFc3UWxua3RoR2o1QlQzNlIwQVJjWDBYRm13R3Zra1hxQ2VuREtac053UTlHMjJybjJiWU9sWkVvQUN4MVpiSDUxR2ZMT1JEeWVBei1qTWlIMjNwYVZmWXYzWWtpYU1vRE1OanRzcG0ya3JRNlMtZzg?oc=5",
+  "date": "2026-11-22",
+  "source": "CoinMarketCap",
+  "id": "bd07fcfdd6839537",
+  "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "event": [
+    "pilot"
+   ],
+   "tech": [
+    "digital euro"
+   ]
+  }
+ },
+ {
+  "title": "Factory worker turned lawmaker: More money for industry is not a long-term solution for Europe - EU Perspectives",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRy1VQXVXMldubzBXQVBodWJFd2ZXSWt5Z1VXcG4yZmUtNno2QUF0ZS1QUjdhd3NyRlY5YjVobjg3bk5uSUlTOGY0VkdKS2pjNC1rUmFEOERILU9FbnAwZGxxckwtajg5dDk3ZFMxQU9tcnlXSHkzYVhFZUNSUTUxQnhHZjJkLUZ0cE1n?oc=5",
+  "date": "2026-11-22",
+  "source": "EU Perspectives",
+  "id": "28e970bda0c7c53d",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "event": [
+    "factory"
+   ],
+   "industry": [
+    "factory"
+   ],
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
+  "title": "Bangladesh Garment Exports Lead EU Denim Market Amid China Rise - Daily Voice Of Asia",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQVhPT2JXaVFsRkVpRmJtUmxwcGRZc2hGeEhhLTZ6M2F1MFJ4d0dLa25aYmlwREFQaExuTkd6NnkzdHBhVmJJUnZ4YndTeW5jZEtrVFpzV0tHSUViOUZYRHV1T2R4M3VEQklqSmJwc25ZVnZTZ3FMeXpnTHFvdFhSc1h1dkxaOVF4RE1CVXd0b0FJUU9lcGxmUC0yMGFGT3lu?oc=5",
+  "date": "2026-11-22",
+  "source": "Daily Voice Of Asia",
+  "id": "c73e35e20aa9b4b9",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "event": [
+    "ban"
+   ],
+   "industry": [
+    "port"
+   ],
+   "geo": [
+    "eu ",
+    "china"
+   ]
+  }
+ },
+ {
   "title": "The UK and EU Are Linking Carbon Markets. The Factory Power Bill Came First - Energy News Beat",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaTFXS0EwZWZCdzlxNkk0VXJCOXczSTR5MkU4b2hjcVFJQWVLbm85NTUzTk1PWlZkbVBIbE5BalB5aWdtcDlHdTNheVFHWDdLYW1sa1J4ZXlsbTZ2N2d6SEMwaEdqN2xkVEctRkdjVU5QZlZsaDAxUHFjdHU2c3VEVW4tVWplYThxc3drMmUyV1JzUUtqSklJWnMxU0liYkN1ZGdIOENJclBCdFBrSFJ4SlJVVFhyZw?oc=5",
@@ -9969,6 +10833,30 @@
    "geo": [
     "eu ",
     "uk "
+   ]
+  }
+ },
+ {
+  "title": "Finland expands renewable energy with sand battery - The Portugal News",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0k3dmp2eTJaWlBsQ09CX2p2OEJ1aXA2R2ZZWVEtRV8xUjJtU2JYOTBlOThLcUUtYy1HdWpiYmxCS3lLM3BES1Q2NUl4aDM1cmtvNVNjYlF0eEQ1OXd2eGxidzhuTk1jRmF5UVB5eG53MzcwZzNsVXoxOFF0dU1hMzRNQmRpa2w0ZThXVExLTlRPcWxHeVhpUmNBYjd0RTFFcHVPb3d2d1V3UQ?oc=5",
+  "date": "2026-11-21",
+  "source": "The Portugal News",
+  "id": "e840b9e56417cf94",
+  "feed": "Google News: \"district heating\" OR \"grid operator\" technology",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "tech": [
+    "battery"
+   ],
+   "industry": [
+    "port"
+   ],
+   "geo": [
+    "finland"
    ]
   }
  },
@@ -10138,6 +11026,101 @@
    ],
    "geo": [
     "japan"
+   ]
+  }
+ },
+ {
+  "title": "China Expands Export Curbs On Critical Minerals & Advanced Technologies, Targets India, US & Japan, Says - Free Press Journal",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRmZnUVJWdEhKVTJXTXVjV3ZBbWpza1FhX0tRV2hLZmxTajVZNklqcHdCRTJyazVnWnlrQUNUZ19rZTdiQ0N2ZjBjVnJjNlVPWG5TNlBQbzJYZlIzRmwzS01pZE5pVEdRaGxYaGVCaW1HdUdyY2djZXVrakJ4c1dyMzdtYUFRcjBRV0hKb0dESlpJLWFyUHA5N3I5ZEl4UmNJaThYSlg4NVlocG5GZFNPTmprQTNnUllZNEN2ZHE5ZFdqbzNRWk5ZUGNlWlRjYXhYaVh4UEJIOVRmVFYwTGfSAeMBQVVfeXFMUEZXR1V0ZElkTXRyWUI0WFZfQ2wtVm1UdGxYNEM3VmpETFVYZk1BQXc1TGRfS01TWERBbFloTjdka0dJU25TZVBRcmxYbXp0aDRqYUdyX0VFS3daejRKMXp2YkJnVGN3TzVPbXVseThjalBQV0EzSXBNQ2sxWjdVUU5xLWNpSzA4a21GdWZrWXRETFhrWWVXeUZrWHp0ZFl3MGxQOTZmRWwtV2lsM1JQNURId0x0WE9fVHJmREhHYXZjSDZESnFRRmozRjh1M0RadS04Q29PSnlRZUdxdWlJRHRockU?oc=5",
+  "date": "2026-11-20",
+  "source": "Free Press Journal",
+  "id": "759102959227f2ba",
+  "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "tech": [
+    "critical mineral"
+   ],
+   "industry": [
+    "port"
+   ],
+   "geo": [
+    "china",
+    "japan",
+    "india"
+   ]
+  }
+ },
+ {
+  "title": "From Hanover around the world: Elektrotrucker Tobias Wagner starts global eActros 600 expedition - Daimler Truck",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOHg2eVpfUlE3WkQzd3pXNFpJU1E1U01WWXk4RkRiMHdKLU0xU0pHVm1xZk5sTldhaXN1dms2RlhQRldxdnB0NTJUNmRfV2kxS1lrbFpDSGwyV3ZNa09fVWtKVG41MkUzeUZMZ1UwcHVnc2hzaU9ERlZJN1Q4OVQwb2xzME1LM3VFcDlWcm4tY3lzbG5OSHhWOVR5SXBodlZ6d2gxRmtFcVpfNGltQTRPU2hqSzhjVG05OUlHQmhuaFFxWno0TFgzZC1IbGV2QVZlcF8xUUlhZnEyX1h6OG9BUTBGQWtyUTlHdFFCbzA2UQ?oc=5",
+  "date": "2026-11-20",
+  "source": "Daimler Truck",
+  "id": "fe95372a99f0d16f",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "industry": [
+    "truck"
+   ],
+   "companies": [
+    "Daimler Truck"
+   ]
+  }
+ },
+ {
+  "title": "Electric High Volume Transport: Mercedes-Benz Trucks presents the eActros Lowliner at IAA Transportation - Daimler Truck",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNajJkMUoxVmN1cEJZTzNVdUpRcDNtV3dweXRad2FyeE9wdW4xc2I4eTM0a2FLN25GMUc3QVA3S1g2SzFsUG5BVzJQejZ0cGo3WVcwbHluLUk5MjFuTzhKUHl0N0FhdzVtTE13U3FLalJ3UWpscHBFR2FieGxDTVlKTTZpTWV4c3dCeElUTWRPSWN4NzJDZGREODVNd2V0OGdjcHdoelk5aUp0RVpfZ2IzdE5vOHh4LUJOSEduNGZOa09ONlpNOXNrSHp5QUdycHFCTjItem5TZEMtNXYwejZ4Q0kyVnJtN19RMVV4WTA3UXRoQVBpandPNHR3?oc=5",
+  "date": "2026-11-20",
+  "source": "Daimler Truck",
+  "id": "8459cb15e1c8721a",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "industry": [
+    "truck",
+    "port"
+   ],
+   "companies": [
+    "Daimler Truck",
+    "Mercedes-Benz Trucks"
+   ]
+  }
+ },
+ {
+  "title": "South Korean Firm Weighs $150 Million Investment in Eric Trump-Backed Military Robot Maker - The Defense Watch",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV04wTk5Va3FFWkpJQmxXeG80R1ZfUUVIODJKeVBoS1diM2VkMWs2SnlDUkIybnNiZTlIQnR6Um5KNWpndWpoWDZPUjQzbzhrRGJqTFdvbG0xVll6S2c0cGViNHdJMG93cDFkT1BtZkhUZjMxTTNfajUyaS1WSDBvRXVVQkJPVHoxYkd1aG81d0RDU3JoLXRVVzljQnZ3Y2h5MWc?oc=5",
+  "date": "2026-11-20",
+  "source": "The Defense Watch",
+  "id": "26ea28ea95d604b9",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 4,
+  "hits": {
+   "tech": [
+    "robot"
+   ],
+   "industry": [
+    "defense",
+    "military"
+   ],
+   "geo": [
+    "korea"
    ]
   }
  },
@@ -13423,27 +14406,6 @@
   }
  },
  {
-  "title": "Exclusive: Italian robotics startup Mosaico raises €7.5m to tackle AI’s data problem",
-  "summary": "",
-  "url": "https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "22a5c1cb4b2aea71",
-  "feed": "Sifted",
-  "kind": "news",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 4,
-  "hits": {
-   "event": [
-    "raises"
-   ],
-   "tech": [
-    "robot"
-   ]
-  }
- },
- {
   "title": "China NEV Exports Surge 2026 Supply Chain Explained - Rare Earth Exchanges",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xQ1AybkJoWnprNjF5NFIxa01hYTBaX2dJdkxBbEpES2M4ZkdFM2hyek9vc2NiYzFjbnFUanRCM3hHZDdveTVkQlJsajBlTkdDZHQ2ZXh2X0FKNk9tb1pVLU5iT1RHbHpNSTBkWklraGhMazI5cHhwNU03TG1HZw?oc=5",
@@ -13652,6 +14614,596 @@
   }
  },
  {
+  "title": "The NVIDIA affair brings Trump and Xi closer",
+  "summary": "",
+  "url": "https://www.rapporteur.com/opinion/the-nvidia-affair-brings-trump-and-xi-closer/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "4a835db24679899d",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "companies": [
+    "NVIDIA"
+   ]
+  }
+ },
+ {
+  "title": "Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models",
+  "summary": "",
+  "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "cb64dbfddc167ffa",
+  "feed": "Sifted",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "companies": [
+    "Black Forest Labs"
+   ]
+  }
+ },
+ {
+  "title": "[China Shock, K-Industry on the Brink | Semiconductors] 5 Minutes by Elevator from Chip Design to Robots... China's Living, Breathing \"One-Team Ecosystem\" - 아시아경제",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByV19UVDdJRFFFeUVvS0Y3QlMyU1JzdHVPc2loOGIzU0tUb0hhMEJmSUVyTFlzV3d2akd2TEFQUlBKNFBQTnlaQ2phUXQ2cEEzMW9XOU9hOHF1Rk1aSS1Lc2NZenE?oc=5",
+  "date": "2026-11-23",
+  "source": "아시아경제",
+  "id": "0e2500e53d7702e5",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "robot",
+    "semiconductor",
+    "chip"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "Japan releases large stockpile of minerals amid Chinese rare earth restrictions : Global : JKN - 재경일보",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80dEFfR2Q3MmlVT0lycEQtMEQzMy1lXzl3aDlfVHd2R3V4VW55MnIwQ2M1cWtzTWk0X3E3QXdVMWs1ZjR2aHdoTUZpQWN6eGhFUXFVdTZBc1hZYzZDRnR5bUtn?oc=5",
+  "date": "2026-11-23",
+  "source": "재경일보",
+  "id": "5b36ce4bc5a25f2a",
+  "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "rare earth"
+   ],
+   "geo": [
+    "japan"
+   ]
+  }
+ },
+ {
+  "title": "China carmakers scale back humanoid robot ambitions - Nikkei Asia",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHhaTWsxbVBacl9MX3FfSFYxRGVTWm0zaWFfaFpaN04ybklwenZqU19lbGs0NGRSaDAxZ1dNaHRLdWF3MDdEczB1eFdSOUg0eV9QNVMyQVd3R1R5Z2tlQTRLZ3FaaGdhaUFVQW5LOTFRSnhMS1Nsb2o5QW52WjdqWnpuT2JuR29PeUN4QkY1NFAwMnNVMlI0?oc=5",
+  "date": "2026-11-23",
+  "source": "Nikkei Asia",
+  "id": "cbfad5caaf7821b5",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "robot",
+    "humanoid"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "Stablecoin payments: What PYUSD on Aptos means for your business - OneSafe",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZa2VPV3Nld0t6ZkUzYU43M3UwajlGSVFEMGRiMHdaYlZpR0prWkFwSzg4XzBVQVRJUVcxYUpHTlIyVEVuR1RNQTJkOFIwOVRiNEhDcHd6ckt2SjlZQ19pUDFkOV9nNW9oQmNOZ29lQkhQdFQ1N3lDNA?oc=5",
+  "date": "2026-11-23",
+  "source": "OneSafe",
+  "id": "d7639106991ad069",
+  "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "stablecoin"
+   ],
+   "industry": [
+    "bus",
+    "esa",
+    "payments"
+   ]
+  }
+ },
+ {
+  "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "5dde3f599c50056c",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "companies": [
+    "OpenAI"
+   ]
+  }
+ },
+ {
+  "title": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike",
+  "summary": "",
+  "url": "https://www.freightwaves.com/news/borderlands-mexico-truckers-secure-29-agreements-on-highway-safety-after-nationwide-strike",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "29dc03d76c0d14cb",
+  "feed": "FreightWaves",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "event": [
+    "order"
+   ],
+   "industry": [
+    "truck"
+   ]
+  }
+ },
+ {
+  "title": "The path and blackout of Nvidia's artificial intelligence (AI) semiconductors flowing into China to - 매일경제",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zWFBoOUtJS1QzVDNJZUcwd2tRanJRSTFSYmhWbXlqc0RNTlliYWZCSTY0YzNrVkRmcTA0V2g5dGtJLWFCMVA4U0Fta2RpUzg?oc=5",
+  "date": "2026-11-22",
+  "source": "매일경제",
+  "id": "d2e5c22e500f47ed",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "artificial intelligence",
+    "semiconductor"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "\"China Has Been Pursuing a Covert Operation to Secure Advanced Chips for at Least Two Years\" - 아시아경제",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lZHVsRFdfSzk0eDR1X2hGVEV6N1VoWlowZUpSY290b0lqQ1NYTDh0MDBqT01IYTJtaVltZU4xMWxjblJfeF9LOWNDX0d3dU1JYVgtdndjcXhVSzI3MHpYdUN3WGV6Nkg1amt0MzcyaGM3NFk4Rklz?oc=5",
+  "date": "2026-11-22",
+  "source": "아시아경제",
+  "id": "ed13f189629f6fe9",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "chip"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "\"Secret Operation Underway for 2 Years\"... Senior Official Leads China's Push for Advanced Chips - 아시아경제",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IX0VuMTVTNUhnYlNfQ25rOXFERVRJaExaQTEyMGtsNllqb1lGcnlhbEI5TWRXUTJuWmRuZ0w0c1NOaUc1MjdWTVBZX2R1ZWgzS2RyeTBkU09mQS02c1pEVm9hSkE?oc=5",
+  "date": "2026-11-22",
+  "source": "아시아경제",
+  "id": "08e12aae2357c182",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "chip"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "\"China's Ministry of State Security Has Run a Secret Operation to Secure AI Chips for at Least Two Years\" - 파이낸셜뉴스",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtTXV4RU5RMXE2dVBJbG9Wa2ZBalhuRnFEWGNGbWYwZTQxX2ZaN3lxbTdHYkUwQzVkdEpfNVBTWGJZOVRWU19jLWVocXF6TUdOeFB6aGRiMVI?oc=5",
+  "date": "2026-11-22",
+  "source": "파이낸셜뉴스",
+  "id": "864dc122d2e720d8",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "chip"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "Trump Threatens Huge Tax on US Firms Building AI Data Centers Abroad - XenoSpectrum",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0OHNEWGE2RkgwQ0pVUTRFVVlVLVA5dVdwbDU0Z3l1QmtKQ3BVZkFoaDFKZF91UTNib1ZEeXJRTzdMaE1XSE9sMHQ4TWNsVkZBUXZuZnU4LUhIcUxRMDBucmpmXzUwOVJENm1rSkNvdjQzekhYUUlDT2FVcw?oc=5",
+  "date": "2026-11-22",
+  "source": "XenoSpectrum",
+  "id": "489c316b642cdea1",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "data center"
+   ],
+   "industry": [
+    "building"
+   ]
+  }
+ },
+ {
+  "title": "Thailand plans to block exports of chemicals used in Myanmar rare earth mining - Yahoo",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlR5blYyeXd4QzF5MjdoSVVHWjJJU25WM3hSb0ZlcEwzeUxfRk1neXgyNWtFbTJBbnpvbzNYRF9xN2Mtbk1DT1VabGJLU1g5Z0VmR0JHZXc0MUI0TGwxUkJybUhoa29ia1B5Yjl6VmxaU3plWHg5ZXN4bjFKYUdfa3htc1owdkNLaWtJT18yUEF6UU0?oc=5",
+  "date": "2026-11-22",
+  "source": "Yahoo",
+  "id": "1f764af06a4381c0",
+  "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "rare earth"
+   ],
+   "industry": [
+    "mining",
+    "port"
+   ]
+  }
+ },
+ {
+  "title": "Thailand Plans Export, Transit Ban on Rare-Earth Mining Chemicals - TradingView",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEIyRkRuWDhVTnhzRmdCY0U2SXk3ajZoY2ZnbDNaNnFVNWJlajdubVNES2pieGxQR0FWNWI4TXl6NFJSSlZrT0QtQTFWY1p5bHlEY2NibXJxTnMzb1U3V2JsZFJabzN4bER5WG80NmlHaUVxelRSNGttRVFsWnQwSGJzZDhDUTk3dUd6VVpCSDhtczNqeDdlMmk5eVJOSkp2TWtaMVVZODE0VHozM2NTQjU0MF96RFlmMHpfalpkUzJndU9vWkE?oc=5",
+  "date": "2026-11-22",
+  "source": "TradingView",
+  "id": "86067fecbc411d54",
+  "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "event": [
+    "ban"
+   ],
+   "industry": [
+    "mining",
+    "port"
+   ]
+  }
+ },
+ {
+  "title": "Thailand makes prepares to stop exporting rare earth mining chemicals to Myanmar - The News International",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSnZtNUYyak1WQ2xBY0NWQXFhNGkxTU4zU01OMmY5LXlPVzg0dzh1bmpENURZSXhGOElQZktTYUFsOTlSdHJHRS15UVZ6RmloQlhBWHc4eHVrdlpRWktYbUNUU3FUZmNNTEd3Q3JnWXNZN3BzaDVSbHNFSnVDbEFjajVUMThDbWVYVk0zQ3lqRHNLemNwSzJOVE9TZkhjMHptQldVTzJsQ1VHeVZaeTYxUTJDT1dQemV5NWl4Q3RfY9IBuwFBVV95cUxNbXBMQXRLcE05cmZZWnVXU2tuWGctQzhkbUdtdmlQQTVWSnFpSzJjdk5TSGRVR3d1Q1h3dmNvYWVXeUVHeGRBOEkwQk0zMFk0UF9fR1VLeFBhaDF5aVJYSUF2YjdIRkVyVW1RTHdVa1Y0R1I5MmJzdjFuNm1XdXFBNmkwdkdkRTJrU3M4c1ZnTGw2NGRGdEl1NWFFRTlVNnFCcmFnRXNyY0hNTl8zbGJlc09UMm5XUVZXUmJj?oc=5",
+  "date": "2026-11-22",
+  "source": "The News International",
+  "id": "c6cd9cdf952d82a0",
+  "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "rare earth"
+   ],
+   "industry": [
+    "mining",
+    "port"
+   ]
+  }
+ },
+ {
+  "title": "Electric truck forecasts slashed by half due to lack of chargers, and despite plunging battery costs - The Driven",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSU5nYzNJbGRJYkxfaGxqeWlpRHM3VlVyZ29WTV84ekNCa2NuZXBpNEctdWVBcU1ZUmp0dkkwbTVEVUNqNTVBVVhYNGRYM2pBSUJGMGZRcDQyLXBvVTVSdEF0VDV6TWVLZk1JcnVxTTVoRlpHMVYzcVU4SW5SMjlsTUV4Q3lrY2gzNVJuOHppMV91NGVFZUJUT0hYRG9GY1BBNy1OT1FLQV90MkkyLVNxaDlzblZxUXJKNkRBc24xYzNYV2tjdDZ3ZkVCS2E3OTA0ZUFvUElQd1MtWkdVMVI3OQ?oc=5",
+  "date": "2026-11-22",
+  "source": "The Driven",
+  "id": "d93380d47da3f393",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "battery",
+    "electric truck"
+   ],
+   "industry": [
+    "truck"
+   ]
+  }
+ },
+ {
+  "title": "Think tank calls for electric truck plan to improve fuel security - www.ownerdriver.com.au",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORFcxOFY4Q1locTlyQ3dlR0FhVi1qUWgzcHFDeGpWazh5Nnc2SmdQVHRJblN4QmIweW9aUkRWTnBUUEdhLUFDMktlZTg5YjNqQUhaOGlzdWU2NEg1dkNPSmZ4TW9wMmlZSE90Q040NlhFZFpjOW0yeERjZlFSYWdmVFlVM0xxT2tZSWVGcm52RzVyMXZXX0oxMml1cElxUQ?oc=5",
+  "date": "2026-11-22",
+  "source": "www.ownerdriver.com.au",
+  "id": "f40c3660b3397ec4",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "electric truck"
+   ],
+   "industry": [
+    "truck"
+   ]
+  }
+ },
+ {
+  "title": "Montra Electric crosses 1,000-unit milestone with Rhino heavy-duty electric trucks - HT Auto",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd290WndUTlc0TndMeUg0TWgwSExFQWNhRXgwT3BQN1lqbUhjM0wtTEc2SUxPN3JzeGV1RVJTNlpiam05anNCSmRmb3NrWjA4ODI0bklGN1hncUxiRUIxZDlBSU1FNjVOdW91YVpGcU5rVUdVWkJidGtqQjZxTEpMVjR6UnFmaXBodEgwcjVKd1VRTmpiR0JESnVCZFV2REVaVTk1SWMyakdCa1VlSmk5aUJ5T0lyeGx1cHRjMGEzQkl4QUxxSzNoOUNVZ1I2WUVveXExVTZVQzNWOEZY0gHiAUFVX3lxTE15WHJUZ1U2UUE1TzBmVzJXNHB2c0xRd0ZJZERuYi1yN2tRM1VJc3ZLLUtPbExRZVJhZ1p6d1hjQ0NxWWVBcF81U0lBakx0ZzFNVUNEZ0hobk93SHhKWDB6Q2NjU3huTVc5YjV4bjRrZzUySUNMcWo3X1ZPaXQtM3U3dlJ3X1JETnVROWhxYlhMaEpIeURyWmRaVGh3NjJjZW5Nb2RFdTJNWU1lalpVTTAyR3MtemZvZGtXM1lsZkZCeWJSdXNoMFl4d0hpMVZQTlRsc2NfOWt3czV3VUVuVm5ZaHc?oc=5",
+  "date": "2026-11-22",
+  "source": "HT Auto",
+  "id": "741719ae1876f485",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "electric truck"
+   ],
+   "industry": [
+    "truck"
+   ]
+  }
+ },
+ {
+  "title": "NHL unveils the NTE240E, a 240-ton electric mining truck - Foro3D",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1h6VWFlaHR0NS1oQm50TTlUc1RUaXQwYmtLNHhLcHV0ZGhKMVQzTWdDVkY3dlhLQVBBYXNGUkhTR1hvTnE2aXZSbmRFUWo5SmNRbFFxQnZUYjVEcm81am1VQzRVWFFDeXl1dVRfMDE1aFkwTEZQajh4Xy05VlhCMkx0dTA1MjkwUDJDZmFMeVFYa195R3JtcXRyWDFEMHQtYWJxaGhrT252dw?oc=5",
+  "date": "2026-11-22",
+  "source": "Foro3D",
+  "id": "77b77984a7c07021",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "event": [
+    "unveils"
+   ],
+   "industry": [
+    "truck",
+    "mining"
+   ]
+  }
+ },
+ {
+  "title": "Tesla Cybercab private sales begin in US - Carsales",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNy1WVGNUU00yVGpjVHlMODYxMXpra1E4T0p2bklsNmlqVnc2cVlYa0p1WUdfRmNsNXpLcGZBbU55ZmpRSWZjMmZVNjNfMzVWN1lyRnRfSXR4OWE2dmZadDFuS3ViR3VmQjl2RlNZZFhXS0FXeGxXNU1tdmtrYnZUc3F4TmZHOWgwb3AxT2VhTW1lb1ZGN3VpYThR?oc=5",
+  "date": "2026-11-22",
+  "source": "Carsales",
+  "id": "e40a43e7cd7754c4",
+  "feed": "Google News: autonomous trucking OR robotaxi",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "companies": [
+    "Tesla"
+   ]
+  }
+ },
+ {
+  "title": "European manufacturers expand use of AI and digital twins in engineering and production - Robotics & Automation News",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdG5QN29pVThrU3d2cndfYW90Y015WXFjdmFqYUdtX1M4RnVaUFFKT2ZTTzRDRTlOQkdSN1hPbGtUTFBCeFBTSlgwYThYdDNsVWcycFJsQ0YwQUJseVFpSlJCVFhMSENqSzFIdldRWllSaDhienVlVFpNZTJpR3dGdHNzdlFMSVhPQVowN1gxRXZKQ2R5XzhiUm5Gd1hPYTJ1MG9vUkdGSVdYUjVHTFprWVNNdXA2N2c2UDUyd3ZVcENrU1VrbEdoNnYxOWdnajJUUTR0X093M0cxNzVm?oc=5",
+  "date": "2026-11-22",
+  "source": "Robotics & Automation News",
+  "id": "91154313a713bc80",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "robot",
+    "digital twin"
+   ],
+   "industry": [
+    "manufactur"
+   ]
+  }
+ },
+ {
+  "title": "Fifty people remain missing after a fire at an Indonesian candy factory - Reuters",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FeWIyZEJqRWtSV1JDQ3paMjc4VC1VSGpCTFBTMF9YdUkzbmtCUFdDRFVJNV83eEhFYU5lN2M2aTdGLW9oSUpuZHFISGlYQUhiNDZ2VlBodnFGZl9POGFmd0R4Qm0tTjA?oc=5",
+  "date": "2026-11-22",
+  "source": "Reuters",
+  "id": "49cb84d659cbe2c2",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "event": [
+    "factory"
+   ],
+   "industry": [
+    "factory"
+   ]
+  }
+ },
+ {
+  "title": "Ultrasonic Flow Meters Market To 2035: District Heating and Water Utility Adoption Supports Expansion - News and Statistics - IndexBox",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd1ZKWXdyZjVTamE4Wkhka3ZkcXdLNUNOY0k0cFFkLW5mODdCNEYtRE8ybTJaZ0g4RWdudDJVTnpNVmVBSjVCVGpsY3VKdTd0Tk5aMy00ak1xS1k0TWxBNU14WnYycFdpY0s4R2tXWDlFRHNQYUF2Ty1CR1ktQ1FWbjR3X2ZBUktCZDZMbk9BaEpudjhTTTFXeEVnR3FLSGhhRTJhZ0Y3TlVPMk5wYWtNOFBRdjAxa1B0dGRpWldCNnpLTjR6eTg3UExITlZISmV5akZMeVF5SmJVN1N2SkNfNjMwMS0xcTMyemF3aHZ0NlEzVlk?oc=5",
+  "date": "2026-11-22",
+  "source": "IndexBox",
+  "id": "37d22667233b34c1",
+  "feed": "Google News: \"district heating\" OR \"grid operator\" technology",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "district heating"
+   ],
+   "industry": [
+    "port",
+    "utility"
+   ]
+  }
+ },
+ {
+  "title": "Mercedes Is Nearly 20% Chinese-Owned. Senators May Change a Car Ban to Spare It - MotorBiscuit",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVYyNWg0U3h5cFowSHQtVDJ6WVpVZFdJa1k2Q2Q5cm9kNXBNaXlMTURQV24yXy1uMDZVVVFxbzVaYTFCZGVLX1VfcUJVdDdkbV82UkE1a3lxQnI4bTF5eFlwTDN6RVMxTWNxSFV1RVBTdVIzblF2Y1p6a1pwTFd2Ri1EZE14TmFNNllUZFZNLUNVMlkyc2c?oc=5",
+  "date": "2026-11-22",
+  "source": "MotorBiscuit",
+  "id": "659109aab05457da",
+  "feed": "Google News: \"connected vehicle\" rule OR ban",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "event": [
+    "ban"
+   ],
+   "industry": [
+    "nato"
+   ]
+  }
+ },
+ {
+  "title": "Mercedes-Benz may face U.S. sales ban under China stake limits bill - 디지털투데이",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXZZOUlrV0hHdnRKUTZGZFFjUW5sdjJtWmV4Y3NwdzdubTdGRk9zM3hkbU1zTmtQUkp1ZHdWbmFPSjBEQzlsVlFQUm42cUF4NDRuVGxvcGg0RzlKNF9OdmtncEZrNGt6U3U4UTZRQnhFMDc4bVducFRXVVFiNXZmSW1oSEQyQjh0VlBDenhYVktwcFczT3JTOGplcXRJbnBseEROZlduME9QdGZsSU42Rg?oc=5",
+  "date": "2026-11-22",
+  "source": "디지털투데이",
+  "id": "eda84a01a912e9cd",
+  "feed": "Google News: \"connected vehicle\" rule OR ban",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "event": [
+    "ban"
+   ],
+   "geo": [
+    "china"
+   ]
+  }
+ },
+ {
+  "title": "Cici's Franchisee Files for Chapter 11 Bankruptcy - Wisevoter",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUdVazc1RVRZM0FtZWVMQ1ZCeDVWM2YzRGhpbU1jQndUMEMzZThFVk03Y0pPQkloVWtGcl9hMVVkaWpmbFlpc0ktU1l5REczLW5XNkFkb3JpWWpybkl1Q2Mzb2IzamVUcnhueWhidlRIaXNpYnh4aDBieGJxTGgwbmFaZ01hTk9vTjdlSWc0RmpScXNzTElEamZ0VUNLempPUkh4TTBDT18?oc=5",
+  "date": "2026-11-22",
+  "source": "Wisevoter",
+  "id": "5d6503f864c9eeb4",
+  "feed": "Google News: bankruptcy OR insolvency battery OR EV OR robotics",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "event": [
+    "ban",
+    "bankrupt"
+   ],
+   "industry": [
+    "bank"
+   ]
+  }
+ },
+ {
+  "title": "Pandex MCP: EU Law API for AI Agents (Nov 2026) - explainx.ai",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYmhxSnJLandjNEpwcmtLejM2Umh4dXhEVmJVRE9MaDVvY0FUMHhOUEFub3ZtZUoxQjhyR0tkOERaNy03TVE2eU9aYWE4UEdUMm1MUWR6WVlsT2JlUVV0MkNuQUd5UEFGSlFaUWlhOTNmQW8zcF9NNl9QaHVuekRhb2tDb0ZaaG9aVlRrYU04aDl0QQ?oc=5",
+  "date": "2026-11-22",
+  "source": "explainx.ai",
+  "id": "0deb0017d8ecfa4e",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "ai agent"
+   ],
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
   "title": "Xiaomi’s 1,548 hp electric supercar is going global, starting in the UAE",
   "summary": "",
   "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/",
@@ -13724,6 +15276,49 @@
   "hits": {
    "companies": [
     "Isar Aerospace"
+   ]
+  }
+ },
+ {
+  "title": "Why Forex Is Winning at Crypto Banking—and What You Can Learn - OneSafe",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeDZXcVhZSnN0ZVRzU2FJY2tiSnZzdHhBNl90WW9EdW5QOWNaTGM5c28yQk1pWkNqN0NEUm1LaWtTeWNETUZoOVREWU5WaFVGQXZ2NXF6aU1aSXJrSnppX1BtUnNhVVdMb0FCNkd3R0R5eHlweTZBdmM2aGZfNjRWQjhn?oc=5",
+  "date": "2026-11-21",
+  "source": "OneSafe",
+  "id": "8068da3f71c4ed9b",
+  "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "event": [
+    "ban"
+   ],
+   "industry": [
+    "esa",
+    "bank"
+   ]
+  }
+ },
+ {
+  "title": "Scaling up Europe’s hydrogen industry - Science|Business",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12WUUycWlmY3dkTmVOLXlVZm9VeU9nRWY2ZGpzUDBFczVURG5sWkowQnhVTERSa0g4XzFGUGw4SDVEelBRaUdwaGlSUnRzaWpaMzM0b3dWX1JQMjNka3hveVhZc01oNjZicWxEckR5cmxMVzJS?oc=5",
+  "date": "2026-11-21",
+  "source": "Science|Business",
+  "id": "c24453ec6764903f",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "hydrogen"
+   ],
+   "industry": [
+    "bus"
    ]
   }
  },
@@ -14085,6 +15680,171 @@
     "bus",
     "esa",
     "payments"
+   ]
+  }
+ },
+ {
+  "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+  "summary": "microsoft_DrewAngerer_Getty.jpg",
+  "url": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+  "date": "2026-11-20",
+  "source": "",
+  "id": "d25682e64d3c081c",
+  "feed": "Dark Reading",
+  "kind": "news",
+  "domain_hint": "Cybersecurity",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "companies": [
+    "Microsoft"
+   ]
+  }
+ },
+ {
+  "title": "China Hosts Trump-Putin-Xi Summit as Japan Faces Rare Earth Supply Risks - Rare Earth Exchanges",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5leFF5N01YTzJJMkhDWklENUVRQ3JVNHR2TFRFVWcwbTVoeDRCQ21CdkhINE9NbnpIMmd5Z2lfZ0RvRUZqQjY4cUwwOXVfanpzUlU2VEo1SFR1MmhRa0VKMlFsck5UU2Yxakg3Qmd2RUdoME0?oc=5",
+  "date": "2026-11-20",
+  "source": "Rare Earth Exchanges",
+  "id": "17e13cdd2d103246",
+  "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "rare earth"
+   ],
+   "geo": [
+    "china",
+    "japan"
+   ]
+  }
+ },
+ {
+  "title": "NHL’s electric NTE240E haul truck offers dual-gun charging and up to 4.1 MWh of battery capacity - Mezha.net",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXJvdVdKN1doNmc4WVp6QnJTWlFKOXFUbklRMGhkdmZZUjRUNDdBQXhQcFU3ZDBEYkVQTG5PYnJpQUNfVFpZY1pfSl9fT1ZtcnRwR3hfSUpLdVF3cFQyc2tjOGl6dXFrVjRCZHNoSjBscnhNS3RJVHBzOHhIQjlXMXo2cDJBdDhv?oc=5",
+  "date": "2026-11-20",
+  "source": "Mezha.net",
+  "id": "c672ee188a2d5a44",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "battery",
+    "charging"
+   ],
+   "industry": [
+    "truck"
+   ]
+  }
+ },
+ {
+  "title": "Watco expands Intramotev autonomous railcar operations to Texas - Robotics & Automation News",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0x6MVJIMHkyUTEwcE5TWXVTYWlOLTA1aC1EU3dZaXBkdUFkOXhNTE42dWhjLVlibmpnQnhROXBDSV9CTnBNVDNVb01MSDBmQ0tjM1JzNHVya1VvYUNwWGpnWi1vN0x3dUM2MTFZZmVPcE1QR2F6QkdpSU1WT3lRYzdQNkdNS0JnQUxyd3EtaXdxOWEtdUtxeklCcWNsOWRMdVJKLXBMaS1aWHlORFBiM1ZNaW9NWXJMMWZWRA?oc=5",
+  "date": "2026-11-20",
+  "source": "Robotics & Automation News",
+  "id": "0f5accd745de733d",
+  "feed": "Google News: autonomous trucking OR robotaxi",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "robot",
+    "autonomous"
+   ],
+   "industry": [
+    "rail"
+   ]
+  }
+ },
+ {
+  "title": "Only the brave - forgotten Saab EV that never was could be coming back from the dead - Car Magazine",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcWZVWUVjQlJQX1hJdWVFWFBaYVAyWm5MSExDS3ozcUJaY2hwMV85WHBGVDBscC1LTTRqMVhURlJidWtiOFRpUXQ1ZjRIcFZ3OFlOcV9wOThKQ3pRR3d2Ry15aF8teERxRE1RTzJ4VWNvRHJmOXo5VlNySVBVLUZ3Vg?oc=5",
+  "date": "2026-11-20",
+  "source": "Car Magazine",
+  "id": "70fdc6f2cbc9b0f7",
+  "feed": "Google News: autonomous trucking OR robotaxi",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "companies": [
+    "Saab"
+   ]
+  }
+ },
+ {
+  "title": "EHPA Reports Over 110 Events Across Europe for Heat Pump Day 2026 - Refindustry",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNlBkZ21iOWdUSGlXaHpyVzZYMWtwUWNqanFUZU5ONTBVREthZkJhQmM3Ukdha2FMcmlQLUt0MS1MLU9ZS0VvdjRMSUVMTUE5YkJpb3d1bmpXRjRiaWtrempoY1RWWmcyM0pXeWU4REFPQmwwOERBcXhkNmYzb1NOYkNSZHlHaHQxWUVGWFB6ZWRvczR1S1ItSW91UQ?oc=5",
+  "date": "2026-11-20",
+  "source": "Refindustry",
+  "id": "a1b68ee34a2ec638",
+  "feed": "Google News: \"district heating\" OR \"grid operator\" technology",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "tech": [
+    "heat pump"
+   ],
+   "industry": [
+    "port"
+   ]
+  }
+ },
+ {
+  "title": "Schroders Greencoat backs Finnish e-methane plant with Allianz - IPE Real Assets",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWG5wWUdmNTRFMmFIYXRYVmNWdTNxaHFFRG42SHN5ZXBMcUVDV1hYNGhvc0p0YjBqdFBsTk5GQUpMeGZjZ3I1NW9BMWxBeHhwTzN1Vk91QXRUWGxrOU9pZFplY21aY25JXzZ4SktHVy1GdzVreDhQc1g2RGpGVWFydk9RR3h0VkVIS0FkdXVhaWFXaVl1dElWcGxuYUtqbmJwb2haZ3B2QXFXYWEwblRYZA?oc=5",
+  "date": "2026-11-20",
+  "source": "IPE Real Assets",
+  "id": "ebc3559da1ec43ec",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "event": [
+    "plant"
+   ],
+   "geo": [
+    "finnish"
+   ]
+  }
+ },
+ {
+  "title": "Denmark - Fintech Laws and Regulations 2026 - ICLG",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91ZmdyTlQxNFRONGptendybzB3andOMDhLMEd0UWNrRzB2bzBwaW8wNW92VWhsVFR5Xy1JdkpGYmlrQ2VCSXNMSEhyNHRGQUVFQ3ZGZG42b1dwNVU3SmRJNFBoOTFfSTJWRkk5YVVla2JLTG5SSi1odQ?oc=5",
+  "date": "2026-11-20",
+  "source": "ICLG",
+  "id": "d6f38cf390fc730a",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 3,
+  "hits": {
+   "event": [
+    "regulation"
+   ],
+   "geo": [
+    "denmark"
    ]
   }
  },
@@ -22271,27 +24031,6 @@
   }
  },
  {
-  "title": "Helping arms: German hospitals turn to robots to solve worker shortages",
-  "summary": "",
-  "url": "https://www.rapporteur.com/news/helping-arms-german-hospitals-turn-to-robots-to-solve-worker-shortages/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "2318f94e5486a071",
-  "feed": "EUR-Lex / Euractiv",
-  "kind": "policy",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 3,
-  "hits": {
-   "tech": [
-    "robot"
-   ],
-   "industry": [
-    "hospital"
-   ]
-  }
- },
- {
   "title": "Trump minerals push leaves US vulnerable to China rare earths - The News International",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTkJGcUlKSHN6VWpyODY5TzN0eUdGR0xUSDRVZ1BIWVAzd2s2YW5SdmMwZHZrRm9fbjBkcU1iS2tnd1RINTNrSTIwZzhtajZYTWkzUHo3cDd1SEV3UXM1QWtpalJJVzJCSm5GQ0FVakxNTHFBVTNjaDA5YS1mTHc0LXg2MjFheFM1YWFFbXdUaTRyN1ZtYVRvYmZqaXVjT1Y1bmphVGZR0gGiAUFVX3lxTE93UmR2T01KMTI2cFViOVR0cjFaWkxudGdaOGMwbk1nOVV4QUY4WmZlUlctWDZOa0dQa3VXQWpCNDFJdXZJeXdoU2Zpc1M0QW9SUmV4Tk1kRG5oQkQzNUJzSTNxZzJtUWFvUXZZSW9IbjlDX1ZkWE50R2pzT1FaRm1rTTgzOUhsSV8tYVlEek10SG9qNExzQ1E0cWl4czFIWE1GQQ?oc=5",
@@ -22558,130 +24297,6 @@
   }
  },
  {
-  "title": "Estonia to close Russia border after ‘sabotage’ bid",
-  "summary": "",
-  "url": "https://www.rapporteur.com/news/estonia-to-close-russia-border-after-sabotage-bid/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "27b8c1c580dfdabe",
-  "feed": "EUR-Lex / Euractiv",
-  "kind": "policy",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 3,
-  "hits": {
-   "event": [
-    "order"
-   ],
-   "geo": [
-    "estonia"
-   ]
-  }
- },
- {
-  "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-  "summary": "",
-  "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "45388d70fb8c6259",
-  "feed": "TechCrunch",
-  "kind": "news",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 3,
-  "hits": {
-   "tech": [
-    "self-driving"
-   ],
-   "geo": [
-    "china"
-   ]
-  }
- },
- {
-  "title": "Starling founder Anne Boden plots new AI-powered bank",
-  "summary": "",
-  "url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "3a2a4a94f93c48f2",
-  "feed": "Sifted",
-  "kind": "news",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 3,
-  "hits": {
-   "event": [
-    "ban"
-   ],
-   "industry": [
-    "bank"
-   ]
-  }
- },
- {
-  "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
-  "summary": "",
-  "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "b77f1ba27d6dd021",
-  "feed": "Electrek",
-  "kind": "news",
-  "domain_hint": "Energy",
-  "collected": "2026-11-16",
-  "score": 3,
-  "hits": {
-   "companies": [
-    "Tesla"
-   ]
-  }
- },
- {
-  "title": "High altitude, bitter cold, zero drivers: autonomous trucks take on Tibetan mine",
-  "summary": "",
-  "url": "https://electrek.co/2026/11/15/high-altitude-bitter-cold-zero-drivers-autonomous-trucks-take-on-tibetan-mine/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "316c69b190c7ccc8",
-  "feed": "Electrek",
-  "kind": "news",
-  "domain_hint": "Energy",
-  "collected": "2026-11-16",
-  "score": 3,
-  "hits": {
-   "tech": [
-    "autonomous"
-   ],
-   "industry": [
-    "truck"
-   ]
-  }
- },
- {
-  "title": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot",
-  "summary": "",
-  "url": "https://www.freightwaves.com/news/borderlands-mexico-texas-cross-border-traffic-rises-by-400-trucks-through-saturday-pilot",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "02384d3cfbfeaf99",
-  "feed": "FreightWaves",
-  "kind": "news",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 3,
-  "hits": {
-   "event": [
-    "pilot",
-    "order"
-   ],
-   "industry": [
-    "truck"
-   ]
-  }
- },
- {
   "title": "Ford Fathom budget electric truck rendered based on spy shots - TopElectricSUV",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91bkJuNVJsOXMydElpcWRRSjBUT3d0MUozLWlSUTkyYjcyb1VBTjRmYkRHSm0zc0FOaDloVkpNTlQtUWxWczdMX1lSWVNZUnJaUUFQd1ota2tycHpEZkxsMnVxYmx5WjA2U2VuUHQ0Mnh2bVMwbmtKd2hpMW5QZw?oc=5",
@@ -22765,6 +24380,370 @@
   }
  },
  {
+  "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
+  "summary": "",
+  "url": "https://sifted.eu/articles/acorda-pre-seed/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "68f04d44c7f91a96",
+  "feed": "Sifted",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "event": [
+    "pre-seed"
+   ]
+  }
+ },
+ {
+  "title": "Montra Electric Rolls Out 1,000th Rhino Truck, Becomes First Indian Brand To Reach Milestone - BW Auto World",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1FqS3hUUk1OZThSdmJOcnphTTlXNlpnRUtuWDJObkhwTkRVUXVTd2Y5NHV4YWV0QlpSMF9OZFA2bk1HYTFjSGZMWkNPVm1oeUtPMi1wV0tJT0FCREd0OGNlZVNLVy11aDhOSUVnZ3N4TG5zQUkwNkZ5OXdsSnp1NkhlQ0pvQkctSl9pOWZ3d2JpMEtmR0ZQNnJncTA0Vmt4eEY5SklTZXdSanBpREhIQW5KTHZ0Z2puRkZfS21TV25NRk5haWdWWTBB?oc=5",
+  "date": "2026-11-23",
+  "source": "BW Auto World",
+  "id": "482bb2201f30f325",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "industry": [
+    "truck"
+   ],
+   "geo": [
+    "india"
+   ]
+  }
+ },
+ {
+  "title": "Europe could lose billions in battery investment under proposed Franco-German car deal - Review Energy",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjljM0dIVDR3cFBXTVlMamtpTFl1VHFuVEtxX2NOUkVpdERNbWg3T19ibUN1LVdwdTJhb0NudVE4SDl0cnJEUkZTcHFWOGhfYk9jbmpseWlhVHZjbWZ1VkRCWkFlWUY4WGVIbV9lNnFtanQ1dEFGOWdrRHk4eTdxalc3NWgtN3NHWkZCM2NVRTAwZllYYnBWdXRoT2dKbE01M1FnTTBpT2dDUkxPQXV3UFZMUHNIZnM5WGhLVnNLd0lOUmdS?oc=5",
+  "date": "2026-11-23",
+  "source": "Review Energy",
+  "id": "83329309bff57a10",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "battery"
+   ]
+  }
+ },
+ {
+  "title": "Why data centers are at the center of the Big Tech backlash",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "4dec028f5517a613",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "data center"
+   ]
+  }
+ },
+ {
+  "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "b2b289012e294485",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "robot"
+   ]
+  }
+ },
+ {
+  "title": "Why the next phase of the data center buildout runs on light",
+  "summary": "",
+  "url": "https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "ebe8525fef38a9ed",
+  "feed": "Data Center Dynamics",
+  "kind": "news",
+  "domain_hint": "Compute",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "data center"
+   ]
+  }
+ },
+ {
+  "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
+  "summary": "",
+  "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "9de9099317efbc7d",
+  "feed": "Electrek",
+  "kind": "news",
+  "domain_hint": "Energy",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "battery"
+   ]
+  }
+ },
+ {
+  "title": "Dangote Sinotruk Takes Nigeria’s Truck Industry into Electric Era - Daily Times Nigeria News",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOVJBU2NOVlF0QUROUFBaY0o1eVg4U3o2ZnpFbTE1RTN2cDFHLVlGbXhDMVMzVHYwd1dNdHJFNnMwVG9ITFlCWFMtYUFZUDhsQmlnbXU2RzJYYk9hZERFeGx4WGpqNzh0SFFuajNRZGptSHMxNFdpS1JzMm9hLUlzNkhjaFB0Z2tXRjh5NVhSWG9OanNP?oc=5",
+  "date": "2026-11-22",
+  "source": "Daily Times Nigeria News",
+  "id": "05bdbe2f75776d89",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "industry": [
+    "truck"
+   ],
+   "geo": [
+    "uk "
+   ]
+  }
+ },
+ {
+  "title": "European automakers expand autonomous driving programs with Nvidia technology - Robotics & Automation News",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnhOTzUxR005dFB1VDFlRU5PZ2RQR3dPVEdkOWRQaXlYUmxmZW5nMGJPQkNCOHBWXzNrQXdGWnNJMUIxTlVpenV0VjVpZzVYUkZVX1JXeTYtTUlqUEI0NWIyOXZNOHJUdjRyeGdHNm4wN1UySDVCUTN3MEtJcnhOc3h6NWpVTWhHZzFURVFUd0FZeG5JWThvOWJId0ludm0xXzgxNWQ0bnpJU28xenZpTVBuckZYaWhRZFc2VFFtSFo3bjZIbVJ6T1JuT2ZOZEk?oc=5",
+  "date": "2026-11-22",
+  "source": "Robotics & Automation News",
+  "id": "b1bd2a4be83edc02",
+  "feed": "Google News: autonomous trucking OR robotaxi",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "robot",
+    "autonomous"
+   ]
+  }
+ },
+ {
+  "title": "ABS-CBN News. . ROBOT GYM? A new gym in Munich is teaching humanoid robots to handle everyday tasks, use tools, and work more safely alongside humans. #DWDigital - Facebook",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZW9KRDQ3ZGpMSkFubHhkUDVzaGVoT1RYQ1pnWUNaUkx6bGNZYXZnbjdwM211Rld4SlVtNm9pYVdrZ3FkNDRvbjkyd3JNRXFOUVc3dXN3c2sya0poZ0kxSFpsUWZQMVA4YjlZb2tnY1FFVXVxclloaEVBb0lmaUh6WDc3VGY1UGRpOHg4bWVHVERjWWdCbzVpS05zN1BveGh6Z0dYVHN0QTNNMEZqc3NOZENUajZKc1NjREJJOHJEMzlfeDBXSnpGZTVTa2xIV1BaWjQ5VmphVWY?oc=5",
+  "date": "2026-11-22",
+  "source": "Facebook",
+  "id": "aa3d49b8eeda2674",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "robot",
+    "humanoid"
+   ]
+  }
+ },
+ {
+  "title": "Nvidia expands Isaac robotics platform with new humanoid and AI development tools - Robotics & Automation News",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ3dVOHhUYzFCTXh2OFkyUWhSRnNuV0NyVHFyTENBYVlNZ21sU1FyR1JNQTR5UEVTS0VObEg1RVNEa2YxejdTZFBMZGk5UWFPeVhmRjdtS1ExSnJTMXlObHpfS240TFVwV29tZHdIdW9sQW44NE9vNF82UVZlaXR4QmdtRVVETjVPZkJLa29iTk12b1lrVnoyV2pXUkNpVlh0cDVjUTRxRzJ2UFJPTWNqbV9vMVpTVU1saWxrWTNHVjFRbVBxa2FoYWpyeU9tSFBxdjU5WA?oc=5",
+  "date": "2026-11-22",
+  "source": "Robotics & Automation News",
+  "id": "9c9d37e5578d318c",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "robot",
+    "humanoid"
+   ]
+  }
+ },
+ {
+  "title": "Multiway Robotics showcases wheeled humanoid and autonomous forklifts at CeMAT Asia 2026 - Robotics & Automation News",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeFZvclg5YTQzYk9UQzlsVG9FWGI3MFlEazBuVDNqN0RMY1NFa0MtaUt1NEFPM1l1SFRkcWZvWE5XZXlZamk2RWh5cjJiNU0wRk1TRTdPc2ZHTFJEcURYdURUdWRZazgzY3Awa2ZKSVUyTUZ3TWNDRlVsc2F6VklDSmd4LUNZcklsUWVaUXh3V1dzOWtxblJFbWM3Uk5WUmFpOXRJcE15S1RTV0xPMFZxVlVET1ROQlAxLVVLT3ZoOHJGanlVX21rY055R1F0bHJvTlV0SWZmYXFaNmd3Rnc?oc=5",
+  "date": "2026-11-22",
+  "source": "Robotics & Automation News",
+  "id": "35eae63488cfdc15",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "robot",
+    "humanoid",
+    "autonomous"
+   ]
+  }
+ },
+ {
+  "title": "Exclusive: Could An “AI Nose” Have Stopped Intel’s $600 Million Israel Fab Disaster? Inside The $9 Million Bet By Ainos To Give Chip Factories a Sense of Smell - Wccftech",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUmpINUpEZ2dsUHRHaHU3S3hvemhZLTVDMW9MOFl2S0d4OTZLMjZxU0s0cnUxMUg5Uk0zX0o0QzN5enJGWmNJbFdfR0xUUVZhZkplaGc1ai1UTVF5SS13TjVYSUMwLV80SFVOSnpXdGd1Xzk4NXprNEdYSm9yYzRhZFlQZUJOaFBfZmNuaE00TE01M0JyT0xWNzB3MHdCQjliY2lJcmhBMWxJZUZ3SzRaQ0U5a2xUcXVuZjh1aEZJS2NCZEJ2VVFhZ1JDZGVsUmM1X2lfZGx4Sl8zV1k4R0pSY0h6WEFWUGxhVjVkZnNkS0hSeTI3QjVRRUhGU2p5WThvWjlKN9IBigJBVV95cUxOUEVjR2p3eGxkWWVQMXFqN1FkYU05M0syQUZnRXdQSnFBN0huaTNYSW1xN1BPX1RhV0ZxVHItZVlqbFFQRTNvQzR6cnVlU0p2OHBSVzhPZVcyS2JybW1FdC1yZElrY1BlYlNqQkZrS0RhZGJQTVRLYmpyUWNXSDRzTEo3RnJrTDJyczVyWjdaMmg3ZkFVV3RCblF0R2xCTHFTV1RvOWlXMG1XYWlCaUF3UWFZbER2S3JTYTNtWUlWeU5vRzd1ZmZvR293TmJ0Nkhocm9uVllVVFA0c3VzNTlleGpUWngtU1ozdk1va2hOZ0RwWU9PS3J1TlFPZE56S042bU5Uc3RtdWg3UQ?oc=5",
+  "date": "2026-11-22",
+  "source": "Wccftech",
+  "id": "d08d58d957cf561e",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "chip"
+   ]
+  }
+ },
+ {
+  "title": "African Lion puts Morocco at centre of US counter-drone drive - The Arab Weekly",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkE4THRXZjBZa3ZOaW9GVjhVUHZjRk9GcDlZdm43R1JKczl1b1BHY3JVZkpTTXZ4WlNabnR5VDIwd1RQSTVURVE0Tl90ZUZBbFRDV0hjZk16TE5MWG5PRDdsc053eWw5M0FGRUdVY01yak9qNFBUeGsteElHdHM1Q1UzdHgwQzFH?oc=5",
+  "date": "2026-11-22",
+  "source": "The Arab Weekly",
+  "id": "b418e414d946295e",
+  "feed": "Google News: counter-drone OR \"drone defence\" Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "drone",
+    "counter-drone"
+   ]
+  }
+ },
+ {
+  "title": "Defence Minister Secures EU Support For Counterterrorism, Intelligence Sharing - The Whistler Newspaper",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSU1Lem9sUXBFNDJaMnRSb1ROMjRfS3JBUE5ZWFlPeFhvcXpQLWlud3U4b25vWFVNUks3SXZBOGhTdUdrNzZGYmNaMGVGcDhBQjVBUUFTcks1dFUyZG0tNE5RM1F1VE1XTUFHWGJkVFhKTFJNb3V0ZURVYmNKYnBLU1FRWmJENjF5bnhKRzh6M3pLdlRJbkxjbDc5MWhNNVJVRFdv?oc=5",
+  "date": "2026-11-22",
+  "source": "The Whistler Newspaper",
+  "id": "f4cf2f6441861165",
+  "feed": "Google News: counter-drone OR \"drone defence\" Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "industry": [
+    "port",
+    "defence"
+   ],
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
+  "title": "Tech Experts Say Jordan–EU Conference Deals Boost Local Production, Exports, and Specialized Jobs - وكالة الانباء الاردنية",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFVUWU5kT1h5Wm1INjZJLXhkdUtpSzVPU2lGa3FPV0RjdW5tUzgzX2tjOXNrY1ZmRTRjUEF0cFBsamQ1bXZBbXBCSmJCWnVQSUs3SnpFNjZ3czZXRGxVd0lZbFVJc2dwX0FHTDA3bmo4SkRvS09wU1N5RVd2ZE5FSV9QVGJvVWhxSWhYVDBmeGs3dUd0YnpyR3VNTzMxbGFZbjVuZGJaQ1R0eXRFT0x1YUdtRzlwMWlHZEpFc196VFY?oc=5",
+  "date": "2026-11-22",
+  "source": "وكالة الانباء الاردنية",
+  "id": "999be2d729df55d1",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "industry": [
+    "port"
+   ],
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
+  "title": "What To Do With An Old Roomba Robot You No Longer Want To Use - BGR",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ad1BqZkJlbXZubVpDX050YVVyVlhBSmFxbjVrU3hnbjZfY1RRVXNvS01SQmszTHFsbTZxdEVOMWgyTXY0ZFlObzJnaE52SEdwMVNrVXd0SzdjaWg2dGl6UU1sM2FtSHJMRnRieg?oc=5",
+  "date": "2026-11-22",
+  "source": "BGR",
+  "id": "fd0a28f442a24ee5",
+  "feed": "Google News: bankruptcy OR insolvency battery OR EV OR robotics",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "robot"
+   ]
+  }
+ },
+ {
+  "title": "Negotiating SaaS Contracts in Spain: 2026 Guide to Liability, Data and SLAs - Global Advisory Experts",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVEpldGpEYXZWT3JUVXFnM2JYR1NYdzJvaGNwYlYzNTBZclpCb29KTlJiaHR5RVRvMjREVm5OZWxPZEwzc0VXZldFbmJVcWFmWEpEdlpsRThQM2M0dlJvQ1poU2dwb21acXlzbUhNbGl6MzdRRXpRQmFGaUNxQnFINjFxRTMxZnh1Smc?oc=5",
+  "date": "2026-11-22",
+  "source": "Global Advisory Experts",
+  "id": "c3082ef6c45ff9c8",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "event": [
+    "contract"
+   ]
+  }
+ },
+ {
+  "title": "AI Intellectual Property in Germany: A 2026 Guide for Business Owners - Global Advisory Experts",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQajBRSEZiN0o5NUpwc2ZPU20yS0V4NXg0N0lPbjRCV202a0pBRm1JbWNiRTFDc0lMU0hHblk4aUREaEtxZ28wRGJyTTh1V3lxRWFKQ3pMTktJS25Wdm9xU3lKVHRrYTBGWmluNkZaajJqVFZxOHRqMkJDZHgxQUVYbGwxc0I3MFpycGc?oc=5",
+  "date": "2026-11-22",
+  "source": "Global Advisory Experts",
+  "id": "ac0a9dba77ddb47b",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "industry": [
+    "bus"
+   ],
+   "geo": [
+    "germany"
+   ]
+  }
+ },
+ {
   "title": "UK reaches for stars with NATO space launch plan - GOV.UK",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGNTWWtObEVwZWRzWEZaUTFtX0ctTS1tMnh6QjMwXzljZ0xvOGNSVnlMZnVEcWY5OTJSaG9rSXBEV3V5eUFCYW9USjBpdUtvdWduVjZfN0JDcnBmMWZJOXFpdERYdzdzQjRPYUhnT3h4RHpDajVXeU9iUnNwUGpHcEhBY2lXOXV5cjU4?oc=5",
@@ -22782,6 +24761,115 @@
    ],
    "geo": [
     "uk "
+   ]
+  }
+ },
+ {
+  "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
+  "summary": "Agentic_AI_(1800)_Pattara_Alamy.jpg",
+  "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
+  "date": "2026-11-21",
+  "source": "",
+  "id": "a6db3e65b9b8de69",
+  "feed": "Dark Reading",
+  "kind": "news",
+  "domain_hint": "Cybersecurity",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "ai agent",
+    "agentic"
+   ]
+  }
+ },
+ {
+  "title": "Steam Heater Inspection Equipment Market To 2035: Aging Infrastructure and Regulations Drive Growth - News and Statistics - IndexBox",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdUxxdXRlWmYtTk1uS1NNNVQ0WHp4NHVvemloVGdYclVQZVlFVGZwZC1NRS1IdGhBNEVNT3FfVDhkSE5ZbnViZnRTdEFma19pSjlIT0txTVJoOVdOV2hnZEdhUWFtRnlrN2huUjFSdXdla01NdUk4R2hzSnV0Q3N1Mk9uWEwyVHZBT3lXUnlUZUM0RVBiQWlZSEYySzBGckdsTjJoLTlKVVAyeFR3TlBqa3lYRWE0Vzl0TWY3UjU3ejBGWENlaVlFaTJPRzhUZUpxaFY2a21ydnhyZnlZ?oc=5",
+  "date": "2026-11-21",
+  "source": "IndexBox",
+  "id": "a17fc9c6e117552b",
+  "feed": "Google News: \"district heating\" OR \"grid operator\" technology",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "event": [
+    "regulation"
+   ]
+  }
+ },
+ {
+  "title": "US crypto rules move through regulators after Congress stalls, with stablecoin law taking effect Jan. 18 - CEO Economy",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1VZd1JlaXJtQUN3Wmw1di1GU0R1SWpZbWYydG5EOFdhUTdDOHVhbUVYV05tWWcweEZseFRhZVJvbVhQazRXVkVnblBxRFllTzBwdjMxc19ZZE1vTkNwTXJ6Y1R4enllTFg3dUhoQXFxOHNuVXpjUHJ3R2dwRFFZOHRYb1h6MzRUZUtUM2NKdm55bUJr?oc=5",
+  "date": "2026-11-21",
+  "source": "CEO Economy",
+  "id": "55eb85eff4b7261d",
+  "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "stablecoin"
+   ]
+  }
+ },
+ {
+  "title": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less - CleanTechnica",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGhhV0hDYkUwTUc0MXl6cHl5a1NOTGUzSGNsM0UtVmIycHhmWk9oemkwUDFXTVBSYUFrVUR3RElfakJ1Rm9qM29FV1BFWlcxakwtdnRUU0dTQ1FuM0hXSWxldlRMNU9Da29WeUZJb2tZZFl3bDNwWXZucWRyNTVoWmM1eEVaWS1WMGxGMHhOakg3amxVM2c?oc=5",
+  "date": "2026-11-21",
+  "source": "CleanTechnica",
+  "id": "97cfedb203ac13bb",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "hydrogen"
+   ]
+  }
+ },
+ {
+  "title": "Chinese investment in Morocco surges to $2.8 billion in 18 months as battery industry expands - HESPRESS English - Morocco News",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSm1YOGxsbldiVHdsWGtkYjBVX0xqYWYyNENKTkUzdHEyVHZTV1VGeGw4cmFveHpfeGEzdEV3T2xkQzVYbFZZMGNBLWQtZ0YtbkJsb2VMaG4yOUF5N1VjeThVbFhEMEYyVnRmRk5TSW9pVVowcWZrQ1RlVnEwYndXN1lrbU12em1YN0FCZk1hQzNMU3pVNExrc1NHYmNrbC0zXy0wTkR6R3VSbTFWWFZramctbmlJRktja3pYYTgwak8tcFJXdkhr?oc=5",
+  "date": "2026-11-21",
+  "source": "HESPRESS English - Morocco News",
+  "id": "03d01ace4d9ebb82",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "battery"
+   ]
+  }
+ },
+ {
+  "title": "Fong introduces bill to strengthen cybersecurity against AI-driven attacks - The San Joaquin Valley Sun",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkFqU3JKTnQwN3VyME5kQ01UX1N5cmdjN1Y0NlNXdUlJN2lKZWlUMmwwaXUwS1dNUDFKck5reDVCQ3pCVjJocWN4M2U4dk0ybWlGOTlOUWgyNmtNMklMOVpHNzZUVDctdDRPejl4UVRXbDQxQm9LUjZQQWdnQjRBN3phM1RqVVprX1ExSlNPNjFlVDFCZU1rZVFfU2ZwOWNjbmdQTGEwWVZUemZn?oc=5",
+  "date": "2026-11-21",
+  "source": "The San Joaquin Valley Sun",
+  "id": "f8974ee26a16ac25",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "cybersecurity"
    ]
   }
  },
@@ -23285,6 +25373,136 @@
   "hits": {
    "event": [
     "ipo"
+   ]
+  }
+ },
+ {
+  "title": "Robotaxis: 4 Stocks Positioned to Win - The Globe and Mail",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHNIbXpGQ0Jmb2ctLWJDS0wzSlgtcVcyd0oxNlBoRHFrRHRHMllaOE9UMlVQRUQ1eEUyNkxrelBIWXZubk1yUVdnRjlJbDM3Y3REWHJBcV9SdC0tWUIxQXlHNVVOanJXekhqYm1DTE5FZGw3cDkwMjlrMGg2VXhGWndZOVhNVkV5UFFiLWc5NFpIeDU4cGRmTm41aDU1cy15R0c1bHhoekliZlBaYlpDT0tXa2hKMHE1R0o0ZUpB?oc=5",
+  "date": "2026-11-20",
+  "source": "The Globe and Mail",
+  "id": "65043a9c37cf6a2b",
+  "feed": "Google News: autonomous trucking OR robotaxi",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "robot",
+    "robotaxi"
+   ]
+  }
+ },
+ {
+  "title": "Battery Expert Details Solid Polymer Path to Safer Cells - Wisevoter",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmlubjEzN1hxTVpUcGxYVnhyOFNIX19wNkRSZTctNWJWdHA2Nm5QYmJmT1hLckpXWmc3Um80Smt4S2I5QmRzLWptUHZtVnNLQmFSRlctWnNBV2E1akMyZ1ExNlljWGZPMm5VM3QzVi1yLWs3ekRrV1NRdVludTJ5OVFfczVLMlJTLTk5d0NYQVJrYkU?oc=5",
+  "date": "2026-11-20",
+  "source": "Wisevoter",
+  "id": "3af362ba5c8acfdb",
+  "feed": "Google News: \"solid-state battery\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "battery"
+   ]
+  }
+ },
+ {
+  "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies - Britannica",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaYUYwenI5SXdsdkhCX1Y2Nm9VZC11TEFnUVV4YV9abktxeUlYQ2NDeXhDNUh4YmFWQ1dmV21KaTFYSEVYRGt1b0taTFdZYm5TNlVFb2w2bWxHeUhjMzZpd2pCQjBGY2NNa2c?oc=5",
+  "date": "2026-11-20",
+  "source": "Britannica",
+  "id": "be32bc136d9282b1",
+  "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "event": [
+    "regulation"
+   ]
+  }
+ },
+ {
+  "title": "The Final Missing Pieces of America's Stablecoin Rulebook Have Arrived at White House - Latin Times",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmkwT3k3NG1xRDdPTW9yb2c3cUtXVm15cEVXXzU5TUlDM2lQakVjSWk0eFRUMklaQ051VzI0Z1dZX3gxZFE5dnZkNGUyT3RwdzQzR09Mb3RqdW0zd0EtNGYzZFAwOVM5ajZCblhxWWtKTG5EbHVrNmJjOVdFZU9VbzlWVjFuQnVoMUluN1BHRXFlOUkzMGg0R1N3TFBRZS1OZWd0dV9QVHUxaWhJ?oc=5",
+  "date": "2026-11-20",
+  "source": "Latin Times",
+  "id": "91cebb5b3f2385fe",
+  "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "stablecoin"
+   ]
+  }
+ },
+ {
+  "title": "ICBA urges FASB to delay stablecoin cash rule as Sky’s reserve risk surfaces - Cryptopolitan",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11bmlRSGdlLURaaHd0U2k1MUFhTG9xV0VLb1VmZmpCc1lfZkVraUc0RTJVQV9BdWN1djlQSG1tMWVxaWY5UTFLbjRoOFlBc0ZSeWx5RWRHM2F3ek54VXZtR2JKS2RyTWVkdWZmVnZueTRuVEtQY3huOUxKWC1ERnc?oc=5",
+  "date": "2026-11-20",
+  "source": "Cryptopolitan",
+  "id": "83b8c3c4d3d7c8a8",
+  "feed": "Google News: \"digital euro\" OR stablecoin regulation",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "tech": [
+    "stablecoin"
+   ]
+  }
+ },
+ {
+  "title": "US lawmakers near a deal to ban Chinese cars in the lame-duck session, with talks on sparing Mercedes - MLQ.ai",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmlzUHVLUmhfNHJueUJUTXlQeG9rUEFHN1VhaUxYa2VIZjZJcldUbnZ1Q2FEMlpRVmhsbzJJZDAzUmllRUVaU1lNRXF4VTR5UF9hR2VscE9MenlYQnFCUTlfWk9abjA5aFBmZmJBMUhYMUlHazNLOFZReVpTaVN1c3BackNXN01MS1lGUWgzaVFjdUcwR2ozcnlmZUJzSXNoZWhvT1ZjVzdtU0ozTExYVXJzMG5BNkc3ZlNfSE1B?oc=5",
+  "date": "2026-11-20",
+  "source": "MLQ.ai",
+  "id": "df45454ae06d4204",
+  "feed": "Google News: \"connected vehicle\" rule OR ban",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "event": [
+    "ban"
+   ]
+  }
+ },
+ {
+  "title": "European Commission to allocate €36 million to advance solar PV manufacturing - PV Tech",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOGVoWThmZjY4bHdmeTNlaExOSVhDM0N2b1AwSHFZdi13c1FueC12ZnpUc01ybVNuX2M0SG15WURyYWY0MHMwNjlYeDlqUnd6M1Y4REE0QWN4RThBa2lDMm5DWGFhRnlsVG9ZQko1NzlkajRKbGdBVnRmYVpKTjBFdXZHdEdOMWNxSjgxWUlqTGVHdXhsWVBQOVZjTQ?oc=5",
+  "date": "2026-11-20",
+  "source": "PV Tech",
+  "id": "cf454081f7b28f20",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 2,
+  "hits": {
+   "industry": [
+    "manufactur"
+   ],
+   "geo": [
+    "european commission"
    ]
   }
  },
@@ -31005,84 +33223,6 @@
   }
  },
  {
-  "title": "Spanish military procures thousands of China-made logistics vehicles",
-  "summary": "",
-  "url": "https://www.rapporteur.com/news/spanish-military-procures-thousands-of-china-made-logistics-vehicles/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "615ea9004fcae304",
-  "feed": "EUR-Lex / Euractiv",
-  "kind": "policy",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 2,
-  "hits": {
-   "industry": [
-    "logistics",
-    "vehicle",
-    "military"
-   ],
-   "geo": [
-    "china"
-   ]
-  }
- },
- {
-  "title": "Apple launches new app to study how people use AI for health",
-  "summary": "",
-  "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "00a603aaf7de2bd4",
-  "feed": "TechCrunch",
-  "kind": "news",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 2,
-  "hits": {
-   "event": [
-    "launches"
-   ]
-  }
- },
- {
-  "title": "Why a ban on non-competes could hurt startups",
-  "summary": "",
-  "url": "https://sifted.eu/articles/uk-non-compete-rules-change-against/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "c049d3163cd1f1f4",
-  "feed": "Sifted",
-  "kind": "news",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 2,
-  "hits": {
-   "event": [
-    "ban"
-   ]
-  }
- },
- {
-  "title": "Pony AI and Toyota launch bZ4X robotaxi service in Guangzhou",
-  "summary": "",
-  "url": "https://cnevpost.com/2026/11/16/pony-ai-toyota-bz4x-robotaxi-guangzhou/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "6c9cfa72681335fb",
-  "feed": "CnEVPost",
-  "kind": "news",
-  "domain_hint": "Energy",
-  "collected": "2026-11-16",
-  "score": 2,
-  "hits": {
-   "tech": [
-    "robot",
-    "robotaxi"
-   ]
-  }
- },
- {
   "title": "Dangote Sinotruk Rolls out Nigeria’s First Locally Assembled Electric Heavy-Duty Truck - Energy Focus Report",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaW53X0NUcjlqenVDbEdJM3UtZ0J2cGliU0FsUnFHdWJYdV9nRmxHMmgtV2J2c0FqVm9zWWJxZ0U0QWc2V0pDWHRhOHZmU1dRZEVKLTFsaS1DeFVjMGJOaFlwTWdGSGFxWlJweUY0eTV2WTNoOGZYOUQ4d2NETUZuYmhseVRqUGdOMEpQRXJNN2RaTnRickFOWjFia043WE5nVEIzLW0xaWdpVU1yc3pNbWNxWUx1WUNOLUFtZQ?oc=5",
@@ -31389,60 +33529,6 @@
   }
  },
  {
-  "title": "European ships ordered out as EU-Mauritania fishing deal expires",
-  "summary": "",
-  "url": "https://www.rapporteur.com/news/european-ships-ordered-out-as-eu-mauritania-fishing-deal-expires/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "4af6b99dd3f3b068",
-  "feed": "EUR-Lex / Euractiv",
-  "kind": "policy",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 2,
-  "hits": {
-   "event": [
-    "order"
-   ]
-  }
- },
- {
-  "title": "Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed",
-  "summary": "",
-  "url": "https://electrek.co/2026/11/15/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "4a42153ac48395b6",
-  "feed": "Electrek",
-  "kind": "news",
-  "domain_hint": "Energy",
-  "collected": "2026-11-16",
-  "score": 2,
-  "hits": {
-   "tech": [
-    "autonomous"
-   ]
-  }
- },
- {
-  "title": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
-  "summary": "",
-  "url": "https://cnevpost.com/2026/11/15/nio-warns-airbag-recall-scam-texts/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "3216b81028b9a4b5",
-  "feed": "CnEVPost",
-  "kind": "news",
-  "domain_hint": "Energy",
-  "collected": "2026-11-16",
-  "score": 2,
-  "hits": {
-   "event": [
-    "recall"
-   ]
-  }
- },
- {
   "title": "Food robotics 2.0: why this time could be different",
   "summary": "",
   "url": "https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/",
@@ -31475,6 +33561,315 @@
   "hits": {
    "tech": [
     "robot"
+   ]
+  }
+ },
+ {
+  "title": "Czechia eyes Israeli air defence system with SAFE money",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/czechia-eyes-israeli-air-defence-system-with-safe-money/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "7267ba93a2a82061",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "industry": [
+    "defence"
+   ]
+  }
+ },
+ {
+  "title": "INTERVIEW: Greek AI chief urges EU capitals to coordinate on security testing",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/interview-greek-ai-chief-urges-eu-capitals-to-coordinate-on-security-testing/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "29c63af69da204c6",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
+  "title": "INTERVIEW: EU treaty could thwart Brussels’ green gold-plating crackdown",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/interview-eu-treaty-could-thwart-brussels-green-gold-plating-crackdown/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "d12d655071f53dbf",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
+  "title": "Overtime COP31 talks end in acrimony amid EU ‘profound disappointment’",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/overtime-cop31-talks-end-in-acrimony-amid-eu-profound-disappointment/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "3534547b5457ce9a",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
+  "title": "Poland to receive ‘strong support’ following airspace violations",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/poland-to-receive-strong-support-following-new-airspace-violations/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "29ceb68da1f6c959",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "industry": [
+    "port"
+   ]
+  }
+ },
+ {
+  "title": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
+  "summary": "",
+  "url": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "a7e3fc5ce4a75a15",
+  "feed": "Electrek",
+  "kind": "news",
+  "domain_hint": "Energy",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "industry": [
+    "port"
+   ]
+  }
+ },
+ {
+  "title": "Corporate Japan races to revive rare-earth supply chain amid China curbs - Nikkei Asia",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkI5QjY3SHBtOHNiT0FaY21DSDRqa3BqWHU5c3REQTE5d2RHNjFVSGFfTm9LZV95Yld0M1lnckdjSE1vZ2FKYXNDM2FoZ0k1LUpGVUhwazdqSzB1bUxtam5jSWt2S0xSbDkyVlpmT2J5NjNsUFhMckdDTmJJUkNyZEM5M0xBZXQzUUNTdnVXOHlPUUx6QWFRN3VkVnhjUWtlVF9RSjBpNmdiSkZ4NGZGR0RSUTJWQQ?oc=5",
+  "date": "2026-11-22",
+  "source": "Nikkei Asia",
+  "id": "1411e6d958961646",
+  "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "china",
+    "japan"
+   ]
+  }
+ },
+ {
+  "title": "Corporate Japan races to revive rare-earth supply chain amid China curbs - news.lavx.hu",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNU1ZaFN5TEhscHhleXVmN29QajRJLS16NFhzcUROeGlFbDItOHkwSzFPYnBwVGdWV2VkM251QkM5YlIwZ1N6am1ib283TXE4MFkyczVxQlFTNE5TNnZEV201VkN1dUZVV04tWmNieHdycGFmUG94LUVob3NxOGZ1S2RzR2w0U285SGlSVEg4N0lhM2EtTF85QldYSHhBTGpodFRr?oc=5",
+  "date": "2026-11-22",
+  "source": "news.lavx.hu",
+  "id": "257943acb88c7aec",
+  "feed": "Google News: \"rare earth\" OR \"critical minerals\" export",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "china",
+    "japan"
+   ]
+  }
+ },
+ {
+  "title": "Not Lucid. Not Ford. The EV Stock Most Likely to Catch Every Refunded Cybertruck Buyer. - The Globe and Mail",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQXBXVXZMZDZndXp0bGQ5TVk2YnN5TjlNdWhqT0FBdm0wZkNEVFR2amhhVFJJX3VjeVZZSlBUX25pcTVjNmtCQjg1QkpEWENNVzd2LU1TVG9Odkx1emE5VHljUGJIdTJZWHJVNkY3MEh3Ymh0X1E3OEZWV3hiR1Vya1lReXNjS1ZFc2p2VHBIMUJWZnNnWm9RVkNpVldqNU5fbWVzZUVWQ2U2SWZXb0ZaaTlfZTBXR2YyTTFXdHBzX000eTNuTVhvNmVlcDFyR01JWHV6cTF0bTFJOEpKZEJTYm9SRnRySVJ0ZnZXUGV2MG15TTcweFE?oc=5",
+  "date": "2026-11-22",
+  "source": "The Globe and Mail",
+  "id": "90676b8638d93ae1",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "industry": [
+    "truck"
+   ]
+  }
+ },
+ {
+  "title": "Hyundai Preps All-Electric Porter EV Truck - hi-Tech.ua",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QSkQyUFRNSFBJdmsyd1dTMGt5VTNMSDJCRGJEUE5uOUV2TTktVDhxcEJPZzdHM2F0N0ZaSC1rcVIwS3Zac2lqZHpvSlRfaUZYT1RPQzB0ZGl6SXhGYmRXNFdHQjR5Q091SmFLSHY0eXRNcDQ?oc=5",
+  "date": "2026-11-22",
+  "source": "hi-Tech.ua",
+  "id": "d0e3868c12b61fa1",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "industry": [
+    "truck",
+    "port"
+   ]
+  }
+ },
+ {
+  "title": "Truckmakers press for higher axle limits for electric HGVs - HGV Ireland",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSWtWc3pxUkUzeWxhYW54WVdEQlNFLVFULWN4WnpzeWNOVWsxMWV6UlVvUTNUSW9lMmdqU0tpYTRZblhjTTBQSExwSVl5TFNYNmg2bWtRTDZZV0gxWlVvV2FTVTFIekxCTUJicmNOWC1IRlZtbHNCN3ZwT1dwTEJlVEFkdC1PS3E4anY5OEVWZw?oc=5",
+  "date": "2026-11-22",
+  "source": "HGV Ireland",
+  "id": "e8b22b8ac6ec1325",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "industry": [
+    "truck"
+   ]
+  }
+ },
+ {
+  "title": "Can AI-generated auto images be deceptive advertising? - Automotive News",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORHJtb0htUkwtalZMT2JTbHRiNFE0U1FfUXpJSFd5QVZ2RDdSR1hGMFBtSjI4YTZFMzlDUzExdE5QRWxMQTExMFRMT2xzZGx5OVlVSmxzVWJSM2J4aG91bzdleUVGRVZTMWlZSnRadTN3TldWWEgwSG5IRnpNNHlWWjZtOGo2eUVFSXBDNGdKRnVBQVZCNzU0?oc=5",
+  "date": "2026-11-22",
+  "source": "Automotive News",
+  "id": "816c4c2ca1dc201b",
+  "feed": "Google News: autonomous trucking OR robotaxi",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "industry": [
+    "automotive"
+   ]
+  }
+ },
+ {
+  "title": "REHVA Outlines How EU Climate Policies Will Reshape HVAC Systems - Refindustry",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRkxjSjJvekRvd1h3V0s4MTVaUHVHSDZZY3JabDRtUGh4ckFTZlM3SEx3YW16UnNQZjcxTEoxMkE0UnlUb2tLOWhtb095aTBrTEoza2F2U29ObzNaWGczQzZKZDZyOTZLUGlPb0pLREktN3E1MUI4MnRUNUZlSEMycktOSFJWODR0bDZxV0dMTFhraWllV2ZPRndn?oc=5",
+  "date": "2026-11-22",
+  "source": "Refindustry",
+  "id": "89f2476bbf6ade90",
+  "feed": "Google News: \"district heating\" OR \"grid operator\" technology",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
+  "title": "Finland pours 380 million liters of water into a 20-meter trench to create the world's largest heat reservoir - Evidence Network",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOEhCNGVXS2FrSlBLVWZTQlJLUVkxX2d5ei1vcFdHWEpRZmlJNkJYb2szQ3Q2YmhPVE5EOFk1NGpkcTRUbEt0N2pERW9LTEFkRzdpdTI5R2J5dVBDcWRKcVNaZ1VTdVpCSUdieWt0ZDB6RGVDaTkwM0tkcjdPYWJ4WmFfb2IwYjVjcUtTV0NnWFRKdF8xeWZVOVZFTWpjUkZwZU0zZXBzajdVZUZPSFF3VjFrNGw0MkgtWVpPZDZjck0ta0VZdk9aVEdDaXVFSDJvSlE?oc=5",
+  "date": "2026-11-22",
+  "source": "Evidence Network",
+  "id": "89ae2c474197b304",
+  "feed": "Google News: \"district heating\" OR \"grid operator\" technology",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "finland"
+   ]
+  }
+ },
+ {
+  "title": "Jordan–EU Conference Marks Milestone in Economic Ties, Industrial Deals, Industry Chief Says - وكالة الانباء الاردنية",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSG5UQS1NOE9Pd3pEaXdGMnlJMU5INlVNb2luTFFpV21yNG9UMDBuMElHV05pU0dzcUdQaWtYczhVSkNkYmZDamJkRHNWYTZIZnJJUVBIME1JeEI5SndLaTc2aWFFY1lINXNKVlF2amotMHJPX2c1WkdyX2NGNEtYOHFDMUU2Zm9CMS04VWp3Z0FIZGpNaGlZRy1mcFU2V2FEektEcHFHWUg1a3Fod3FiWlZ4MkJGLUhDZkE?oc=5",
+  "date": "2026-11-22",
+  "source": "وكالة الانباء الاردنية",
+  "id": "a9486b151bc445c3",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "eu "
+   ]
+  }
+ },
+ {
+  "title": "AI Liability Insurance Poland: A 2026 Guide for Startups and Vendors - Global Advisory Experts",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmFZamN0eEtFR0dYTGxtRXhUSkktZkozM1ZoZjV6X25lTERiSENvckxnSmk5S0JwSm5qUGJCNnQzQUh0YWttemwzdmhqSW5IYmJ6bVZkelVLckQ3YTZQNUpRTTJ4bHJxQzl0clItVThMQVhNdnhGZVZhR0JtR3dGUHBoSmtOTEZKX216ZmhmWV9TamF1enc?oc=5",
+  "date": "2026-11-22",
+  "source": "Global Advisory Experts",
+  "id": "6bdc2c7de8828f17",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "industry": [
+    "insurance"
+   ]
+  }
+ },
+ {
+  "title": "Five EU AI Act Questions Engineering Teams Keep Asking in 2026 - Cyber Kendra",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd3BlbUlRcXBiTVF5UnJtUlJqVWlBUml0RnFaZXROMzZZaGtPc3E1MWI5d0Z2ZEV6S1JxbFRTZHlvQ1A0ZTBWUzRBbjMwZUJ6THZaTnRBeG9UX2xEY2psQnY2WXNLR0FXU0NLTlg4NE9oT3JBZ01RVzR1Ti1vVGR2elNtUDltMHlMcEswY2NjNjZmMzNwbTh3OXZYLW00d2VhNllKTHN3?oc=5",
+  "date": "2026-11-22",
+  "source": "Cyber Kendra",
+  "id": "8b9353ad43a273fd",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "eu "
    ]
   }
  },
@@ -31836,6 +34231,42 @@
   "hits": {
    "geo": [
     "european union"
+   ]
+  }
+ },
+ {
+  "title": "Montra Electric Rolls Out 1,000th Rhino Electric Heavy-Duty Truck - Motoring Trends",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWEo4azRlRWthSnNUb1R1VFZjX2ZBZE5GMV9sajFpYktURkJtN09wQXc0amVPREJNQnExMVg3OXJoR0JTZ1F4NVBVcHlKOURfQVBEVUhFeDF5LWRHSzR3MW9PSHV2SU45ZnFlYkV3ay0zcnl3U1ExaDhVeWE1WW1VcE1QQXpNdE9LNTBvRS1sd2YzVWdsT3Rfb2NXbVNVZVo4LWpQVExsUFBFbjA4TkFJ?oc=5",
+  "date": "2026-11-20",
+  "source": "Motoring Trends",
+  "id": "de893703f0cace47",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "industry": [
+    "truck"
+   ]
+  }
+ },
+ {
+  "title": "TikTok rolls out deepfake detection tool for public figures to fight back against disinformation - AOL.co.uk",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRjFfOWlWN0lLQkhLOGlDX3ZKZ25CMEVPZzl4NDFIYkE4OGczRXRXclFaRnlHT3RiVFFnLTFocFVyOGxlRmJvWW1lUWxPTUtCREN1NEtWc0pHaWFXcXRQbllEUUtkVzRHVGtTT0dMRk55QVhXRWhXQlVGSlVYM2tlOTh3aGt4NW04T1E?oc=5",
+  "date": "2026-11-20",
+  "source": "AOL.co.uk",
+  "id": "1b7ac905a5fe2392",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 1,
+  "hits": {
+   "geo": [
+    "uk "
    ]
   }
  },
@@ -37349,60 +39780,6 @@
   }
  },
  {
-  "title": "EU countries struggle to unite against US drug pricing pressure",
-  "summary": "",
-  "url": "https://www.rapporteur.com/news/eu-countries-struggle-to-unite-against-us-drug-pricing-pressure/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "a15cf28bea880cbc",
-  "feed": "EUR-Lex / Euractiv",
-  "kind": "policy",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 1,
-  "hits": {
-   "geo": [
-    "eu "
-   ]
-  }
- },
- {
-  "title": "Momentum grows for digital levy to fund EU budget",
-  "summary": "",
-  "url": "https://www.rapporteur.com/news/momentum-grows-for-digital-levy-to-fund-eu-budget/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "2d602b2e2a32ac95",
-  "feed": "EUR-Lex / Euractiv",
-  "kind": "policy",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 1,
-  "hits": {
-   "geo": [
-    "eu "
-   ]
-  }
- },
- {
-  "title": "INTERVIEW: Putin is distracting us, warns Estonian PM",
-  "summary": "",
-  "url": "https://www.rapporteur.com/news/interview-putin-is-distracting-us-warns-estonian-pm/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "743f2d26082a8ad0",
-  "feed": "EUR-Lex / Euractiv",
-  "kind": "policy",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 1,
-  "hits": {
-   "geo": [
-    "estonia"
-   ]
-  }
- },
- {
   "title": "Electric ice cream truck covers 100-plus miles a day, with shifts lasting up to 12 hours - Yahoo Autos",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1VobE4tWkxmTWxOaENtbWtvSlRmQjZneG9rVTJLcVVMWWdkWkFLajBucDA0aUJvbHZUYVQzYW0wRnVBS1k4VURvU18tM1ZKZC1yZ1JQeUlYRHFFWkI2cGxuSkNaTmJDWXpkOFFhNlQ0aURUMHFBeWMyclRRNnRoUVAtb2owdDNQRlFkX2ZNMTlwa1doVVBYYlRpdzRfYTg?oc=5",
@@ -37529,60 +39906,6 @@
   }
  },
  {
-  "title": "EU budget: Die Rechnung, il conto – who pays?",
-  "summary": "",
-  "url": "https://www.rapporteur.com/news/eu-budget-die-rechnung-il-conto-who-pays/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "834e9e842784742d",
-  "feed": "EUR-Lex / Euractiv",
-  "kind": "policy",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 1,
-  "hits": {
-   "geo": [
-    "eu "
-   ]
-  }
- },
- {
-  "title": "China’s electric airliner era starts with a 19-seat plane and 400 km of range",
-  "summary": "",
-  "url": "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "473a0da9ad5b875d",
-  "feed": "Electrek",
-  "kind": "news",
-  "domain_hint": "Energy",
-  "collected": "2026-11-16",
-  "score": 1,
-  "hits": {
-   "geo": [
-    "china"
-   ]
-  }
- },
- {
-  "title": "Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
-  "summary": "",
-  "url": "https://cnevpost.com/2026/11/15/nio-opens-northernmost-swap-station-china-heihe/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "d3229273643453b7",
-  "feed": "CnEVPost",
-  "kind": "news",
-  "domain_hint": "Energy",
-  "collected": "2026-11-16",
-  "score": 1,
-  "hits": {
-   "geo": [
-    "china"
-   ]
-  }
- },
- {
   "title": "Hinton Relays Christiano's 18-Month AI Timeline to EU Leaders - www.tokenpost.com",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ydlByYlMyOXh5Tjd0N1lVYmhBZ3VQbFBBc3gzTDgwbkVLeE9CUW4tODVwemdSVjY4TnZVbTNEcHRYNW43MWxaRzY1SHpFQjN0YWlpMHFxbWJhTU0?oc=5",
@@ -37611,6 +39934,356 @@
   "kind": "news",
   "domain_hint": "Digital Finance",
   "collected": "2026-11-19",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Vannacci’s momentum fades but Meloni still needs his votes",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/vannaccis-momentum-fades-but-meloni-still-needs-his-votes/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "860c65f309cb4134",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Italy leads fight with Trump over European food names",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/italy-leads-fight-with-trump-over-european-food-names/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "5f680c5e32949bb9",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "INTERVIEW: Tobacco firms ‘going after the kids’, WHO warns",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/interview-tobacco-firms-going-after-the-kids-who-warns/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "c45328ffa5b12141",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "INTERVIEW: Former OSCE head urges Europe to get creative in Russia talks",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/interview-former-osce-head-urges-europe-to-get-creative-in-russia-talks/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "8b1117d29d087873",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Sánchez puts foreign policy centre stage. What do rivals offer?",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/sanchez-puts-foreign-policy-centre-stage-what-do-rivals-offer/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "d1a1b58567f4695a",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "German reform would let drugmakers keep setting launch prices",
+  "summary": "",
+  "url": "https://www.rapporteur.com/news/german-reform-would-let-drugmakers-keep-setting-launch-prices/",
+  "date": "2026-11-23",
+  "source": "",
+  "id": "63195160a840fa44",
+  "feed": "EUR-Lex / Euractiv",
+  "kind": "policy",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Ed Yadeni Yadeni, CEO of Yadeni Research, a leading stock market bullish on Wall Street, lowered the.. - 매일경제",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GZFVFdm9lUGw4aVlGeElVM3A3Q29ESmFkYUlqOWpnRlpleTI0QnQ4XzZsT1Y5MmYyOFJjZExmblF2TDMxdHVnYVFkbUgwS0U?oc=5",
+  "date": "2026-11-23",
+  "source": "매일경제",
+  "id": "203a3a741f1c1a73",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Nvidia Partners Halt Southeast Asia AI Server Shipments - Wisevoter",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHhxV19paEFmZjFxNzZScEdPNDk0ckxCd1h3QjdGODVMdks1dlRLclY3YXZXZzRrRDYwcVdibVpGbGh3UFNaOGtGb3BWR2NuWXY5UE9CSnRWTUM3b1p6UkxCaXpIZXk4djNMekhUbUJpd3czQ0lLVkNsRjVybm5mVF9xb3VyV0UyVFFGTWV0S2xlS09ud0hEY3dR?oc=5",
+  "date": "2026-11-23",
+  "source": "Wisevoter",
+  "id": "a0135eb3c6719340",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "AI Due Diligence Poland: 2026 Buyer and Seller Guide - Global Advisory Experts",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnc4RmFOQXg4SmZENHNxQnNmWmI1NDZOUWpsYkhtNmY5ZngwemFQeE1mZFFCeUhQYktOdnhEV2hhVG9KMmdCaVUwV3NQbDJ3Uko1YzBHalprN1F6WmU1NlBPN2wyMGdXWTh6NHJJZWh3cUluZWR6bWtxUkZBUUdZaWZTNlgyN0s3SUtJb1FKc296STRTdGZhQw?oc=5",
+  "date": "2026-11-23",
+  "source": "Global Advisory Experts",
+  "id": "8027a9905968c945",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "AI-Assisted Mediation Switzerland: 2026 Compliance Guide - Global Advisory Experts",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYldwckF6MzNFczZORXNmNnB5M2g2eDRVeHpSQ2ctTWJhNGFETHYybWppUUtZVnV3WG9ZT3IwLUsxWmhPaEprR2tLenlMVEY4enRMYkZsMW9KbGRvajZvNEoxeDFPMmdDODMtWHRCUzVZS1dpWk9lX0V2SkRmamlfb3JBam1idU51bGpYaGRYT0ZtbEVQUWVqcWhB?oc=5",
+  "date": "2026-11-23",
+  "source": "Global Advisory Experts",
+  "id": "a3f3128080f59c2d",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Technology Due Diligence Romania 2026: A Deal Playbook for Buyers and Sellers - Global Advisory Experts",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjU3WGtpUHE0Nnh5cGFxeXZEV3ZNOGZaZldWUV9RemxaM1lUbHd5RDRMQ0FkM1RfYzRPbnQ1eDA5M2JZQ1BsUXhfTW5BakR3dmtwSjB1NDRFQlNjRU1PQkd4X0tTVG1JanBiSXNFWi14SG1qVEJlWldMN20xVmw0Ny1sRXdWWl9PM0Y1MTJvTFpZTVU?oc=5",
+  "date": "2026-11-23",
+  "source": "Global Advisory Experts",
+  "id": "e4b39db77de984f0",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "DORA Compliance Spain: 2026 Guide for Fintechs - Global Advisory Experts",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmszMzdyR283VHc0LW1vbmEtX2pXdzB0ZUxKU0VyNVVCLWFpbHkwWWtScU5aQjJORmtLa2VRWFRQRnAxM2EtaXcwVThlX2s0YmI0R0ZJeWZPcGFlcWR3MmR6aUpKeGNXWi0yRlhuV2N2bXNZYlA1WG11OGFWbGdtTDhnUnRybFFQVkdxS2lJNmQ?oc=5",
+  "date": "2026-11-23",
+  "source": "Global Advisory Experts",
+  "id": "14bbd76c9ff07b79",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "‘You Can See Everything’ has made more than $100M worldwide",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "9acd287d35f5cf59",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "The best apps to make new friends right now",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "99223daed6b18bec",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Can a TV be too large? An investigation",
+  "summary": "",
+  "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "b559cde1d978e11f",
+  "feed": "TechCrunch",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Britain is hosting the AI boom, not owning it",
+  "summary": "",
+  "url": "https://www.datacenterdynamics.com/en/opinions/britain-is-hosting-the-ai-boom-not-owning-it/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "6f04205247a63499",
+  "feed": "Data Center Dynamics",
+  "kind": "news",
+  "domain_hint": "Compute",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "11-term House rep who mocked a kid’s letter about EVs has lost her seat (Upd.)",
+  "summary": "",
+  "url": "https://electrek.co/2026/11/22/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "5344ad0b4cef9e63",
+  "feed": "Electrek",
+  "kind": "news",
+  "domain_hint": "Energy",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "E-quipment highlight: Tadano rolls out 35-ton V320RC electric crane",
+  "summary": "",
+  "url": "https://electrek.co/2026/11/22/e-quipment-highlight-tadano-rolls-out-35-ton-v320rc-electric-crane/",
+  "date": "2026-11-22",
+  "source": "",
+  "id": "fff422113924a4ed",
+  "feed": "Electrek",
+  "kind": "news",
+  "domain_hint": "Energy",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "US Intelligence Chief Says Probe Is Underway Into Suspected Chinese Spy Tied to Former Nvidia CEO Jensen Huang - bloomingbit",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zbWdjT2dYWjdoN3NpS0NZU3F6XzVaM0NJUDE2S2ZKXzlUdmU4QTJZbnBhelVraVNsa3pKQzhoOGNwOGpZSDMwMWhiQ3FMNmJRWDZxWQ?oc=5",
+  "date": "2026-11-22",
+  "source": "bloomingbit",
+  "id": "d610127639a7928b",
+  "feed": "Google News: \"export controls\" OR sanctions semiconductors",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "F-150 Lightning owner tallies 2,600 gallons of gas he didn't have to buy over 58,000 miles - The Cool Down",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDU4ZG92eFRZSmFjT01XMjhlOEJzUVBMNWppeXJ6clR2SktMblpMWnBBTHgyTHoydklLX3BjeDJnVThJVmJfRzNPeW5HNEFGWDVNMDliR3hvUWU5Y2xsTXh5VFVteUZQREZXUldlbUhIOEJ5c1JIY2c2TmNaY1d1UUFNd2E?oc=5",
+  "date": "2026-11-22",
+  "source": "The Cool Down",
+  "id": "ea23b2470567ffd6",
+  "feed": "Google News: electric truck OR \"megawatt charging\"",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Kremlin official claims Europe is irrelevant as Russia continues to bomb Ukraine - Daily Express US",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGtTbnZ2aWlzNDNadkJmRTIteVlMY3AyUUExQXJpN1AzZ003RHo0ZmIzaVFjVlFHNnJKZmNPUjNxX0RlMmxCLU1YTFFZNE1ITW5GMjF1cWxvOXkzRWRXNjU1M01LQVZZMy1hSGlnVHYxX0h5Y1ZYZjhGajlVMG9yVlFvU2JFTzVFZjc5VTV4cXg1azhLajh6MtIBmAFBVV95cUxQRGtTbnZ2aWlzNDNadkJmRTIteVlMY3AyUUExQXJpN1AzZ003RHo0ZmIzaVFjVlFHNnJKZmNPUjNxX0RlMmxCLU1YTFFZNE1ITW5GMjF1cWxvOXkzRWRXNjU1M01LQVZZMy1hSGlnVHYxX0h5Y1ZYZjhGajlVMG9yVlFvU2JFTzVFZjc5VTV4cXg1azhLajh6Mg?oc=5",
+  "date": "2026-11-22",
+  "source": "Daily Express US",
+  "id": "5e9d9bda63167340",
+  "feed": "Google News: counter-drone OR \"drone defence\" Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Daikin Introduces Mini VRV 5 Replacement Technology for R-410A Systems - Refindustry",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa0VXRXVZRm9RbS1PMmhKbV9pbF81SWJQUmFEX1c1MjRZSHR0dG9jc3JTa1NoeU41aHpVMjg0R1NfNmZiRnktOW9QaW1LTS1tc0pNSkllWXhLRUt1ZmZFbktQN28xSm5qV3hSemZxc3ZtX2gwQVlxNjIzcFFOcTdaY3ZCaVlscjhMRy1ORThCcG15Wm5vREFsa1ZZeS0waWtlQkE?oc=5",
+  "date": "2026-11-22",
+  "source": "Refindustry",
+  "id": "b54243bd9ddc66e8",
+  "feed": "Google News: \"district heating\" OR \"grid operator\" technology",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "US Lets Volvo Keep Selling Connected Cars but Denies Polestar - ShiftDelete.Net",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT2VZaHZ1ZktXS1RySUphbUhPY0lDVndQel9SVk5LazhrRkQ3T2dLdmhDU2NOelVlaXVYWUJWblhDLUZmYWduVVRqcWtBMWhWT0pzb2toelFlUmFrYUdkM0Q3MmxRamx2NDFzN2dHSzFRS0NnSFJyalhDYWMyaWhwOGRtR3ViWlZocWcw?oc=5",
+  "date": "2026-11-22",
+  "source": "ShiftDelete.Net",
+  "id": "e23aaa46a341faee",
+  "feed": "Google News: \"connected vehicle\" rule OR ban",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Automated Lending Romania: 2026 Compliance Guide to GDPR and the AI Act - Global Advisory Experts",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZUdqT3llV2xJa29mM04xSnRyb3RPd2dxcy1KcmlHSGRMeUZScmlPbHo1S0Nia0FfS3hubC1wb004TF9JV2ZSTWdyQzZ0NElsZ2ZwZTZ2NDZ1WUUtX0xoMExmTkF1cmJXa0dxSXJPQU8wQlEtMDhBbktOcjdncHhYRkllVkxKSmR4Y0VETDl0RE5UXzlJa2JVNQ?oc=5",
+  "date": "2026-11-22",
+  "source": "Global Advisory Experts",
+  "id": "6031baa538c97e29",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "GOP Rep ‘optimistic’ about passing AI bill before next Congress - The Hill",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWUFXdjROMk5pX0lrZVBsM2h1LVZ1bWRrNnkyNExSclktb2pQaU42TlU1aFFqbFNtcXE4QnFLSWZjMHB3YU9jQ0FyVVc1M0RsUWN6M2lxS21Qekl4elppNktoSGlleVk2a2liXzRIM211RG5fc19DMmRnQ3g4c1JvMVpTU1I4QdIBhgFBVV95cUxOWUFXdjROMk5pX0lrZVBsM2h1LVZ1bWRrNnkyNExSclktb2pQaU42TlU1aFFqbFNtcXE4QnFLSWZjMHB3YU9jQ0FyVVc1M0RsUWN6M2lxS21Qekl4elppNktoSGlleVk2a2liXzRIM211RG5fc19DMmRnQ3g4c1JvMVpTU1I4QQ?oc=5",
+  "date": "2026-11-22",
+  "source": "The Hill",
+  "id": "bf369d907a023336",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
   "score": 0,
   "hits": {}
  },
@@ -37709,6 +40382,48 @@
   "kind": "news",
   "domain_hint": "",
   "collected": "2026-11-22",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Africa: Power Investment to drive green industrial growth - Inspenet",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IQUZKeU1SOVNoUUhQZGQ3TDYtbmtMUTNMSWctUEVFaXZlX1phLTdMbXJpbDc2eVRjb1l4aC05YW0yTnFOUFQ3VXdrT0NxMURUdXpDLTk1QXM1WGdrQzJIOE9wbmFPOXJJaGZzcW0xcnJ0ODJlT0hSRzhR?oc=5",
+  "date": "2026-11-21",
+  "source": "Inspenet",
+  "id": "7c600ece96771bbf",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Lamia Gharbi: “Tunisian-made components feature in two-thirds of European cars” - African Manager",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUpLUEs5YUhUamJTdUVjOUZOZ0VKMmxVbkVOeXJfWXM5UmNyTWVtNkJYRFYxXzNuc01lVzdtVFhGY3FYS210b0NSZHhjRVA2MjY2T3lqblo5bTNIcmZGZVk2cFo5aU5yc0NJN3IyV3JSYVA3cC1fVkh5UjlRS3cydjkzQmdUZUtaRFNlNWcwa09GWUN2MGFzZVVKTUJsaDVaZ0Vjc2xjbzB2RGM?oc=5",
+  "date": "2026-11-21",
+  "source": "African Manager",
+  "id": "20e6353278c32428",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "HEARTBOT AI Wins Chunghwa Telecom Special Award at Meet Neo Star 2026 - The Malaysian Reserve",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXdLbUJmdjh5c0RqZlhCbmo2ZHdaeGd4Um9mSkQzSU9mQldBeGYwMW1qMnlNSFdoR3hxcnppRnVRZjl3NzNmT09ja2gyNTRNMjNfT0tYLWo3aGZZbFZldEs2MERVdFNsQmZHNF9kTW9IQ3E2cG41U2MyMUV2WGpRdGp5bExLZ3ZUYjdMaTVKYTNoZktvZGJfV0s5NkZBYjU5b1MxV0N4M29rUFR4RGJGMTFuZFkzeDZZ?oc=5",
+  "date": "2026-11-21",
+  "source": "The Malaysian Reserve",
+  "id": "0a865649d304e0bd",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
   "score": 0,
   "hits": {}
  },
@@ -38017,6 +40732,90 @@
   "kind": "news",
   "domain_hint": "",
   "collected": "2026-11-21",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Physical AI could shift where market value accrues - McKinsey & Company",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNazhDQlQtVGRadVpPVHg3ZlgxVTBIeU9LREQzMkZWQUNxdXh0MTdkbEtiYWlFZzJiVzdTYmRYejVfN1hKZG1TZlJqdkxIMU5HNnNBUTdwNW53NjMtUVEwTHRFeXhXdjB6dC1ISHFrR19ROXpzNGxaRnJCUGh4cWJuZ1gtUFR6QUdLQ182dndvLXk3ZnhHaHI3blMtd29FT3hT?oc=5",
+  "date": "2026-11-20",
+  "source": "McKinsey & Company",
+  "id": "32618dda3a74d9be",
+  "feed": "Google News: humanoid robot factory",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Europe's cheap-labour edge fades as emerging markets catch up - IntelliNews Lambda - TradingView",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYnpmSjlXMU5KZjd6anRFSERxTmpWM1FSTHpoTDBmZWxWMTM0R1JuSXo1VVJrQjRONnFIQ1k1TDl2REVERG5CWTBDeTZDMGdmb2ZpTjVxbElQWFVkWEV6NmRfY1R0bzBXZVBDLVAwbzg3X242MUJfd21laS1qcmZWWnh0cS1OTG15ZmhlQVBvLXV4LUdqT3d0WjhHSC1MTnZlTC1NeHN5TGljSWhYcnc0eEFnVUFBVnhCQUdkTjE1ZFZCeFptc1UzWjdSamlGSUc5S3M0?oc=5",
+  "date": "2026-11-20",
+  "source": "TradingView",
+  "id": "474b372e621b8031",
+  "feed": "Google News: factory investment OR gigafactory Europe",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Watch Senate's Audit AI Act is unnecessary as market self-corrects, panel says - Big Money in the Morning - FOX One",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUQ5NkxyTndobzV3bDhEUkkzN1ZDZFVJOVBlSFRjamMtUVlEVVBkMzJoanB2eDB2akk5bDVPT2I5Vk16cGpRTDFWd3FLdWZLVEQ5LU45TV80eVdZcVowZldTazNteEFTZHBIb3VVYWVCRTZjVF9WdzVENE5RbmFfZUhNMHBLNllCTWdwcUE0M2hWX18zZUd0OFB4VExZRzJXZUM5djJhQ1pxUklrME5CNDZHMmgxVEFPZHRYbG82WXQ?oc=5",
+  "date": "2026-11-20",
+  "source": "FOX One",
+  "id": "8639046542f5f8a9",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Europe's 2027 Cyber Compliance Year Decoded - Cyble",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qOVdxU20tSWxWS3B0OEZHdm9ZcWJ4NENkNG9xTWpNNDhaSnUyUlJlSXZmN2ZnZHpJQU5ZLW5OSU9QMmI0b09NaHAyTlVJTDhZMmY1bVMzNklhUXc5V3c4ZnV3?oc=5",
+  "date": "2026-11-20",
+  "source": "Cyble",
+  "id": "a951908ba865c74d",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "How hard can it be to break up with a bot? - News Decoder",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJRHhwU1A2Z2Z5ODBoa3p2RmZsTUZITkFieW8xbVg1VjUwNlRTRVlnZld0am9uelpMaVhvT080SUNuNDYyU3pEQVlNQ214d3d5VmFkWkRWQ1Foajc3ZThrT2xvRnc0M2tiVFBKWnNGdzh3TzJHc2c?oc=5",
+  "date": "2026-11-20",
+  "source": "News Decoder",
+  "id": "bbcebbd9c00335de",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
+  "score": 0,
+  "hits": {}
+ },
+ {
+  "title": "Forget SpaceX: This Stock Could Be the Real Winner of the Space Race - The Globe and Mail",
+  "summary": "",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOWR0UXpSSDItb2lwVmREak54YUUta0JORzZCejBlZGhuZlpxRVFGXzZFeTF0cDVPVklXT2RVYWI1ek14ckFERmk3WHF0cmlZWjNEWm12RmpwSlRvVmZRVzdWNTNCbzJpOEZlY2NaeDBBQXdjR1ZuSlRNUnZYV1ZySUN5a2ctNUlBZlJ3M1dkVHNoWkZMWlY5V3c0U1NJTW1BWkkteHFZdXQ3UGRXZ0sybWcxak9rbzhTc2p6NWlGQzBZanFPWkNadXlEc29DaVhkckdnRG9BdENBc05KVXlsbE1OQTE0VzA?oc=5",
+  "date": "2026-11-20",
+  "source": "The Globe and Mail",
+  "id": "25f8f2ab64a1e168",
+  "feed": "Google News: \"AI Act\" OR \"Cyber Resilience Act\" OR NIS2",
+  "kind": "news",
+  "domain_hint": "",
+  "collected": "2026-11-23",
   "score": 0,
   "hits": {}
  },
@@ -46379,90 +49178,6 @@
   "hits": {}
  },
  {
-  "title": "Data centres are becoming war targets. Europe is ill-prepared",
-  "summary": "",
-  "url": "https://www.rapporteur.com/news/data-centres-are-becoming-war-targets-europe-is-ill-prepared/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "ccdae17f0e4617dd",
-  "feed": "EUR-Lex / Euractiv",
-  "kind": "policy",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "INTERVIEW: Climate change from a weather forecaster’s perspective",
-  "summary": "",
-  "url": "https://www.rapporteur.com/news/interview-climate-change-from-a-weather-forecasters-perpective/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "db5872e3ea725970",
-  "feed": "EUR-Lex / Euractiv",
-  "kind": "policy",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "Einstein’s university has three lessons to teach Europe",
-  "summary": "",
-  "url": "https://sifted.eu/articles/einsteins-university-has-three-lessons-to-teach-europe/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "bcb875dcc59bc6fd",
-  "feed": "Sifted",
-  "kind": "news",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "‘Build what can’t be cloned’: Fintech’s AI-native back office is getting crowded",
-  "summary": "",
-  "url": "https://sifted.eu/articles/ai-native-fintech-crowding/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "cd9695958161f8c8",
-  "feed": "Sifted",
-  "kind": "news",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "Fast Forward Awards 2026: HCP Sense, DeepGate, Myvox and LIOM",
-  "summary": "",
-  "url": "https://www.eenewseurope.com/en/fast-forward-awards-2026-hcp-sense-deepgate-myvox-liom/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "b65cd7491c955ba1",
-  "feed": "eeNews Europe",
-  "kind": "news",
-  "domain_hint": "Compute",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "Geely Galaxy previews new M8 5-seat hybrid SUV to expand lineup",
-  "summary": "",
-  "url": "https://cnevpost.com/2026/11/16/geely-galaxy-previews-new-m8-hybrid-suv/",
-  "date": "2026-11-16",
-  "source": "",
-  "id": "a890f688febad5f2",
-  "feed": "CnEVPost",
-  "kind": "news",
-  "domain_hint": "Energy",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
   "title": "Slate reveals pricing for its affordable electric pickup - Mashable",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTUWpXYlF5eHU0UDN3NWJXeVRmOTJKY1ZFMmV5ZnZPeE5RM0JyQXp4S0VfY1JETkViM0duX2xjY2JkRi1BSURiek5uRmhaNFY4TEVOTA?oc=5",
@@ -46505,132 +49220,6 @@
   "hits": {}
  },
  {
-  "title": "Trade war in focus at ASEAN summit ahead of Trump arrival",
-  "summary": "",
-  "url": "https://www.rapporteur.com/news/trade-war-in-focus-at-asean-summit-ahead-of-trump-arrival/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "3bee32a251e8d9b0",
-  "feed": "EUR-Lex / Euractiv",
-  "kind": "policy",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "French protesters chant against inflation and police",
-  "summary": "",
-  "url": "https://www.rapporteur.com/news/french-protesters-chant-against-inflation-and-police/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "9b4b90ab198ce831",
-  "feed": "EUR-Lex / Euractiv",
-  "kind": "policy",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "Nations grapple with loss of 1.5°C target at UN climate summit",
-  "summary": "",
-  "url": "https://www.rapporteur.com/news/nations-grapple-with-loss-of-1-5c-target-at-un-climate-summit/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "cfae2e07ac73c3a9",
-  "feed": "EUR-Lex / Euractiv",
-  "kind": "policy",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-  "summary": "",
-  "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "36b6ca5f2064c50e",
-  "feed": "TechCrunch",
-  "kind": "news",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-  "summary": "",
-  "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "4cff5178e24a384a",
-  "feed": "TechCrunch",
-  "kind": "news",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-  "summary": "",
-  "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "9dc97b0f2ccb5f4a",
-  "feed": "TechCrunch",
-  "kind": "news",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "The tech products we enthusiastically recommend this holiday season",
-  "summary": "",
-  "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "6670abb37eb9112b",
-  "feed": "TechCrunch",
-  "kind": "news",
-  "domain_hint": "",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "Airsys invests in digital boiler startup ThermAI",
-  "summary": "",
-  "url": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "22f5f50cc6bc1fb4",
-  "feed": "Data Center Dynamics",
-  "kind": "news",
-  "domain_hint": "Compute",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
-  "summary": "",
-  "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
-  "date": "2026-11-15",
-  "source": "",
-  "id": "b836fbf640d8bc6d",
-  "feed": "SecurityWeek",
-  "kind": "news",
-  "domain_hint": "Cybersecurity",
-  "collected": "2026-11-16",
-  "score": 0,
-  "hits": {}
- },
- {
   "title": "Mercedes Says Its Next EV Batteries Could Go 30% Farther Than LFP - Road Ethos",
   "summary": "",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXQxQUstYkRjRThuS0hKb3lFSlh6TnY5SHZ4RzJuRFo0ZWtteFgxNE92bkxpS1pQWmFoSFJkaUx2eks4ZE0wc3RVNFRuSzZfNDJRQ2RJRzNYV1FtX2tOa3hrRGhiaHY0TEFkNkg4b1Z0YmtGX0hhTXVSNGFjUWVMbVhhOUtjR19QVFZ4aGd6SHBUVGx0c3c?oc=5",
@@ -46655,20 +49244,6 @@
   "kind": "news",
   "domain_hint": "",
   "collected": "2026-11-17",
-  "score": 0,
-  "hits": {}
- },
- {
-  "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
-  "summary": "",
-  "url": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
-  "date": "2026-11-14",
-  "source": "",
-  "id": "025a816cf1e42178",
-  "feed": "SecurityWeek",
-  "kind": "news",
-  "domain_hint": "Cybersecurity",
-  "collected": "2026-11-16",
   "score": 0,
   "hits": {}
  },

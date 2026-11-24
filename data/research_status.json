@@ -1,76 +1,76 @@
 {
- "run": "2026-11-23T05:26+00:00",
+ "run": "2026-11-24T05:14+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
    "type": "rss",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "HTTP Error 429: Unknown Error"
+   "ok": true,
+   "items": 80,
+   "new": 80,
+   "error": null
   },
   {
    "source": "arXiv AI",
    "type": "rss",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "HTTP Error 429: Unknown Error"
+   "ok": true,
+   "items": 80,
+   "new": 73,
+   "error": null
   },
   {
    "source": "arXiv Computer Vision",
    "type": "rss",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "HTTP Error 429: Unknown Error"
+   "ok": true,
+   "items": 60,
+   "new": 58,
+   "error": null
   },
   {
    "source": "arXiv Systems & Control",
    "type": "rss",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "HTTP Error 429: Unknown Error"
+   "ok": true,
+   "items": 60,
+   "new": 54,
+   "error": null
   },
   {
    "source": "arXiv Signal Processing (radar, 6G)",
    "type": "rss",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "HTTP Error 429: Unknown Error"
+   "ok": true,
+   "items": 60,
+   "new": 22,
+   "error": null
   },
   {
    "source": "arXiv Quantum hardware",
    "type": "rss",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "HTTP Error 429: Unknown Error"
+   "ok": true,
+   "items": 60,
+   "new": 58,
+   "error": null
   },
   {
    "source": "arXiv Materials (batteries, magnets, catalysts)",
    "type": "rss",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "HTTP Error 429: Unknown Error"
+   "ok": true,
+   "items": 60,
+   "new": 57,
+   "error": null
   },
   {
    "source": "arXiv Applied Physics",
    "type": "rss",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "HTTP Error 429: Unknown Error"
+   "ok": true,
+   "items": 50,
+   "new": 17,
+   "error": null
   },
   {
    "source": "OpenAlex Nordic – batteries, hydrogen, grid",
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 7,
+   "new": 4,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 5,
+   "new": 2,
    "error": null
   },
   {
@@ -86,7 +86,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 2,
+   "new": 6,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 0,
+   "new": 3,
    "error": null
   },
   {
@@ -125,16 +125,16 @@
    "source": "bioRxiv – bioengineering and synthetic biology",
    "type": "rxiv",
    "ok": true,
-   "items": 6,
-   "new": 2,
+   "items": 3,
+   "new": 3,
    "error": null
   },
   {
    "source": "medRxiv – health informatics",
    "type": "rxiv",
    "ok": true,
-   "items": 3,
-   "new": 3,
+   "items": 1,
+   "new": 1,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 4,
+   "new": 3,
    "error": null
   },
   {
@@ -150,7 +150,7 @@
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 4,
+   "new": 24,
    "error": null
   },
   {
@@ -162,8 +162,8 @@
    "error": null
   }
  ],
- "ok": 11,
- "failed": 9,
- "new_items": 27,
- "kept": 265
+ "ok": 19,
+ "failed": 1,
+ "new_items": 465,
+ "kept": 283
 }

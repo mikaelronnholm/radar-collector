@@ -1,7 +1,31 @@
 {
- "generated": "2026-11-23T05:26+00:00",
- "count": 265,
+ "generated": "2026-11-24T05:14+00:00",
+ "count": 283,
  "items": [
+  {
+   "title": "CrowdStrike to acquire Zscaler in a $44 billion deal that would create a cybersecurity giant",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-crowdstrike-zscaler-billion-cybersecurity-giant.html",
+   "date": "2026-11-23",
+   "source": "",
+   "id": "f0d65d905a1bf7da",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-24",
+   "score": 8,
+   "hits": {
+    "event": [
+     "to acquire"
+    ],
+    "tech": [
+     "cybersecurity"
+    ],
+    "companies": [
+     "CrowdStrike"
+    ]
+   }
+  },
   {
    "title": "A Laboratory on the Road: Europe’s Regulatory Response to the Opacity of Autonomous Vehicles",
    "summary": "Established frameworks for vehicle regulation are not equipped to certify autonomous driving systems, given that their behaviour in real-world conditions cannot be fully inspected or verified in lab situations. This article examines how European regulators have responded to this challenge in Regulation 2022/1426, the first type approval framework for automated driving systems in Europe. The article extends Burrell’s three forms of algorithmic opacity to also capture the opacity of behaviours emerging from interactions in open, physical environments and uses this to analyse how the regulation r",
@@ -88,30 +112,6 @@
    }
   },
   {
-   "title": "An Ultra-Low-Noise Tunable TIA in 45nm Silicon Photonics for Electro-Optical Ultrasound Data Acquisition",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.08826v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "6a296d029008ef7f",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-09",
-   "score": 8,
-   "hits": {
-    "event": [
-     "acquisition"
-    ],
-    "tech": [
-     "photonic"
-    ],
-    "companies": [
-     "Ultra"
-    ]
-   }
-  },
-  {
    "title": "Anthropic falls more than 9% day after record IPO",
    "summary": "",
    "url": "https://techxplore.com/news/2026-11-anthropic-falls-day-ipo.html",
@@ -165,6 +165,34 @@
     "industry": [
      "bus",
      "port"
+    ]
+   }
+  },
+  {
+   "title": "Intervention-Robust VLA: Diverse Demonstrations for Robot Deployment with Safety Filters",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.28289v1",
+   "date": "2026-11-20",
+   "source": "",
+   "id": "511d15bfb00dc07b",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-24",
+   "score": 7,
+   "hits": {
+    "event": [
+     "deployment",
+     "demonstrat"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "bus"
+    ],
+    "novelty": [
+     "demonstrat"
     ]
    }
   },
@@ -223,6 +251,38 @@
     ],
     "novelty": [
      "demonstrat"
+    ]
+   }
+  },
+  {
+   "title": "Mauve Observations of the Eclipsing Binary System $β$ Lyrae",
+   "summary": "We present a broadband, synoptic observing campaign of the complex eclipsing binary system $β$ Lyr, obtained with the first commercial astronomical satellite, Mauve, developed and operated by Blue Skies Space Ltd. Mauve's capabilities have resulted in the first multiphase monitoring of $β$ Lyr, covering UV and optical photometry, as well as low-resolution spectrophotometry, including the phase-folded mapping of the intensity of a number of emission lines. The different components in its spectrum vary in very different ways, indicative of a system with a number of physical components. Our data ",
+   "url": "https://arxiv.org/abs/2611.25914",
+   "date": "2026-11-17",
+   "source": "arXiv (Cornell University)",
+   "institutions": [
+    "Arcetri Astrophysical Observatory",
+    "Astronomical Observatory",
+    "Boston University",
+    "Chalmers University of Technology",
+    "Columbia University",
+    "Eötvös Loránd University"
+   ],
+   "id": "374cb11339a79634",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-24",
+   "score": 7,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "satellite"
+    ],
+    "novelty": [
+     "first"
     ]
    }
   },
@@ -492,6 +552,163 @@
    }
   },
   {
+   "title": "PushMimic: Learning Adaptive Humanoid Box Pushing via Dynamic Motion Augmentation and Reference Distillation",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.30077v1",
+   "date": "2026-11-23",
+   "source": "",
+   "id": "e2b1914426d7facd",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "humanoid"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.29897v1",
+   "date": "2026-11-23",
+   "source": "",
+   "id": "80f7fa07c87e54bc",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "humanoid",
+     "fusion"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "Arcadian: Open-Source Humanoid Ecosystem for Accessible and Customizable Research and Education",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.29868v1",
+   "date": "2026-11-23",
+   "source": "",
+   "id": "9398d3c661903c8a",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "humanoid"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "PathStream: Towards Streaming Diagnostic Copilots for Whole-Slide Pathology",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.30167v1",
+   "date": "2026-11-23",
+   "source": "",
+   "id": "c977cf68a33d38b3",
+   "feed": "arXiv Computer Vision",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 6,
+   "hits": {
+    "event": [
+     "pilot"
+    ],
+    "tech": [
+     "diagnostic"
+    ],
+    "novelty": [
+     "pilot"
+    ]
+   }
+  },
+  {
+   "title": "New drone prototype folds itself through gaps half its width during flight",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-drone-prototype-gaps-width-flight.html",
+   "date": "2026-11-23",
+   "source": "",
+   "id": "4ef22d7804e96312",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-24",
+   "score": 6,
+   "hits": {
+    "event": [
+     "prototype"
+    ],
+    "tech": [
+     "drone"
+    ],
+    "novelty": [
+     "prototype"
+    ]
+   }
+  },
+  {
+   "title": "CarlHOI: Counterfactual Predictive Imagination for Generalizable Multi-Humanoid Object Interaction under Constrained Environments",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.29749v1",
+   "date": "2026-11-22",
+   "source": "",
+   "id": "3417aff38032d05a",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "humanoid"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "Reinforcement Learning from LLM-Generated (Suboptimal) Demonstrations",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.29732v1",
+   "date": "2026-11-22",
+   "source": "",
+   "id": "bc424a34452cdf76",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 6,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "tech": [
+     "llm"
+    ],
+    "novelty": [
+     "demonstrat"
+    ]
+   }
+  },
+  {
    "title": "HemoPred: A web application for hemoglobin A2 (HbA2) and fetal hemoglobin (HbF) prediction from routine blood features using Mixture of Experts and explainable artificial intelligence",
    "summary": "Background and objectives Hemoglobinopathies, including beta thalassemia, are blood disorders caused by mutations in the HBB gene. Accurate and early screening of heterozygous carriers is necessary to prevent mutations from being transmitted to offspring. Diagnosis of carrier status is based on hemoglobin A2 (HbA2) and fetal hemoglobin (HbF) levels, requiring expensive equipment for quantification. This work aims to develop machine learning models for prediction of HbA2 and HbF from routine blood test parameters in persons with hemoglobinopathies and normal individuals. Methods Mixture of Expe",
    "url": "https://doi.org/10.1016/j.compbiomed.2026.112077",
@@ -654,6 +871,52 @@
     ],
     "novelty": [
      "novel"
+    ]
+   }
+  },
+  {
+   "title": "Tunable Ground-State Entanglement in Fully Connected Quantum Systems: From Logarithmic to Volume-Law Scaling",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.26430v1",
+   "date": "2026-11-19",
+   "source": "",
+   "id": "e553a57828278ebe",
+   "feed": "arXiv Quantum hardware",
+   "kind": "research",
+   "domain_hint": "Compute",
+   "collected": "2026-11-24",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "quantum"
+    ],
+    "companies": [
+     "Quantum Systems"
+    ]
+   }
+  },
+  {
+   "title": "Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.26349v1",
+   "date": "2026-11-19",
+   "source": "",
+   "id": "fc024b822d3d0347",
+   "feed": "arXiv Materials (batteries, magnets, catalysts)",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-24",
+   "score": 6,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "agentic",
+     "large language model"
+    ],
+    "novelty": [
+     "first"
     ]
    }
   },
@@ -1797,6 +2060,30 @@
    }
   },
   {
+   "title": "Room-Aware Transformer for Activities of Daily Living Recognition in Adults with Mild Neurocognitive Disorder Using Ambient Sensors: Development and Evaluation Study",
+   "summary": "AO_SCPLOWBSTRACTC_SCPLOWO_ST_ABSBackgroundC_ST_ABSUnobtrusive recognition of activities of daily living (ADLs) from ambient sensors may support longitudinal assessment of everyday functioning in adults with mild neurocognitive disorder (mild NCD). However, real-world activity recognition is complicated by heterogeneous home layouts, sensor configurations, routines, and class distributions.\n\nObjectiveThis study evaluated whether a room-aware Transformer that preserves location-specific sensor structure improves participant-level ADL recognition relative to a global Transformer and a stacked uni",
+   "url": "https://doi.org/10.64898/2026.11.08.26367558",
+   "date": "2026-11-10",
+   "source": "medrxiv",
+   "id": "d462155c11cd70ae",
+   "feed": "medRxiv – health informatics",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-24",
+   "score": 6,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "tech": [
+     "sensor"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
    "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
    "summary": "",
    "url": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
@@ -2111,135 +2398,6 @@
    }
   },
   {
-   "title": "DKWBC: Decoupling Motion Tracking and Balancing for Humanoid Whole-Body Control",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.09605v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "a8beb2f42190742a",
-   "feed": "arXiv Robotics",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-09",
-   "score": 6,
-   "hits": {
-    "tech": [
-     "humanoid"
-    ],
-    "companies": [
-     "Humanoid"
-    ]
-   }
-  },
-  {
-   "title": "SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.09266v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "0f52627bb1452017",
-   "feed": "arXiv Robotics",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-09",
-   "score": 6,
-   "hits": {
-    "tech": [
-     "humanoid"
-    ],
-    "companies": [
-     "Humanoid"
-    ]
-   }
-  },
-  {
-   "title": "STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.08857v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "7bd3204f8b8f1db8",
-   "feed": "arXiv Robotics",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-09",
-   "score": 6,
-   "hits": {
-    "tech": [
-     "humanoid"
-    ],
-    "companies": [
-     "Humanoid"
-    ]
-   }
-  },
-  {
-   "title": "Safety Is $Π_1$, Provability Is $Σ_1$: One Framework for the Hugging Face Breach and OpenAI's Mathematical Proofs",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.09736v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "c8b12d9b84b1ea3a",
-   "feed": "arXiv AI",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-09",
-   "score": 6,
-   "hits": {
-    "event": [
-     "breach"
-    ],
-    "companies": [
-     "OpenAI"
-    ]
-   }
-  },
-  {
-   "title": "Definitions, Label Names, or Demonstrations? Auditing What Governs LLM Annotation",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.09457v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "1e43cb0c7c3e809e",
-   "feed": "arXiv AI",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-09",
-   "score": 6,
-   "hits": {
-    "event": [
-     "demonstrat"
-    ],
-    "tech": [
-     "llm"
-    ],
-    "novelty": [
-     "demonstrat"
-    ]
-   }
-  },
-  {
-   "title": "Novikov-Magnus Master Equation for Driven Quantum Systems under Classical Correlated Noise",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.09876v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "78c56d20c067e039",
-   "feed": "arXiv Quantum hardware",
-   "kind": "research",
-   "domain_hint": "Compute",
-   "collected": "2026-11-09",
-   "score": 6,
-   "hits": {
-    "tech": [
-     "quantum"
-    ],
-    "companies": [
-     "Quantum Systems"
-    ]
-   }
-  },
-  {
    "title": "A Unified Inertial Encoder for Human and Humanoid Motion",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.10137v1",
@@ -2289,30 +2447,6 @@
    }
   },
   {
-   "title": "Residential Vehicle-to-Grid Deployment: A United States-Based Stakeholder Perspective",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.08722v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "853bbd85a42ab118",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-09",
-   "score": 6,
-   "hits": {
-    "event": [
-     "deployment"
-    ],
-    "tech": [
-     "grid"
-    ],
-    "industry": [
-     "vehicle"
-    ]
-   }
-  },
-  {
    "title": "Intelligence deployment in NTN-based O-RAN: Architectural options, practical constraints, and design guidelines",
    "summary": "Non-Terrestrial Networks (NTNs) are expected to play a central role in future 6G systems by complementing terrestrial infrastructures with wide-area coverage, resilience, and service continuity. In parallel, Open Radio Access Network (O-RAN) architectures introduce functional disaggregation, open interfaces, and multi-time-scale control mechanisms that enable flexible and intelligent network operation. Integrating O-RAN principles into NTN environments, however, raises fundamental challenges related to latency, resource constraints, and the feasibility of distributed control and Machine Learni",
    "url": "https://doi.org/10.1016/j.comcom.2026.108723",
@@ -2354,6 +2488,27 @@
    "hits": {
     "event": [
      "plant"
+    ],
+    "tech": [
+     "sensor"
+    ]
+   }
+  },
+  {
+   "title": "Active sensing as control over sensory acquisition",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.29886v1",
+   "date": "2026-11-23",
+   "source": "",
+   "id": "bbad39e1509f1618",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 5,
+   "hits": {
+    "event": [
+     "acquisition"
     ],
     "tech": [
      "sensor"
@@ -2478,6 +2633,49 @@
     ],
     "novelty": [
      "prototype"
+    ]
+   }
+  },
+  {
+   "title": "Hierarchical Agentic Mid-Band Agility for Reliable Low-Latency Space-Air-Ground Integrated V2X Networks",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.27659v1",
+   "date": "2026-11-20",
+   "source": "",
+   "id": "6d0498add57f8524",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-24",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "agentic",
+     "v2x"
+    ]
+   }
+  },
+  {
+   "title": "Incentive-Based Regulatory Mechanism for Tariff Design in District Heating and Cooling Networks",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.27571v1",
+   "date": "2026-11-20",
+   "source": "",
+   "id": "9207bd2e1f637bd3",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-24",
+   "score": 5,
+   "hits": {
+    "event": [
+     "tariff"
+    ],
+    "tech": [
+     "district heating"
     ]
    }
   },
@@ -2700,6 +2898,35 @@
     ],
     "novelty": [
      "novel"
+    ]
+   }
+  },
+  {
+   "title": "From Data Alignment to Parameter Generation: Few-Shot Cross-City Traffic Prediction with Conditional Diffusion",
+   "summary": "Accurate mobile traffic forecasting is crucial for network service management, supporting proactive capacity provisioning, congestion mitigation, and energy-efficient operation. However, many cities and regions are data-scarce (e.g., newly deployed or poorly instrumented areas), thus making traffic prediction a few-shot learning problem and limiting the practicality of standard data-driven models. Existing cross-city solutions primarily rely on data-space alignment to match traffic distributions between data-rich and data-scarce cities, but such alignment is often brittle under real-world dist",
+   "url": "https://arxiv.org/abs/2611.25592",
+   "date": "2026-11-19",
+   "source": "arXiv (Cornell University)",
+   "institutions": [
+    "Aarhus University",
+    "Central South University",
+    "Central South University of Forestry and Technology",
+    "Hunan Normal University",
+    "Hunan University",
+    "Kyung Hee University"
+   ],
+   "id": "6eaa371804c3948c",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-24",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "fusion"
+    ],
+    "industry": [
+     "port"
     ]
    }
   },
@@ -3185,6 +3412,27 @@
     ],
     "industry": [
      "port"
+    ]
+   }
+  },
+  {
+   "title": "From a High-T$\\rm_C$ Spin-Gapless Semiconductor to a Spin-Glass: The Role of Disorder in NiMnCrAl",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.22784v1",
+   "date": "2026-11-17",
+   "source": "",
+   "id": "8b669f210f459e89",
+   "feed": "arXiv Materials (batteries, magnets, catalysts)",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-24",
+   "score": 5,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "tech": [
+     "semiconductor"
     ]
    }
   },
@@ -3892,28 +4140,6 @@
    }
   },
   {
-   "title": "AI agents test and improve robot code in virtual worlds before deployment",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-ai-agents-robot-code-virtual.html",
-   "date": "2026-11-09",
-   "source": "",
-   "id": "ee1e559d693cb386",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-10",
-   "score": 5,
-   "hits": {
-    "event": [
-     "deployment"
-    ],
-    "tech": [
-     "ai agent",
-     "robot"
-    ]
-   }
-  },
-  {
    "title": "Prospective Importance-based Cognitive Pilot Design for Semantic Sensing in ISAC Systems",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.12082v1",
@@ -4055,27 +4281,6 @@
     ],
     "companies": [
      "Overview"
-    ]
-   }
-  },
-  {
-   "title": "DC-Link Voltage Regulation in a Single-Isolation-Stage Multioutput Solid-State Transformer for Wide-Range DC Outputs",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.09276v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "3d512296a5ccfc6f",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-09",
-   "score": 5,
-   "hits": {
-    "event": [
-     "regulation"
-    ],
-    "tech": [
-     "solid-state"
     ]
    }
   },
@@ -4355,6 +4560,307 @@
    }
   },
   {
+   "title": "Quantizing in the Loop: Drift-Aware Ultra-Low-Bit Vision-Language-Action Models",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.30178v1",
+   "date": "2026-11-23",
+   "source": "",
+   "id": "a0c10c6c94f5e454",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "companies": [
+     "Ultra"
+    ]
+   }
+  },
+  {
+   "title": "Agent on Guard: Self-Improving Runtime Intervention for Robust Robotic Manipulation",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.30101v1",
+   "date": "2026-11-23",
+   "source": "",
+   "id": "a1040a2332a17f6c",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "bus"
+    ]
+   }
+  },
+  {
+   "title": "Policy-intrinsic Demonstration Curation",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.30099v1",
+   "date": "2026-11-23",
+   "source": "",
+   "id": "6f8bf01d10f87aaa",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "novelty": [
+     "demonstrat"
+    ]
+   }
+  },
+  {
+   "title": "Segment Anything In-Context via Visual Demonstrations",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.29896v1",
+   "date": "2026-11-23",
+   "source": "",
+   "id": "a27c06816828d141",
+   "feed": "arXiv Computer Vision",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "novelty": [
+     "demonstrat"
+    ]
+   }
+  },
+  {
+   "title": "Remote Charging of Quantum Batteries via a Multimode Resonator",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.30105v1",
+   "date": "2026-11-23",
+   "source": "",
+   "id": "0f569c44be0b13bd",
+   "feed": "arXiv Quantum hardware",
+   "kind": "research",
+   "domain_hint": "Compute",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "quantum",
+     "charging"
+    ],
+    "industry": [
+     "nato"
+    ]
+   }
+  },
+  {
+   "title": "UniDR: Learning To Generate Anatomical Deformations From Images via Unified Diffusion Modeling and Registration",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.29712v1",
+   "date": "2026-11-22",
+   "source": "",
+   "id": "552a15cf2bf17558",
+   "feed": "arXiv Computer Vision",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "fusion"
+    ],
+    "industry": [
+     "nato"
+    ]
+   }
+  },
+  {
+   "title": "Where to Hide the Traps: Robust Placement in Verifiable Blind Quantum Computation",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.29258v1",
+   "date": "2026-11-22",
+   "source": "",
+   "id": "904716ff6e2c2354",
+   "feed": "arXiv Quantum hardware",
+   "kind": "research",
+   "domain_hint": "Compute",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "quantum"
+    ],
+    "industry": [
+     "bus"
+    ]
+   }
+  },
+  {
+   "title": "Metal-ion-doped organic and semi-organic NLO crystals: Growth, Properties, and Quantum Photonic Potential",
+   "summary": "Metal-ion doping is the most economical route to tuning organic and semi-organic single crystals grown for nonlinear optical (NLO) and photonic applications. A metal cation introduced at 0.1–5 mol% perturbs the hydrogen-bond topology, local electric field, defect population and charge-transfer character of the host without destroying the parent structure, giving systematic and controllable changes in lattice parameters, transparency, band gap, dielectric response, thermal stability, microhardness, second-harmonic generation (SHG) efficiency and third-order susceptibility. This review consolida",
+   "url": "https://doi.org/10.1016/j.nxmate.2026.104123",
+   "date": "2026-11-22",
+   "source": "Next Materials",
+   "institutions": [
+    "Nitte University",
+    "Quantum Technologies (Sweden)",
+    "Visvesvaraya Technological University"
+   ],
+   "id": "6221107223451084",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "quantum",
+     "photonic"
+    ],
+    "novelty": [
+     "efficiency"
+    ]
+   }
+  },
+  {
+   "title": "A review of metallurgical approaches for recycling rare earth elements from NdFeB and SmCo permanent magnets",
+   "summary": "Technological progress, coupled with the rising demand for high-performance materials, has resulted in a considerable expansion of the applications of rare earth elements (REEs). As indicated in the report initially published by the European Commission in 2011 and most recently updated in 2023, REEs are among the metals with the highest supply risk. The production from ore and recycling of these metals represent a significant field of study at the global level. Given the low-grade nature of REE ores, the global dependence on one dominant producer for raw material supply, refining as well as ma",
+   "url": "https://doi.org/10.1016/j.wasman.2026.115979",
+   "date": "2026-11-22",
+   "source": "Waste Management",
+   "institutions": [
+    "Istanbul Technical University",
+    "KTH Royal Institute of Technology",
+    "RWTH Aachen University"
+   ],
+   "id": "2d04846a25a2daf4",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "rare earth",
+     "recycling"
+    ]
+   }
+  },
+  {
+   "title": "TesseraFlow: Scalable Video Diffusion for Dynamic Medical Imaging Inverse Problems",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.29099v1",
+   "date": "2026-11-21",
+   "source": "",
+   "id": "ab149f640df7ba48",
+   "feed": "arXiv Computer Vision",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "fusion"
+    ],
+    "novelty": [
+     "scalable"
+    ]
+   }
+  },
+  {
+   "title": "Controlled One-Click Benchmarking and Post-Fusion Recalibration for Support-Conditioned Medical Segmentation",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.28890v1",
+   "date": "2026-11-21",
+   "source": "",
+   "id": "ddd67eca7dc7d2f5",
+   "feed": "arXiv Computer Vision",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "fusion"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Reconstruction-Guided Dual-Branch Learning for LiDAR Anomalous Object Detection",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.28545v1",
+   "date": "2026-11-21",
+   "source": "",
+   "id": "111935cd5f8c1c84",
+   "feed": "arXiv Computer Vision",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "lidar"
+    ],
+    "industry": [
+     "construction"
+    ]
+   }
+  },
+  {
+   "title": "Deliverable Frequency Regulation Reserve for VPPs via Transmission-Distribution Co-Simulation",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.29081v1",
+   "date": "2026-11-21",
+   "source": "",
+   "id": "92f03d1d756dc70f",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "event": [
+     "regulation"
+    ],
+    "industry": [
+     "transmission"
+    ]
+   }
+  },
+  {
+   "title": "Advanced Reactance Method - A Novel Approach for Distance Protection in Presence of Grid-Following Inverter-Based-Resources",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.28829v1",
+   "date": "2026-11-21",
+   "source": "",
+   "id": "f11f29bb0e4202ae",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "grid"
+    ],
+    "novelty": [
+     "novel"
+    ]
+   }
+  },
+  {
    "title": "Conceptualisation and optimisation of a pumped-thermal liquid air energy storage system using inventory control for enhanced operational flexibility",
    "summary": "As energy systems shift toward higher shares of variable renewable generation, grid-scale energy storage must offer not only high efficiency and low cost, but also flexibility across a wide range of operating conditions. Traditional liquid air energy storage systems struggle with part-load performance, while pumped thermal energy storage provides exceptional flexibility but at a higher investment cost. To address these limitations, this paper introduces a novel pumped thermal liquid air energy storage configuration that combines the benefits of both technologies and enables the implementation ",
    "url": "https://doi.org/10.1016/j.est.2026.125633",
@@ -4507,23 +5013,111 @@
    }
   },
   {
-   "title": "Dynamic Reduction of Basic Iron Ore Sinter under Radial Blast Furnace Conditions with and without Hydrogen",
-   "summary": "The dynamic reduction behavior of commercial basic iron ore sinter is investigated under nonisothermal conditions simulating radial zones (wall, average, and center) of an operating blast furnace (BF), using gas profiles derived from multipoint vertical probing. Experiments are conducted in a blast furnace simulator with two gas mixtures: CO–CO 2 –N 2 and CO–CO 2 –H 2 –H 2 O–N 2 . Reduction degree, skeletal density, specific surface area, porosity, phase composition, and microstructure were characterized. Results show pronounced radial differences: the reduction degree is lowest at the wall (3",
-   "url": "https://doi.org/10.1007/s40831-026-01758-8",
+   "title": "BReD: BEV Residual Diffusion for Feed-Forward Road Gaussian Reconstruction",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.28191v1",
    "date": "2026-11-20",
-   "source": "Journal of Sustainable Metallurgy",
-   "institutions": [
-    "University of Oulu"
-   ],
-   "id": "2237c994c3df3d73",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "source": "",
+   "id": "f4415a8b3ae5161c",
+   "feed": "arXiv Computer Vision",
    "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-23",
+   "domain_hint": "AI",
+   "collected": "2026-11-24",
    "score": 4,
    "hits": {
     "tech": [
-     "hydrogen"
+     "fusion"
+    ],
+    "industry": [
+     "construction"
+    ]
+   }
+  },
+  {
+   "title": "Bayesian Bias Learning-Enabled Probabilistic Voltage Estimation with Unknown Uncertainty Modeling of DERs in Distribution Grids",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.27866v1",
+   "date": "2026-11-20",
+   "source": "",
+   "id": "703b9b925b0ed648",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "grid"
+    ],
+    "industry": [
+     "distribution grid"
+    ]
+   }
+  },
+  {
+   "title": "On Robust Strictly Positive Real Synthesis for High-Order Interval Polynomials",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.27665v1",
+   "date": "2026-11-20",
+   "source": "",
+   "id": "e762eab1cbfde29a",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "industry": [
+     "bus"
+    ]
+   }
+  },
+  {
+   "title": "From Pilots to Position: Experimental Near-Field Localization for ISAC",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.27503v1",
+   "date": "2026-11-20",
+   "source": "",
+   "id": "9ff9925506f448e4",
+   "feed": "arXiv Signal Processing (radar, 6G)",
+   "kind": "research",
+   "domain_hint": "Connectivity",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "event": [
+     "pilot"
+    ],
+    "novelty": [
+     "pilot"
+    ]
+   }
+  },
+  {
+   "title": "Valorization potential of carbonate-rich rare earth tailings for CO2 capture and redox cycling",
+   "summary": "Rare earth element mining produces large volumes of tailings that are commonly stored as waste despite their residual mineral value and potential environmental risks. Here, carbonate-rich rare earth flotation tailings were thermally activated and evaluated for two separately tested functions: high-temperature CO₂ capture and redox cycling. The tailings were dominated by ferroan dolomite, ankerite and calcite, with minor rare earth-bearing and accessory phases. Leaching tests on untreated tailings showed elevated Mn and Ba release under landfill-simulating conditions, establishing a baseline en",
+   "url": "https://doi.org/10.1016/j.eti.2026.105344",
+   "date": "2026-11-20",
+   "source": "Environmental Technology & Innovation",
+   "institutions": [
+    "Institute for Energy Technology",
+    "Research Institute for Analytical Instrumentation"
+   ],
+   "id": "9419d5793bcd284d",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "rare earth"
+    ],
+    "industry": [
+     "mining"
     ]
    }
   },
@@ -4604,6 +5198,28 @@
    "hits": {
     "tech": [
      "recycling"
+    ]
+   }
+  },
+  {
+   "title": "Graph-XGB: A Hybrid GNN Framework for Outdoor-to-Indoor 5G Signal Reconstruction via Aerial-Only UAV RF Sensing",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.26828v1",
+   "date": "2026-11-19",
+   "source": "",
+   "id": "e6e76db0019722f6",
+   "feed": "arXiv Signal Processing (radar, 6G)",
+   "kind": "research",
+   "domain_hint": "Connectivity",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "5g",
+     "uav"
+    ],
+    "industry": [
+     "construction"
     ]
    }
   },
@@ -4772,87 +5388,20 @@
    }
   },
   {
-   "title": "Technical Report of Mobile Manipulator Robot for Industrial Environments",
+   "title": "Constellation Shaping for OFDM-ISAC Systems: A Systematic and Experimental Comparison",
    "summary": "",
-   "url": "https://arxiv.org/abs/2611.22852v1",
-   "date": "2026-11-17",
+   "url": "https://arxiv.org/abs/2611.24271v1",
+   "date": "2026-11-18",
    "source": "",
-   "id": "878933462f44c5a5",
-   "feed": "arXiv Systems & Control",
+   "id": "c6f4745621f16a59",
+   "feed": "arXiv Signal Processing (radar, 6G)",
    "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-18",
+   "domain_hint": "Connectivity",
+   "collected": "2026-11-24",
    "score": 4,
    "hits": {
-    "tech": [
-     "robot"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Transmission Expansion and Energy Storage Planning under Great Britain's Uncertain Energy Transition Pathways",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.22711v1",
-   "date": "2026-11-17",
-   "source": "",
-   "id": "c862f87c69be7f4b",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-18",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "energy storage"
-    ],
-    "industry": [
-     "transmission"
-    ]
-   }
-  },
-  {
-   "title": "AI Agents Executing an RMS and EMT Ride-Through Workflow on a 2,000-Bus Synthetic Texas Grid: A Case Study with Open-Source Tools",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.22167v1",
-   "date": "2026-11-17",
-   "source": "",
-   "id": "89e5f49871ab453a",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-18",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "ai agent",
-     "grid"
-    ],
-    "industry": [
-     "bus"
-    ]
-   }
-  },
-  {
-   "title": "Facet-offset Polytope Expansion for Dynamic Operating Envelopes of Aggregated Distribution Grid Resources",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.22081v1",
-   "date": "2026-11-17",
-   "source": "",
-   "id": "979639c88d299f78",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-18",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "grid"
-    ],
-    "industry": [
-     "distribution grid"
+    "companies": [
+     "Systematic"
     ]
    }
   },
@@ -4998,28 +5547,6 @@
    }
   },
   {
-   "title": "Life Cycle Assessment of Recycled Plastic: Review on Methodological Choices",
-   "summary": "Abstract In the context of circular economy, plastic recycling plays a crucial role in reducing the environmental impacts of plastic. This study examines how life cycle assessment (LCA) studies define the goal and scope when assessing recycled plastic production, focusing on the relationship between system description and modelling choices. A literature review was performed on 89 selected LCA studies on plastics recycling that consider recycling as a multifunctional process. The review analysed goal definitions, system descriptions, and key scope items, including functional unit, system bounda",
-   "url": "https://doi.org/10.1007/s43615-026-01203-8",
-   "date": "2026-11-16",
-   "source": "Circular Economy and Sustainability",
-   "institutions": [
-    "Chalmers University of Technology",
-    "University of Parma"
-   ],
-   "id": "718c26e93d5e94b6",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-18",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "recycling"
-    ]
-   }
-  },
-  {
    "title": "Multimodal AI in Healthcare: Review of Vision-Language Foundation Models for Real-World Medical Applications",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.19958v1",
@@ -5100,6 +5627,27 @@
     ],
     "industry": [
      "port"
+    ]
+   }
+  },
+  {
+   "title": "Myostatin has limited impact on calpain-calpastatin system expression in bovine satellite cell cultures",
+   "summary": "Myostatin (MSTN) is a key negative regulator of skeletal muscle growth, yet its role in bovine satellite cells (BSCs) and its relationship to proteolytic systems relevant for meat quality remain underexplored. In this study, we investigated the impact of MSTN on proliferation, differentiation, and expression of the calpain–calpastatin system in BSC cultures. MSTN knockdown, using siRNA, did not affect cell proliferation but accelerated differentiation, evidenced by increased early myotube formation, although endpoint differentiation capacity remained unchanged. At the molecular level, MSTN sup",
+   "url": "https://doi.org/10.1016/j.foodres.2026.121248",
+   "date": "2026-11-15",
+   "source": "Food Research International",
+   "institutions": [
+    "Aarhus University"
+   ],
+   "id": "8aced2ba1725da75",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "satellite"
     ]
    }
   },
@@ -5701,6 +6249,28 @@
    }
   },
   {
+   "title": "Simple models outperform single-cell foundation models on downstream benchmarks",
+   "summary": "Single-cell RNA sequencing (scRNA-seq) data exhibit strong and reproducible statistical structure. This has motivated the development of large-scale foundation models, such as TranscriptFormer, that use transformer-based architectures to learn a generative model for gene expression by embedding genes into a latent vector space. These embeddings have been used to obtain state-of-the-art (SOTA) performance on downstream tasks such as cell-type classification, disease-state prediction, and cross-species learning. Here, we ask whether similar performance can be achieved without utilizing computati",
+   "url": "https://doi.org/10.64898/2026.02.11.705358",
+   "date": "2026-11-10",
+   "source": "biorxiv",
+   "id": "a6059470e67ca072",
+   "feed": "bioRxiv – bioengineering and synthetic biology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-24",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "foundation model"
+    ],
+    "novelty": [
+     "outperform",
+     "state-of-the-art"
+    ]
+   }
+  },
+  {
    "title": "Caltech robot makes history by building a structure in space",
    "summary": "",
    "url": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
@@ -6119,144 +6689,6 @@
     ],
     "industry": [
      "port"
-    ]
-   }
-  },
-  {
-   "title": "Breaking the Privacy Promise: Gradient Inversion Attacks on Federated Low-Rank Adapted Vision Transformers",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.09652v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "7f5b9cc08a87cdc2",
-   "feed": "arXiv AI",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-09",
-   "score": 4,
-   "hits": {
-    "companies": [
-     "Gradient"
-    ]
-   }
-  },
-  {
-   "title": "Overview of the ImageCLEFmedical 2026 GANs task: Exploring fingerprint detection, privacy leakage, and synthetic medical image generation",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.09455v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "131e0f4cadbcdffd",
-   "feed": "arXiv Computer Vision",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-09",
-   "score": 4,
-   "hits": {
-    "companies": [
-     "Overview"
-    ]
-   }
-  },
-  {
-   "title": "Deterministic Quantum Search for NP Problems Through Verifier-Based Oracle Construction",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.09830v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "e61a2e4796d133b1",
-   "feed": "arXiv Quantum hardware",
-   "kind": "research",
-   "domain_hint": "Compute",
-   "collected": "2026-11-09",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "quantum"
-    ],
-    "industry": [
-     "construction"
-    ]
-   }
-  },
-  {
-   "title": "Spin to Orbital Angular Momentum Conversion in the Neutron Nucleus Weak Interaction",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.09677v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "23d14f865340093d",
-   "feed": "arXiv Applied Physics",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-09",
-   "score": 4,
-   "hits": {
-    "companies": [
-     "Nucleus"
-    ]
-   }
-  },
-  {
-   "title": "Scanning Probe Control, Quantum Dynamics, and Dispersive Readout of Suspended Carbon Nanotube Resonators",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.09581v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "5c529af56530e426",
-   "feed": "arXiv Applied Physics",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-09",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "quantum"
-    ],
-    "industry": [
-     "nato"
-    ]
-   }
-  },
-  {
-   "title": "Absolute Calibration of a Broadband Transmission Grating Spectrometer from 5 to 400 nm with Uncertainty Estimates",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.09288v1",
-   "date": "2026-11-06",
-   "source": "",
-   "id": "eb2de745a2ffd9e0",
-   "feed": "arXiv Applied Physics",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-09",
-   "score": 4,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "industry": [
-     "transmission"
-    ]
-   }
-  },
-  {
-   "title": "Experimental demonstration of dual-polarization nonreciprocal thermal emission at moderate magnetic fields",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.07564v1",
-   "date": "2026-11-05",
-   "source": "",
-   "id": "2c2b7635ec329579",
-   "feed": "arXiv Materials (batteries, magnets, catalysts)",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-09",
-   "score": 4,
-   "hits": {
-    "event": [
-     "demonstrat"
-    ],
-    "novelty": [
-     "demonstrat"
     ]
    }
   },

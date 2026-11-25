@@ -1,5 +1,5 @@
 {
- "run": "2026-11-24T05:14+00:00",
+ "run": "2026-11-25T05:17+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
@@ -14,7 +14,7 @@
    "type": "rss",
    "ok": true,
    "items": 80,
-   "new": 73,
+   "new": 69,
    "error": null
   },
   {
@@ -22,7 +22,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 58,
+   "new": 27,
    "error": null
   },
   {
@@ -30,7 +30,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 54,
+   "new": 46,
    "error": null
   },
   {
@@ -38,7 +38,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 22,
+   "new": 7,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 58,
+   "new": 49,
    "error": null
   },
   {
@@ -54,7 +54,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 57,
+   "new": 20,
    "error": null
   },
   {
@@ -62,7 +62,7 @@
    "type": "rss",
    "ok": true,
    "items": 50,
-   "new": 17,
+   "new": 11,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 4,
+   "new": 19,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 2,
+   "new": 18,
    "error": null
   },
   {
@@ -86,7 +86,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 6,
+   "new": 12,
    "error": null
   },
   {
@@ -94,14 +94,14 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 3,
+   "new": 7,
    "error": null
   },
   {
    "source": "OpenAlex Nordic – health technology",
    "type": "openalex",
    "ok": true,
-   "items": 7,
+   "items": 6,
    "new": 0,
    "error": null
   },
@@ -110,7 +110,7 @@
    "type": "pubmed",
    "ok": true,
    "items": 40,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
@@ -125,32 +125,32 @@
    "source": "bioRxiv – bioengineering and synthetic biology",
    "type": "rxiv",
    "ok": true,
-   "items": 3,
-   "new": 3,
+   "items": 6,
+   "new": 6,
    "error": null
   },
   {
    "source": "medRxiv – health informatics",
    "type": "rxiv",
    "ok": true,
-   "items": 1,
-   "new": 1,
+   "items": 2,
+   "new": 2,
    "error": null
   },
   {
    "source": "ScienceDaily Technology",
    "type": "rss",
-   "ok": true,
-   "items": 60,
-   "new": 3,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "junk after document element: line 440, column 46"
   },
   {
    "source": "Phys.org Technology",
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 24,
+   "new": 16,
    "error": null
   },
   {
@@ -162,8 +162,8 @@
    "error": null
   }
  ],
- "ok": 19,
- "failed": 1,
- "new_items": 465,
- "kept": 283
+ "ok": 18,
+ "failed": 2,
+ "new_items": 390,
+ "kept": 284
 }

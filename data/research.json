@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-25T05:17+00:00",
- "count": 284,
+ "generated": "2026-11-26T05:17+00:00",
+ "count": 288,
  "items": [
   {
    "title": "EgoLoAF: Learning Humanoid Loco-Manipulation from Egocentric Demonstrations with Hand-Object Affordances",
@@ -139,6 +139,60 @@
    }
   },
   {
+   "title": "Learning a Whole-Body Pivot-Walking Gait for Heavy-Box Transport with a Humanoid",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.33828v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "7b1abaed10c8f714",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-26",
+   "score": 7,
+   "hits": {
+    "tech": [
+     "humanoid"
+    ],
+    "industry": [
+     "port"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "Chemical abundances as fossil records of dwarf galaxy evolution",
+   "summary": "Chemical elements serve as powerful indicators for reconstructing the evolutionary history of the Milky Way and its satellites. Numerous studies have demonstrated that chemical abundance distributions differ among Milky Way components and satellite dwarf galaxies, indicating distinct evolutionary histories. Dwarf galaxies, in particular, are generally old and metal-poor systems, providing valuable parallels between high and low-redshift galaxy evolution, offering insights into the early universe. In this context, precise elemental abundances obtained through high-resolution stellar spectroscop",
+   "url": "https://doi.org/10.5281/zenodo.24512400",
+   "date": "2026-11-24",
+   "source": "Zenodo (CERN European Organization for Nuclear Research)",
+   "institutions": [
+    "Carnegie Institution for Science",
+    "Carnegie Observatories",
+    "Uppsala University"
+   ],
+   "id": "bffacecf1b4fdd3b",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-26",
+   "score": 7,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "tech": [
+     "satellite"
+    ],
+    "novelty": [
+     "demonstrat",
+     "record"
+    ]
+   }
+  },
+  {
    "title": "Airborne particles emitted during post-processing of additively manufactured metallic alloys induce acute inflammation and transcriptome–metabolome dysregulation in human macrophages",
    "summary": "Background The rapid expansion of metal additive manufacturing (AM) has raised concerns about occupational exposure to airborne particles released during post-processing operations such as grinding and blasting. These emissions, originating from complex metallic alloys, may present risks to respiratory health, yet their cellular effects remain insufficiently understood. In this study, airborne particles were collected using a cascade impactor in the post-processing room of a Swedish AM facility. To investigate their biological impact, broad physicochemical characterization was combined with tr",
    "url": "https://doi.org/10.1186/s12302-026-01598-z",
@@ -165,6 +219,37 @@
     ],
     "industry": [
      "manufactur"
+    ]
+   }
+  },
+  {
+   "title": "MirrorGuard: Defending LiDAR Perception against Passive Mirror Attacks",
+   "summary": "Mirror-based LiDAR attacks passively redirect automotive LiDAR's beams to create phantom objects in the vehicle perception. Recent work has demonstrated that these attacks may cause vehicles to brake for a phantom where nothing stands. Every phantom return is a genuine time-of-flight measurement, so current spoofing defenses are not able to differentiate phantoms from real objects. We present MirrorGuard, a physics-informed defense that identifies and removes mirror-induced phantom returns before they affect downstream perception. MirrorGuard tests three consequences of the reflected path. Eve",
+   "url": "https://doi.org/10.48550/arxiv.2611.30292",
+   "date": "2026-11-23",
+   "source": "arXiv",
+   "institutions": [
+    "Serendipity Innovations (Sweden)"
+   ],
+   "id": "2d8c5f9118528d88",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-26",
+   "score": 7,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "tech": [
+     "lidar"
+    ],
+    "industry": [
+     "vehicle",
+     "automotive"
+    ],
+    "novelty": [
+     "demonstrat"
     ]
    }
   },
@@ -609,6 +694,114 @@
    }
   },
   {
+   "title": "FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34884v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "952845899b85548f",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-26",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "humanoid"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "Riding the Wave: Sim-to-Real Humanoid Control on Elastic Terrain",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34569v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "87880777f39e0094",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-26",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "humanoid"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "AGLR: Attribute-Guided Latent Refinement for Fine-Grained Humanoid Motion Generation and Editing",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34519v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "0fc8e43e4a7b0afd",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-26",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "humanoid"
+    ],
+    "companies": [
+     "Humanoid"
+    ]
+   }
+  },
+  {
+   "title": "WISER-RL: A Wake-Sleep Learning Mechanism for Robot Reinforcement Learning from One Demonstration",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34043v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "8d7ae9c8e44efc81",
+   "feed": "arXiv Robotics",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-26",
+   "score": 6,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "tech": [
+     "robot"
+    ],
+    "novelty": [
+     "demonstrat"
+    ]
+   }
+  },
+  {
+   "title": "Systematic study of the performance of small robots on controlled laboratory substrates",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.33702v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "f855781672f6b2ba",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-26",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "robot"
+    ],
+    "companies": [
+     "Systematic"
+    ]
+   }
+  },
+  {
    "title": "DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.32944v1",
@@ -735,6 +928,58 @@
     ],
     "companies": [
      "Quantum Systems"
+    ]
+   }
+  },
+  {
+   "title": "A Simulation-Based Digital Twin for Condition-Based Waterless Cleaning of Photovoltaic Plants in Arid Regions",
+   "summary": "Dust-induced soiling reduces photovoltaic (PV) energy yield in arid regions, while calendar-based cleaning ignores differences between rows. This study proposes a lightweight, estimation-centered digital twin (DT) whose closed loop is simulated only. It fuses inverter-derived power ratios with intermittent camera information in a Kalman filter with power-channel bias correction and is designed to schedule waterless robotic cleaning with an economic decision rule. In 50 Monte Carlo runs of a simulated 1 MWp plant calibrated on published data from Laghouat, Algeria, the fused estimator achieved ",
+   "url": "https://doi.org/10.3390/en19235698",
+   "date": "2026-11-24",
+   "source": "Energies",
+   "institutions": [
+    "Islamic University of Madinah",
+    "KTH Royal Institute of Technology",
+    "University Yahia Fares of Medea",
+    "Ziane Achour University of Djelfa"
+   ],
+   "id": "514908ffa912f304",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-26",
+   "score": 6,
+   "hits": {
+    "event": [
+     "plant"
+    ],
+    "tech": [
+     "digital twin"
+    ]
+   }
+  },
+  {
+   "title": "Bright-band detection via radial reflectivity profiles from volume-scanning radar: validation by MRR-derived melting-layer events",
+   "summary": "Melting snowflakes can enhance radar reflectivity and substantially bias quantitative precipitation estimation (QPE). The atmospheric melting layer is detectable from vertical reflectivity profiles exhibiting a bright band (BB), characterized by a reflectivity peak bounded by positive and negative gradient maxima. This study extends this method using radial reflectivity profiles derived from ground-based volume-scanning weather radar (WR) and compares the results with those derived from Contoured Frequency by Altitude Diagrams (CFADs), with both approaches validated against reference melting-l",
+   "url": "https://doi.org/10.5194/egusphere-2026-7174",
+   "date": "2026-11-24",
+   "source": "",
+   "institutions": [
+    "Lund University",
+    "Swedish Meteorological and Hydrological Institute"
+   ],
+   "id": "cfa9c1d26445b2a0",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-26",
+   "score": 6,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "radar"
     ]
    }
   },
@@ -990,6 +1235,33 @@
     ],
     "novelty": [
      "efficiency"
+    ]
+   }
+  },
+  {
+   "title": "Enabling Real-Time Building Digital Twins: Batched and Parallelized Simulation in Twin4Build",
+   "summary": "The deployment of building digital twins and advanced control strategies require high-fidelity, fast simulations. Computational latency, driven primarily by Python interpreter overhead on small per-component tensors, remains a significant bottleneck for component-based multi-zone models. This paper presents a graph-fusion compiler integrated into the Twin4Build Python library that batches simulation along two complementary axes: the component axis and the time axis. Along the component axis, structurally identical components are clustered into execution groups and vectorised via PyTorch broadc",
+   "url": "https://www.e3s-conferences.org/10.1051/e3sconf/202675706005/pdf",
+   "date": "2026-11-20",
+   "source": "EDP Sciences OAI-PMH repository",
+   "institutions": [
+    "University of Southern Denmark"
+   ],
+   "id": "c0063ab12d34ab8d",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-26",
+   "score": 6,
+   "hits": {
+    "event": [
+     "deployment"
+    ],
+    "tech": [
+     "digital twin"
+    ],
+    "industry": [
+     "building"
     ]
    }
   },
@@ -2176,28 +2448,6 @@
    }
   },
   {
-   "title": "Design and Over-the-Air Evaluation of a Digital Twin-Driven Site-Specific Neural Receiver for 5G NR on NVIDIA DGX Spark",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13490v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "7ef351ce44e256f6",
-   "feed": "arXiv Signal Processing (radar, 6G)",
-   "kind": "research",
-   "domain_hint": "Connectivity",
-   "collected": "2026-11-11",
-   "score": 6,
-   "hits": {
-    "tech": [
-     "5g",
-     "digital twin"
-    ],
-    "companies": [
-     "NVIDIA"
-    ]
-   }
-  },
-  {
    "title": "DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.14092v1",
@@ -2228,27 +2478,6 @@
    "date": "2026-11-10",
    "source": "",
    "id": "50b6f73b2d733eda",
-   "feed": "arXiv Robotics",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-12",
-   "score": 6,
-   "hits": {
-    "tech": [
-     "humanoid"
-    ],
-    "companies": [
-     "Humanoid"
-    ]
-   }
-  },
-  {
-   "title": "ReACT: Reflection-Consistent Modulation and Cross-Load Consistency for Humanoid Velocity Tracking Under Asymmetric Loads",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13929v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "c8dea6e4e61a7fcb",
    "feed": "arXiv Robotics",
    "kind": "research",
    "domain_hint": "AI",
@@ -2344,107 +2573,6 @@
    }
   },
   {
-   "title": "AHEADance: Anticipatory Humanoid Dance from Streaming Audio",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13370v1",
-   "date": "2026-11-09",
-   "source": "",
-   "id": "5cd57b4be00eeda9",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-11",
-   "score": 6,
-   "hits": {
-    "tech": [
-     "humanoid"
-    ],
-    "companies": [
-     "Humanoid"
-    ]
-   }
-  },
-  {
-   "title": "Sliding into Balance: Benefits of a Sliding Payload for Load Distribution and Disturbance Rejection in Dual-UAV Transportation",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.12754v1",
-   "date": "2026-11-09",
-   "source": "",
-   "id": "c02335d47cf3d671",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-11",
-   "score": 6,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "tech": [
-     "uav"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "D2.3 – Report including environmental, social and farming dimensions of impacts associated with the pilots (Factsheet)",
-   "summary": "These factsheets summarise the impact assessment results of the P2GreeN project for two recycled nitrogen fertilisers made from separately collected human urine: Granurin, tested in the Swedish pilot region of Gotland, and Aurin, tested in the North German Plain pilot region. They are based on Deliverable D2.3 “Report including environmental, social and farming dimensions of impacts associated with the pilots”, produced under Task 2.3 (Impact assessments) of Work Package 2, led by the Natural Resources Institute Finland (Luke). Each factsheet combines measured results from multi-year field tri",
-   "url": "https://doi.org/10.5281/zenodo.24077064",
-   "date": "2026-11-09",
-   "source": "Zenodo (CERN European Organization for Nuclear Research)",
-   "institutions": [
-    "Hungarian Academy of Sciences",
-    "Natural Resources Institute Finland",
-    "University of Pecs"
-   ],
-   "id": "277d2f169102219f",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-11",
-   "score": 6,
-   "hits": {
-    "event": [
-     "pilot"
-    ],
-    "industry": [
-     "port"
-    ],
-    "geo": [
-     "swedish"
-    ],
-    "novelty": [
-     "pilot"
-    ]
-   }
-  },
-  {
-   "title": "Does Haptic Connection to a Healthy Partner Improve Motor Learning in Chronic Stroke? A Pilot Study of Robot-Based Dyadic Training",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13307v1",
-   "date": "2026-11-09",
-   "source": "",
-   "id": "ae71544f5c44371f",
-   "feed": "arXiv Robotics",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-12",
-   "score": 6,
-   "hits": {
-    "event": [
-     "pilot"
-    ],
-    "tech": [
-     "robot"
-    ],
-    "novelty": [
-     "pilot"
-    ]
-   }
-  },
-  {
    "title": "Ground-based GNSS transmissometry reveals contrasting leaf and stem water dynamics in a central Amazon rainforest",
    "summary": "Vegetation optical depth (VOD) is widely used to monitor vegetation water dynamics, yet its interpretation in dense tropical forests remains uncertain because independent observations of water partitioning among vegetation compartments are scarce. Here, we compare global navigation satellite system transmissometry-derived VOD (GNSS-T VOD) with independent measurements of leaf, stem, and soil water in an old-growth Central Amazon rainforest. Stem water storage (SWS) dominated total vegetation water storage (VWS) and closely tracked seasonal soil moisture. In contrast, GNSS-T VOD exhibited oppos",
    "url": "https://doi.org/10.1088/1748-9326/aeb4cb",
@@ -2526,33 +2654,6 @@
    }
   },
   {
-   "title": "Intelligence deployment in NTN-based O-RAN: Architectural options, practical constraints, and design guidelines",
-   "summary": "Non-Terrestrial Networks (NTNs) are expected to play a central role in future 6G systems by complementing terrestrial infrastructures with wide-area coverage, resilience, and service continuity. In parallel, Open Radio Access Network (O-RAN) architectures introduce functional disaggregation, open interfaces, and multi-time-scale control mechanisms that enable flexible and intelligent network operation. Integrating O-RAN principles into NTN environments, however, raises fundamental challenges related to latency, resource constraints, and the feasibility of distributed control and Machine Learni",
-   "url": "https://doi.org/10.1016/j.comcom.2026.108723",
-   "date": "2026-11-01",
-   "source": "Computer Communications",
-   "institutions": [
-    "Consorzio Nazionale Interuniversitario per le Telecomunicazioni",
-    "KTH Royal Institute of Technology",
-    "University of Florence",
-    "University of Leeds"
-   ],
-   "id": "83b29f4ae1460ffe",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-11",
-   "score": 6,
-   "hits": {
-    "event": [
-     "deployment"
-    ],
-    "tech": [
-     "6g"
-    ]
-   }
-  },
-  {
    "title": "Plant-adaptive fluorescence hydrogel sensor for non-invasive monitoring of pesticide degradation.",
    "summary": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42950625/",
@@ -2574,20 +2675,167 @@
    }
   },
   {
-   "title": "Reading Geometric Anchors: Viewpoint Generalization in Imitation Learning for Robotic Manipulation with RGB-Only Deployment",
+   "title": "Barriers to Clinical Integration of Artificial Intelligence in Computer-Assisted Dental Implant Surgery: A Critical Review.",
    "summary": "",
-   "url": "https://arxiv.org/abs/2611.32162v1",
-   "date": "2026-11-24",
-   "source": "",
-   "id": "bfaf4eb77a01a738",
-   "feed": "arXiv Robotics",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42855343/",
+   "date": "2027-02-01",
+   "source": "Oral and maxillofacial surgery clinics of North America",
+   "id": "92c8285e7038d4dd",
+   "feed": "PubMed – surgical robotics and devices",
    "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-25",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-26",
    "score": 5,
    "hits": {
     "event": [
-     "deployment"
+     "plant"
+    ],
+    "tech": [
+     "artificial intelligence"
+    ]
+   }
+  },
+  {
+   "title": "Grey-Box Experimental Identification of Reduced-Order Models for Grid-Forming Converters",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34566v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "723cd5fd2544d237",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-26",
+   "score": 5,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "tech": [
+     "grid"
+    ]
+   }
+  },
+  {
+   "title": "Travelling-Wave-Based Protection of DC Hubs in Bipolar HVDC Grids",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34445v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "8408e089e892fc24",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-26",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ipo"
+    ],
+    "tech": [
+     "grid"
+    ]
+   }
+  },
+  {
+   "title": "Experimental Quantum Hardware Benchmarks of Flat Non-Clifford Hypergraph States, Antipodal Obstructions, and Nonlocal Games on IBM Heron r2",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34683v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "eebdd4f8c8306be5",
+   "feed": "arXiv Quantum hardware",
+   "kind": "research",
+   "domain_hint": "Compute",
+   "collected": "2026-11-26",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ipo"
+    ],
+    "tech": [
+     "quantum"
+    ]
+   }
+  },
+  {
+   "title": "Native higher-order optimization with entropy quantum computing",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34429v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "910006f84890fe5a",
+   "feed": "arXiv Quantum hardware",
+   "kind": "research",
+   "domain_hint": "Compute",
+   "collected": "2026-11-26",
+   "score": 5,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "tech": [
+     "quantum"
+    ]
+   }
+  },
+  {
+   "title": "Quantum Geometric Origin of Néel-Order-Driven Magneto-Optical Response in MnTe",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34076v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "9a99966cd88cae4d",
+   "feed": "arXiv Materials (batteries, magnets, catalysts)",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-26",
+   "score": 5,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "tech": [
+     "quantum"
+    ]
+   }
+  },
+  {
+   "title": "Tunable Terahertz Bandpass Filter based on the Photonic Emulation of a 2DEG Interferometer through the Geometric Phase of Light",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34593v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "0c1a3ce81ca59b5f",
+   "feed": "arXiv Applied Physics",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-26",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "photonic"
+    ]
+   }
+  },
+  {
+   "title": "Inflatable FaBrick enables soft robots to contract, bend and twist",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-inflatable-fabrick-enables-soft-robots.html",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "80dad80b5b13550f",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-26",
+   "score": 5,
+   "hits": {
+    "event": [
+     "contract"
     ],
     "tech": [
      "robot"
@@ -2617,23 +2865,130 @@
    }
   },
   {
-   "title": "Active sensing as control over sensory acquisition",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.29886v1",
-   "date": "2026-11-23",
-   "source": "",
-   "id": "bbad39e1509f1618",
-   "feed": "arXiv Robotics",
+   "title": "The IEA Reference Hybrid Power Plant",
+   "summary": "This article presents a reference design for a hybrid power plant consisting of a wind farm, solar photovoltaics (PV) farm, and battery energy storage system. The power plant is designed for an onshore site in western Denmark and for a limited grid connection capacity of 300 MW. The wind farm is made of 65 NLR 5 MW reference turbines, for a total capacity of 325 MW, placed in a grid layout. The solar PV farm consists of 59 modular solar PV systems with a total capacity of 400 MWp and an AC/DC ratio of 1. The storage system has a power capacity of 150 MW and an energy capacity of 300 MWh, divid",
+   "url": "https://doi.org/10.5194/wes-2026-218",
+   "date": "2026-11-24",
+   "source": "Wind Energy Science Discussions",
+   "institutions": [
+    "Delft University of Technology",
+    "National Laboratory of the Rockies",
+    "Reutlingen University",
+    "Technical University of Denmark",
+    "University College Dublin"
+   ],
+   "id": "de09c453518b17f9",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
    "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-24",
+   "domain_hint": "Energy",
+   "collected": "2026-11-26",
    "score": 5,
    "hits": {
     "event": [
-     "acquisition"
+     "plant"
     ],
     "tech": [
-     "sensor"
+     "battery",
+     "energy storage"
+    ]
+   }
+  },
+  {
+   "title": "Evidence supporting the trunk test battery in para-kayak classification: relationships between trunk muscle function, trunk control, and sport performance",
+   "summary": "Introduction Trunk function is crucial for force generation, stability and performance in seated parasports such as para-kayak. In para-kayak classification, trunk function is assessed using the Trunk Test Battery (TTB), consisting of Manual Muscle Testing (MMT) and a Seated Trunk Assessment (STA). However, limited evidence exists regarding whether classification-based assessments of trunk function reflect underlying muscle activation and are associated with sport-specific performance. Therefore, this study aimed to examine differences in trunk muscle activation measured by electromyography (E",
+   "url": "https://doi.org/10.3389/fspor.2026.1927289",
+   "date": "2026-11-24",
+   "source": "Frontiers in Sports and Active Living",
+   "institutions": [
+    "Karolinska Institutet",
+    "Swedish School of Sport and Health Sciences",
+    "Örebro University"
+   ],
+   "id": "b194b91534ee066f",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-26",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "battery"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "SYNEX: Perception-to-valve autonomous excavation with coverage planning and worker protection",
+   "summary": "SYNEX connects site perception to hydraulic valve commands for multi-pit footing14 excavation. We evaluated it on a digital twin of a 30 t excavator whose front and15 hydraulics were calibrated against field records. The system combines stable-wall16 layered coverage, synchronized planning, two control barrier function layers, and17 a worker separation monitor based on stopping bounds measured in simulation.18 In ten missions with perception, 99 of 100 pits met the grade tolerance at all19 289 grid points, including 49 of 50 in held-out missions. Nine of the ten missions20 completed the work o",
+   "url": "https://doi.org/10.21203/rs.3.rs-11823481/v1",
+   "date": "2026-11-24",
+   "source": "Research Square",
+   "institutions": [
+    "Ajou University",
+    "Korea University",
+    "Sookmyung Women's University",
+    "Tampere University"
+   ],
+   "id": "196486e06e59a6f5",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-26",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "autonomous",
+     "digital twin"
+    ],
+    "novelty": [
+     "record"
+    ]
+   }
+  },
+  {
+   "title": "The Arctic Weather Satellite, introducing the sub-millimetre wavelength range for operational ice hydrometeor retrievals",
+   "summary": "The first cloud property retrievals based on operational sub-millimetre measurements are presented, using the channels between 89 and 325 GHz of the Arctic Weather Satellite (AWS). The dataset, designated CHIP-AWS, contains frozen water path (FWP) and the associated mass-weighted mean altitudes and particle sizes. In this first version, results are restricted to latitudes between 60° S and 60° N. The retrievals are based on detailed radiative transfer simulations of instrument observations, informed by ERA5 and CloudSat radar reflectivities, using multiple combinations of hydrometeor habits an",
+   "url": "https://doi.org/10.5194/amt-19-7789-2026",
+   "date": "2026-11-24",
+   "source": "Atmospheric measurement techniques",
+   "institutions": [
+    "Chalmers University of Technology"
+   ],
+   "id": "cc8017404deb1d84",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-26",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "satellite"
+    ],
+    "novelty": [
+     "first"
+    ]
+   }
+  },
+  {
+   "title": "Pc5 wave storms in near-Earth space",
+   "summary": "Ultra-low-frequency (ULF) waves occur in the Earth’s magnetosphere due to various drivers. For example, large-scale structures originating from the Sun, such as high-speed streams (HSS) and interplanetary coronal mass ejections (ICMEs), are associated with elevated wave activity. ULF waves, especially those in the Pc5 frequency range (2–7 mHz), are particularly important in the context of space weather because they cause electron acceleration in the radiation belts. These high-energy electrons can damage satellites in orbits near the radiation belts. In this work, we define a “wave storm” to d",
+   "url": "https://doi.org/10.1051/swsc/2026038",
+   "date": "2026-11-24",
+   "source": "Journal of Space Weather and Space Climate",
+   "institutions": [
+    "University of Helsinki"
+   ],
+   "id": "a80f98a1281c2635",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-26",
+   "score": 5,
+   "hits": {
+    "companies": [
+     "Ultra"
     ]
    }
   },
@@ -2963,60 +3318,6 @@
    }
   },
   {
-   "title": "A Coupled Human–Machine–Environment Modeling Framework for Construction Systems",
-   "summary": "Factory-like construction equipment such as the aerial building machine (ABM) enables the transformation of open construction sites into semi-indoor environments with controllable temperature, humidity, wind speed, and lighting. Meanwhile, the increasing integration of collaborative robots introduces new operational characteristics involving coupled environmental regulation and human–robot collaboration. This study proposes a construction system modeling framework that jointly considers environmental regulation, worker behavior, and human–robot collaboration in ABM scenarios. The framework cha",
-   "url": "https://www.e3s-conferences.org/10.1051/e3sconf/202675707004/pdf",
-   "date": "2026-11-20",
-   "source": "Springer Link (Chiba Institute of Technology)",
-   "institutions": [
-    "Harbin Institute of Technology",
-    "Umeå University"
-   ],
-   "id": "21f0cb79cab3e0c7",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-25",
-   "score": 5,
-   "hits": {
-    "event": [
-     "factory"
-    ],
-    "industry": [
-     "construction equipment",
-     "factory",
-     "building",
-     "construction"
-    ]
-   }
-  },
-  {
-   "title": "Rule Extraction for Occupant Window-Operation Behaviour: A Comparison of Classification Trees and Random Forests",
-   "summary": "Occupant behaviour models used in building performance simulation range from compact, interpretable rule-based representations to complex ensemble machine learning approaches, simulated with stochastic approaches. While more complex stochastic approaches may capture a richer representation of occupant decision-making, it remains unclear whether this additional complexity leads to meaningfully different building energy simulation outcomes or whether deterministic rules extracted from them are adequate. In this study, window operation models are implemented within a co-simulation framework with ",
-   "url": "https://www.e3s-conferences.org/10.1051/e3sconf/202675707005/pdf",
-   "date": "2026-11-20",
-   "source": "Springer Link (Chiba Institute of Technology)",
-   "institutions": [
-    "Aarhus University",
-    "Commonwealth Scientific and Industrial Research Organisation",
-    "University of Wollongong"
-   ],
-   "id": "7d3a1168a301651f",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-25",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "machine learning"
-    ],
-    "industry": [
-     "building"
-    ]
-   }
-  },
-  {
    "title": "A two-echelon covering tour vehicle routing problem with drones for post-disaster relief",
    "summary": "We introduce the two-echelon covering tour vehicle routing problem (2E-CTVRP) for the distribution of relief supplies after a disaster. In the first echelon, a fleet of trucks transports supplies and drones from a central depot to satellites at the periphery of the affected area. In the second echelon, drones launched in parallel from the satellites deliver the supplies to the centroids of victim clusters, which are obtained by clustering the victim locations, and each truck waits at a satellite until its drones have returned. The problem combines the assignment of satellites to trucks, the se",
    "url": "https://doi.org/10.1016/j.cie.2026.112518",
@@ -3134,30 +3435,6 @@
    "hits": {
     "companies": [
      "Anthropic"
-    ],
-    "novelty": [
-     "record"
-    ]
-   }
-  },
-  {
-   "title": "The Runtime Half of the Safety Case Aboard Autonomous Ships: Evaluating Provisos with Claim Graphs and Warrant Records under the MASS Code",
-   "summary": "A safety case makes design-time claims about a vessel that hold only while certain conditions are met in operation, and we call checking these conditions, and responding when one fails, the runtime half of the safety case. Without crew or shore link, an autonomous vessel must perform that runtime half itself. Treating the runtime half as a conformity assessment, of the kind performed in class surveys and flag certification, we derive five functions that a mechanism performing it aboard must provide. We find that the International Code of Safety for Maritime Autonomous Surface Ships requires on",
-   "url": "https://doi.org/10.21203/rs.3.rs-11458659/v1",
-   "date": "2026-11-19",
-   "source": "Research Square",
-   "institutions": [
-    "RISE Research Institutes of Sweden"
-   ],
-   "id": "e121a24a7dc016e7",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-21",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "autonomous"
     ],
     "novelty": [
      "record"
@@ -4242,48 +4519,6 @@
    }
   },
   {
-   "title": "Impact of Reduced-Order Modelling on Sum-of-Squares Region-of-Attraction Certification for Grid-Forming and Grid-Following Converters",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13497v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "8bb70cd782ddd040",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-11",
-   "score": 5,
-   "hits": {
-    "event": [
-     "order"
-    ],
-    "tech": [
-     "grid"
-    ]
-   }
-  },
-  {
-   "title": "Radar wristband turns your arm into a smartwatch trackpad",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-radar-wristband-arm-smartwatch-trackpad.html",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "8f56f0cb248c6144",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-11",
-   "score": 5,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "tech": [
-     "radar"
-    ]
-   }
-  },
-  {
    "title": "Northern palsa and peat ecosystem microbiomes are potentially supported by hydrogen and carbon monoxide metabolism",
    "summary": "Northern peatland and permafrost ecosystems are facing rapid changes, with increasing temperatures, permafrost thaw and shifts in hydrology. Characterizing microbial communities and metabolic potential from the soils and associated water bodies is crucial to understanding the changes in biogeochemical cycling in these ecosystems. For this, samples were collected and sequenced from subarctic palsa and peat soils, along with samples from associated thaw ponds and streams. Metagenomics was utilized in describing the microbiome and its metabolic potential in these environments. Palsa soils hosted ",
    "url": "https://doi.org/10.64898/2026.11.09.765253",
@@ -4388,30 +4623,6 @@
    }
   },
   {
-   "title": "Prospective Importance-based Cognitive Pilot Design for Semantic Sensing in ISAC Systems",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.12082v1",
-   "date": "2026-11-09",
-   "source": "",
-   "id": "b4c90ec8443a071d",
-   "feed": "arXiv Signal Processing (radar, 6G)",
-   "kind": "research",
-   "domain_hint": "Connectivity",
-   "collected": "2026-11-11",
-   "score": 5,
-   "hits": {
-    "event": [
-     "pilot"
-    ],
-    "industry": [
-     "port"
-    ],
-    "novelty": [
-     "pilot"
-    ]
-   }
-  },
-  {
    "title": "Commercial Space Services for Military Use: Explaining Variation in Availability Across Mission Areas",
    "summary": "While commercial space capabilities have become essential to military operations, their availability differs markedly across mission areas. Commercial providers offer launch services, satellite communications, and certain aspects of space-based intelligence. In contrast, governments retain control of capabilities such as positioning, navigation and timing, missile warning, and counterspace. These differences are typically described rather than explained. We show that they follow a structural logic: Availability rests on structural conditions that technological progress alone does not remove, s",
    "url": "https://doi.org/10.31374/sjms.575",
@@ -4478,35 +4689,6 @@
     ],
     "tech": [
      "diagnostic"
-    ]
-   }
-  },
-  {
-   "title": "Janus Dumbbell Ru–Pt Nanoparticles on Titanium Oxynitride Boost Hydrogen Evolution Across pH",
-   "summary": "While platinum nanocatalysts exhibit outstanding activity for the hydrogen evolution reaction (HER), their high cost and scarcity underscore the need to develop more efficient and sustainable alternatives. This work reports a highly active, stable, and cost-effective electrocatalytic composite for HER consisting of bimetallic Janus dumbbell Ru─Pt nanoparticles deposited on a titanium oxynitride-graphene support (Ru─Pt/TiON─C). Ru─Pt/TiON─C nanocomposite with particularly low metal loading of only 1.85 wt.% Pt and 5.5 wt.% Ru outperforms the 20 wt.% Pt/C benchmark catalyst in both acid and alka",
-   "url": "https://doi.org/10.1002/cssc.71203",
-   "date": "2026-11-08",
-   "source": "ChemSusChem",
-   "institutions": [
-    "Fondazione Bruno Kessler",
-    "Institute of Metals and Technology",
-    "National Institute of Chemistry",
-    "Ruđer Bošković Institute",
-    "University of Chemistry and Technology, Prague",
-    "University of Iceland"
-   ],
-   "id": "a077e897cd6cf5eb",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-11",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "hydrogen"
-    ],
-    "novelty": [
-     "outperform"
     ]
    }
   },
@@ -4740,23 +4922,211 @@
    }
   },
   {
-   "title": "At the Limit: Autonomous Vehicle Drifting under Generative Policies",
+   "title": "New roadmap for sustainable UK data centers",
    "summary": "",
-   "url": "https://arxiv.org/abs/2611.33040v1",
-   "date": "2026-11-24",
+   "url": "https://techxplore.com/news/2026-11-roadmap-sustainable-uk-centers.html",
+   "date": "2026-11-26",
    "source": "",
-   "id": "7645f692fec84d16",
-   "feed": "arXiv Robotics",
+   "id": "4fdfef158919e003",
+   "feed": "Phys.org Technology",
    "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-25",
+   "domain_hint": "",
+   "collected": "2026-11-26",
    "score": 4,
    "hits": {
     "tech": [
-     "autonomous"
+     "data center"
+    ],
+    "geo": [
+     "uk "
+    ]
+   }
+  },
+  {
+   "title": "Knowledge-Base Gradient Descent: Self-Structuring Learning through Question Answering",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34841v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "fc28c21bf4d0b6c7",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-26",
+   "score": 4,
+   "hits": {
+    "companies": [
+     "Gradient"
+    ]
+   }
+  },
+  {
+   "title": "PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34785v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "d669d6567983e2d2",
+   "feed": "arXiv AI",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-26",
+   "score": 4,
+   "hits": {
+    "event": [
+     "ban",
+     "factory"
     ],
     "industry": [
-     "vehicle"
+     "factory",
+     "bank"
+    ]
+   }
+  },
+  {
+   "title": "Physics-Guided Generative Modelling of Oxy-Combustion Flame Images: From Conditional LSGANs to Denoising Diffusion Models",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34568v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "a5e33227e473e2de",
+   "feed": "arXiv Computer Vision",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-26",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "fusion"
+    ],
+    "industry": [
+     "bus"
+    ]
+   }
+  },
+  {
+   "title": "A Calibration-Referenced Protocol for Measuring Decision Stability under Reference Bank Compression",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34134v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "1aebff85ad8e7440",
+   "feed": "arXiv Computer Vision",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-26",
+   "score": 4,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "industry": [
+     "bank"
+    ]
+   }
+  },
+  {
+   "title": "Adaptive Reliability Reserves for Residential Battery Fleets",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34779v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "224df7c8f5a1011f",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-26",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "battery"
+    ],
+    "industry": [
+     "fleet"
+    ]
+   }
+  },
+  {
+   "title": "A Robust Optimization Framework for Energy System Capacity Expansion under Line Outage Uncertainty",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34113v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "ad8b47c5dcb2feb9",
+   "feed": "arXiv Systems & Control",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-26",
+   "score": 4,
+   "hits": {
+    "event": [
+     "outage"
+    ],
+    "industry": [
+     "bus"
+    ]
+   }
+  },
+  {
+   "title": "Pseudospin-mediated broadband hypersonic phonon transport beyond localized Berry curvature",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.34077v1",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "7d668dd7e19e9fcd",
+   "feed": "arXiv Applied Physics",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-26",
+   "score": 4,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+   "summary": "",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "08f6b1d22b103942",
+   "feed": "ScienceDaily Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-26",
+   "score": 4,
+   "hits": {
+    "event": [
+     "breakthrough"
+    ],
+    "novelty": [
+     "breakthrough"
+    ]
+   }
+  },
+  {
+   "title": "EU plans 50-billion-euro investment in AI, quantum computing",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-eu-billion-euro-investment-ai.html",
+   "date": "2026-11-25",
+   "source": "",
+   "id": "23439e8e0beac5a0",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-26",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "quantum"
+    ],
+    "geo": [
+     "eu "
     ]
    }
   },
@@ -4941,6 +5311,48 @@
    }
   },
   {
+   "title": "Infrared-absorption magnetometry in a diamond nanocavity: demonstration and limits at the nanoscale",
+   "summary": "",
+   "url": "https://arxiv.org/abs/2611.33481v1",
+   "date": "2026-11-24",
+   "source": "",
+   "id": "f8b2509010aa45c7",
+   "feed": "arXiv Quantum hardware",
+   "kind": "research",
+   "domain_hint": "Compute",
+   "collected": "2026-11-26",
+   "score": 4,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "novelty": [
+     "demonstrat"
+    ]
+   }
+  },
+  {
+   "title": "From Parameters to Trade-Offs: Clothing under the EU's Ecodesign for Sustainable Products Regulation",
+   "summary": "Circular-design research recognizes interactions between durability, repairability, recyclability, and material performance. What emerging textile ecodesign requirements under the ESPR framework mean for garment-development decisions remains less clear. In this perspective, we use the Joint Research Centre’s draft preparatory study, which assesses design options and ESPR’s potential ecodesign requirements for textile products, to examine the garment-development implications of five selected areas: physical durability, repairability, recyclability, recycled content, and substances of concern on",
+   "url": "https://doi.org/10.55845/gvxt7p10",
+   "date": "2026-11-24",
+   "source": "Journal of Circular Economy",
+   "institutions": [
+    "Aalto University"
+   ],
+   "id": "0bdbf16bb91ffca5",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-26",
+   "score": 4,
+   "hits": {
+    "event": [
+     "regulation"
+    ]
+   }
+  },
+  {
    "title": "Segment Anything In-Context via Visual Demonstrations",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.29896v1",
@@ -5022,33 +5434,6 @@
     ],
     "novelty": [
      "first"
-    ]
-   }
-  },
-  {
-   "title": "Understanding the effect of annealing on electrochemical performance of Ti/Zr-based Laves phase metal hydride anode alloys by modelling of hydrogen diffusion",
-   "summary": "The performance of Ti/Zr-based AB 2 Laves phase alloys as metal hydride batteries anodes is strongly influenced by their microstructures and hydrogen transport behaviours. While annealing is recognized as a useful tool for the enhancement of the electrochemical performance, the fundamental mechanism causing such an enhancement, particularly as related to hydrogen diffusion, requires further clarification. In the present study, we address this problem by combining electrochemical characterization with diffusion modelling to establish how the annealing influences hydrogen transport and the elect",
-   "url": "https://doi.org/10.1016/j.est.2026.125865",
-   "date": "2026-11-23",
-   "source": "Journal of Energy Storage",
-   "institutions": [
-    "Institut Teknologi Sepuluh Nopember",
-    "Institute for Energy Technology",
-    "Norwegian University of Science and Technology"
-   ],
-   "id": "c0359735aec2c9ca",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-25",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "hydrogen",
-     "fusion"
-    ],
-    "industry": [
-     "port"
     ]
    }
   },
@@ -5298,48 +5683,6 @@
    }
   },
   {
-   "title": "Bayesian Bias Learning-Enabled Probabilistic Voltage Estimation with Unknown Uncertainty Modeling of DERs in Distribution Grids",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.27866v1",
-   "date": "2026-11-20",
-   "source": "",
-   "id": "703b9b925b0ed648",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-24",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "grid"
-    ],
-    "industry": [
-     "distribution grid"
-    ]
-   }
-  },
-  {
-   "title": "On Robust Strictly Positive Real Synthesis for High-Order Interval Polynomials",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.27665v1",
-   "date": "2026-11-20",
-   "source": "",
-   "id": "e762eab1cbfde29a",
-   "feed": "arXiv Systems & Control",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-24",
-   "score": 4,
-   "hits": {
-    "event": [
-     "order"
-    ],
-    "industry": [
-     "bus"
-    ]
-   }
-  },
-  {
    "title": "From Pilots to Position: Experimental Near-Field Localization for ISAC",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.27503v1",
@@ -5534,32 +5877,6 @@
    }
   },
   {
-   "title": "Future Climate Change Impacts on Rainfed Wheat Yield in the Northern Zagros, Iran: Integrating CMIP6, DSSAT-CERES-Wheat, and Satellite Indicators",
-   "summary": "Rainfed wheat production in the Northern Zagros of Iran is highly dependent on climatic conditions and is therefore particularly vulnerable to future changes in temperature and precipitation. This study assessed the potential impacts of climate change on rainfed wheat yields at three locations, Urmia, Sanandaj, and Hamedan, using an integrated climate–crop modeling framework. Historical climatic and agricultural data for 2000–2024, together with CHIRPS precipitation, MODIS Normalized Difference Vegetation Index(NDVI) and land surface temperature (LST) were analyzed to characterize the environm",
-   "url": "https://doi.org/10.3390/app162211437",
-   "date": "2026-11-18",
-   "source": "Applied Sciences",
-   "institutions": [
-    "Icelandic Meteorological Office",
-    "Institute of Agrophysics, Polish Academy of Sciences",
-    "Institute of Atmospheric Pollution Research",
-    "National Research Council",
-    "University of Iceland",
-    "Yazd University"
-   ],
-   "id": "a56fcf80cd9943a2",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-20",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "satellite"
-    ]
-   }
-  },
-  {
    "title": "Towards sustainable and circular power semiconductor switches: Methodologies, challenges, and potential solutions",
    "summary": "",
    "url": "https://doi.org/10.1016/j.rser.2026.117696",
@@ -5582,36 +5899,6 @@
    "hits": {
     "tech": [
      "semiconductor"
-    ]
-   }
-  },
-  {
-   "title": "Soil moisture retrieval for dense vegetation considering time-varying first-order scattering from SMAP L-band dual-polarized brightness temperatures",
-   "summary": "",
-   "url": "https://doi.org/10.1016/j.rse.2026.115787",
-   "date": "2026-11-18",
-   "source": "Remote Sensing of Environment",
-   "institutions": [
-    "Ajou University",
-    "Finnish Meteorological Institute",
-    "Gwangju Institute of Science and Technology",
-    "Jet Propulsion Laboratory",
-    "Massachusetts Institute of Technology",
-    "Ulsan National Institute of Science and Technology"
-   ],
-   "id": "d4d8db5a4ec75456",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-21",
-   "score": 4,
-   "hits": {
-    "event": [
-     "order",
-     "ban"
-    ],
-    "novelty": [
-     "first"
     ]
    }
   },
@@ -5677,27 +5964,6 @@
    "hits": {
     "tech": [
      "grid"
-    ]
-   }
-  },
-  {
-   "title": "Mapping Earth surface elevation changes using offsets between Sentinel-2, Landsat, and Sentinel-1 orthoimages from adjacent orbits",
-   "summary": "Abstract. Accurate digital elevation models (DEMs) are essential for orthorectifying satellite imagery, but any deviation between the orthorectification DEM and the true surface elevation at acquisition time produces horizontal offsets in the resulting orthoimages. These offsets are typically an unwanted artefact. Here, we exploit cross-track disparities between overlapping orthoimages from adjacent orbits opportunistically to retrieve elevation changes at the Earth surface. We develop the geometric framework for this orthoimage-disparity approach for both optical pushbroom sensors (Sentinel-2",
-   "url": "https://doi.org/10.5194/egusphere-2026-6066",
-   "date": "2026-11-17",
-   "source": "",
-   "institutions": [
-    "University of Oslo"
-   ],
-   "id": "f1c8b16c0da76412",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-19",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "satellite"
     ]
    }
   },
@@ -5803,27 +6069,6 @@
     ],
     "industry": [
      "port"
-    ]
-   }
-  },
-  {
-   "title": "Myostatin has limited impact on calpain-calpastatin system expression in bovine satellite cell cultures",
-   "summary": "Myostatin (MSTN) is a key negative regulator of skeletal muscle growth, yet its role in bovine satellite cells (BSCs) and its relationship to proteolytic systems relevant for meat quality remain underexplored. In this study, we investigated the impact of MSTN on proliferation, differentiation, and expression of the calpain–calpastatin system in BSC cultures. MSTN knockdown, using siRNA, did not affect cell proliferation but accelerated differentiation, evidenced by increased early myotube formation, although endpoint differentiation capacity remained unchanged. At the molecular level, MSTN sup",
-   "url": "https://doi.org/10.1016/j.foodres.2026.121248",
-   "date": "2026-11-15",
-   "source": "Food Research International",
-   "institutions": [
-    "Aarhus University"
-   ],
-   "id": "8aced2ba1725da75",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-24",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "satellite"
     ]
    }
   },
@@ -6163,6 +6408,28 @@
    }
   },
   {
+   "title": "Automating postmarketing pharmacovigilance with large language model agents",
+   "summary": "Postmarketing pharmacovigilance relies on spontaneous adverse event reporting and labor-intensive observational studies, which suffer from underreporting and delayed risk detection. Large language model (LLM) agents could automate real-world evidence generation, but generalist agents make ad hoc analytical decisions that compromise epidemiological validity and reproducibility. Here we present MedCheckpoint, a multi-agent LLM system for automated postmarketing pharmacovigilance. MedCheckpoint grounds each analytical stage in a curated, source-traceable medical knowledge base, locks core study-d",
+   "url": "https://doi.org/10.64898/2026.11.10.26367711",
+   "date": "2026-11-12",
+   "source": "medrxiv",
+   "id": "22fcd901143097d6",
+   "feed": "medRxiv – health informatics",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-26",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "large language model"
+    ],
+    "industry": [
+     "port",
+     "pharma"
+    ]
+   }
+  },
+  {
    "title": "In-orbit demonstration of object-based change detection applied to the maritime domain",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.14857v1",
@@ -6311,91 +6578,6 @@
    }
   },
   {
-   "title": "Reading long-range information from a separable quantum record requires entangled measurements",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.14295v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "967b65b6f6cd08ab",
-   "feed": "arXiv Quantum hardware",
-   "kind": "research",
-   "domain_hint": "Compute",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "quantum"
-    ],
-    "novelty": [
-     "record"
-    ]
-   }
-  },
-  {
-   "title": "Quantum-walk transport oracles and amplitude estimation of a scalar range statistic in proton therapy",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13475v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "20458c3688395ffa",
-   "feed": "arXiv Quantum hardware",
-   "kind": "research",
-   "domain_hint": "Compute",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "quantum"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "How anion composition governs structural frameworks and Li-ion transport in oxychloride solid-state electrolytes",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13611v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "6d57ed3dc53077c6",
-   "feed": "arXiv Materials (batteries, magnets, catalysts)",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "solid-state"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Additively manufactured ceramic platforms for miniaturized optical frequency references and robust atomic sensor systems",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13800v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "f55eb1a32bbb437c",
-   "feed": "arXiv Applied Physics",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "sensor"
-    ],
-    "industry": [
-     "bus",
-     "manufactur"
-    ]
-   }
-  },
-  {
    "title": "Establishing Standards for Assessment and Reporting of SNSPD Performance",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.14653v1",
@@ -6486,69 +6668,6 @@
     "novelty": [
      "outperform",
      "state-of-the-art"
-    ]
-   }
-  },
-  {
-   "title": "Quantized memory of measurement records near the light cone of quantum circuits",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13175v1",
-   "date": "2026-11-09",
-   "source": "",
-   "id": "fa6707724ba1ef6a",
-   "feed": "arXiv Quantum hardware",
-   "kind": "research",
-   "domain_hint": "Compute",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "quantum"
-    ],
-    "novelty": [
-     "record"
-    ]
-   }
-  },
-  {
-   "title": "Frustration-free control for quantum-state preparation: an exact first-passage theory",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13094v1",
-   "date": "2026-11-09",
-   "source": "",
-   "id": "b39e8f5b96c925c2",
-   "feed": "arXiv Quantum hardware",
-   "kind": "research",
-   "domain_hint": "Compute",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "quantum"
-    ],
-    "novelty": [
-     "first"
-    ]
-   }
-  },
-  {
-   "title": "TASCopilot: A provenance-preserving assistant for triple-axis neutron scattering",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.13374v1",
-   "date": "2026-11-09",
-   "source": "",
-   "id": "99f49174a2773d44",
-   "feed": "arXiv Materials (batteries, magnets, catalysts)",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "event": [
-     "pilot"
-    ],
-    "novelty": [
-     "pilot"
     ]
    }
   },
@@ -6651,49 +6770,6 @@
     ],
     "novelty": [
      "record"
-    ]
-   }
-  },
-  {
-   "title": "Hydrogen Thermodiffusion in Tungsten: Trapped Hydrogen Distorts Heat of Transport Estimation from Total Concentration Profiles",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.11702v1",
-   "date": "2026-11-08",
-   "source": "",
-   "id": "5367eba227f67e4d",
-   "feed": "arXiv Materials (batteries, magnets, catalysts)",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "hydrogen",
-     "fusion"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Demonstration of High fmax (> 80 GHz) in Recessed-Gate and Passivated $\\mathrm{Al_{0.60}Ga_{0.40}N}$ Channel RF HEMTs",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.11037v1",
-   "date": "2026-11-08",
-   "source": "",
-   "id": "1e73188ea1e0cec1",
-   "feed": "arXiv Applied Physics",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-11",
-   "score": 4,
-   "hits": {
-    "event": [
-     "demonstrat"
-    ],
-    "novelty": [
-     "demonstrat"
     ]
    }
   },

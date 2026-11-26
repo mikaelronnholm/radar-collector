@@ -1,5 +1,5 @@
 {
- "run": "2026-11-25T05:17+00:00",
+ "run": "2026-11-26T05:17+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
@@ -22,7 +22,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 27,
+   "new": 17,
    "error": null
   },
   {
@@ -30,7 +30,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 46,
+   "new": 35,
    "error": null
   },
   {
@@ -38,7 +38,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 7,
+   "new": 3,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 49,
+   "new": 33,
    "error": null
   },
   {
@@ -54,7 +54,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 20,
+   "new": 10,
    "error": null
   },
   {
@@ -62,7 +62,7 @@
    "type": "rss",
    "ok": true,
    "items": 50,
-   "new": 11,
+   "new": 9,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 19,
+   "new": 10,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 18,
+   "new": 15,
    "error": null
   },
   {
@@ -86,7 +86,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 12,
+   "new": 4,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 7,
+   "new": 8,
    "error": null
   },
   {
@@ -116,17 +116,17 @@
   {
    "source": "PubMed – surgical robotics and devices",
    "type": "pubmed",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 40,
+   "new": 7,
+   "error": null
   },
   {
    "source": "bioRxiv – bioengineering and synthetic biology",
    "type": "rxiv",
    "ok": true,
-   "items": 6,
-   "new": 6,
+   "items": 1,
+   "new": 1,
    "error": null
   },
   {
@@ -140,17 +140,17 @@
   {
    "source": "ScienceDaily Technology",
    "type": "rss",
-   "ok": false,
-   "items": 0,
-   "new": 0,
-   "error": "junk after document element: line 440, column 46"
+   "ok": true,
+   "items": 60,
+   "new": 12,
+   "error": null
   },
   {
    "source": "Phys.org Technology",
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 16,
+   "new": 30,
    "error": null
   },
   {
@@ -162,8 +162,8 @@
    "error": null
   }
  ],
- "ok": 18,
- "failed": 2,
- "new_items": 390,
- "kept": 284
+ "ok": 20,
+ "failed": 0,
+ "new_items": 346,
+ "kept": 288
 }

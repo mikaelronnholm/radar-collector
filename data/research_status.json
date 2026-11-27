@@ -1,12 +1,12 @@
 {
- "run": "2026-11-26T05:17+00:00",
+ "run": "2026-11-27T05:18+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
    "type": "rss",
    "ok": true,
    "items": 80,
-   "new": 80,
+   "new": 0,
    "error": null
   },
   {
@@ -14,7 +14,7 @@
    "type": "rss",
    "ok": true,
    "items": 80,
-   "new": 69,
+   "new": 0,
    "error": null
   },
   {
@@ -22,7 +22,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 17,
+   "new": 0,
    "error": null
   },
   {
@@ -30,7 +30,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 35,
+   "new": 0,
    "error": null
   },
   {
@@ -38,7 +38,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 3,
+   "new": 0,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 33,
+   "new": 0,
    "error": null
   },
   {
@@ -54,7 +54,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 10,
+   "new": 0,
    "error": null
   },
   {
@@ -62,7 +62,7 @@
    "type": "rss",
    "ok": true,
    "items": 50,
-   "new": 9,
+   "new": 0,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 10,
+   "new": 20,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 15,
+   "new": 19,
    "error": null
   },
   {
@@ -86,7 +86,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 4,
+   "new": 5,
    "error": null
   },
   {
@@ -94,14 +94,14 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 8,
+   "new": 3,
    "error": null
   },
   {
    "source": "OpenAlex Nordic – health technology",
    "type": "openalex",
    "ok": true,
-   "items": 6,
+   "items": 4,
    "new": 0,
    "error": null
   },
@@ -118,15 +118,15 @@
    "type": "pubmed",
    "ok": true,
    "items": 40,
-   "new": 7,
+   "new": 2,
    "error": null
   },
   {
    "source": "bioRxiv – bioengineering and synthetic biology",
    "type": "rxiv",
    "ok": true,
-   "items": 1,
-   "new": 1,
+   "items": 4,
+   "new": 4,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 12,
+   "new": 3,
    "error": null
   },
   {
@@ -150,7 +150,7 @@
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 30,
+   "new": 10,
    "error": null
   },
   {
@@ -164,6 +164,6 @@
  ],
  "ok": 20,
  "failed": 0,
- "new_items": 346,
+ "new_items": 69,
  "kept": 288
 }

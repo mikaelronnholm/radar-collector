@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T05:17+00:00",
+ "generated": "2026-11-27T05:18+00:00",
  "count": 288,
  "items": [
   {
@@ -26,6 +26,69 @@
     ],
     "novelty": [
      "demonstrat"
+    ]
+   }
+  },
+  {
+   "title": "Electrochemical Discharge of End-of-Life Lithium-Ion Batteries in Organic Electrolyte for Safe Recycling",
+   "summary": "The growing demand for electric vehicles is increasing the production and use of lithium-ion batteries (LIBs), leading to a higher volume of end-of-life cells entering recycling plants. Current European Union regulations require high recovery rates of critical raw materials (Ni, Co, Mn, Li), which necessitate safe, scalable battery discharge. Electrochemical discharge, achieved by immersing cells in a conductive electrolyte, is attractive because it is easily scalable and largely independent of cell design. However, early aqueous approaches using sodium chloride resulted in severe battery casi",
+   "url": "https://doi.org/10.1021/acssuschemeng.6c05103",
+   "date": "2026-11-25",
+   "source": "ACS Sustainable Chemistry & Engineering",
+   "institutions": [
+    "Aalto University",
+    "KTH Royal Institute of Technology"
+   ],
+   "id": "cf7b5c7c002bf17b",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-27",
+   "score": 8,
+   "hits": {
+    "event": [
+     "plant"
+    ],
+    "tech": [
+     "lithium",
+     "recycling"
+    ],
+    "industry": [
+     "vehicle"
+    ],
+    "novelty": [
+     "scalable"
+    ]
+   }
+  },
+  {
+   "title": "A real-time trading indicator for profitable trade in Indian indexes using machine learning",
+   "summary": "Introduction Traditional technical indicators such as Moving Averages, RSI, MACD, and Bollinger Bands often lag behind rapidly changing markets such as NIFTY 50 and BANK NIFTY, resulting in delayed entries, premature exits, and false signals. This paper proposes the low-latency machine learning indicator (RTMLI), an adaptive trading framework that integrates multidimensional feature engineering with Random Forest, XGBoost, and LSTM models to generate low-latency Buy, Hold, and Sell signals. Methods The framework incorporates price, trend, momentum, volatility, volume, and price-action features",
+   "url": "https://doi.org/10.3389/fdata.2026.2026243",
+   "date": "2026-11-25",
+   "source": "Frontiers in Big Data",
+   "institutions": [
+    "Linköping University",
+    "Sister Nivedita University"
+   ],
+   "id": "2195183030191eef",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-27",
+   "score": 8,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "machine learning"
+    ],
+    "industry": [
+     "bank"
+    ],
+    "geo": [
+     "india"
     ]
    }
   },
@@ -657,39 +720,6 @@
     ],
     "companies": [
      "Humanoid"
-    ]
-   }
-  },
-  {
-   "title": "An Integrated Framework Combining Graph Neural Networks, Physicochemical Modeling, and Optimization for Fragrance Reproduction",
-   "summary": "Abstract Reproducing olfactory experiences remains a major challenge, with implications for heritage science, sensory analysis, and the fragrance industry. This work presents an integrated perfume-engineering framework that combines chemical engineering principles with computational modeling to reproduce a target scent. The methodology quantifies the olfactory profile of a reference fragrance, predicts the evaporation behavior of its constituent compounds, and combines first-principles thermodynamic modeling with machine learning and optimization to identify molecular substitutes and propose a",
-   "url": "https://doi.org/10.1021/acs.iecr.6c02523",
-   "date": "2026-11-10",
-   "source": "Industrial & Engineering Chemistry Research",
-   "institutions": [
-    "KU Leuven",
-    "Norwegian University of Science and Technology",
-    "Universidade do Porto",
-    "University of Ljubljana"
-   ],
-   "id": "37d37d6d32e88912",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-12",
-   "score": 7,
-   "hits": {
-    "event": [
-     "factory"
-    ],
-    "tech": [
-     "sensor"
-    ],
-    "industry": [
-     "factory"
-    ],
-    "novelty": [
-     "first"
     ]
    }
   },
@@ -2448,79 +2478,6 @@
    }
   },
   {
-   "title": "DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.14092v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "8a9256741ec187b7",
-   "feed": "arXiv Robotics",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-12",
-   "score": 6,
-   "hits": {
-    "event": [
-     "demonstrat"
-    ],
-    "tech": [
-     "robot"
-    ],
-    "novelty": [
-     "demonstrat"
-    ]
-   }
-  },
-  {
-   "title": "RedirectMimic: Local Motion Content Redaction for Humanoid Whole-Body Control",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.14049v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "50b6f73b2d733eda",
-   "feed": "arXiv Robotics",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-12",
-   "score": 6,
-   "hits": {
-    "tech": [
-     "humanoid"
-    ],
-    "companies": [
-     "Humanoid"
-    ]
-   }
-  },
-  {
-   "title": "Towards ML-Based Weather-Dependent Diagnostic Index for Urban Heat Island Intensity in the Arctic Cities",
-   "summary": "The urban heat island (UHI) effect in Arctic cities remains poorly understood, and its dependence on weather conditions has never been systematically analyzed for this region. This study examines the extent to which large-scale meteorology can explain UHI variability and whether a universal, weather-driven index representing such dependencies can be developed. Using data from the UHIARC observational network and ERA5 reanalysis for seven Russian Arctic cities, we evaluated several classical semi-empirical parameterizations (Wind Factor, Weather Factor, Cloud Factor, Diurnal Factor) alongside a",
-   "url": "https://doi.org/10.3390/cli14110245",
-   "date": "2026-11-10",
-   "source": "Climate",
-   "institutions": [
-    "Lomonosov Moscow State University",
-    "Peoples' Friendship University of Russia",
-    "Russian State Hydrometeorological University",
-    "St Petersburg University",
-    "University of Copenhagen"
-   ],
-   "id": "2c212796d4ab258f",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-12",
-   "score": 6,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "tech": [
-     "diagnostic"
-    ]
-   }
-  },
-  {
    "title": "Robot-Assisted Toupet Fundoplication in a Patient With Situs Inversus Totalis: A Case Report",
    "summary": "Situs inversus totalis (SIT) is a rare congenital anomaly with complete mirror-image transposition of the thoracic and abdominal organs, making standardized minimally invasive surgery demanding.To our knowledge, all previously reported antireflux fundoplications in SIT have been laparoscopic.We report a 43year-old woman with SIT, gastroesophageal reflux disease partially responsive to proton pump inhibitors, and a 3cm type I hiatal hernia, who underwent robot-assisted Toupet fundoplication with the da Vinci Xi system in a completely mirror-imaged setup.The subxiphoid Nathanson liver retractor,",
    "url": "https://doi.org/10.7759/cureus.119420",
@@ -2626,34 +2583,6 @@
    }
   },
   {
-   "title": "Real-time autonomous synchronization of building energy models through variable calibration",
-   "summary": "Reliable digital replicas of energy systems require adaptable mechanisms to remain synchronized with real-time operation. Unforeseen changes in operational conditions challenge maintaining the long-term predictive accuracy of models. To address this challenge, this study presents an autonomous real-time synchronization approach for physics-based models of energy systems under operational variability. The proposed approach achieves long-term synchronization by combining a retrieval-first strategy, supported by an evolving library of previously calibrated parameter sets, an event-triggered recal",
-   "url": "https://doi.org/10.1016/j.rineng.2026.113992",
-   "date": "2026-11-06",
-   "source": "Results in Engineering",
-   "institutions": [
-    "Aalto University",
-    "Luleå University of Technology"
-   ],
-   "id": "6dcc98fd99725280",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-12",
-   "score": 6,
-   "hits": {
-    "tech": [
-     "autonomous"
-    ],
-    "industry": [
-     "building"
-    ],
-    "novelty": [
-     "first"
-    ]
-   }
-  },
-  {
    "title": "Plant-adaptive fluorescence hydrogel sensor for non-invasive monitoring of pesticide degradation.",
    "summary": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42950625/",
@@ -2692,6 +2621,27 @@
     ],
     "tech": [
      "artificial intelligence"
+    ]
+   }
+  },
+  {
+   "title": "Robots roam Singapore's urban AI testing ground",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-robots-roam-singapore-urban-ai.html",
+   "date": "2026-11-26",
+   "source": "",
+   "id": "9379ced5f1fc597f",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-27",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "robot"
     ]
    }
   },
@@ -2843,6 +2793,269 @@
    }
   },
   {
+   "title": "The system value of flexible electricity demand in a 100% renewable European energy system",
+   "summary": "Flexible and energy-intensive technologies such as power-to-X, smart electric vehicle charging, and energy storage, including thermal storage, are expected to play a critical role in providing system flexibility in renewable energy systems. However, the role and potential of flexible demands in households and industries remain less certain and have not yet been thoroughly investigated. Based on holistic energy system modelling in EnergyPLAN, this study explores the potential of households, industry and electric vehicles to contribute flexibility and the benefits observed at the system level. I",
+   "url": "https://doi.org/10.54337/ijsepm.11624",
+   "date": "2026-11-25",
+   "source": "International Journal of Sustainable Energy Planning and Management",
+   "institutions": [
+    "Aalborg University"
+   ],
+   "id": "1e075318674e66f9",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-27",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "charging",
+     "energy storage"
+    ],
+    "industry": [
+     "vehicle"
+    ]
+   }
+  },
+  {
+   "title": "Seawater battery – supercapacitor hybrid energy storage system for wave energy applications",
+   "summary": "The exploitation of wave power is challenging due to variability in amplitude, frequency, and direction of ocean waves. Wave Energy Converter (WEC) power is characterized by peaks of instantaneous power significantly higher than average output power. Injecting power with large fluctuations can have an impact on grid voltage and frequency, negatively affecting system stability. Hybrid Energy Storage Systems (HESSs) can be a suitable solution to mitigate such issues and effectively smooth power fluctuations. This study proposes, for the first time, the coupling of a HESS consisting of seawater b",
+   "url": "https://doi.org/10.1016/j.est.2026.125859",
+   "date": "2026-11-25",
+   "source": "Journal of Energy Storage",
+   "institutions": [
+    "Norwegian University of Science and Technology",
+    "SINTEF Energy Research",
+    "University of Perugia",
+    "University of Trento"
+   ],
+   "id": "013fad63f12a94f0",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-27",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "battery",
+     "energy storage"
+    ],
+    "novelty": [
+     "first"
+    ]
+   }
+  },
+  {
+   "title": "Binder effects on the multifunctional performance of structural battery positive electrodes",
+   "summary": "Structural battery materials have potential to fundamentally restructure how energy storage and product design are conceived across industrial sectors for the years to come, offering a route to lightweight design combining electrochemical energy storage and mechanical load bearing capabilities into a single composite material. State-of-the-art structural batteries employ carbon fibres in their electrodes, where the fibres in the positive electrode are covered by a cathode-rich coating. Electrochemical and mechanical performance depend on the durability and damage resistance of the coating and ",
+   "url": "https://doi.org/10.1007/s42114-026-02195-7",
+   "date": "2026-11-25",
+   "source": "Advanced Composites and Hybrid Materials",
+   "institutions": [
+    "Chalmers University of Technology"
+   ],
+   "id": "63c3406b501c5527",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-27",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "battery",
+     "energy storage"
+    ],
+    "novelty": [
+     "state-of-the-art"
+    ]
+   }
+  },
+  {
+   "title": "Trade-off between stray-current losses and pumping power in series-connected industrial alkaline water electrolysers",
+   "summary": "Connecting alkaline electrolyser stacks in series through a shared electrolyte circuit reduces the plant-level DC current and power-conversion cost, but introduces stray currents that bypass the cells. Suppressing these currents requires longer or narrower external connections, which increase the electrolyte pumping demand. Using a cell-resolved equivalent-circuit model with per-substack thermal balances and Darcy–Weisbach pressure-drop modelling, this work maps the trade-off for a 600-cell system over the external port length, port area, manifold length, and partitioning. The total loss falls",
+   "url": "https://doi.org/10.1016/j.jpowsour.2026.242026",
+   "date": "2026-11-25",
+   "source": "Journal of Power Sources",
+   "institutions": [
+    "Lappeenranta-Lahti University of Technology"
+   ],
+   "id": "7fdf4ab3e475c429",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-27",
+   "score": 5,
+   "hits": {
+    "event": [
+     "plant"
+    ],
+    "tech": [
+     "electrolyser"
+    ]
+   }
+  },
+  {
+   "title": "Frequency-selective filtering behaviour of magnetic cerium ferricyanide based electrochemical capacitor",
+   "summary": "Demand for sustainable and high-performance energy storage solutions has driven extensive research into advanced materials for environmentally friendly applications. In this work, hexamine-stabilized ultra-fine potassium cerium (III) ferricyanide (PCFC), a Prussian blue analogue, was synthesized via a redox-based complexation-mediated approach using cerium ammonium nitrate and potassium ferrocyanide as precursors. Structural and compositional analyses demonstrated the formation of a crystalline Ce-N ≡ C-Fe coordination framework with uniformly distributed nanoparticles (2–4 nm) with mixed-vale",
+   "url": "https://doi.org/10.1016/j.est.2026.125923",
+   "date": "2026-11-25",
+   "source": "Journal of Energy Storage",
+   "institutions": [
+    "Amity University",
+    "Nanjing Tech University",
+    "University of Johannesburg",
+    "University of Oulu"
+   ],
+   "id": "d8299b75d3d8544e",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-27",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "energy storage"
+    ],
+    "novelty": [
+     "demonstrat"
+    ]
+   }
+  },
+  {
+   "title": "Digital twins of the ocean as an emerging tool for advancing ocean literacy: opportunities and challenges",
+   "summary": "Digital twins of the ocean (DTOs) have the potential to be an ideal digital tool to enhance ocean literacy due to their interactive capabilities and integration of data from multiple disciplines. However, DTOs are vulnerable to misuse and to be misinterpreted by users, which could hinder users’ ability to act as responsible ocean stewards. In this work, we assess whether DTOs can be useful affective learning (i.e., which involves appealing to feelings, attitudes, values, and motivation rather than increasing knowledge) tools for advancing ocean literacy, considering the possible mismatch betwe",
+   "url": "https://doi.org/10.1016/j.sftr.2026.102298",
+   "date": "2026-11-25",
+   "source": "Sustainable Futures",
+   "institutions": [
+    "Breda University of Applied Sciences",
+    "GEOMAR Helmholtz Centre for Ocean Research Kiel",
+    "Institute of Electrical and Electronics Engineers",
+    "SINTEF Ocean",
+    "Tilburg University"
+   ],
+   "id": "d07306ae7c90a6df",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-27",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "digital twin"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Clinical outcomes of posterior-stabilized versus cruciate-retaining ANTHEM total knee arthroplasty using imageless robotic-assisted personalized alignment: a retrospective comparative cohort study",
+   "summary": "Posterior-stabilized (PS) and cruciate-retaining (CR) total knee arthroplasty (TKA) show no consistent clinical superiority. This study compared 2-year patient-reported outcomes, responder rates, complications, and revisions between PS and CR ANTHEM TKA using imageless robotic-assisted personalized alignment. This retrospective cohort included 858 primary ANTHEM TKAs (167 CR and 691 PS). All procedures used CORI robotic-assisted personalized alignment. Outcomes included the Knee injury and Osteoarthritis Outcome Score for Joint Replacement (KOOS-JR), visual analog scale (VAS) pain, satisfactio",
+   "url": "https://doi.org/10.1007/s11701-026-04219-2",
+   "date": "2026-11-25",
+   "source": "Journal of Robotic Surgery",
+   "institutions": [
+    "Karolinska Institutet",
+    "Mediclinic City Hospital",
+    "Rashid Hospital"
+   ],
+   "id": "2b22f0ebd240e562",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-27",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "robot"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Harnessing Dietary Bioactive Compounds for Hyperglycemia Management: Enzymatic Target Networks, Discovery Strategies and Directions",
+   "summary": "Type 2 diabetes mellitus is a major chronic metabolic disorder worldwide, and durable glycemic control remains challenging despite improved pharmacological treatments. Dietary bioactive compounds (DBCs) have attracted increasing interest because of their potential to regulate key enzymes involved in glucose homeostasis, including α-amylase, α-glucosidase, dipeptidyl peptidase-IV, glucokinase, and fructose-1,6-bisphosphatase. Together, these enzymes regulate carbohydrate digestion, incretin action, glucose sensing, and hepatic glucose production. Understanding their structural features and regu",
+   "url": "https://doi.org/10.1021/acs.jafc.6c11141",
+   "date": "2026-11-25",
+   "source": "Journal of Agricultural and Food Chemistry",
+   "institutions": [
+    "Guangzhou Mechanical Engineering Research Institute (China)",
+    "Rutgers, The State University of New Jersey",
+    "South China University of Technology",
+    "University of Copenhagen"
+   ],
+   "id": "d554f2d59e78bf5a",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-27",
+   "score": 5,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "industry": [
+     "pharma"
+    ]
+   }
+  },
+  {
+   "title": "Severe neonatal morbidity and the risk of long-term neurodevelopmental disorders in children: A 20-year population-based, longitudinal cohort study",
+   "summary": "Background Severe neonatal morbidity (SNM) is an important health indicator for monitoring the quality of obstetrical and perinatal care. Previous studies have shown that SNM is associated with an increased risk of infant and childhood mortality. However, the association between SNM and long-term neurodevelopmental outcomes is understudied. Objectives We aimed to examine the association between SNM and neurological and neurodevelopmental disorders in children. SNM was defined using a standard definition that included ≥1 of the following diagnoses within 27 days of birth: asphyxia, cerebral inf",
+   "url": "https://doi.org/10.1093/pch/pxag119.015",
+   "date": "2026-11-25",
+   "source": "Paediatrics & Child Health",
+   "institutions": [
+    "Hamilton Health Sciences",
+    "Institute for Clinical Evaluative Sciences",
+    "Karolinska Institutet",
+    "McMaster University",
+    "University of British Columbia"
+   ],
+   "id": "bc340be5062b8250",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-27",
+   "score": 5,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
+   "title": "Histamine H 3 receptor expression in trigeminal ganglion and migraine-related regions in rat brain",
+   "summary": "Background Migraine is a complex neurological disorder involving activation of the trigeminovascular system (TVS), in which calcitonin gene-related peptide (CGRP) plays an important role in pain signaling. Histamine has been associated with migraine, however, histamine H 1 and H 2 receptors antagonism has not been effective. Recent evidence of histamine H 3 receptor (H3R) involvement in neurotransmitter regulation has generated interest in its potential role in migraine. The distribution of H3R in migraine-related brain regions and in the trigeminal system have not been thoroughly investigated",
+   "url": "https://doi.org/10.21203/rs.3.rs-11772344/v1",
+   "date": "2026-11-25",
+   "source": "Research Square",
+   "institutions": [
+    "Lund University",
+    "University of Southern Denmark"
+   ],
+   "id": "85d381d0a23b8f4f",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-27",
+   "score": 5,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "industry": [
+     "port"
+    ]
+   }
+  },
+  {
    "title": "From Rule-based to Agentic: LLM Agent based Real-time Control of Urban Drainage Systems for Flooding and Sewer Overflow Mitigation",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.32046v1",
@@ -2989,6 +3202,38 @@
    "hits": {
     "companies": [
      "Ultra"
+    ]
+   }
+  },
+  {
+   "title": "Stress‐Modulated Ionic Transport Limits Composite Cathode Kinetics in Solid‐State Batteries",
+   "summary": "High-energy all-solid-state batteries (ASSBs) require thick composite cathodes, yet these architectures exhibit heterogeneous reaction distributions that limit their performance. Here, we show that chemo-mechanical transport switching governs the spatiotemporal lithiation behavior of such electrodes. By combining operando depth-resolved diffraction with microstructure-resolved and multi-scale simulations, we link utilization gradients to the dominant transport pathway and demonstrate that the reversal of reaction fronts between charge and discharge arises from dynamically evolving transport li",
+   "url": "https://doi.org/10.1002/ange.4734767",
+   "date": "2026-11-24",
+   "source": "Angewandte Chemie",
+   "institutions": [
+    "AIT Austrian Institute of Technology GmbH",
+    "Anstalt für Verbrennungskraftmaschinen List (Austria)",
+    "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+    "Erich Schmid Institute of Materials Science",
+    "Helmholtz-Institute Ulm",
+    "Helmholtz-Zentrum Hereon"
+   ],
+   "id": "252fa4cabc05cccf",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-27",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "solid-state"
+    ],
+    "industry": [
+     "port"
+    ],
+    "novelty": [
+     "demonstrat"
     ]
    }
   },
@@ -3163,34 +3408,6 @@
     ],
     "novelty": [
      "record"
-    ]
-   }
-  },
-  {
-   "title": "Applying digital twins and ontology to robot-assisted decommissioning operations: the Euratom project DORADO",
-   "summary": "The Euratom-funded project DORADO (Digital Twins and Ontology for Robot-Assisted Decommissioning Operations) aims to improve safety, efficiency, and sustainability in nuclear decommissioning through the integration of advanced digital technologies. Building on the foundations established in the earlier PLEIADES project, DORADO is developing a holistic digital platform that combines Building Information Modelling (BIM), digital twins (DTs), robotics, sensor-data fusion, ontology-based knowledge management, and artificial intelligence (AI) within a unified data-driven framework for decommissioni",
-   "url": "https://doi.org/10.3389/fnuen.2026.1920600",
-   "date": "2026-11-20",
-   "source": "Frontiers in Nuclear Engineering",
-   "institutions": [
-    "Institute for Energy Technology",
-    "Karlsruhe Institute of Technology",
-    "Plant Production Research Institute",
-    "VTT Technical Research Centre of Finland"
-   ],
-   "id": "0d75f46902fed368",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-22",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot",
-     "digital twin"
-    ],
-    "novelty": [
-     "efficiency"
     ]
    }
   },
@@ -4059,61 +4276,6 @@
    }
   },
   {
-   "title": "Layer‐by‐Layer Solvent‐Free Additive Manufacturing Enabling Controllable Ultrathick Electrode Coating for Lithium‐Ion Battery",
-   "summary": "ABSTRACT Dry electrode manufacturing is emerging as a transformative strategy for sustainable lithium‐ion battery production, yet achieving ultrathick electrodes with homogeneous microstructures, efficient electron transport, and high electrochemical utilization remains a fundamental challenge. Here, we report a solvent‐free, layer‐by‐layer additive manufacturing strategy that enables architecturally controlled ultrathick cathodes through molecular‐level coupling between reduced graphene oxide (rGO) and binder. During roll‐to‐roll hot pressing, molten binder infiltrates the rGO framework to fo",
-   "url": "https://doi.org/10.1002/advs.78763",
-   "date": "2026-11-15",
-   "source": "Advanced Science",
-   "institutions": [
-    "Chalmers University of Technology",
-    "Excillum (Sweden)",
-    "Karpagam Academy of Higher Education",
-    "Lawrence Berkeley National Laboratory",
-    "Manipal University Jaipur",
-    "University of Rajasthan"
-   ],
-   "id": "d628dd7578728f4f",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-18",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "battery",
-     "lithium",
-     "additive manufacturing"
-    ],
-    "industry": [
-     "manufactur"
-    ]
-   }
-  },
-  {
-   "title": "A Stable and Highly Selective Sodium Solid-State ElectrolyteHigh-Energy Mechanochemical Treatment of Disodium Dodecahydridododecaborate",
-   "summary": "Abstract Fast, stable, and low-cost solid electrolytes are essential for advancing all-solid-state sodium batteries. Here, we present a fast solid-state sodium ion conductor, which reaches an ionic conductivity of σ(Na+) = 2.8 × 10−3 S cm−1 at 60 °C with an activation energy of Ea = 0.393 eV, made by high-energy mechanochemical treatment of disodium dodecahydrido-closo-dodecaborate, Na2B12H12. The milling process facilitates a transition to the high-temperature dynamically disordered β-polymorph while also providing high stability toward thermal cycling in the range RT to 300 °C. The ionic and",
-   "url": "https://doi.org/10.1021/acs.chemmater.6c02020",
-   "date": "2026-11-14",
-   "source": "Chemistry of Materials",
-   "institutions": [
-    "Aarhus University"
-   ],
-   "id": "ff965a2e0b9f25a2",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-16",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "solid-state"
-    ],
-    "novelty": [
-     "low-cost"
-    ]
-   }
-  },
-  {
    "title": "When AI Agents Should Repair, Replan, or Abandon: A Threshold Theory of Plan Commitment",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.19663v1",
@@ -4161,36 +4323,6 @@
     ],
     "novelty": [
      "efficiency"
-    ]
-   }
-  },
-  {
-   "title": "Automated disassembly of electric vehicle battery packs: A category-based review of methods, robotics, and intelligent control",
-   "summary": "As large volumes of electric vehicles approach end-of-life, efficient and scalable recycling of lithium-ion battery packs is becoming a critical challenge. Due to the high variability in battery pack designs and safety requirements, current battery recycling facilities in Europe largely rely on manual disassembly processes. At scale, these approaches would be labour-intensive and expose workers to significant safety risks, motivating the development of automated disassembly solutions. This review provides a category-based analysis of 49 papers on automated electric vehicle battery disassembly ",
-   "url": "https://doi.org/10.1016/j.jmsy.2026.11.001",
-   "date": "2026-11-13",
-   "source": "Journal of Manufacturing Systems",
-   "institutions": [
-    "University of Agder"
-   ],
-   "id": "b1573a6bf4d2771c",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-15",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "robot",
-     "battery",
-     "lithium",
-     "recycling"
-    ],
-    "industry": [
-     "vehicle"
-    ],
-    "novelty": [
-     "scalable"
     ]
    }
   },
@@ -4286,27 +4418,26 @@
    }
   },
   {
-   "title": "Geopolymers as Hydrogen Storage Media",
-   "summary": "Materials‐based hydrogen storage has gained attention due to the limitations of storing hydrogen as a gas or liquid. In this study, geopolymers were explored as a hydrogen storage medium for the first time by systematically varying their Si:Al:Na/K ratios and gradually introducing Ca. The hydrogen adsorption performance was evaluated at −20, +25, or +40 °C and hydrogen pressures up to 100 bar. The Ca‐free compositions exhibited better performance in comparison to the Ca‐containing ones. Furthermore, the Na‐based geopolymers could adsorb more hydrogen than the K‐based geopolymers. For the Ca‐fr",
-   "url": "https://doi.org/10.1002/cphc.70633",
+   "title": "Machine learning assisted multi-level differentiation of blood cells using multi-frequency electro-mechanical impedance cytometry",
+   "summary": "We report a multi-frequency microfluidic impedance cytometer with multimodal measurement of electrical and mechanical cell properties. Using the large feature set from the multimodality, we implemented machine learning assisted differentiation of cells. We have demonstrated a constriction-equipped channel to study the mechanical cell properties, and integrated multiple microelectrodes that capture electric field information pertaining to various stages of cell transit. Our system works over a wide frequency range from 800 kHz to 8 MHz. We developed a machine learning workflow to classify cells",
+   "url": "https://doi.org/10.64898/2026.11.12.766153",
    "date": "2026-11-13",
-   "source": "ChemPhysChem",
-   "institutions": [
-    "Oulu University of Applied Sciences",
-    "University of Oulu"
-   ],
-   "id": "913a781df6d45d15",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "source": "biorxiv",
+   "id": "4c3a603343f2270c",
+   "feed": "bioRxiv – bioengineering and synthetic biology",
    "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-16",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-27",
    "score": 5,
    "hits": {
     "tech": [
-     "hydrogen"
+     "machine learning"
+    ],
+    "industry": [
+     "port"
     ],
     "novelty": [
-     "first"
+     "demonstrat"
     ]
    }
   },
@@ -4469,35 +4600,6 @@
    }
   },
   {
-   "title": "Enhanced strength-ductility and hydrogen-embrittlement resistance in deep-cryogenic-treated additively manufactured CoCrFeMnNi",
-   "summary": "",
-   "url": "https://doi.org/10.1016/j.ijplas.2026.104884",
-   "date": "2026-11-11",
-   "source": "International Journal of Plasticity",
-   "institutions": [
-    "Advanced Institute for Materials Research, Tohoku University",
-    "KTH Royal Institute of Technology",
-    "Kyoto University",
-    "Nanjing Tech University",
-    "Pohang University of Science and Technology",
-    "Shanghai Jiao Tong University"
-   ],
-   "id": "9c441cfa0d46f63b",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-18",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "hydrogen"
-    ],
-    "industry": [
-     "manufactur"
-    ]
-   }
-  },
-  {
    "title": "Functional Performance of Electrospun Tissue-Engineered Heart Valve Scaffolds Across Geometries Under Aortic Conditions",
    "summary": "Electrospun, bioresorbable polymer scaffolds are a promising platform for tissue-engineered heart valves (TEHVs) owing to their fibrous microstructure, tunable mechanics and capacity to support host-cell infiltration and remodeling. Recent in-vitro parametric studies of bioprosthetic heart valve (BHV) geometry have used silicone cast valves to link design parameters to hemodynamic performance and leaflet strain, but the functional behavior of electrospun whole-valve TEHV scaffolds across distinct leaflet geometries and clinically relevant aortic conditions remains poorly characterized. Here, w",
    "url": "https://doi.org/10.64898/2026.10.13.758926",
@@ -4515,110 +4617,6 @@
     ],
     "companies": [
      "Valve"
-    ]
-   }
-  },
-  {
-   "title": "Northern palsa and peat ecosystem microbiomes are potentially supported by hydrogen and carbon monoxide metabolism",
-   "summary": "Northern peatland and permafrost ecosystems are facing rapid changes, with increasing temperatures, permafrost thaw and shifts in hydrology. Characterizing microbial communities and metabolic potential from the soils and associated water bodies is crucial to understanding the changes in biogeochemical cycling in these ecosystems. For this, samples were collected and sequenced from subarctic palsa and peat soils, along with samples from associated thaw ponds and streams. Metagenomics was utilized in describing the microbiome and its metabolic potential in these environments. Palsa soils hosted ",
-   "url": "https://doi.org/10.64898/2026.11.09.765253",
-   "date": "2026-11-10",
-   "source": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "institutions": [
-    "Finnish Environment Institute",
-    "Natural Resources Institute Finland",
-    "University of Helsinki"
-   ],
-   "id": "3698706699f0c0f9",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-12",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "hydrogen"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Physics-Based Modeling and Validation of a Commercial Graphite-Lithium Manganese Iron Phosphate Cylindrical Cell Based on Teardown Derived Parameters",
-   "summary": "Abstract Lithium manganese iron phosphate (LMFP) is an attractive cathode candidate for lithium-ion batteries in electric vehicles, but physics-based simulations demand cell-specific parameter sets, which are still largely unavailable for commercial LMFP cells. In this study, we disassemble a commercial cylindrical graphite–LMFP cell and establish a self-consistent parameter set for Doyle–Fuller–Newman (DFN) modeling. We determine cell geometry, composition, stoichiometry, and electrochemical properties using X-ray computed tomography, pseudo-open-circuit voltage measurements, the galvanostati",
-   "url": "https://doi.org/10.1149/1945-7111/aec04a",
-   "date": "2026-11-10",
-   "source": "Journal of The Electrochemical Society",
-   "institutions": [
-    "Uppsala University",
-    "Volvo (Sweden)"
-   ],
-   "id": "fa9c100f746e4b9a",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-12",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "lithium",
-     "graphite"
-    ],
-    "industry": [
-     "vehicle"
-    ]
-   }
-  },
-  {
-   "title": "A System Dynamics–Optimization Framework for Sustainable Municipal Solid Waste Management: Integrating Behavioral Feedbacks, Technology Selection, and Circular Economy Pathway",
-   "summary": "Abstract Rapid urbanization and rising waste generation have intensified the environmental and economic challenges of municipal solid waste (MSW) management, particularly in systems that rely on landfills. This study develops a hybrid system dynamic–optimization framework to identify sustainable long-term MSW management pathways by integrating technological, economic, environmental, and behavioral feedback mechanisms. The framework couples a system dynamics model with a β-Hill Climbing optimization algorithm to evaluate waste treatment strategies, including recycling, composting, anaerobic dig",
-   "url": "https://doi.org/10.21203/rs.3.rs-11484448/v1",
-   "date": "2026-11-10",
-   "source": "Research Square",
-   "institutions": [
-    "KTH Royal Institute of Technology",
-    "King Fahd University of Petroleum and Minerals",
-    "Shahid Chamran University of Ahvaz",
-    "University of Sheffield",
-    "University of Tehran"
-   ],
-   "id": "023399db962b7ddf",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-12",
-   "score": 5,
-   "hits": {
-    "event": [
-     "ban"
-    ],
-    "industry": [
-     "municipal"
-    ]
-   }
-  },
-  {
-   "title": "Business model and sustainability perspectives framework for ICT – illustrated by joint communications and sensing in 6G",
-   "summary": "Purpose Business models and sustainability perspectives help us understand new information and communication technology (ICT) solutions. This paper proposes a framework for studying business models and sustainability in ICTs, with a focus on sixth-generation (6G) mobile communications. Design/methodology/approach The framework combines business model antecedents – opportunity, value, and advantage – with environmental, social, and economic pillars of sustainability. Findings The paper offers a holistic approach to studying business models and sustainability in ICTs. Originality/value It highli",
-   "url": "https://doi.org/10.1108/jobm-09-2026-0036",
-   "date": "2026-11-10",
-   "source": "Journal of Business Models",
-   "institutions": [
-    "University of Oulu"
-   ],
-   "id": "7321f57e930922cc",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-12",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "6g"
-    ],
-    "industry": [
-     "bus"
     ]
    }
   },
@@ -5106,27 +5104,6 @@
     ],
     "novelty": [
      "breakthrough"
-    ]
-   }
-  },
-  {
-   "title": "EU plans 50-billion-euro investment in AI, quantum computing",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-eu-billion-euro-investment-ai.html",
-   "date": "2026-11-25",
-   "source": "",
-   "id": "23439e8e0beac5a0",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-26",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "quantum"
-    ],
-    "geo": [
-     "eu "
     ]
    }
   },
@@ -5753,6 +5730,59 @@
    }
   },
   {
+   "title": "Reverse water–gas shift CO2 conversion and pressure-swing hydrogen recovery from multi-feedstock gasifier effluent: Methanol co-production and a symbolic-regression correlation",
+   "summary": "Municipal solid waste, food waste, textile waste and cotton stalk are conventionally landfilled or incinerated in ways that destroy their carbon value, and even where the gasifier effluent is cleaned with a CaO sorbent, the captured CO 2 is immobilized as solid CaCO 3 rather than converted to a product. This work develops a single Aspen Plus flowsheet in which the effluent from each of these four feedstocks is conditioned by reverse water–gas shift (RWGS) instead of sorbent capture, converting CO 2 to CO for Fischer-Tropsch feed while recovering high-purity H 2 as a co-product by pressure swin",
+   "url": "https://doi.org/10.1016/j.ecmx.2026.102476",
+   "date": "2026-11-20",
+   "source": "Energy Conversion and Management X",
+   "institutions": [
+    "Karlstad University",
+    "NED University of Engineering and Technology",
+    "Universiti Teknologi Petronas",
+    "University of Karachi"
+   ],
+   "id": "d362fcad4c0efc4d",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-27",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "hydrogen"
+    ],
+    "industry": [
+     "municipal"
+    ]
+   }
+  },
+  {
+   "title": "From 6G Capabilities to Software-Business Value: A Multivocal Review of Characteristics, Opportunities, Challenges",
+   "summary": "Sixth-generation (6G) technology is expected to enable intelligent, autonomous, and software-defined ecosystems, creating new ways for software firms to generate value. However, evidence on the characteristics, opportunities, and challenges of 6G software businesses remains fragmented across academic and practitioner literature. We conducted a multivocal literature review of 133 sources (102 peer-reviewed studies and 31 grey literature sources) to examine this emerging landscape from the perspective of software-producing organizations. Thematic analysis identified 18 characteristics grouped in",
+   "url": "https://arxiv.org/abs/2611.27675",
+   "date": "2026-11-20",
+   "source": "arXiv",
+   "institutions": [
+    "Lappeenranta-Lahti University of Technology"
+   ],
+   "id": "a350ade332507b0a",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-27",
+   "score": 4,
+   "hits": {
+    "tech": [
+     "autonomous",
+     "6g"
+    ],
+    "industry": [
+     "bus",
+     "port"
+    ]
+   }
+  },
+  {
    "title": "MS-TF-SD2: Multi-Scale Time-frequency Spectral Derivative Spike Detection for the early onset prediction of mood episodes in bipolar disorder in a remote longitudinal study using wearables",
    "summary": "Bipolar disorder is characterized by recurrent depressive and (hypo)manic episodes that cause substantial disability, hospitalization, and elevated suicide risk yet early prodromal signals are frequently subtle and missed in standard clinical care. Our aim was to develop an algorithm that jointly handles non-stationarity, irregular sampling, and transient anomaly detection in wearable data, unveiling patterns of prodromal early warning signs that often manifest as subtle disruptions of activity, sleep, and mood preceding severe mood episodes. We developed and validated the Multi-Scale Time-Fre",
    "url": "https://doi.org/10.1016/j.bspc.2026.111870",
@@ -5855,28 +5885,6 @@
    }
   },
   {
-   "title": "Estimation of wet radome and rain induced attenuation in cloud radar observations",
-   "summary": "Estimation of the properties of ice clouds above rain from ground-based cloud radar observations is affected by the wet radome, rain path, and melting layer attenuation. In this study, we present a method for estimating wet radome and rain attenuation using collocated disdrometer observations. To ensure that cloud radar retrievals can be performed at a relatively high temporal resolution, on the order of a minute, attenuation estimates are computed at the same temporal resolution. However, the small sampling volumes of disdrometers introduce significant uncertainty in these estimates. To addre",
-   "url": "https://doi.org/10.5194/amt-19-7509-2026",
-   "date": "2026-11-18",
-   "source": "Atmospheric measurement techniques",
-   "institutions": [
-    "Finnish Meteorological Institute",
-    "University of Helsinki"
-   ],
-   "id": "61df552c622efd49",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-20",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "radar"
-    ]
-   }
-  },
-  {
    "title": "Towards sustainable and circular power semiconductor switches: Methodologies, challenges, and potential solutions",
    "summary": "",
    "url": "https://doi.org/10.1016/j.rser.2026.117696",
@@ -5938,32 +5946,6 @@
     ],
     "industry": [
      "bus"
-    ]
-   }
-  },
-  {
-   "title": "The stippled grid points are statistically significant: (mis)uses of false discovery rate correction for geospatial data",
-   "summary": "Peer-reviewed articles in the geosciences routinely assess statistical significance in spatially distributed data. Statistical significance is often assessed independently at each grid point, while formal adjustment for multiple testing is applied less consistently. Although several approaches to account for multiple testing exist, their application to geosciences data is not always straightforward, as these data often exhibit spatially coherent signals. In this work we revisit the Benjamini-Hochberg (BH) false discovery rate (FDR) correction, which is a commonly used method to account for mul",
-   "url": "https://doi.org/10.5194/gmd-19-10917-2026",
-   "date": "2026-11-17",
-   "source": "Geoscientific model development",
-   "institutions": [
-    "CEA Paris-Saclay - Etablissement de Saclay",
-    "Centre National de la Recherche Scientifique",
-    "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
-    "Laboratoire des Sciences du Climat et de l'Environnement",
-    "Stockholm University",
-    "Université Paris-Saclay"
-   ],
-   "id": "87c4d4e0974a74c6",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-19",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "grid"
     ]
    }
   },
@@ -6220,6 +6202,27 @@
     "industry": [
      "vehicle",
      "port"
+    ]
+   }
+  },
+  {
+   "title": "Reliable prediction of short linear motifs in the human proteome",
+   "summary": "Short linear motifs (SLiMs) are small interaction modules within intrinsically disordered regions of proteins that interact with specific domains, and thereby regulate diverse biological processes. The limited information in SLiM definitions leads to frequent false positive hits in computational and experimental SLiM identification methods. Here, we refined the annotations of known motif classes to create a high-quality training dataset, and developed SLiMMine, a deep learning-based method to identify SLiMs in the human proteome. Relying on protein embeddings, SLiMMine outperforms similar appr",
+   "url": "https://doi.org/10.64898/2026.03.04.709504",
+   "date": "2026-11-13",
+   "source": "biorxiv",
+   "id": "2b1a68d7bf55fb08",
+   "feed": "bioRxiv – bioengineering and synthetic biology",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-27",
+   "score": 4,
+   "hits": {
+    "event": [
+     "order"
+    ],
+    "novelty": [
+     "outperform"
     ]
    }
   },

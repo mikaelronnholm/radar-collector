@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-27T05:18+00:00",
- "count": 288,
+ "generated": "2026-11-28T05:07+00:00",
+ "count": 287,
  "items": [
   {
    "title": "EgoLoAF: Learning Humanoid Loco-Manipulation from Egocentric Demonstrations with Hand-Object Affordances",
@@ -313,6 +313,35 @@
     ],
     "novelty": [
      "demonstrat"
+    ]
+   }
+  },
+  {
+   "title": "AeroPoint: Agentic AI for Intent-Driven Point Cloud Inspection in UAV-Edge Systems",
+   "summary": "Unmanned Aerial Vehicle (UAV)-based Light Detection and Ranging (LiDAR) inspection generates dense point clouds that strain onboard computing and wireless bandwidth. Intent-based inspection allows operators to request objects, attributes, and spatial relationships through natural language. Answering these requests requires trans- lating intent into spatial queries and retrieving relevant evidence under UAV processing and communication constraints. This article presents AeroPoint, an agentic AI system combining onboard point cloud processing and knowledge graph construction with Large Language ",
+   "url": "https://arxiv.org/abs/2611.31671",
+   "date": "2026-11-23",
+   "source": "arXiv",
+   "institutions": [
+    "SINTEF"
+   ],
+   "id": "25bfd97a645f91d9",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-28",
+   "score": 7,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "agentic",
+     "lidar",
+     "uav"
+    ],
+    "industry": [
+     "vehicle"
     ]
    }
   },
@@ -724,6 +753,27 @@
    }
   },
   {
+   "title": "Sony's dog robot can't do chores but offers companionship",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-sony-dog-robot-chores-companionship.html",
+   "date": "2026-11-27",
+   "source": "",
+   "id": "de13fa8362564a46",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-28",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "robot"
+    ],
+    "companies": [
+     "Sony"
+    ]
+   }
+  },
+  {
    "title": "FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.34884v1",
@@ -828,6 +878,38 @@
     ],
     "companies": [
      "Systematic"
+    ]
+   }
+  },
+  {
+   "title": "Direct-inject liquid-chromatography enables an autonomous continuous preferential crystallization platform",
+   "summary": "Access to both enantiomers of chiral building blocks remains a fundamental challenge in chemical synthesis, particularly for scalable applications in pharmaceuticals, agrochemicals, and materials development. Continuous preferential crystallization (CPC) offers a promising route to obtain enantiomerically enriched compounds from racemic mixtures without the use of chiral auxiliaries. However, its widespread adoption is hindered by the need for precise supersaturation control mediated by real-time process analytical technologies capable of monitoring enantiomeric ratio. Here, we report the deve",
+   "url": "https://doi.org/10.1039/d6sc05647d",
+   "date": "2026-11-25",
+   "source": "Chemical Science",
+   "institutions": [
+    "Acceleration Consortium",
+    "University of Bergen",
+    "University of British Columbia",
+    "University of Toronto",
+    "Université de Rouen Normandie"
+   ],
+   "id": "bd5b41f7f5a3bfbe",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-28",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "autonomous"
+    ],
+    "industry": [
+     "building",
+     "pharma"
+    ],
+    "novelty": [
+     "scalable"
     ]
    }
   },
@@ -2185,6 +2267,28 @@
    }
   },
   {
+   "title": "Systematic Benchmarking and Optimization of Retrieval-Augmented Generation (RAG) for Clinical Phenotyping: A Type II Diabetes Case Study in an ICD-Screened Cohort",
+   "summary": "Traditional EHR phenotyping methods can require substantial disease-specific development and long-term maintenance. While integrating large language models (LLMs) with Retrieval-Augmented Generation (RAG) is promising, the impact of RAG configurations remains underexplored. We systematically evaluated these design choices for type 2 diabetes mellitus (T2DM) phenotyping in an ICD-screened cohort. Using GPT-4o, we processed 170,678 clinical notes from 275 patients. We evaluated seven embedding models and three prompt strategies (baseline, improved zero-shot, and few-shot). Using the improved zer",
+   "url": "https://doi.org/10.1101/2025.04.29.25326696",
+   "date": "2026-11-14",
+   "source": "medrxiv",
+   "id": "b53a4f6d0fb335f0",
+   "feed": "medRxiv – health informatics",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-28",
+   "score": 6,
+   "hits": {
+    "tech": [
+     "large language model",
+     "llm"
+    ],
+    "companies": [
+     "Systematic"
+    ]
+   }
+  },
+  {
    "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
    "summary": "",
    "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
@@ -2418,37 +2522,6 @@
    }
   },
   {
-   "title": "Co-RoboPV: cooperative aerial robot system for photovoltaic power plant inspection based on reinforcement learning",
-   "summary": "Abstract Efficient inspection of large-scale photovoltaic (PV) plants can be significantly improved by employing a multi-aerial robot system. This article aims to develop an algorithm tailored to such a system for coverage path planning. Our approach involves determining the optimal number and types of aerial robots, designing a detailed flight plan, preparing the robots and their equipment, and analyzing the data collected from inspections. Autonomous operation is critical for enhancing efficiency and accuracy by eliminating direct human control of aerial robot flight. To this end, we utilize",
-   "url": "https://doi.org/10.1038/s41598-026-76194-5",
-   "date": "2026-11-11",
-   "source": "Scientific Reports",
-   "institutions": [
-    "Amirkabir University of Technology",
-    "Concordia University",
-    "Norwegian University of Science and Technology",
-    "University of Freiburg",
-    "University of Isfahan"
-   ],
-   "id": "4358d9b6488015b4",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-13",
-   "score": 6,
-   "hits": {
-    "event": [
-     "plant"
-    ],
-    "tech": [
-     "robot"
-    ],
-    "novelty": [
-     "efficiency"
-    ]
-   }
-  },
-  {
    "title": "Common-path evaluation of electric boiler and thermal storage dispatch in Finnish district heating under electricity-price uncertainty",
    "summary": "The value of uncertainty-aware district-heating dispatch depends on when prices become known and how long heat remains in storage. This study develops a price-taking mixed-integer linear model for a Finnish system with biomass CHP, a 50 MW th electric boiler (EB), a natural-gas peak boiler, and thermal energy storage (TES). Daily 72 h problems implement the cleared first 24 h and propagate each policy's realised TES state. Deterministic, stochastic, and budgeted robust policies are compared on one 2023 hourly path and on 800 held-out price trajectories; their economic differences are assessed ",
    "url": "https://doi.org/10.1016/j.apenergy.2026.129282",
@@ -2474,34 +2547,6 @@
     ],
     "novelty": [
      "first"
-    ]
-   }
-  },
-  {
-   "title": "Robot-Assisted Toupet Fundoplication in a Patient With Situs Inversus Totalis: A Case Report",
-   "summary": "Situs inversus totalis (SIT) is a rare congenital anomaly with complete mirror-image transposition of the thoracic and abdominal organs, making standardized minimally invasive surgery demanding.To our knowledge, all previously reported antireflux fundoplications in SIT have been laparoscopic.We report a 43year-old woman with SIT, gastroesophageal reflux disease partially responsive to proton pump inhibitors, and a 3cm type I hiatal hernia, who underwent robot-assisted Toupet fundoplication with the da Vinci Xi system in a completely mirror-imaged setup.The subxiphoid Nathanson liver retractor,",
-   "url": "https://doi.org/10.7759/cureus.119420",
-   "date": "2026-11-10",
-   "source": "Cureus",
-   "institutions": [
-    "Kolding Hospital",
-    "Odense University Hospital"
-   ],
-   "id": "9915ec8ffdf88984",
-   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
-   "kind": "research",
-   "domain_hint": "AI",
-   "collected": "2026-11-13",
-   "score": 6,
-   "hits": {
-    "event": [
-     "standard"
-    ],
-    "tech": [
-     "robot"
-    ],
-    "industry": [
-     "port"
     ]
    }
   },
@@ -2583,27 +2628,6 @@
    }
   },
   {
-   "title": "Plant-adaptive fluorescence hydrogel sensor for non-invasive monitoring of pesticide degradation.",
-   "summary": "",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42950625/",
-   "date": "2027-02-01",
-   "source": "Biosensors & bioelectronics",
-   "id": "2cec523ccb3be430",
-   "feed": "PubMed – surgical robotics and devices",
-   "kind": "research",
-   "domain_hint": "Life Sciences & Medtech",
-   "collected": "2026-11-13",
-   "score": 5,
-   "hits": {
-    "event": [
-     "plant"
-    ],
-    "tech": [
-     "sensor"
-    ]
-   }
-  },
-  {
    "title": "Barriers to Clinical Integration of Artificial Intelligence in Computer-Assisted Dental Implant Surgery: A Critical Review.",
    "summary": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42855343/",
@@ -2625,6 +2649,52 @@
    }
   },
   {
+   "title": "Building critical hardware for Canada's first quantum satellite mission",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-critical-hardware-canada-quantum-satellite.html",
+   "date": "2026-11-27",
+   "source": "",
+   "id": "05a21c2bf6475295",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-28",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "quantum",
+     "satellite"
+    ],
+    "industry": [
+     "building"
+    ],
+    "novelty": [
+     "first"
+    ]
+   }
+  },
+  {
+   "title": "From lab to blueberry field: Blueberry-picking robot uses soft silicone bands to selectively harvest ripe fruit",
+   "summary": "",
+   "url": "https://techxplore.com/news/2026-11-lab-blueberry-field-robot-soft.html",
+   "date": "2026-11-27",
+   "source": "",
+   "id": "c67a1c895a033782",
+   "feed": "Phys.org Technology",
+   "kind": "research",
+   "domain_hint": "",
+   "collected": "2026-11-28",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "robot"
+    ]
+   }
+  },
+  {
    "title": "Robots roam Singapore's urban AI testing ground",
    "summary": "",
    "url": "https://techxplore.com/news/2026-11-robots-roam-singapore-urban-ai.html",
@@ -2642,6 +2712,59 @@
     ],
     "tech": [
      "robot"
+    ]
+   }
+  },
+  {
+   "title": "Sustainability assessment of heavy-duty trucks, part I: a multi-criteria assessment method for comparing alternative technologies",
+   "summary": "Transitioning heavy-duty road freight towards more sustainable solutions is a complex challenge, with multiple competing technologies—ranging from renewable fuels to battery-electric and hydrogen systems—each offering distinct advantages and drawbacks. Existing sustainability assessments often focus narrowly on climate impacts or single technologies, limiting their usefulness for fair and comprehensive comparisons. This study develops a multi-criteria assessment (MCA) method for broad sustainability evaluation of heavy-duty truck technologies, including a soft, indicator-based framework develo",
+   "url": "https://doi.org/10.3389/ffutr.2026.1851772",
+   "date": "2026-11-26",
+   "source": "Frontiers in Future Transportation",
+   "institutions": [
+    "Linköping University"
+   ],
+   "id": "eb605bc66a8a635b",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-28",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "battery",
+     "hydrogen"
+    ],
+    "industry": [
+     "truck",
+     "freight"
+    ]
+   }
+  },
+  {
+   "title": "Effect of annealing and UNSM surface treatment on the hydrogen embrittlement resistance of LPBF-manufactured 316L stainless steel",
+   "summary": "",
+   "url": "https://doi.org/10.1007/s11003-026-01090-2",
+   "date": "2026-11-26",
+   "source": "Materials Science",
+   "institutions": [
+    "G.V. Karpenko Physical-Mechanical Institute",
+    "Institute of Materials Research of the Slovak Academy of Sciences",
+    "Pryazovskyi State Technical University",
+    "Tampere University"
+   ],
+   "id": "cb5cdaf1fd12ddb1",
+   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
+   "kind": "research",
+   "domain_hint": "Energy",
+   "collected": "2026-11-28",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "hydrogen"
+    ],
+    "industry": [
+     "manufactur"
     ]
    }
   },
@@ -3052,6 +3175,63 @@
     ],
     "industry": [
      "port"
+    ]
+   }
+  },
+  {
+   "title": "Assessing the relation between broiler meat quality and husbandry conditions using a machine learning approach",
+   "summary": ". genetics, diet, environmental enrichment and stocking density) from intrinsic meat quality using machine learning.2. The SHapley Additive exPlanations (SHAP) was used to explain the reasoning of the applied black‑box machine-learning models. The machine learning models were trained to classify the level of extensiveness of the condition from the sensory attributes and physicochemical properties of the meat.3. Machine learning revealed the strongest links for husbandry condition 'genetics' (fast-growing, male-layer, dual-purpose, slower-growing) and for animal welfare (high, low) with the phy",
+   "url": "https://doi.org/10.1080/00071668.2026.2759289",
+   "date": "2026-11-25",
+   "source": "British Poultry Science",
+   "institutions": [
+    "Danish Technological Institute",
+    "Ludwig-Maximilians-Universität München",
+    "Polish Academy of Sciences",
+    "Poznań University of Life Sciences",
+    "University of Rostock",
+    "Wageningen University & Research"
+   ],
+   "id": "1b8bc230bf0707a8",
+   "feed": "OpenAlex Nordic – AI, robotics, autonomy",
+   "kind": "research",
+   "domain_hint": "AI",
+   "collected": "2026-11-28",
+   "score": 5,
+   "hits": {
+    "event": [
+     "ban"
+    ],
+    "tech": [
+     "machine learning"
+    ]
+   }
+  },
+  {
+   "title": "Exploratory Quantitative Analysis of Solid Solution Rare Earths in Steel: A Novel GDMS Model",
+   "summary": "",
+   "url": "https://doi.org/10.1007/s11663-026-04333-4",
+   "date": "2026-11-25",
+   "source": "Metallurgical and Materials Transactions B",
+   "institutions": [
+    "Chinese Academy of Sciences",
+    "Institute of Metal Research",
+    "South China University of Technology",
+    "University of Science and Technology of China",
+    "VTT Technical Research Centre of Finland"
+   ],
+   "id": "61816d15d4298e77",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-28",
+   "score": 5,
+   "hits": {
+    "tech": [
+     "rare earth"
+    ],
+    "novelty": [
+     "novel"
     ]
    }
   },
@@ -3617,48 +3797,6 @@
    }
   },
   {
-   "title": "Brain researchers afflict LLMs with 'injuries' similar to those of stroke victims to unpack AI language mechanisms",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-brain-afflict-llms-injuries-similar.html",
-   "date": "2026-11-19",
-   "source": "",
-   "id": "1d90137558967ebd",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-20",
-   "score": 5,
-   "hits": {
-    "event": [
-     "researchers"
-    ],
-    "tech": [
-     "llm"
-    ]
-   }
-  },
-  {
-   "title": "Anthropic to begin trading after record-breaking market debut tops SpaceX record",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-anthropic-debut-tops-spacex.html",
-   "date": "2026-11-19",
-   "source": "",
-   "id": "ef90c3ca8716fdc0",
-   "feed": "Phys.org Technology",
-   "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-20",
-   "score": 5,
-   "hits": {
-    "companies": [
-     "Anthropic"
-    ],
-    "novelty": [
-     "record"
-    ]
-   }
-  },
-  {
    "title": "Assessment of Polymer-Based Materials Along the Hydrogen Transport Infrastructure",
    "summary": "Safe and efficient hydrogen transport and storage are key enablers for large-scale hydrogen energy systems and require polymer materials capable of reliable performance under extreme service conditions. This review analyses several polymer classes, including thermoplastics, thermosets, elastomers, and polymer-matrix composites, used in pipelines, storage vessels, and sealing systems within the hydrogen value chain. Multiple properties of these materials are examined to provide an overview of their interrelated behaviour. Hydrogen permeation is described in terms of sorption and diffusion gover",
    "url": "https://doi.org/10.1016/j.ijhydene.2026.158681",
@@ -3993,67 +4131,6 @@
    }
   },
   {
-   "title": "AMiT: A Battery State-of-Health Prediction Method Integrating Physical Features and Optimization Algorithms",
-   "summary": "Lithium-ion batteries are widely used in energy storage and electrified transportation. Accurate state-of-health (SOH) prediction is essential for safe and reliable operation, yet variations in degradation trajectories and local capacity fluctuations complicate prediction from partial charging data. This study proposes AMiT, a multi-scale capacity prediction framework integrating physical-feature extraction, multi-scale decomposable mixing (MDM), an iTransformer backbone, and artificial lemming algorithm (ALA) hyperparameter optimization. Health indicators are extracted from local constant-cur",
-   "url": "https://doi.org/10.3390/en19225561",
-   "date": "2026-11-17",
-   "source": "Energies",
-   "institutions": [
-    "Aalborg University",
-    "Shanghai University of Electric Power",
-    "Shanghai University of Engineering Science",
-    "Wind Power Engineering (Japan)"
-   ],
-   "id": "3dc410719a8652b6",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-19",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "battery",
-     "energy storage",
-     "lithium"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Energetic niches of syntrophic methanogens recorded by clumped isotopes",
-   "summary": "Methane is a potent greenhouse gas, an important energy source and a potential biosignature in extraterrestrial environments. Stable carbon and hydrogen isotope (δ13C and δD) and clumped isotopologues (∆13CH3D and ∆12CH2D2) compositions of methane have been widely used as tracers for methanogenesis pathways. Furthermore, isotopic signatures of methane typically shift closer to equilibrium as the Gibbs energy (∆Gr) of methanogenesis moves closer to the energy limit of life. However, the variations of clumped methane isotope signatures in response to the changes in ∆Gr lack careful examination. ",
-   "url": "https://doi.org/10.64898/2026.11.14.766673",
-   "date": "2026-11-17",
-   "source": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "institutions": [
-    "Amherst College",
-    "Dartmouth College",
-    "Swedish University of Agricultural Sciences",
-    "University of California, Los Angeles",
-    "University of Massachusetts Amherst",
-    "University of Miami"
-   ],
-   "id": "e2d5854a1e216322",
-   "feed": "OpenAlex Nordic – batteries, hydrogen, grid",
-   "kind": "research",
-   "domain_hint": "Energy",
-   "collected": "2026-11-19",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "hydrogen"
-    ],
-    "industry": [
-     "port"
-    ],
-    "novelty": [
-     "record"
-    ]
-   }
-  },
-  {
    "title": "Complementary Activities in DVB Support of NGSO Systems: From Analyses to Validation",
    "summary": "ABSTRACT The DVB satellite communications physical layer specifications, which include DVB‐S2X for the forward link and DVB‐RCS2 for the return link have been updated to support nongeostationary orbit (NGSO) satellite constellations and enhance the supported capacity. The enhancements include beam‐hopping over the forward link, tuning of the DVB‐RCS2 waveforms and addition of DVB‐S2X to the return link thus providing higher spectral efficiency, higher bandwidth channels and support of larger data packets on the return link. Following the conclusion of the specification update, and further anal",
    "url": "https://doi.org/10.1002/sat.70099",
@@ -4272,6 +4349,27 @@
     ],
     "novelty": [
      "novel"
+    ]
+   }
+  },
+  {
+   "title": "LabARIA: A Multi-Agent System for Integrative Analytics in Clinical Laboratories",
+   "summary": "BackgroundLaboratory medicine underpins clinical decision-making across nearly every care setting. Clinical laboratory errors and delays can compromise diagnostic reliability and patient care. However, laboratory quality and operational data are commonly reviewed through separate manual workflows, limiting timely recognition of emerging problems across complementary data sources.\n\nMethodsWe developed and evaluated LabARIA (Laboratory Agentic Reasoning and Integrative Analytics), a multi-agent AI system for coordinated surveillance of specimen workflows, analytical quality control, and laborato",
+   "url": "https://doi.org/10.64898/2026.11.12.26367970",
+   "date": "2026-11-15",
+   "source": "medrxiv",
+   "id": "cb9c32e1fd791d3c",
+   "feed": "medRxiv – health informatics",
+   "kind": "research",
+   "domain_hint": "Life Sciences & Medtech",
+   "collected": "2026-11-28",
+   "score": 5,
+   "hits": {
+    "event": [
+     "delays"
+    ],
+    "tech": [
+     "diagnostic"
     ]
    }
   },
@@ -4571,35 +4669,6 @@
    }
   },
   {
-   "title": "Improved subglacial boundary conditions near Dome C, Antarctica, through rigorous integration of multi-campaign radar data and an ensemble stochastic simulation approach",
-   "summary": "Subglacial bed topography is a fundamental boundary condition for ice-sheet flow, basal thermal regimes, and the preservation of palaeoclimate records, yet it remains highly uncertain across Antarctica. We use stochastic simulation methods to generate an ensemble of gridded (500 m) ice thickness and bed elevation near Dome C, and map bed elevation uncertainty accounting for impacts of data availability and basal roughness. New airborne radar measurements uncover previously undocumented sectors of the ice-bed interface and we integrate these with existing data using a rigorous approach to ensur",
-   "url": "https://doi.org/10.5194/tc-20-6477-2026",
-   "date": "2026-11-11",
-   "source": "The Cryosphere",
-   "institutions": [
-    "DTU Space",
-    "Korea Polar Research Institute",
-    "Norwegian Polar Institute",
-    "Technical University of Denmark",
-    "The FRAM Centre",
-    "University of Alabama"
-   ],
-   "id": "f2abf0b79a5364b2",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-13",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "radar"
-    ],
-    "novelty": [
-     "record"
-    ]
-   }
-  },
-  {
    "title": "Functional Performance of Electrospun Tissue-Engineered Heart Valve Scaffolds Across Geometries Under Aortic Conditions",
    "summary": "Electrospun, bioresorbable polymer scaffolds are a promising platform for tissue-engineered heart valves (TEHVs) owing to their fibrous microstructure, tunable mechanics and capacity to support host-cell infiltration and remodeling. Recent in-vitro parametric studies of bioprosthetic heart valve (BHV) geometry have used silicone cast valves to link design parameters to hemodynamic performance and leaflet strain, but the functional behavior of electrospun whole-valve TEHV scaffolds across distinct leaflet geometries and clinically relevant aortic conditions remains poorly characterized. Here, w",
    "url": "https://doi.org/10.64898/2026.10.13.758926",
@@ -4710,35 +4779,6 @@
     "tech": [
      "large language model",
      "llm"
-    ]
-   }
-  },
-  {
-   "title": "Spectral properties of a nanosecond backward wave optical parametric oscillator",
-   "summary": "Differential absorption lidar experiments require pulsed, tunable, narrow-linewidth laser sources that are robust and suitable for integration in airborne or spaceborne applications. This study presents the fine spectral properties of backward OPOs in the nanosecond regime, which is a promising solution.",
-   "url": "https://www.epj-conferences.org/10.1051/epjconf/202639307044/pdf",
-   "date": "2026-11-05",
-   "source": "Springer Link (Chiba Institute of Technology)",
-   "institutions": [
-    "Centre National de la Recherche Scientifique",
-    "Département Physique, Instrumentation, Environnement et Espace",
-    "Institut d’Optique Graduate School",
-    "KTH Royal Institute of Technology",
-    "Laboratoire Charles Fabry",
-    "Office National d'Études et de Recherches Aérospatiales"
-   ],
-   "id": "1dbc35758cf2f75b",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-13",
-   "score": 5,
-   "hits": {
-    "tech": [
-     "lidar"
-    ],
-    "industry": [
-     "bus"
     ]
    }
   },
@@ -4920,23 +4960,24 @@
    }
   },
   {
-   "title": "New roadmap for sustainable UK data centers",
-   "summary": "",
-   "url": "https://techxplore.com/news/2026-11-roadmap-sustainable-uk-centers.html",
+   "title": "SWOT satellite altimetry reveals extreme flood wave after the Kakhovka Dam collapse",
+   "summary": "The collapse of the Kakhovka Dam on 6 June 2023 produced a flood wave, causing widespread ecological damage and inundating numerous settlements along the lower Dnipro River in southern Ukraine. This catastrophic event was captured during the calibration phase of the Surface Water and Ocean Topography (SWOT) satellite, which enables daily two-dimensional water surface elevation measurements, allowing us to document the dam-break flood wave through frequent spaceborne observations. We show that SWOT captures the rapid downstream propagation of the flood wave, with water levels rising by 11.0 m (",
+   "url": "https://doi.org/10.1038/s44304-026-00286-5",
    "date": "2026-11-26",
-   "source": "",
-   "id": "4fdfef158919e003",
-   "feed": "Phys.org Technology",
+   "source": "npj natural hazards.",
+   "institutions": [
+    "DTU Space",
+    "University of Copenhagen"
+   ],
+   "id": "c9539c8c18f5a2b1",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
    "kind": "research",
-   "domain_hint": "",
-   "collected": "2026-11-26",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-28",
    "score": 4,
    "hits": {
     "tech": [
-     "data center"
-    ],
-    "geo": [
-     "uk "
+     "satellite"
     ]
    }
   },
@@ -5104,6 +5145,32 @@
     ],
     "novelty": [
      "breakthrough"
+    ]
+   }
+  },
+  {
+   "title": "Adiponectin, leptin and resistin levels at recent type 2 diabetes diagnosis associate with subsequent diabetes complications and mortality",
+   "summary": "Purpose In this prospective cohort study, we examined whether adipokines measured at recent type 2 diabetes diagnosis associate with subsequent vascular disease risk and/or mortality. Methods Plasma leptin, adiponectin and resistin were measured in 8567 patients in the Danish Centre for Strategic Research in Type 2 diabetes (DD2) cohort. A count-based adipokine profile score was defined reflecting the number of adipokines in the unfavourable range. Outcomes included a composite cardiovascular disease (CVD) endpoint, a microvascular disease (MVD) endpoint, and all-cause mortality. Adjusted haza",
+   "url": "https://doi.org/10.1007/s44357-026-00032-4",
+   "date": "2026-11-25",
+   "source": "Metabologia",
+   "institutions": [
+    "Aalborg University Hospital",
+    "Aarhus University Hospital",
+    "Lund University",
+    "Novo Nordisk Foundation Center for Basic Metabolic Research",
+    "Odense University Hospital",
+    "Skåne University Hospital"
+   ],
+   "id": "b311f825f5c412aa",
+   "feed": "OpenAlex Nordic – materials and manufacturing",
+   "kind": "research",
+   "domain_hint": "Materials",
+   "collected": "2026-11-28",
+   "score": 4,
+   "hits": {
+    "event": [
+     "ipo"
     ]
    }
   },
@@ -5326,6 +5393,30 @@
    "hits": {
     "event": [
      "regulation"
+    ]
+   }
+  },
+  {
+   "title": "Numerical Reuleaux Method Applications for Primary Mathematical-Computational Demonstration of Earth Rotation Axis Time-Interval Dynamical Changes. Introduction II",
+   "summary": "The Numerical Reuleaux Method (NMR), has multiple applications in science and engineering. Based on a previous publication, this article shows the analytic geometry and mathematical-physics demostration of the changes in the earth rotation axis (ERA) position when nutation dynamics. ERA in precession and nutation is not constant. For the ERA changes during nutation time-intervals, method-base algorithms are formulated-calculated with NRM. Results comprise the presentation of principal algorithms/equations and the 2D-3D NRM numerical database simulations from previous research. Applications in ",
+   "url": "https://doi.org/10.62225/2583049x.2026.6.6.7218",
+   "date": "2026-11-24",
+   "source": "International Journal of Advanced Multidisciplinary Research and Studies",
+   "institutions": [
+    "International Association of Advanced Materials"
+   ],
+   "id": "e8228021e04a6dad",
+   "feed": "OpenAlex Nordic – sensing, connectivity, space",
+   "kind": "research",
+   "domain_hint": "Sensing",
+   "collected": "2026-11-28",
+   "score": 4,
+   "hits": {
+    "event": [
+     "demonstrat"
+    ],
+    "novelty": [
+     "demonstrat"
     ]
    }
   },
@@ -5757,32 +5848,6 @@
    }
   },
   {
-   "title": "From 6G Capabilities to Software-Business Value: A Multivocal Review of Characteristics, Opportunities, Challenges",
-   "summary": "Sixth-generation (6G) technology is expected to enable intelligent, autonomous, and software-defined ecosystems, creating new ways for software firms to generate value. However, evidence on the characteristics, opportunities, and challenges of 6G software businesses remains fragmented across academic and practitioner literature. We conducted a multivocal literature review of 133 sources (102 peer-reviewed studies and 31 grey literature sources) to examine this emerging landscape from the perspective of software-producing organizations. Thematic analysis identified 18 characteristics grouped in",
-   "url": "https://arxiv.org/abs/2611.27675",
-   "date": "2026-11-20",
-   "source": "arXiv",
-   "institutions": [
-    "Lappeenranta-Lahti University of Technology"
-   ],
-   "id": "a350ade332507b0a",
-   "feed": "OpenAlex Nordic – sensing, connectivity, space",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-27",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "autonomous",
-     "6g"
-    ],
-    "industry": [
-     "bus",
-     "port"
-    ]
-   }
-  },
-  {
    "title": "MS-TF-SD2: Multi-Scale Time-frequency Spectral Derivative Spike Detection for the early onset prediction of mood episodes in bipolar disorder in a remote longitudinal study using wearables",
    "summary": "Bipolar disorder is characterized by recurrent depressive and (hypo)manic episodes that cause substantial disability, hospitalization, and elevated suicide risk yet early prodromal signals are frequently subtle and missed in standard clinical care. Our aim was to develop an algorithm that jointly handles non-stationarity, irregular sampling, and transient anomaly detection in wearable data, unveiling patterns of prodromal early warning signs that often manifest as subtle disruptions of activity, sleep, and mood preceding severe mood episodes. We developed and validated the Multi-Scale Time-Fre",
    "url": "https://doi.org/10.1016/j.bspc.2026.111870",
@@ -5840,29 +5905,6 @@
    }
   },
   {
-   "title": "Subtype-specific autophagy profiles in Renal Cell Carcinoma",
-   "summary": "Autophagy is a highly conserved cellular mechanism essential for recycling intracellular components and providing energy and maintaining cellular homeostasis. The role of autophagy in cancer is double sided, where it can suppress tumorigenesis by degrading damaged organelles and preventing chronic inflammation while supporting survival of existing tumor cells to survive during starvation and stress, and thus support tumor growth. The role of autophagy in renal cell carcinoma (RCC), the most common type of kidney cancer, remains insufficiently described. RCC originates from epithelial cells of ",
-   "url": "https://doi.org/10.64898/2026.11.17.767069",
-   "date": "2026-11-19",
-   "source": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "institutions": [
-    "Akershus University Hospital",
-    "Oslo University Hospital",
-    "University of Oslo"
-   ],
-   "id": "243ada58943766a1",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-21",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "recycling"
-    ]
-   }
-  },
-  {
    "title": "Graph-XGB: A Hybrid GNN Framework for Outdoor-to-Indoor 5G Signal Reconstruction via Aerial-Only UAV RF Sensing",
    "summary": "",
    "url": "https://arxiv.org/abs/2611.26828v1",
@@ -5881,32 +5923,6 @@
     ],
     "industry": [
      "construction"
-    ]
-   }
-  },
-  {
-   "title": "Towards sustainable and circular power semiconductor switches: Methodologies, challenges, and potential solutions",
-   "summary": "",
-   "url": "https://doi.org/10.1016/j.rser.2026.117696",
-   "date": "2026-11-18",
-   "source": "Renewable and Sustainable Energy Reviews",
-   "institutions": [
-    "Aalborg University",
-    "Harbin Institute of Technology",
-    "Hefei University of Technology",
-    "Hong Kong Polytechnic University",
-    "Tsinghua University",
-    "University of Cambridge"
-   ],
-   "id": "0a78e3be020c2e13",
-   "feed": "OpenAlex Nordic – materials and manufacturing",
-   "kind": "research",
-   "domain_hint": "Materials",
-   "collected": "2026-11-21",
-   "score": 4,
-   "hits": {
-    "tech": [
-     "semiconductor"
     ]
    }
   },
@@ -6577,53 +6593,6 @@
     ],
     "novelty": [
      "record"
-    ]
-   }
-  },
-  {
-   "title": "Establishing Standards for Assessment and Reporting of SNSPD Performance",
-   "summary": "",
-   "url": "https://arxiv.org/abs/2611.14653v1",
-   "date": "2026-11-10",
-   "source": "",
-   "id": "f9643476f3015d94",
-   "feed": "arXiv Applied Physics",
-   "kind": "research",
-   "domain_hint": "Sensing",
-   "collected": "2026-11-13",
-   "score": 4,
-   "hits": {
-    "event": [
-     "standard"
-    ],
-    "industry": [
-     "port"
-    ]
-   }
-  },
-  {
-   "title": "Association of Prethrombectomy Hemorrhagic Infarction on MRI With Further Transformation and Functional Outcomes: A Multicenter Study",
-   "summary": "Background and Objectives Mechanical thrombectomy (MT) is the standard of care for acute ischemic stroke from large vessel occlusion (LVO). Although postprocedural parenchymal hematoma (PH) predicts poor outcomes, pretreatment hemorrhagic infarction (HI), defined as petechial bleeding within infarcted tissue, is traditionally viewed as a benign radiologic finding. Its significance on sensitive preintervention MRI remains underexplored. We evaluated whether pretreatment MRI HI is associated with 90-day functional dependence, post-MT PH, and symptomatic intracerebral hemorrhage (SICH). Methods T",
-   "url": "https://doi.org/10.1212/wnl.0000000000218742",
-   "date": "2026-11-10",
-   "source": "Neurology",
-   "institutions": [
-    "Aarhus University",
-    "Beth Israel Deaconess Medical Center",
-    "Brigham and Women's Hospital",
-    "Harvard University",
-    "Massachusetts General Hospital",
-    "Sunnybrook Health Science Centre"
-   ],
-   "id": "68076888c1807ff8",
-   "feed": "OpenAlex Nordic – health technology",
-   "kind": "research",
-   "domain_hint": "Life Sciences & Medtech",
-   "collected": "2026-11-13",
-   "score": 4,
-   "hits": {
-    "event": [
-     "standard"
     ]
    }
   },

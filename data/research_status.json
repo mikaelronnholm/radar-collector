@@ -1,5 +1,5 @@
 {
- "run": "2026-11-27T05:18+00:00",
+ "run": "2026-11-28T05:07+00:00",
  "sources": [
   {
    "source": "arXiv Robotics",
@@ -70,7 +70,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 20,
+   "new": 12,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 19,
+   "new": 9,
    "error": null
   },
   {
@@ -86,7 +86,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 5,
+   "new": 13,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
    "type": "openalex",
    "ok": true,
    "items": 50,
-   "new": 3,
+   "new": 5,
    "error": null
   },
   {
@@ -110,16 +110,16 @@
    "type": "pubmed",
    "ok": true,
    "items": 40,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
    "source": "PubMed – surgical robotics and devices",
    "type": "pubmed",
-   "ok": true,
-   "items": 40,
-   "new": 2,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "new": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "bioRxiv – bioengineering and synthetic biology",
@@ -133,8 +133,8 @@
    "source": "medRxiv – health informatics",
    "type": "rxiv",
    "ok": true,
-   "items": 2,
-   "new": 2,
+   "items": 4,
+   "new": 4,
    "error": null
   },
   {
@@ -142,7 +142,7 @@
    "type": "rss",
    "ok": true,
    "items": 60,
-   "new": 3,
+   "new": 1,
    "error": null
   },
   {
@@ -150,7 +150,7 @@
    "type": "rss",
    "ok": true,
    "items": 30,
-   "new": 10,
+   "new": 22,
    "error": null
   },
   {
@@ -162,8 +162,8 @@
    "error": null
   }
  ],
- "ok": 20,
- "failed": 0,
- "new_items": 69,
- "kept": 288
+ "ok": 19,
+ "failed": 1,
+ "new_items": 70,
+ "kept": 287
 }
